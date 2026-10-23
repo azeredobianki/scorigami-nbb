@@ -1,0 +1,307 @@
+data,mandante,pts_mandante,pts_visitante,visitante,rodada,etapa,hora,prorrogacoes,quartos,status_quartos,id_lnb,link
+23/11/2012,Minas,77,70,Tijuca,1ª RODADA,1º TURNO,21:00,,,sem_quartos,2209,https://lnb.com.br/noticias/de-virada/
+24/11/2012,Franca,62,76,Brasília,1ª RODADA,1º TURNO,16:30,,,sem_quartos,2204,https://lnb.com.br/noticias/tricampeoes-venceram/
+24/11/2012,São José,62,82,Bauru,1ª RODADA,1º TURNO,18:00,,,sem_quartos,2206,https://lnb.com.br/noticias/de-pe-novamente/
+24/11/2012,Mogi,71,59,L. Sorocabana,1ª RODADA,1º TURNO,18:00,,,sem_quartos,2207,https://lnb.com.br/noticias/primeira-vitoria-3/
+24/11/2012,Paulistano,86,82,Limeira,1ª RODADA,1º TURNO,18:00,,,sem_quartos,2210,https://lnb.com.br/noticias/superioridade/
+24/11/2012,Pinheiros,88,87,Joinville,1ª RODADA,1º TURNO,18:00,,,sem_quartos,2211,https://lnb.com.br/noticias/na-primeira-prorrogacao/
+24/11/2012,Palmeiras,95,86,Suzano,1ª RODADA,1º TURNO,18:00,,,sem_quartos,2212,https://lnb.com.br/noticias/com-a-mao-direita/
+24/11/2012,Uberlândia,84,71,Basq. Cearense,1ª RODADA,1º TURNO,19:00,,,sem_quartos,2205,https://lnb.com.br/noticias/sem-moleza/
+24/11/2012,Espírito Santo,61,82,Flamengo,1ª RODADA,1º TURNO,19:00,,,sem_quartos,2208,https://lnb.com.br/noticias/vitoria-e-preocupacao/
+26/11/2012,Franca,90,68,Basq. Cearense,2ª RODADA,1º TURNO,20:00,,,sem_quartos,2214,https://lnb.com.br/noticias/juventude-levou-a-melhor/
+26/11/2012,Mogi,73,80,Bauru,2ª RODADA,1º TURNO,20:00,,,sem_quartos,2216,https://lnb.com.br/noticias/de-tirar-o-folego/
+26/11/2012,Espírito Santo,58,56,Tijuca,2ª RODADA,1º TURNO,20:00,,,sem_quartos,2217,https://lnb.com.br/noticias/fator-casa/
+26/11/2012,Paulistano,95,71,Joinville,2ª RODADA,1º TURNO,20:00,,,sem_quartos,2219,https://lnb.com.br/noticias/avassalador/
+27/11/2012,São José,77,73,L. Sorocabana,2ª RODADA,1º TURNO,20:00,,,sem_quartos,2215,https://lnb.com.br/noticias/o-cara/
+29/11/2012,Tijuca,76,67,Mogi,3ª RODADA,1º TURNO,18:00,,,sem_quartos,2225,https://lnb.com.br/noticias/forca-de-mandante/
+29/11/2012,Palmeiras,79,86,Paulistano,3ª RODADA,1º TURNO,20:00,,,sem_quartos,2222,https://lnb.com.br/noticias/lider-isolado-e-100/
+29/11/2012,Joinville,73,55,Minas,3ª RODADA,1º TURNO,20:00,,,sem_quartos,2223,https://lnb.com.br/noticias/triunfo/
+29/11/2012,Limeira,88,87,Espírito Santo,3ª RODADA,1º TURNO,20:00,,,sem_quartos,2224,https://lnb.com.br/noticias/emocionante-2/
+29/11/2012,L. Sorocabana,59,80,Franca,3ª RODADA,1º TURNO,20:00,,,sem_quartos,2227,https://lnb.com.br/noticias/evoluindo/
+29/11/2012,Bauru,81,82,Uberlândia,3ª RODADA,1º TURNO,20:00,,,sem_quartos,2228,https://lnb.com.br/noticias/para-ganhar-confianca/
+01/12/2012,Joinville,99,80,Espírito Santo,4ª RODADA,1º TURNO,11:00,,,sem_quartos,2232,https://lnb.com.br/noticias/voando-2/
+01/12/2012,L. Sorocabana,74,63,Uberlândia,4ª RODADA,1º TURNO,16:00,,,sem_quartos,2236,https://lnb.com.br/noticias/caldeirao-sorocabano/
+01/12/2012,Paulistano,84,72,Suzano,4ª RODADA,1º TURNO,18:00,,,sem_quartos,2230,https://lnb.com.br/noticias/e-ninguem-para/
+01/12/2012,Bauru,67,74,Franca,4ª RODADA,1º TURNO,18:00,,,sem_quartos,2237,https://lnb.com.br/noticias/terceira-seguida/
+01/12/2012,Limeira,85,87,Minas,4ª RODADA,1º TURNO,19:00,,,sem_quartos,2233,https://lnb.com.br/noticias/na-raca-3/
+06/12/2012,Franca,101,75,Tijuca,5ª RODADA,1º TURNO,20:00,,,sem_quartos,2241,https://lnb.com.br/noticias/na-cola-do-lider/
+06/12/2012,São José,84,76,Limeira,5ª RODADA,1º TURNO,20:00,,,sem_quartos,2242,https://lnb.com.br/noticias/mandando-em-casa/
+06/12/2012,Mogi,68,70,Joinville,5ª RODADA,1º TURNO,20:00,,,sem_quartos,2243,https://lnb.com.br/noticias/precisao/
+06/12/2012,Espírito Santo,68,59,Palmeiras,5ª RODADA,1º TURNO,20:00,,,sem_quartos,2244,https://lnb.com.br/noticias/tartarugao-invicto/
+06/12/2012,Minas,100,78,Suzano,5ª RODADA,1º TURNO,20:00,,,sem_quartos,2245,https://lnb.com.br/noticias/noite-de-gala/
+06/12/2012,Paulistano,89,88,Pinheiros,5ª RODADA,1º TURNO,20:00,,,sem_quartos,2246,https://lnb.com.br/noticias/lider-historico/
+06/12/2012,Basq. Cearense,71,62,L. Sorocabana,5ª RODADA,1º TURNO,21:00,,,sem_quartos,2238,https://lnb.com.br/noticias/ceara-em-festa/
+08/12/2012,Mogi,72,89,Limeira,6ª RODADA,1º TURNO,16:00,,,sem_quartos,2252,https://lnb.com.br/noticias/ate-o-limite/
+08/12/2012,São José,83,76,Joinville,6ª RODADA,1º TURNO,18:00,,,sem_quartos,2251,https://lnb.com.br/noticias/terceira-seguida-2/
+08/12/2012,Minas,89,77,Palmeiras,6ª RODADA,1º TURNO,18:00,,,sem_quartos,2254,https://lnb.com.br/noticias/la-em-cima-2/
+08/12/2012,Basq. Cearense,83,82,Bauru,6ª RODADA,1º TURNO,19:00,,,sem_quartos,2248,https://lnb.com.br/noticias/emocao-cearense/
+08/12/2012,Uberlândia,71,57,Tijuca,6ª RODADA,1º TURNO,19:00,,,sem_quartos,2249,https://lnb.com.br/noticias/dupla-decisiva/
+08/12/2012,Espírito Santo,86,89,Suzano,6ª RODADA,1º TURNO,19:00,,,sem_quartos,2253,https://lnb.com.br/noticias/08122012-vila-velha-86-x-89-suzano/
+10/12/2012,Pinheiros,102,100,Limeira,2ª RODADA,1º TURNO,19:15,,,sem_quartos,2220,https://lnb.com.br/noticias/so-no-tempo-extra/
+10/12/2012,Uberlândia,95,89,Brasília,2ª RODADA,1º TURNO,20:00,,,sem_quartos,2213,https://lnb.com.br/noticias/nem-ai/
+10/12/2012,Franca,77,82,Flamengo,6ª RODADA,1º TURNO,20:00,,,sem_quartos,2250,https://lnb.com.br/noticias/pique-total/
+13/12/2012,Tijuca,69,83,Basq. Cearense,7ª RODADA,1º TURNO,18:00,,,sem_quartos,2261,https://lnb.com.br/noticias/13122012-tijuca-69-x-83-basquete-cearense-2/
+13/12/2012,Pinheiros,92,90,Espírito Santo,7ª RODADA,1º TURNO,19:15,,,sem_quartos,2256,https://lnb.com.br/noticias/o-dono-do-jogo-2/
+13/12/2012,Paulistano,92,78,Minas,7ª RODADA,1º TURNO,20:00,,,sem_quartos,2255,https://lnb.com.br/noticias/6-em-6/
+13/12/2012,Suzano,78,77,Mogi,7ª RODADA,1º TURNO,20:00,,,sem_quartos,2257,https://lnb.com.br/noticias/ja-e-a-segunda/
+13/12/2012,Palmeiras,75,66,São José,7ª RODADA,1º TURNO,20:00,,,sem_quartos,2258,https://lnb.com.br/noticias/faixa-carimbada/
+13/12/2012,Joinville,50,59,Franca,7ª RODADA,1º TURNO,20:00,,,sem_quartos,2259,https://lnb.com.br/noticias/valeu-pela-vitoria/
+13/12/2012,Limeira,77,87,Uberlândia,7ª RODADA,1º TURNO,20:00,,,sem_quartos,2260,https://lnb.com.br/noticias/autoridade/
+13/12/2012,L. Sorocabana,76,90,Bauru,7ª RODADA,1º TURNO,20:00,,,sem_quartos,2263,https://lnb.com.br/noticias/voltar-a-vencer/
+13/12/2012,Flamengo,102,88,Brasília,7ª RODADA,1º TURNO,21:00,,,sem_quartos,2262,https://lnb.com.br/noticias/vitoria-nota-1000-2/
+15/12/2012,Paulistano,80,90,Espírito Santo,8ª RODADA,1º TURNO,11:00,,,sem_quartos,2264,https://lnb.com.br/noticias/que-moral/
+15/12/2012,Pinheiros,91,77,Minas,8ª RODADA,1º TURNO,16:00,,,sem_quartos,2265,https://lnb.com.br/noticias/sem-sufoco/
+15/12/2012,Tijuca,53,73,Brasília,8ª RODADA,1º TURNO,17:00,,,sem_quartos,2270,https://lnb.com.br/noticias/elenco-forte-2/
+15/12/2012,Suzano,80,100,São José,8ª RODADA,1º TURNO,18:00,,,sem_quartos,2266,https://lnb.com.br/noticias/sprint-final/
+15/12/2012,Joinville,71,62,Uberlândia,8ª RODADA,1º TURNO,18:00,,,sem_quartos,2268,https://lnb.com.br/noticias/escrita-mantida/
+15/12/2012,Mogi,78,75,Palmeiras,8ª RODADA,1º TURNO,19:00,,,sem_quartos,2267,https://lnb.com.br/noticias/reaprendendo-a-vencer/
+15/12/2012,Limeira,72,58,Franca,8ª RODADA,1º TURNO,19:00,,,sem_quartos,2269,https://lnb.com.br/noticias/pressao-no-adversario/
+15/12/2012,Flamengo,86,61,Basq. Cearense,8ª RODADA,1º TURNO,19:30,,,sem_quartos,2271,https://lnb.com.br/noticias/o-unico-invicto/
+17/12/2012,Tijuca,74,79,São José,4ª RODADA,1º TURNO,16:30,,,sem_quartos,2234,https://lnb.com.br/noticias/poder-de-reacao/
+17/12/2012,Suzano,72,91,Pinheiros,3ª RODADA,1º TURNO,20:00,,,sem_quartos,2221,https://lnb.com.br/noticias/no-topo-da-tabela/
+17/12/2012,Flamengo,70,64,Mogi,4ª RODADA,1º TURNO,21:00,,,sem_quartos,2235,https://lnb.com.br/noticias/sofrido-mas-invicto/
+19/12/2012,Uberlândia,89,73,Palmeiras,9ª RODADA,1º TURNO,18:00,,,sem_quartos,2276,https://lnb.com.br/noticias/aqui-eu-mando/
+20/12/2012,Brasília,97,89,Limeira,9ª RODADA,1º TURNO,19:30,,,sem_quartos,2274,https://lnb.com.br/noticias/quatorze-vezes-de-tres/
+20/12/2012,L. Sorocabana,59,87,Flamengo,9ª RODADA,1º TURNO,20:00,,,sem_quartos,2272,https://lnb.com.br/noticias/perto-de-um-recorde/
+20/12/2012,Bauru,81,68,Tijuca,9ª RODADA,1º TURNO,20:00,,,sem_quartos,2273,https://lnb.com.br/noticias/agora-sim-2/
+20/12/2012,Franca,108,66,Suzano,9ª RODADA,1º TURNO,20:00,,,sem_quartos,2277,https://lnb.com.br/noticias/larga-vitoria/
+20/12/2012,São José,93,77,Pinheiros,9ª RODADA,1º TURNO,20:00,,,sem_quartos,2278,https://lnb.com.br/noticias/velha-historia-com-mesmo-fim/
+20/12/2012,Mogi,77,73,Paulistano,9ª RODADA,1º TURNO,20:00,,,sem_quartos,2279,https://lnb.com.br/noticias/segunda-seguida/
+20/12/2012,Espírito Santo,82,84,Minas,9ª RODADA,1º TURNO,20:00,,,sem_quartos,2280,https://lnb.com.br/noticias/voltando-a-vencer-2/
+20/12/2012,Basq. Cearense,78,62,Joinville,9ª RODADA,1º TURNO,21:00,,,sem_quartos,2275,https://lnb.com.br/noticias/mandante-forte/
+22/12/2012,Brasília,94,83,Joinville,10ª RODADA,1º TURNO,11:00,,,sem_quartos,2552,https://lnb.com.br/noticias/trinca-dourada/
+22/12/2012,São José,68,76,Paulistano,10ª RODADA,1º TURNO,16:00,,,sem_quartos,2287,https://lnb.com.br/noticias/10-029-pontos-vitoria-e-2%c2%aa-lugar/
+22/12/2012,L. Sorocabana,72,67,Tijuca,10ª RODADA,1º TURNO,17:00,,,sem_quartos,2281,https://lnb.com.br/noticias/voltando-a-respirar/
+22/12/2012,Bauru,97,102,Flamengo,10ª RODADA,1º TURNO,18:00,,,sem_quartos,2282,https://lnb.com.br/noticias/memoravel/
+22/12/2012,Basq. Cearense,65,84,Limeira,10ª RODADA,1º TURNO,19:00,,,sem_quartos,2284,https://lnb.com.br/noticias/presente-de-grego/
+22/12/2012,Uberlândia,109,73,Suzano,10ª RODADA,1º TURNO,19:00,,,sem_quartos,2285,https://lnb.com.br/noticias/noite-de-day/
+22/12/2012,Franca,82,61,Palmeiras,10ª RODADA,1º TURNO,19:00,,,sem_quartos,2286,https://lnb.com.br/noticias/top-5/
+22/12/2012,Mogi,76,95,Pinheiros,10ª RODADA,1º TURNO,19:00,,,sem_quartos,2288,https://lnb.com.br/noticias/inicio-arrasador/
+05/01/2013,Paulistano,51,77,Franca,11ª RODADA,1º TURNO,16:00,,,sem_quartos,2291,https://lnb.com.br/noticias/no-g4/
+05/01/2013,Tijuca,70,94,Flamengo,11ª RODADA,1º TURNO,17:00,,,sem_quartos,2297,https://lnb.com.br/noticias/so-falta-uma-2/
+05/01/2013,Minas,97,77,São José,11ª RODADA,1º TURNO,18:00,,,sem_quartos,2290,https://lnb.com.br/noticias/minas-97-x-77-sao-jose/
+05/01/2013,Pinheiros,87,92,Uberlândia,11ª RODADA,1º TURNO,18:00,,,sem_quartos,2292,https://lnb.com.br/noticias/vice-lideranca-mantida/
+05/01/2013,Suzano,71,85,Basq. Cearense,11ª RODADA,1º TURNO,18:00,,,sem_quartos,2293,https://lnb.com.br/noticias/suzano-71-x-85-basquete-cearense/
+05/01/2013,Palmeiras,78,88,Brasília,11ª RODADA,1º TURNO,18:00,,,sem_quartos,2294,https://lnb.com.br/noticias/perto-do-topo/
+05/01/2013,Joinville,71,83,Bauru,11ª RODADA,1º TURNO,18:00,,,sem_quartos,2295,https://lnb.com.br/noticias/subindo-3/
+05/01/2013,Espírito Santo,92,85,Mogi,11ª RODADA,1º TURNO,19:00,,,sem_quartos,2289,https://lnb.com.br/noticias/vila-velha-74-x-60-mogi-das-cruzes/
+05/01/2013,Limeira,85,66,L. Sorocabana,11ª RODADA,1º TURNO,19:00,,,sem_quartos,2296,https://lnb.com.br/noticias/gas-extra/
+07/01/2013,Pinheiros,97,82,Franca,12ª RODADA,1º TURNO,19:15,,,sem_quartos,2301,https://lnb.com.br/noticias/on-fire-2/
+07/01/2013,Paulistano,76,88,Uberlândia,12ª RODADA,1º TURNO,19:30,,,sem_quartos,2300,https://lnb.com.br/noticias/se-bobear-2/
+07/01/2013,Espírito Santo,86,93,São José,12ª RODADA,1º TURNO,20:00,,,sem_quartos,2298,https://lnb.com.br/noticias/nbb-1213-vila-velha-86-x-93-sao-jose/
+07/01/2013,Minas,84,86,Mogi,12ª RODADA,1º TURNO,20:00,,,sem_quartos,2299,https://lnb.com.br/noticias/nbb-1213-minas-84-x-86-mogi/
+07/01/2013,Suzano,81,92,Brasília,12ª RODADA,1º TURNO,20:00,,,sem_quartos,2302,https://lnb.com.br/noticias/entre-os-tres-primeiros/
+07/01/2013,Palmeiras,81,86,Basq. Cearense,12ª RODADA,1º TURNO,20:00,,,sem_quartos,2303,https://lnb.com.br/noticias/visitante-indesejado/
+07/01/2013,Joinville,86,93,L. Sorocabana,12ª RODADA,1º TURNO,20:00,,,sem_quartos,2304,https://lnb.com.br/noticias/nbb-1213-joinville-86-x-93-liga-sorocabana/
+07/01/2013,Limeira,82,84,Bauru,12ª RODADA,1º TURNO,20:00,,,sem_quartos,2305,https://lnb.com.br/noticias/na-ultima-bola-2/
+10/01/2013,Tijuca,77,82,Limeira,13ª RODADA,1º TURNO,18:00,,,sem_quartos,2306,https://lnb.com.br/noticias/no-sufoco-2/
+10/01/2013,Brasília,96,99,Pinheiros,13ª RODADA,1º TURNO,19:30,,,sem_quartos,2310,https://lnb.com.br/noticias/nada-de-festa/
+10/01/2013,Flamengo,94,67,Joinville,13ª RODADA,1º TURNO,20:00,,,sem_quartos,2307,https://lnb.com.br/noticias/vitoria-historica/
+10/01/2013,L. Sorocabana,93,73,Palmeiras,13ª RODADA,1º TURNO,20:00,,,sem_quartos,2308,https://lnb.com.br/noticias/american-style/
+10/01/2013,Bauru,85,44,Suzano,13ª RODADA,1º TURNO,20:00,,,sem_quartos,2309,https://lnb.com.br/noticias/ritmo-alucinante-2/
+10/01/2013,Uberlândia,88,86,Minas,13ª RODADA,1º TURNO,20:00,,,sem_quartos,2312,https://lnb.com.br/noticias/h-de-heroi/
+10/01/2013,Franca,96,86,Espírito Santo,13ª RODADA,1º TURNO,20:00,,,sem_quartos,2313,https://lnb.com.br/noticias/na-raca-4/
+10/01/2013,São José,105,67,Mogi,13ª RODADA,1º TURNO,20:00,,,sem_quartos,2314,https://lnb.com.br/noticias/como-uma-aguia/
+10/01/2013,Basq. Cearense,95,76,Paulistano,13ª RODADA,1º TURNO,21:00,,,sem_quartos,2311,https://lnb.com.br/noticias/fator-casa-2/
+12/01/2013,Tijuca,58,79,Joinville,14ª RODADA,1º TURNO,16:00,,,sem_quartos,2315,https://lnb.com.br/noticias/bem-vindo-2013/
+12/01/2013,Basq. Cearense,84,85,Pinheiros,14ª RODADA,1º TURNO,16:00,,,sem_quartos,2320,https://lnb.com.br/noticias/mais-uma-festa-estragada/
+12/01/2013,Brasília,68,67,Paulistano,14ª RODADA,1º TURNO,16:30,,,sem_quartos,2319,https://lnb.com.br/noticias/aguenta-coracao/
+12/01/2013,Flamengo,98,81,Limeira,14ª RODADA,1º TURNO,18:00,,,sem_quartos,2316,https://lnb.com.br/noticias/nota-10/
+12/01/2013,L. Sorocabana,87,70,Suzano,14ª RODADA,1º TURNO,18:00,,,sem_quartos,2317,https://lnb.com.br/noticias/trinca/
+12/01/2013,Bauru,91,67,Palmeiras,14ª RODADA,1º TURNO,18:00,,,sem_quartos,2318,https://lnb.com.br/noticias/sai-da-frente/
+12/01/2013,Uberlândia,73,64,Espírito Santo,14ª RODADA,1º TURNO,19:00,,,sem_quartos,2321,https://lnb.com.br/noticias/vice-sexta-seguida-e-1-500/
+12/01/2013,Franca,78,77,Minas,14ª RODADA,1º TURNO,19:00,,,sem_quartos,2322,https://lnb.com.br/noticias/de-virada-2/
+14/01/2013,Flamengo,83,75,São José,3ª RODADA,1º TURNO,20:00,,,sem_quartos,2226,https://lnb.com.br/noticias/9-10-11/
+15/01/2013,Brasília,92,77,Basq. Cearense,3ª RODADA,1º TURNO,19:30,,,sem_quartos,2229,https://lnb.com.br/noticias/subindo-4/
+15/01/2013,Palmeiras,85,94,Pinheiros,4ª RODADA,1º TURNO,20:00,,,sem_quartos,2231,https://lnb.com.br/noticias/quarta-seguida/
+17/01/2013,Pinheiros,77,94,L. Sorocabana,15ª RODADA,1º TURNO,19:15,,,sem_quartos,2328,https://lnb.com.br/noticias/causaram/
+17/01/2013,São José,87,66,Franca,15ª RODADA,1º TURNO,20:00,,,sem_quartos,2323,https://lnb.com.br/noticias/fulvi800/
+17/01/2013,Mogi,83,81,Uberlândia,15ª RODADA,1º TURNO,20:00,,,sem_quartos,2324,https://lnb.com.br/noticias/surpreendeu/
+17/01/2013,Espírito Santo,85,94,Basq. Cearense,15ª RODADA,1º TURNO,20:00,,,sem_quartos,2325,https://lnb.com.br/noticias/com-a-forca-da-experiencia/
+17/01/2013,Minas,86,90,Brasília,15ª RODADA,1º TURNO,20:00,,,sem_quartos,2326,https://lnb.com.br/noticias/top-3/
+17/01/2013,Paulistano,76,73,Bauru,15ª RODADA,1º TURNO,20:00,,,sem_quartos,2327,https://lnb.com.br/noticias/ufa-2/
+17/01/2013,Suzano,74,105,Flamengo,15ª RODADA,1º TURNO,20:00,,,sem_quartos,2329,https://lnb.com.br/noticias/absoluto-4/
+17/01/2013,Palmeiras,77,79,Tijuca,15ª RODADA,1º TURNO,20:00,,,sem_quartos,2330,https://lnb.com.br/noticias/enfim-vitoria/
+17/01/2013,Joinville,77,62,Limeira,15ª RODADA,1º TURNO,20:00,,,sem_quartos,2331,https://lnb.com.br/noticias/vitoria-em-dobro/
+19/01/2013,Mogi,59,95,Franca,16ª RODADA,1º TURNO,14:00,,,sem_quartos,2333,https://lnb.com.br/noticias/muralha/
+19/01/2013,Paulistano,94,96,L. Sorocabana,16ª RODADA,1º TURNO,16:00,,,sem_quartos,2336,https://lnb.com.br/noticias/quem-segura/
+19/01/2013,Palmeiras,61,106,Flamengo,16ª RODADA,1º TURNO,16:00,,,sem_quartos,2339,https://lnb.com.br/noticias/13-e-contando/
+19/01/2013,São José,80,76,Uberlândia,16ª RODADA,1º TURNO,18:00,,,sem_quartos,2332,https://lnb.com.br/noticias/olha-eles-ai/
+19/01/2013,Minas,76,74,Basq. Cearense,16ª RODADA,1º TURNO,18:00,,,sem_quartos,2335,https://lnb.com.br/noticias/no-zero/
+19/01/2013,Pinheiros,73,74,Bauru,16ª RODADA,1º TURNO,18:00,,,sem_quartos,2337,https://lnb.com.br/noticias/no-coracao/
+19/01/2013,Suzano,86,79,Tijuca,16ª RODADA,1º TURNO,18:00,,,sem_quartos,2338,https://lnb.com.br/noticias/chega/
+19/01/2013,Espírito Santo,94,85,Brasília,16ª RODADA,1º TURNO,19:00,,,sem_quartos,2334,https://lnb.com.br/noticias/pra-cima-dos-campeoes/
+21/01/2013,Brasília,86,75,L. Sorocabana,6ª RODADA,1º TURNO,19:30,,,sem_quartos,2247,https://lnb.com.br/noticias/forca-de-campeao/
+21/01/2013,Minas,90,105,Flamengo,2ª RODADA,1º TURNO,20:00,,,sem_quartos,2218,https://lnb.com.br/noticias/entrosamento-vencedor/
+24/01/2013,Tijuca,64,73,Pinheiros,17ª RODADA,1º TURNO,18:00,,,sem_quartos,2342,https://lnb.com.br/noticias/reabilitado/
+24/01/2013,Brasília,94,67,Mogi,17ª RODADA,1º TURNO,19:30,,,sem_quartos,2346,https://lnb.com.br/noticias/moral/
+24/01/2013,Joinville,75,60,Palmeiras,17ª RODADA,1º TURNO,20:00,,,sem_quartos,2340,https://lnb.com.br/noticias/terceira-na-conta/
+24/01/2013,Limeira,96,65,Suzano,17ª RODADA,1º TURNO,20:00,,,sem_quartos,2341,https://lnb.com.br/noticias/espirito-coletivo/
+24/01/2013,Flamengo,94,70,Paulistano,17ª RODADA,1º TURNO,20:00,,,sem_quartos,2343,https://lnb.com.br/noticias/sem-freio/
+24/01/2013,L. Sorocabana,82,84,Minas,17ª RODADA,1º TURNO,20:00,,,sem_quartos,2344,https://lnb.com.br/noticias/de-volta-aos-50/
+24/01/2013,Bauru,85,70,Espírito Santo,17ª RODADA,1º TURNO,20:00,,,sem_quartos,2345,https://lnb.com.br/noticias/dupla-10/
+24/01/2013,Uberlândia,91,87,Franca,17ª RODADA,1º TURNO,20:00,,,sem_quartos,2348,https://lnb.com.br/noticias/sai-zica/
+24/01/2013,Basq. Cearense,73,63,São José,17ª RODADA,1º TURNO,21:00,,,sem_quartos,2347,https://lnb.com.br/noticias/para-ganhar-moral/
+26/01/2013,Tijuca,52,74,Paulistano,18ª RODADA,1º TURNO,16:00,,,sem_quartos,2351,https://lnb.com.br/noticias/sem-dar-chances/
+26/01/2013,Brasília,90,57,São José,18ª RODADA,1º TURNO,16:20,,,sem_quartos,2355,https://lnb.com.br/noticias/o-campeao-voltou-3/
+26/01/2013,Joinville,79,67,Suzano,18ª RODADA,1º TURNO,18:00,,,sem_quartos,2349,https://lnb.com.br/noticias/sem-parar/
+26/01/2013,Flamengo,102,85,Pinheiros,18ª RODADA,1º TURNO,18:00,,,sem_quartos,2352,https://lnb.com.br/noticias/resta-um/
+26/01/2013,L. Sorocabana,82,76,Espírito Santo,18ª RODADA,1º TURNO,18:00,,,sem_quartos,2353,https://lnb.com.br/noticias/que-continue-assim/
+26/01/2013,Bauru,91,59,Minas,18ª RODADA,1º TURNO,18:00,,,sem_quartos,2354,https://lnb.com.br/noticias/fizeram-chover/
+26/01/2013,Limeira,75,65,Palmeiras,18ª RODADA,1º TURNO,19:00,,,sem_quartos,2350,https://lnb.com.br/noticias/da-lhe-dalla-2/
+26/01/2013,Basq. Cearense,71,74,Mogi,18ª RODADA,1º TURNO,19:00,,,sem_quartos,2356,https://lnb.com.br/noticias/no-sufoco-3/
+28/01/2013,Brasília,80,60,Bauru,5ª RODADA,1º TURNO,19:30,,,sem_quartos,2239,https://lnb.com.br/noticias/e-vice-lider/
+28/01/2013,Uberlândia,78,87,Flamengo,5ª RODADA,1º TURNO,20:00,,,sem_quartos,2240,https://lnb.com.br/noticias/impossivel/
+31/01/2013,Tijuca,65,75,Minas,19ª RODADA,2º TURNO,19:00,,,sem_quartos,2362,https://lnb.com.br/noticias/garrafao-tomado/
+31/01/2013,Brasília,93,77,Franca,19ª RODADA,2º TURNO,19:30,,,sem_quartos,2358,https://lnb.com.br/noticias/quina/
+31/01/2013,Bauru,87,82,São José,19ª RODADA,2º TURNO,20:00,,,sem_quartos,2359,https://lnb.com.br/noticias/na-conta-do-alienigena/
+31/01/2013,L. Sorocabana,81,74,Mogi,19ª RODADA,2º TURNO,20:00,,,sem_quartos,2360,https://lnb.com.br/noticias/com-o-pe-direito-2/
+31/01/2013,Limeira,89,68,Paulistano,19ª RODADA,2º TURNO,20:00,,,sem_quartos,2363,https://lnb.com.br/noticias/imponente-2/
+31/01/2013,Suzano,79,87,Palmeiras,19ª RODADA,2º TURNO,20:00,,,sem_quartos,2365,https://lnb.com.br/noticias/iluminou/
+31/01/2013,Basq. Cearense,60,72,Uberlândia,19ª RODADA,2º TURNO,21:00,,,sem_quartos,2357,https://lnb.com.br/noticias/forca-mineira-2/
+31/01/2013,Flamengo,96,77,Espírito Santo,19ª RODADA,2º TURNO,21:30,,,sem_quartos,2361,https://lnb.com.br/noticias/e-recorde/
+02/02/2013,Joinville,63,71,Paulistano,20ª RODADA,2º TURNO,16:00,,,sem_quartos,2372,https://lnb.com.br/noticias/acabou/
+02/02/2013,Brasília,102,80,Uberlândia,20ª RODADA,2º TURNO,16:30,,,sem_quartos,2366,https://lnb.com.br/noticias/sem-parar-2/
+02/02/2013,Tijuca,82,74,Espírito Santo,20ª RODADA,2º TURNO,17:30,,,sem_quartos,2370,https://lnb.com.br/noticias/preparado-para-subir/
+02/02/2013,L. Sorocabana,66,65,São José,20ª RODADA,2º TURNO,18:00,,,sem_quartos,2368,https://lnb.com.br/noticias/ninguem-tira/
+02/02/2013,Bauru,87,84,Mogi,20ª RODADA,2º TURNO,18:00,,,sem_quartos,2369,https://lnb.com.br/noticias/entre-os-melhores-3/
+02/02/2013,Basq. Cearense,87,88,Franca,20ª RODADA,2º TURNO,19:00,,,sem_quartos,2367,https://lnb.com.br/noticias/moral-2/
+02/02/2013,Flamengo,90,77,Minas,20ª RODADA,2º TURNO,19:30,,,sem_quartos,2371,https://lnb.com.br/noticias/mais-um/
+05/02/2013,Paulistano,83,69,Palmeiras,21ª RODADA,2º TURNO,20:00,,,sem_quartos,2375,https://lnb.com.br/noticias/34603/
+05/02/2013,Espírito Santo,72,64,Limeira,21ª RODADA,2º TURNO,20:00,,,sem_quartos,2377,https://lnb.com.br/noticias/espetacular/
+05/02/2013,Mogi,68,83,Tijuca,21ª RODADA,2º TURNO,20:00,,,sem_quartos,2378,https://lnb.com.br/noticias/respirando-cada-vez-mais/
+05/02/2013,São José,82,84,Flamengo,21ª RODADA,2º TURNO,20:00,,,sem_quartos,2379,https://lnb.com.br/noticias/ninguem-para/
+05/02/2013,Franca,85,64,L. Sorocabana,21ª RODADA,2º TURNO,20:00,,,sem_quartos,2380,https://lnb.com.br/noticias/na-defesa/
+05/02/2013,Uberlândia,94,83,Bauru,21ª RODADA,2º TURNO,20:00,,,sem_quartos,2381,https://lnb.com.br/noticias/valeu-por-duas-2/
+05/02/2013,Minas,78,69,Joinville,21ª RODADA,2º TURNO,21:00,,,sem_quartos,2376,https://lnb.com.br/noticias/bealeza/
+07/02/2013,Pinheiros,87,82,Palmeiras,22ª RODADA,2º TURNO,19:15,,,sem_quartos,2384,https://lnb.com.br/noticias/reagiu/
+07/02/2013,Suzano,85,87,Paulistano,22ª RODADA,2º TURNO,20:00,,,sem_quartos,2383,https://lnb.com.br/noticias/34700/
+07/02/2013,Espírito Santo,67,59,Joinville,22ª RODADA,2º TURNO,20:00,,,sem_quartos,2385,https://lnb.com.br/noticias/fato-inedito/
+07/02/2013,Minas,81,61,Limeira,22ª RODADA,2º TURNO,20:00,,,sem_quartos,2386,https://lnb.com.br/noticias/segunda/
+07/02/2013,São José,81,65,Tijuca,22ª RODADA,2º TURNO,20:00,,,sem_quartos,2387,https://lnb.com.br/noticias/ele-voltou/
+07/02/2013,Franca,80,82,Bauru,22ª RODADA,2º TURNO,20:00,,,sem_quartos,2390,https://lnb.com.br/noticias/sai-que-e-minha/
+07/02/2013,Uberlândia,84,81,L. Sorocabana,22ª RODADA,2º TURNO,21:00,,,sem_quartos,2389,https://lnb.com.br/noticias/aqui-nao-3/
+14/02/2013,Tijuca,59,63,Franca,23ª RODADA,2º TURNO,18:00,,,sem_quartos,2394,https://lnb.com.br/noticias/com-personalidade/
+14/02/2013,Pinheiros,88,86,Paulistano,23ª RODADA,2º TURNO,19:15,,,sem_quartos,2399,https://lnb.com.br/noticias/dramatico/
+14/02/2013,L. Sorocabana,76,86,Basq. Cearense,23ª RODADA,2º TURNO,20:00,,,sem_quartos,2392,https://lnb.com.br/noticias/forca/
+14/02/2013,Limeira,79,83,São José,23ª RODADA,2º TURNO,20:00,,,sem_quartos,2395,https://lnb.com.br/noticias/por-pouco-3/
+14/02/2013,Joinville,85,90,Mogi,23ª RODADA,2º TURNO,20:00,,,sem_quartos,2396,https://lnb.com.br/noticias/seguraram/
+14/02/2013,Palmeiras,87,65,Espírito Santo,23ª RODADA,2º TURNO,20:00,,,sem_quartos,2397,https://lnb.com.br/noticias/sem-deixar-escapar/
+14/02/2013,Suzano,76,97,Minas,23ª RODADA,2º TURNO,20:00,,,sem_quartos,2398,https://lnb.com.br/noticias/forca-do-grupo-2/
+16/02/2013,Flamengo,86,91,Franca,24ª RODADA,2º TURNO,16:00,,,sem_quartos,2403,https://lnb.com.br/noticias/quanta-personalidade/
+16/02/2013,L. Sorocabana,70,100,Brasília,24ª RODADA,2º TURNO,18:00,,,sem_quartos,2400,https://lnb.com.br/noticias/no-embalo-2/
+16/02/2013,Bauru,95,84,Basq. Cearense,24ª RODADA,2º TURNO,18:00,,,sem_quartos,2401,https://lnb.com.br/noticias/de-virada-3/
+16/02/2013,Tijuca,63,83,Uberlândia,24ª RODADA,2º TURNO,18:00,,,sem_quartos,2402,https://lnb.com.br/noticias/na-briga-2/
+16/02/2013,Joinville,79,93,São José,24ª RODADA,2º TURNO,18:00,,,sem_quartos,2404,https://lnb.com.br/noticias/ainda-subindo/
+16/02/2013,Palmeiras,96,87,Minas,24ª RODADA,2º TURNO,18:00,,,sem_quartos,2407,https://lnb.com.br/noticias/fugindo/
+16/02/2013,Limeira,71,79,Mogi,24ª RODADA,2º TURNO,19:00,,,sem_quartos,2405,https://lnb.com.br/noticias/bela-vitoria/
+16/02/2013,Suzano,88,94,Espírito Santo,24ª RODADA,2º TURNO,19:00,,,sem_quartos,2406,https://lnb.com.br/noticias/a-bola-e-dele/
+17/02/2013,Pinheiros,91,65,Suzano,21ª RODADA,2º TURNO,16:00,,,sem_quartos,2374,https://lnb.com.br/noticias/the-man/
+18/02/2013,Bauru,79,90,Brasília,23ª RODADA,2º TURNO,20:00,,,sem_quartos,2391,https://lnb.com.br/noticias/de-olho-na-lideranca-2/
+18/02/2013,Flamengo,79,66,Uberlândia,23ª RODADA,2º TURNO,20:00,,,sem_quartos,2393,https://lnb.com.br/noticias/cabeca-erguida-2/
+19/02/2013,São José,77,65,Palmeiras,25ª RODADA,2º TURNO,20:00,,,sem_quartos,2411,https://lnb.com.br/noticias/engrenados/
+20/02/2013,Minas,109,114,Paulistano,25ª RODADA,2º TURNO,20:00,,,sem_quartos,2408,https://lnb.com.br/noticias/emocionante-3/
+21/02/2013,Espírito Santo,74,78,Pinheiros,25ª RODADA,2º TURNO,19:00,,,sem_quartos,2409,https://lnb.com.br/noticias/superacao-2/
+21/02/2013,Mogi,86,65,Suzano,25ª RODADA,2º TURNO,20:00,,,sem_quartos,2410,https://lnb.com.br/noticias/entrou-na-briga/
+21/02/2013,Franca,70,52,Joinville,25ª RODADA,2º TURNO,20:00,,,sem_quartos,2412,https://lnb.com.br/noticias/virou/
+21/02/2013,Uberlândia,86,96,Limeira,25ª RODADA,2º TURNO,20:00,,,sem_quartos,2413,https://lnb.com.br/noticias/que-vitoria/
+21/02/2013,Basq. Cearense,92,86,Tijuca,25ª RODADA,2º TURNO,20:00,,,sem_quartos,2414,https://lnb.com.br/noticias/o-capitao-cearense/
+21/02/2013,Bauru,85,94,L. Sorocabana,25ª RODADA,2º TURNO,20:00,,,sem_quartos,2416,https://lnb.com.br/noticias/impressionante-2/
+21/02/2013,Brasília,82,70,Flamengo,25ª RODADA,2º TURNO,21:00,,,sem_quartos,2415,https://lnb.com.br/noticias/%e2%80%9co-campeao-voltou%e2%80%9d/
+23/02/2013,Espírito Santo,120,126,Paulistano,26ª RODADA,2º TURNO,11:00,,,sem_quartos,2417,https://lnb.com.br/noticias/para-comemorar-muito/
+23/02/2013,Minas,101,75,Pinheiros,26ª RODADA,2º TURNO,16:00,,,sem_quartos,2418,https://lnb.com.br/noticias/imponente-3/
+23/02/2013,Uberlândia,99,73,Joinville,26ª RODADA,2º TURNO,16:00,,,sem_quartos,2421,https://lnb.com.br/noticias/tranquilo/
+23/02/2013,Basq. Cearense,82,101,Flamengo,26ª RODADA,2º TURNO,16:00,,,sem_quartos,2424,https://lnb.com.br/noticias/de-volta-aos-trilhos/
+23/02/2013,Brasília,90,79,Tijuca,26ª RODADA,2º TURNO,16:30,,,sem_quartos,2423,https://lnb.com.br/noticias/nota-dez/
+23/02/2013,Palmeiras,86,77,Mogi,26ª RODADA,2º TURNO,18:00,,,sem_quartos,2420,https://lnb.com.br/noticias/com-a-alma-e-o-coracao/
+23/02/2013,Franca,75,62,Limeira,26ª RODADA,2º TURNO,19:00,,,sem_quartos,2422,https://lnb.com.br/noticias/vacilou-virou/
+26/02/2013,Basq. Cearense,100,104,Brasília,21ª RODADA,2º TURNO,20:00,,,sem_quartos,2382,https://lnb.com.br/noticias/imparavel/
+27/02/2013,Limeira,82,81,Pinheiros,20ª RODADA,2º TURNO,20:00,,,sem_quartos,2373,https://lnb.com.br/noticias/h-de-heroi-2/
+04/03/2013,São José,89,74,Suzano,26ª RODADA,2º TURNO,19:00,,,sem_quartos,2419,https://lnb.com.br/noticias/crescendo-na-competicao/
+04/03/2013,Joinville,73,93,Pinheiros,19ª RODADA,2º TURNO,20:00,,,sem_quartos,2364,https://lnb.com.br/noticias/por-cima/
+04/03/2013,Mogi,64,86,Flamengo,22ª RODADA,2º TURNO,20:00,,,sem_quartos,2388,https://lnb.com.br/noticias/deslanchou/
+07/03/2013,Tijuca,71,79,Bauru,27ª RODADA,2º TURNO,18:00,,,sem_quartos,2426,https://lnb.com.br/noticias/sem-problemas/
+07/03/2013,Pinheiros,77,82,São José,27ª RODADA,2º TURNO,19:15,,,sem_quartos,2431,https://lnb.com.br/noticias/de-tirar-o-folego-2/
+07/03/2013,Minas,95,72,Espírito Santo,27ª RODADA,2º TURNO,19:30,,,sem_quartos,2433,https://lnb.com.br/noticias/tabu-mantido/
+07/03/2013,Flamengo,102,64,L. Sorocabana,27ª RODADA,2º TURNO,20:00,,,sem_quartos,2425,https://lnb.com.br/noticias/na-boa/
+07/03/2013,Limeira,77,80,Brasília,27ª RODADA,2º TURNO,20:00,,,sem_quartos,2427,https://lnb.com.br/noticias/12%c2%aa-seguida/
+07/03/2013,Joinville,94,71,Basq. Cearense,27ª RODADA,2º TURNO,20:00,,,sem_quartos,2428,https://lnb.com.br/noticias/na-mira-dos-playoffs/
+07/03/2013,Palmeiras,112,104,Uberlândia,27ª RODADA,2º TURNO,20:00,,,sem_quartos,2429,https://lnb.com.br/noticias/heroico/
+07/03/2013,Suzano,75,71,Franca,27ª RODADA,2º TURNO,20:00,,,sem_quartos,2430,https://lnb.com.br/noticias/sai-dessa/
+07/03/2013,Paulistano,67,77,Mogi,27ª RODADA,2º TURNO,20:00,,,sem_quartos,2432,https://lnb.com.br/noticias/superacao-3/
+09/03/2013,Flamengo,74,89,Bauru,28ª RODADA,2º TURNO,16:00,,,sem_quartos,2435,https://lnb.com.br/noticias/fulminante/
+09/03/2013,Suzano,67,89,Uberlândia,28ª RODADA,2º TURNO,16:00,,,sem_quartos,2438,https://lnb.com.br/noticias/sem-crise/
+09/03/2013,Paulistano,80,68,São José,28ª RODADA,2º TURNO,16:00,,,sem_quartos,2440,https://lnb.com.br/noticias/quase-iguais/
+09/03/2013,Tijuca,68,89,L. Sorocabana,28ª RODADA,2º TURNO,18:00,,,sem_quartos,2434,https://lnb.com.br/noticias/forca-2/
+09/03/2013,Joinville,86,96,Brasília,28ª RODADA,2º TURNO,18:00,,,sem_quartos,2436,https://lnb.com.br/noticias/comandante-candango/
+09/03/2013,Palmeiras,87,77,Franca,28ª RODADA,2º TURNO,18:00,,,sem_quartos,2439,https://lnb.com.br/noticias/impondo-respeito/
+09/03/2013,Pinheiros,118,82,Mogi,28ª RODADA,2º TURNO,18:00,,,sem_quartos,2441,https://lnb.com.br/noticias/na-luta/
+09/03/2013,Limeira,90,72,Basq. Cearense,28ª RODADA,2º TURNO,19:00,,,sem_quartos,2437,https://lnb.com.br/noticias/ultrapassage/
+14/03/2013,Mogi,76,85,Espírito Santo,29ª RODADA,2º TURNO,20:00,,,sem_quartos,2442,https://lnb.com.br/noticias/na-briga-3/
+14/03/2013,São José,95,93,Minas,29ª RODADA,2º TURNO,20:00,,,sem_quartos,2443,https://lnb.com.br/noticias/brio-joseense/
+14/03/2013,Franca,77,63,Paulistano,29ª RODADA,2º TURNO,20:00,,,sem_quartos,2444,https://lnb.com.br/noticias/de-volta-aos-trilhos-2/
+14/03/2013,Bauru,114,91,Joinville,29ª RODADA,2º TURNO,20:00,,,sem_quartos,2448,https://lnb.com.br/noticias/elastico/
+14/03/2013,L. Sorocabana,81,79,Limeira,29ª RODADA,2º TURNO,20:00,,,sem_quartos,2449,https://lnb.com.br/noticias/cada-vez-mais-dentro/
+14/03/2013,Brasília,99,81,Palmeiras,29ª RODADA,2º TURNO,21:00,,,sem_quartos,2447,https://lnb.com.br/noticias/falta-so-mais-uma/
+16/03/2013,Brasília,94,82,Suzano,30ª RODADA,2º TURNO,16:00,,,sem_quartos,2455,https://lnb.com.br/noticias/eles-chegaram/
+16/03/2013,Bauru,83,82,Limeira,30ª RODADA,2º TURNO,16:00,,,sem_quartos,2458,https://lnb.com.br/noticias/personalidade/
+16/03/2013,São José,106,87,Espírito Santo,30ª RODADA,2º TURNO,18:00,,,sem_quartos,2451,https://lnb.com.br/noticias/avassalador-2/
+16/03/2013,Basq. Cearense,85,83,Palmeiras,30ª RODADA,2º TURNO,18:00,,,sem_quartos,2456,https://lnb.com.br/noticias/firme-e-forte/
+16/03/2013,L. Sorocabana,93,86,Joinville,30ª RODADA,2º TURNO,18:00,,,sem_quartos,2457,https://lnb.com.br/noticias/trinca-2/
+16/03/2013,Mogi,75,66,Minas,30ª RODADA,2º TURNO,19:00,,,sem_quartos,2452,https://lnb.com.br/noticias/bem-perto/
+16/03/2013,Uberlândia,86,75,Paulistano,30ª RODADA,2º TURNO,19:00,,,sem_quartos,2453,https://lnb.com.br/noticias/posto-mantido/
+19/03/2013,Paulistano,77,82,Brasília,32ª RODADA,2º TURNO,19:00,,,sem_quartos,2472,https://lnb.com.br/noticias/ninguem-para-2/
+19/03/2013,Mogi,60,93,São José,31ª RODADA,2º TURNO,20:00,,,sem_quartos,2467,https://lnb.com.br/noticias/o-dia-deles/
+21/03/2013,Joinville,72,99,Flamengo,31ª RODADA,2º TURNO,19:00,0,23-29 15-20 14-25 20-25,ok,2460,https://lnb.com.br/noticias/eles-estao-de-volta/
+21/03/2013,Suzano,82,87,Bauru,31ª RODADA,2º TURNO,19:00,0,18-20 25-20 26-25 13-22,ok,2462,https://lnb.com.br/noticias/embalado-2/
+21/03/2013,Pinheiros,84,81,Tijuca,35ª RODADA,2º TURNO,19:15,0,13-20 22-18 26-18 23-25,ok,2495,https://lnb.com.br/noticias/g-4-e-logo-ali/
+21/03/2013,Palmeiras,85,77,L. Sorocabana,31ª RODADA,2º TURNO,20:00,0,20-20 15-22 25-17 25-18,ok,2461,https://lnb.com.br/noticias/a-sexta-do-palestra/
+21/03/2013,Paulistano,79,86,Basq. Cearense,31ª RODADA,2º TURNO,20:00,0,13-26 19-16 26-20 21-24,ok,2464,https://lnb.com.br/noticias/sem-abaixar-a-cabeca/
+21/03/2013,Minas,67,90,Uberlândia,31ª RODADA,2º TURNO,20:00,0,23-32 13-28 17-15 14-15,ok,2465,https://lnb.com.br/noticias/um-monstro/
+23/03/2013,Limeira,75,80,Flamengo,32ª RODADA,2º TURNO,16:00,0,18-27 16-22 14-18 27-13,ok,2469,https://lnb.com.br/noticias/confirmados/
+23/03/2013,Joinville,74,73,Tijuca,32ª RODADA,2º TURNO,18:00,0,12-20 20-15 24-23 18-15,ok,2468,https://lnb.com.br/noticias/vitoria-decisiva/
+23/03/2013,Palmeiras,89,83,Bauru,32ª RODADA,2º TURNO,18:00,0,26-19 19-17 21-16 23-31,ok,2471,https://lnb.com.br/noticias/festa-no-palestra/
+23/03/2013,Pinheiros,87,69,Basq. Cearense,32ª RODADA,2º TURNO,18:00,0,22-20 16-19 21-20 28-10,ok,2473,https://lnb.com.br/noticias/on-fire-3/
+23/03/2013,Minas,58,60,Franca,32ª RODADA,2º TURNO,18:00,0,20-21 11-11 16-18 11-10,ok,2475,https://lnb.com.br/noticias/ainda-nos-planos/
+23/03/2013,Suzano,79,90,L. Sorocabana,32ª RODADA,2º TURNO,19:00,0,16-24 15-25 20-17 28-24,ok,2470,https://lnb.com.br/noticias/tranquilo-2/
+23/03/2013,Espírito Santo,66,84,Uberlândia,32ª RODADA,2º TURNO,19:00,0,18-23 13-29 20-12 15-20,ok,2474,https://lnb.com.br/noticias/soberano/
+25/03/2013,Espírito Santo,64,87,Franca,31ª RODADA,2º TURNO,20:00,0,16-22 15-23 17-24 16-18,ok,2466,https://lnb.com.br/noticias/mais-vivo-do-que-nunca/
+25/03/2013,Bauru,67,62,Pinheiros,34ª RODADA,2º TURNO,20:00,0,20-15 8-15 19-15 20-17,ok,2490,https://lnb.com.br/noticias/sai-que-e-meu/
+26/03/2013,L. Sorocabana,73,78,Paulistano,34ª RODADA,2º TURNO,20:00,0,19-22 21-19 17-14 16-23,ok,2489,https://lnb.com.br/noticias/de-volta/
+26/03/2013,Suzano,80,81,Limeira,35ª RODADA,2º TURNO,20:00,0,9-19 18-8 21-19 32-35,ok,2494,https://lnb.com.br/noticias/carrascos/
+28/03/2013,Uberlândia,75,68,Mogi,33ª RODADA,2º TURNO,18:00,0,25-16 7-13 22-22 21-17,ok,2477,https://lnb.com.br/noticias/fundamental/
+28/03/2013,Pinheiros,92,89,Brasília,31ª RODADA,2º TURNO,18:30,0,18-20 32-20 26-26 16-23,ok,2463,https://lnb.com.br/noticias/vitoria-maiuscula-2/
+28/03/2013,Flamengo,81,61,Palmeiras,34ª RODADA,2º TURNO,21:00,0,22-12 24-11 13-22 22-16,ok,2492,https://lnb.com.br/noticias/isolado-de-novo/
+30/03/2013,São José,84,79,Brasília,36ª RODADA,2º TURNO,16:00,0,21-19 16-18 27-17 20-25,ok,2508,https://lnb.com.br/noticias/superacao-4/
+30/03/2013,Bauru,66,64,Paulistano,33ª RODADA,2º TURNO,18:00,0,24-10 16-24 15-15 11-15,ok,2480,https://lnb.com.br/noticias/essencial/
+30/03/2013,L. Sorocabana,81,87,Pinheiros,33ª RODADA,2º TURNO,18:00,0,22-25 20-23 13-26 26-13,ok,2481,https://lnb.com.br/noticias/embalado-3/
+30/03/2013,Tijuca,82,79,Palmeiras,33ª RODADA,2º TURNO,18:00,1,18-12 12-15 16-21 20-18 16-13,ok,2483,https://lnb.com.br/noticias/luz-no-fim-do-tunel/
+30/03/2013,Franca,79,71,Mogi,34ª RODADA,2º TURNO,19:00,0,19-11 18-18 23-22 19-20,ok,2486,https://lnb.com.br/noticias/aprovada/
+31/03/2013,Basq. Cearense,96,61,Suzano,29ª RODADA,2º TURNO,17:00,0,28-16 24-13 24-11 20-21,ok,2446,https://lnb.com.br/noticias/recheado/
+01/04/2013,Pinheiros,93,91,Flamengo,36ª RODADA,2º TURNO,19:15,0,17-19 18-20 26-30 32-22,ok,2505,https://lnb.com.br/noticias/noite-magica/
+04/04/2013,Limeira,91,75,Tijuca,31ª RODADA,2º TURNO,20:00,0,19-13 26-21 28-21 18-20,ok,2459,https://lnb.com.br/noticias/dentro-2/
+04/04/2013,Palmeiras,92,86,Joinville,35ª RODADA,2º TURNO,20:00,0,22-22 23-23 30-21 17-20,ok,2493,https://lnb.com.br/noticias/oito-vezes/
+04/04/2013,Paulistano,93,94,Flamengo,35ª RODADA,2º TURNO,20:00,0,35-29 17-17 24-19 17-29,ok,2496,https://lnb.com.br/noticias/lider-na-raca/
+04/04/2013,Minas,78,76,L. Sorocabana,35ª RODADA,2º TURNO,20:00,,,sem_quartos,2497,https://lnb.com.br/noticias/colados-2/
+04/04/2013,Espírito Santo,79,88,Bauru,35ª RODADA,2º TURNO,20:00,0,19-21 22-35 19-17 19-15,ok,2498,https://lnb.com.br/noticias/elite/
+04/04/2013,Mogi,91,96,Brasília,35ª RODADA,2º TURNO,20:00,0,20-19 22-27 21-27 28-23,ok,2499,https://lnb.com.br/noticias/sem-relaxar/
+04/04/2013,São José,76,87,Basq. Cearense,35ª RODADA,2º TURNO,20:00,0,23-18 15-18 22-27 16-24,ok,2500,https://lnb.com.br/noticias/roubaram-a-cena/
+04/04/2013,Uberlândia,91,87,Pinheiros,29ª RODADA,2º TURNO,20:15,0,31-24 18-16 20-27 22-20,ok,2445,https://lnb.com.br/noticias/quase-la-3/
+06/04/2013,Franca,72,67,Pinheiros,30ª RODADA,2º TURNO,16:00,0,18-18 19-16 18-19 17-14,ok,2454,https://lnb.com.br/noticias/em-ritmo-de-g4/
+06/04/2013,Paulistano,84,65,Tijuca,36ª RODADA,2º TURNO,16:00,0,26-19 18-15 23-18 17-13,ok,2504,https://lnb.com.br/noticias/dever-cumprido-2/
+06/04/2013,Suzano,65,75,Joinville,36ª RODADA,2º TURNO,17:00,0,15-22 15-20 18-23 17-10,ok,2502,https://lnb.com.br/noticias/firme-e-forte-2/
+06/04/2013,Palmeiras,72,68,Limeira,36ª RODADA,2º TURNO,18:00,0,16-18 19-14 22-21 15-15,ok,2503,https://lnb.com.br/noticias/com-chave-de-ouro/
+06/04/2013,Espírito Santo,88,82,L. Sorocabana,36ª RODADA,2º TURNO,19:00,0,20-18 24-23 22-20 22-21,ok,2507,https://lnb.com.br/noticias/sem-jogar-a-toalha/
+06/04/2013,Mogi,80,86,Basq. Cearense,36ª RODADA,2º TURNO,20:00,0,18-29 20-22 17-21 25-14,ok,2509,https://lnb.com.br/noticias/ainda-subindo-2/
+07/04/2013,Brasília,81,86,Minas,33ª RODADA,2º TURNO,11:00,0,20-14 21-26 17-20 23-26,ok,2479,https://lnb.com.br/noticias/que-vitoria-2/
+08/04/2013,Flamengo,107,103,Tijuca,29ª RODADA,2º TURNO,20:00,2,29-19 11-23 20-20 21-19 12-12 14-10,ok,2450,https://lnb.com.br/noticias/do-comeco-ao-fim-3/
+08/04/2013,Franca,76,53,São José,33ª RODADA,2º TURNO,20:00,0,19-9 8-14 25-13 24-17,ok,2476,https://lnb.com.br/noticias/nas-maos/
+08/04/2013,Limeira,93,86,Joinville,33ª RODADA,2º TURNO,20:00,0,15-19 29-19 26-23 23-25,ok,2484,https://lnb.com.br/noticias/um-passo-a-frente/
+09/04/2013,Basq. Cearense,88,52,Minas,34ª RODADA,2º TURNO,20:00,0,15-17 24-8 21-17 28-10,ok,2488,https://lnb.com.br/noticias/destruidor/
+10/04/2013,Flamengo,89,56,Suzano,33ª RODADA,2º TURNO,20:00,0,26-14 21-13 18-15 24-14,ok,2482,https://lnb.com.br/noticias/que-venham-as-finais/
+10/04/2013,Uberlândia,88,63,São José,34ª RODADA,2º TURNO,20:00,0,27-14 18-20 26-16 17-13,ok,2485,https://lnb.com.br/noticias/show-de-day-e-vaga-no-g-4/
+11/04/2013,Tijuca,103,66,Suzano,34ª RODADA,2º TURNO,18:00,0,37-15 26-11 23-20 17-20,ok,2491,https://lnb.com.br/noticias/vida-que-continua/
+11/04/2013,Minas,64,77,Bauru,36ª RODADA,2º TURNO,20:00,0,22-11 15-22 13-28 14-16,ok,2506,https://lnb.com.br/noticias/ainda-sonhando/
+12/04/2013,Franca,73,75,Uberlândia,35ª RODADA,2º TURNO,21:00,0,23-18 21-13 14-18 15-26,ok,2501,https://lnb.com.br/noticias/ao-melhor-estilo-mineiro/
+13/04/2013,Basq. Cearense,77,75,Espírito Santo,33ª RODADA,2º TURNO,18:00,0,4-15 19-26 20-13 34-21,ok,2478,https://lnb.com.br/noticias/pronto-para-as-finais/
+16/04/2013,Brasília,102,76,Espírito Santo,34ª RODADA,2º TURNO,19:30,0,18-21 31-15 26-17 27-23,ok,2487,https://lnb.com.br/noticias/em-ritmo-de-playoffs/

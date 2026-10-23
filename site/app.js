@@ -1,0 +1,420 @@
+const DATA = window.__DATA;
+
+/* ---------- textos ---------- */
+const T = {
+pt:{nav:{home:"Grid",scorigamis:"Scorigamis",times:"Times",temporadas:"Temporadas",timelapse:"Time-lapse",confrontos:"Confrontos",sobre:"Sobre",ajuste:"Solicitar ajuste"},
+ notice:"Prévia com a base completa: {n} jogos em {s} temporadas, da LNB, conferidos com o BetExplorer. A prorrogação só é conhecida a partir de 2012-13, porque a LNB não publica placar por quarto antes disso (— = sem dado).",
+ theme:{auto:"Tema: auto",light:"Tema: claro",dark:"Tema: escuro"},
+ f:{fase:"Fase",times:"Times",eras:"Eras",temps:"Temporadas",cor:"Cor das casas",modo:"Eixos",all:"Todas",allm:"Todos",search:"Buscar",clear:"Limpar",sel:"{n} selecionados",reset:"Limpar filtros"},
+ phase:["Temporada regular","Playoffs"], phaseShort:["Regular","Playoffs"],
+ cor:{freq:"Frequência",first:"Primeira vez"}, modo:{wl:"Vencedor × perdedor",ha:"Mandante × visitante"},
+ home:{h:"Todo placar do NBB",sub:"Cada casa é um placar final. Casas vazias são placares que nunca aconteceram.",showing:"Exibindo <b>{a}</b> de <b>{b}</b> jogos · <b>{c}</b> placares diferentes",latest:"Últimas scorigamis",freq:"Placares mais frequentes",all:"Ver todas"},
+ ax:{wl:["Pontos do perdedor →","Pontos do vencedor →"],ha:["Pontos do visitante →","Pontos do mandante →"]},
+ leg:{freq:["1 jogo","{n} jogos"],first:["Mais antiga","Mais recente"],empty:"Nunca aconteceu"},
+ tip:{games:"{n} jogo(s)",first:"Primeira vez",last:"Última vez",click:"Clique para ver os jogos",none:"Nunca aconteceu"},
+ sg:{h:"Scorigamis",sub:"Toda vez que um placar final aconteceu pela primeira vez, da mais recente à primeira.",year:"Scorigamis por ano",count:"{n} scorigamis"},
+ score:{h:"Placar {s}",first:"Primeira vez: {d}",times:"Aconteceu {n} vez(es)",never:"Este placar nunca aconteceu com os filtros atuais.",back:"Voltar ao grid",ha:"mandante {a} × visitante {b}"},
+ col:{date:"Data",season:"Temporada",phase:"Fase",home:"Mandante",away:"Visitante",score:"Placar",ot:"Prorr.",games:"Jogos",wl:"V–D",sg:"Scorigamis",avg:"Média de pontos",top:"Maior pontuação",team:"Time",po:"Playoffs"},
+ teams:{h:"Times",sub:"Franquias com o nome atual. Os nomes de patrocínio de cada época são unidos numa só franquia.",games:"{n} jogos",rec:"{w}V {l}D",grid:"Grid do time",recent:"Jogos recentes",ownsg:"Scorigamis do time",h2h:"Ver confrontos"},
+ seasons:{h:"Temporadas",sub:"Clique numa temporada para ver o grid só dela.",nodata:"sem dados na prévia"},
+ tl:{h:"Time-lapse",sub:"O grid se formando jogo a jogo.",play:"Reproduzir",pause:"Pausar",speed:"Velocidade",of:"{a} de {b} jogos · {c} scorigamis"},
+ h2h:{h:"Confrontos",sub:"Retrospecto entre dois times com os filtros de fase, era e temporada.",a:"Time 1",b:"Time 2",any:"Qualquer mando",ahome:"Time 1 em casa",wins:"vitórias",common:"Placar mais comum",big:"Maiores vitórias de {t}",games:"Jogos",none:"Nenhum jogo entre esses times com os filtros atuais.",same:"Escolha dois times diferentes."},
+ about:{h:"Sobre"},
+ adj:{h:"Solicitar ajuste",sub:"Viu um placar errado, um jogo faltando ou um nome de time trocado? Conte para a gente.",type:"Tipo de problema",types:["Placar errado","Jogo faltando","Jogo duplicado","Prorrogação marcada errado","Nome do time","Outro"],game:"Jogo (data e times)",fix:"O que está errado e qual o correto",src:"Fonte (link), se tiver",mail:"Seu e-mail (opcional)",send:"Enviar",sent:"Recebido. Nesta prévia o envio ainda não está ligado, então o texto abaixo é o que chegaria para revisão.",copy:"Copiar texto",copied:"Copiado",req:"Preencha o jogo e o que está errado."},
+ foot:["Scorigami NBB · prévia","Dados: LNB (lnb.com.br) · conferência: BetExplorer"],
+ none:"Nenhum jogo com esses filtros.",yes:"sim",ot:"prorr."},
+en:{nav:{home:"Grid",scorigamis:"Scorigamis",times:"Teams",temporadas:"Seasons",timelapse:"Time-lapse",confrontos:"Head-to-head",sobre:"About",ajuste:"Report an error"},
+ notice:"Preview with the full dataset: {n} games over {s} seasons from the LNB, checked against BetExplorer. Overtime is known only from 2012-13 on, since the LNB has no quarter scores before that (— = no data).",
+ theme:{auto:"Theme: auto",light:"Theme: light",dark:"Theme: dark"},
+ f:{fase:"Phase",times:"Teams",eras:"Eras",temps:"Seasons",cor:"Cell color",modo:"Axes",all:"All",allm:"All",search:"Search",clear:"Clear",sel:"{n} selected",reset:"Clear filters"},
+ phase:["Regular season","Playoffs"], phaseShort:["Regular","Playoffs"],
+ cor:{freq:"Frequency",first:"First time"}, modo:{wl:"Winner × loser",ha:"Home × away"},
+ home:{h:"Every NBB final score",sub:"Each cell is a final score. Empty cells are scores that have never happened.",showing:"Showing <b>{a}</b> of <b>{b}</b> games · <b>{c}</b> distinct scores",latest:"Latest scorigamis",freq:"Most frequent scores",all:"See all"},
+ ax:{wl:["Loser points →","Winner points →"],ha:["Away points →","Home points →"]},
+ leg:{freq:["1 game","{n} games"],first:["Oldest","Most recent"],empty:"Never happened"},
+ tip:{games:"{n} game(s)",first:"First time",last:"Last time",click:"Click to see the games",none:"Never happened"},
+ sg:{h:"Scorigamis",sub:"Every time a final score happened for the first time, newest first.",year:"Scorigamis per year",count:"{n} scorigamis"},
+ score:{h:"Score {s}",first:"First time: {d}",times:"Happened {n} time(s)",never:"This score never happened with the current filters.",back:"Back to the grid",ha:"home {a} × away {b}"},
+ col:{date:"Date",season:"Season",phase:"Phase",home:"Home",away:"Away",score:"Score",ot:"OT",games:"Games",wl:"W–L",sg:"Scorigamis",avg:"Avg points",top:"Highest score",team:"Team",po:"Playoffs"},
+ teams:{h:"Teams",sub:"Franchises under their current name. Sponsor names from each era are merged into one franchise.",games:"{n} games",rec:"{w}W {l}L",grid:"Team grid",recent:"Recent games",ownsg:"Team scorigamis",h2h:"See head-to-head"},
+ seasons:{h:"Seasons",sub:"Click a season to see its grid.",nodata:"no data in preview"},
+ tl:{h:"Time-lapse",sub:"The grid filling in, game by game.",play:"Play",pause:"Pause",speed:"Speed",of:"{a} of {b} games · {c} scorigamis"},
+ h2h:{h:"Head-to-head",sub:"Record between two teams, using the phase, era and season filters.",a:"Team 1",b:"Team 2",any:"Any venue",ahome:"Team 1 at home",wins:"wins",common:"Most common score",big:"Biggest wins by {t}",games:"Games",none:"No games between these teams with the current filters.",same:"Pick two different teams."},
+ about:{h:"About"},
+ adj:{h:"Report an error",sub:"Spotted a wrong score, a missing game or a wrong team name? Let us know.",type:"Problem type",types:["Wrong score","Missing game","Duplicate game","Wrong overtime flag","Team name","Other"],game:"Game (date and teams)",fix:"What is wrong and what is correct",src:"Source (link), if any",mail:"Your email (optional)",send:"Send",sent:"Received. Sending is not wired up in this preview, so the text below is what would arrive for review.",copy:"Copy text",copied:"Copied",req:"Fill in the game and what is wrong."},
+ foot:["Scorigami NBB · preview","Data: LNB (lnb.com.br) · check: BetExplorer"],
+ none:"No games with these filters.",yes:"yes",ot:"OT"},
+es:{nav:{home:"Grid",scorigamis:"Scorigamis",times:"Equipos",temporadas:"Temporadas",timelapse:"Time-lapse",confrontos:"Enfrentamientos",sobre:"Acerca de",ajuste:"Reportar error"},
+ notice:"Vista previa con la base completa: {n} partidos en {s} temporadas, de la LNB, cotejados con BetExplorer. La prórroga solo se conoce desde 2012-13, porque la LNB no publica marcadores por cuarto antes (— = sin dato).",
+ theme:{auto:"Tema: auto",light:"Tema: claro",dark:"Tema: oscuro"},
+ f:{fase:"Fase",times:"Equipos",eras:"Eras",temps:"Temporadas",cor:"Color de las casillas",modo:"Ejes",all:"Todas",allm:"Todos",search:"Buscar",clear:"Limpiar",sel:"{n} seleccionados",reset:"Limpiar filtros"},
+ phase:["Temporada regular","Playoffs"], phaseShort:["Regular","Playoffs"],
+ cor:{freq:"Frecuencia",first:"Primera vez"}, modo:{wl:"Ganador × perdedor",ha:"Local × visitante"},
+ home:{h:"Todos los marcadores del NBB",sub:"Cada casilla es un marcador final. Las vacías nunca ocurrieron.",showing:"Mostrando <b>{a}</b> de <b>{b}</b> partidos · <b>{c}</b> marcadores distintos",latest:"Últimos scorigamis",freq:"Marcadores más frecuentes",all:"Ver todos"},
+ ax:{wl:["Puntos del perdedor →","Puntos del ganador →"],ha:["Puntos del visitante →","Puntos del local →"]},
+ leg:{freq:["1 partido","{n} partidos"],first:["Más antiguo","Más reciente"],empty:"Nunca ocurrió"},
+ tip:{games:"{n} partido(s)",first:"Primera vez",last:"Última vez",click:"Haz clic para ver los partidos",none:"Nunca ocurrió"},
+ sg:{h:"Scorigamis",sub:"Cada vez que un marcador final ocurrió por primera vez, del más reciente al primero.",year:"Scorigamis por año",count:"{n} scorigamis"},
+ score:{h:"Marcador {s}",first:"Primera vez: {d}",times:"Ocurrió {n} vez(es)",never:"Este marcador nunca ocurrió con los filtros actuales.",back:"Volver al grid",ha:"local {a} × visitante {b}"},
+ col:{date:"Fecha",season:"Temporada",phase:"Fase",home:"Local",away:"Visitante",score:"Marcador",ot:"Prór.",games:"Partidos",wl:"G–P",sg:"Scorigamis",avg:"Promedio de puntos",top:"Mayor puntuación",team:"Equipo",po:"Playoffs"},
+ teams:{h:"Equipos",sub:"Franquicias con su nombre actual. Los nombres de patrocinio de cada época se unen en una sola franquicia.",games:"{n} partidos",rec:"{w}G {l}P",grid:"Grid del equipo",recent:"Partidos recientes",ownsg:"Scorigamis del equipo",h2h:"Ver enfrentamientos"},
+ seasons:{h:"Temporadas",sub:"Haz clic en una temporada para ver su grid.",nodata:"sin datos en la vista previa"},
+ tl:{h:"Time-lapse",sub:"El grid formándose partido a partido.",play:"Reproducir",pause:"Pausar",speed:"Velocidad",of:"{a} de {b} partidos · {c} scorigamis"},
+ h2h:{h:"Enfrentamientos",sub:"Historial entre dos equipos con los filtros de fase, era y temporada.",a:"Equipo 1",b:"Equipo 2",any:"Cualquier sede",ahome:"Equipo 1 de local",wins:"victorias",common:"Marcador más común",big:"Mayores victorias de {t}",games:"Partidos",none:"No hay partidos entre estos equipos con los filtros actuales.",same:"Elige dos equipos distintos."},
+ about:{h:"Acerca de"},
+ adj:{h:"Reportar error",sub:"¿Viste un marcador incorrecto, un partido faltante o un nombre de equipo equivocado? Avísanos.",type:"Tipo de problema",types:["Marcador incorrecto","Partido faltante","Partido duplicado","Prórroga marcada mal","Nombre del equipo","Otro"],game:"Partido (fecha y equipos)",fix:"Qué está mal y cuál es el correcto",src:"Fuente (enlace), si tienes",mail:"Tu e-mail (opcional)",send:"Enviar",sent:"Recibido. En esta vista previa el envío aún no está conectado; el texto de abajo es lo que llegaría para revisión.",copy:"Copiar texto",copied:"Copiado",req:"Completa el partido y qué está mal."},
+ foot:["Scorigami NBB · vista previa","Datos: LNB (lnb.com.br) · cotejo: BetExplorer"],
+ none:"No hay partidos con estos filtros.",yes:"sí",ot:"prór."}
+};
+const ABOUT = {
+pt:`<p><b>Scorigami</b> é um placar final que nunca tinha acontecido antes. A ideia nasceu no futebol americano e virou o <a href="https://www.scorigaminba.com/" target="_blank" rel="noopener">NBA Scorigami</a>. Este site faz o mesmo com o NBB.</p>
+<h2>Regras</h2><ul>
+<li>Vale o placar final, com prorrogação incluída. Jogos com prorrogação recebem uma marca.</li>
+<li>No modo <b>Vencedor × perdedor</b>, 84 × 73 é o mesmo placar, quem quer que tenha vencido e onde. No modo <b>Mandante × visitante</b>, 84 × 73 e 73 × 84 são casas diferentes.</li>
+<li>Vitórias por W.O. (20 × 0) ficam de fora, porque não houve jogo.</li><li>Entram temporada regular e playoffs, desde a temporada 2008-09. Torneio de Abertura, Jogo das Estrelas e amistosos ficam de fora.</li>
+<li>Com filtros ligados, “primeira vez” e scorigami são calculados dentro do recorte escolhido.</li>
+<li>Os nomes de patrocínio (BRB/Brasília, CAIXA/Brasília) são unidos na franquia. A lista de uniões fica no arquivo de dados.</li>
+<li>Eras: 2008-09 a 2012-13, 2013-14 a 2017-18, 2018-19 a 2022-23, e 2023-24 em diante.</li></ul>
+<h2>Fontes</h2><ul>
+<li>Fonte principal: tabela de jogos da <a href="https://lnb.com.br/nbb/tabela-de-jogos/" target="_blank" rel="noopener">LNB</a>.</li>
+<li>Segunda fonte para conferência: BetExplorer. Nas divergências, as páginas das temporadas na Wikipédia em português serviram de desempate. Um relatório por temporada lista as diferenças.</li><li>Prorrogação: lida do placar por quarto de cada partida na LNB, disponível a partir de 2012-13.</li>
+<li>Achou um erro? Use <a href="#ajuste">Solicitar ajuste</a>.</li></ul>`,
+en:`<p>A <b>scorigami</b> is a final score that had never happened before. The idea came from American football and became <a href="https://www.scorigaminba.com/" target="_blank" rel="noopener">NBA Scorigami</a>. This site does the same for the NBB, Brazil's top basketball league.</p>
+<h2>Rules</h2><ul>
+<li>The final score counts, overtime included. Overtime games are marked.</li>
+<li>In <b>Winner × loser</b> mode, 84–73 is one score no matter who won or where. In <b>Home × away</b> mode, 84–73 and 73–84 are different cells.</li>
+<li>Forfeit wins (20–0) are left out, since no game was played.</li><li>Regular season and playoffs since 2008-09. The Opening Tournament, All-Star Game and friendlies are left out.</li>
+<li>With filters on, “first time” and scorigami are computed within the chosen subset.</li>
+<li>Sponsor names (BRB/Brasília, CAIXA/Brasília) are merged into the franchise.</li>
+<li>Eras: 2008-09 to 2012-13, 2013-14 to 2017-18, 2018-19 to 2022-23, and 2023-24 onward.</li></ul>
+<h2>Sources</h2><ul>
+<li>Main source: the <a href="https://lnb.com.br/nbb/tabela-de-jogos/" target="_blank" rel="noopener">LNB</a> schedule.</li>
+<li>Second source for checking: BetExplorer, with Portuguese Wikipedia season pages as a tiebreaker. A per-season report lists the differences.</li><li>Overtime: read from the LNB quarter scores of each game, available from 2012-13 on.</li>
+<li>Found an error? Use <a href="#ajuste">Report an error</a>.</li></ul>`,
+es:`<p>Un <b>scorigami</b> es un marcador final que nunca había ocurrido. La idea nació en el fútbol americano y se convirtió en <a href="https://www.scorigaminba.com/" target="_blank" rel="noopener">NBA Scorigami</a>. Este sitio hace lo mismo con el NBB, la liga brasileña.</p>
+<h2>Reglas</h2><ul>
+<li>Cuenta el marcador final, con prórroga incluida. Los partidos con prórroga llevan una marca.</li>
+<li>En el modo <b>Ganador × perdedor</b>, 84–73 es un solo marcador. En <b>Local × visitante</b>, 84–73 y 73–84 son casillas distintas.</li>
+<li>Las victorias por W.O. (20–0) quedan fuera, porque no hubo partido.</li><li>Temporada regular y playoffs desde 2008-09. Quedan fuera el Torneo de Apertura, el Juego de las Estrellas y los amistosos.</li>
+<li>Con filtros activos, “primera vez” y scorigami se calculan dentro del recorte elegido.</li>
+<li>Los nombres de patrocinio se unen en la franquicia.</li>
+<li>Eras: 2008-09 a 2012-13, 2013-14 a 2017-18, 2018-19 a 2022-23, y 2023-24 en adelante.</li></ul>
+<h2>Fuentes</h2><ul>
+<li>Fuente principal: la tabla de partidos de la <a href="https://lnb.com.br/nbb/tabela-de-jogos/" target="_blank" rel="noopener">LNB</a>.</li>
+<li>Segunda fuente de cotejo: BetExplorer, con la Wikipedia en portugués como desempate.</li><li>Prórroga: leída de los marcadores por cuarto de la LNB, disponible desde 2012-13.</li>
+<li>¿Encontraste un error? Usa <a href="#ajuste">Reportar error</a>.</li></ul>`};
+
+/* ---------- dados ---------- */
+const TEAMS = DATA.teams;
+const slug = s => s.normalize("NFD").replace(/[̀-ͯ]/g,"").toLowerCase().replace(/[^a-z0-9]+/g,"-").replace(/^-|-$/g,"");
+const TSLUG = TEAMS.map(slug);
+const WO = g => (g[5]===20&&g[6]===0)||(g[5]===0&&g[6]===20);
+const G = DATA.games.filter(g=>!WO(g)).map((g,i)=>({i,date:g[0],season:g[1],po:g[2],h:g[3],a:g[4],hs:g[5],as:g[6],ot:g[7],
+  w:g[5]>g[6]?g[3]:g[4], l:g[5]>g[6]?g[4]:g[3], W:Math.max(g[5],g[6]), L:Math.min(g[5],g[6])}));
+const ALL_SEASONS = []; for(let y=2008;y<=2026;y++) ALL_SEASONS.push(`${y}-${String(y+1).slice(2)}`);
+const DATA_SEASONS = new Set(G.map(g=>g.season));
+const ERAS = [{id:"e1",from:2008,to:2012},{id:"e2",from:2013,to:2017},{id:"e3",from:2018,to:2022},{id:"e4",from:2023,to:2099}];
+const eraOf = s => { const y=+s.slice(0,4); return ERAS.find(e=>y>=e.from&&y<=e.to).id; };
+const eraLabel = e => e.to>2090 ? `${e.from}-${String(e.from+1).slice(2)} →` : `${e.from}-${String(e.from+1).slice(2)} – ${e.to}-${String(e.to+1).slice(2)}`;
+
+/* ---------- estado ---------- */
+const S = {route:"home",args:[],f:{fase:[],times:[],eras:[],temps:[]},cor:"freq",modo:"wl",mando:"any",lang:"pt",theme:"auto"};
+try{ S.lang = localStorage.getItem("sgnbb-lang") || S.lang; S.theme = localStorage.getItem("sgnbb-theme") || S.theme; }catch(e){}
+const t = (path, vars={}) => { let v = path.split(".").reduce((o,k)=>o?.[k], T[S.lang]); if(typeof v!=="string") return v; return v.replace(/\{(\w+)\}/g,(_,k)=>vars[k]??""); };
+const LOC = () => S.lang==="pt"?"pt-BR":S.lang==="es"?"es-ES":"en-US";
+const fmtDate = d => new Date(d+"T12:00:00").toLocaleDateString(S.lang==="pt"?"pt-BR":S.lang==="es"?"es-ES":"en-US",{day:"2-digit",month:"short",year:"numeric"});
+const esc = s => String(s).replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+
+function readHash(){
+  const raw = decodeURIComponent(location.hash.slice(1));
+  const [path,q=""] = raw.split("?");
+  const parts = path.split("/").filter(Boolean);
+  S.route = T.pt.nav[parts[0]] ? parts[0] : (parts[0]==="placar"||parts[0]==="time" ? parts[0] : "home");
+  S.args = parts.slice(1);
+  const p = new URLSearchParams(q);
+  const list = k => (p.get(k)||"").split(",").filter(Boolean);
+  S.f.fase = list("fase").map(Number).filter(x=>x===0||x===1);
+  S.f.times = list("times").map(s=>TSLUG.indexOf(s)).filter(x=>x>=0);
+  S.f.eras = list("eras").filter(x=>ERAS.some(e=>e.id===x));
+  S.f.temps = list("temps").filter(x=>ALL_SEASONS.includes(x));
+  S.cor = p.get("cor")==="first" ? "first" : "freq";
+  S.modo = p.get("modo")==="ha" ? "ha" : "wl";
+  S.mando = p.get("mando")==="a" ? "a" : "any";
+  if(["pt","en","es"].includes(p.get("lang"))) S.lang = p.get("lang");
+}
+function query(over={}){
+  const s = {...S, f:{...S.f}, ...over};
+  const p = [];
+  if(s.f.fase.length) p.push("fase="+s.f.fase.join(","));
+  if(s.f.times.length) p.push("times="+s.f.times.map(i=>TSLUG[i]).join(","));
+  if(s.f.eras.length) p.push("eras="+s.f.eras.join(","));
+  if(s.f.temps.length) p.push("temps="+s.f.temps.join(","));
+  if(s.cor!=="freq") p.push("cor="+s.cor);
+  if(s.modo!=="wl") p.push("modo="+s.modo);
+  if(s.mando!=="any" && (over.route||S.route)==="confrontos") p.push("mando="+s.mando);
+  if(s.lang!=="pt") p.push("lang="+s.lang);
+  return p.length ? "?"+p.join("&") : "";
+}
+const href = (route,args=[],over={}) => "#"+[route,...args].join("/")+query({...over,route});
+function setHash(route=S.route,args=S.args,over={}){ Object.assign(S,over); const h = href(route,args); if(location.hash!==h) history.replaceState(null,"",h); }
+
+function filtered({ignoreTeams=false}={}){
+  const f=S.f;
+  return G.filter(g=>(!f.fase.length||f.fase.includes(g.po))
+    && (ignoreTeams||!f.times.length||f.times.includes(g.h)||f.times.includes(g.a))
+    && (!f.eras.length||f.eras.includes(eraOf(g.season)))
+    && (!f.temps.length||f.temps.includes(g.season)));
+}
+function scorigamis(games){ const seen=new Set(), out=[]; for(const g of games){ const k=g.W*1000+g.L; if(!seen.has(k)){seen.add(k); out.push(g);} } return out; }
+
+/* ---------- cores ---------- */
+let COL={};
+function readColors(){ const cs=getComputedStyle(document.documentElement); for(const k of ["empty","freq-lo","freq-hi","first-lo","first-hi","hl","muted","line","surface","ink","accent"]) COL[k]=cs.getPropertyValue("--"+k).trim(); }
+const hex = h => { h=h.replace("#",""); return [0,2,4].map(i=>parseInt(h.slice(i,i+2),16)); };
+const mix = (a,b,x) => { const A=hex(a),B=hex(b); return `rgb(${A.map((v,i)=>Math.round(v+(B[i]-v)*x)).join(",")})`; };
+
+/* ---------- grid ---------- */
+function buildCells(games,modo){
+  const m=new Map();
+  games.forEach((g,idx)=>{ const a=modo==="ha"?g.hs:g.W, b=modo==="ha"?g.as:g.L, k=a*1000+b;
+    let c=m.get(k); if(!c){c={a,b,n:0,first:g,rank:idx}; m.set(k,c);} c.n++; c.last=g; });
+  return m;
+}
+function bounds(games,modo){
+  let mx=0,mn=999; for(const g of games){ mx=Math.max(mx,modo==="ha"?Math.max(g.hs,g.as):g.W); mn=Math.min(mn,modo==="ha"?Math.min(g.hs,g.as):g.L); }
+  return {lo:Math.floor((mn-1)/10)*10, hi:mx+1};
+}
+let CELL=9; const ML=30, MT=4, MB=18;
+function gridHTML(id){ const ax=T[S.lang].ax[S.modo]; return `<div class="gridbox"><div class="gridrow"><div class="axis-y">${ax[1]}</div><canvas class="grid" id="${id}" role="img" aria-label="${esc(t("home.sub"))}"></canvas></div><div class="axis-x">${ax[0]}</div></div><div class="legend" id="${id}-leg"></div>`; }
+function drawGrid(id,games,opt={}){
+  const cv=document.getElementById(id); if(!cv) return;
+  const modo=S.modo, cells=buildCells(games,modo), b=opt.bounds||bounds(games.length?games:G,modo);
+  const rows=b.hi-b.lo+1, cols=(modo==="ha"?b.hi:b.hi-1)-b.lo+1;
+  const avail=(cv.closest(".gridbox")?.clientWidth||800)-24-ML; CELL=Math.max(5,Math.min(12,Math.floor(avail/cols)));
+  const W=ML+cols*CELL, H=MT+rows*CELL+MB, dpr=window.devicePixelRatio||1;
+  cv.width=W*dpr; cv.height=H*dpr; cv.style.width=W+"px"; cv.style.height=H+"px";
+  const x=cv.getContext("2d"); x.setTransform(dpr,0,0,dpr,0,0); x.clearRect(0,0,W,H);
+  x.font="10px "+getComputedStyle(document.body).fontFamily; x.fillStyle=COL.muted; x.textBaseline="middle";
+  x.textAlign="center"; for(let v=b.lo;v<=b.lo+cols-1;v++) if(v%10===0) x.fillText(v,ML+(v-b.lo)*CELL+CELL/2,MT+rows*CELL+MB/2+1);
+  x.textAlign="right"; for(let v=b.lo;v<=b.hi;v++) if(v%10===0) x.fillText(v,ML-4,MT+(b.hi-v)*CELL+CELL/2);
+  let maxN=1; cells.forEach(c=>maxN=Math.max(maxN,c.n)); const N=Math.max(1,games.length-1);
+  const total=opt.rankOf||N;
+  for(let r=0;r<rows;r++){ const a=b.hi-r; for(let c=0;c<cols;c++){ const bb=b.lo+c;
+    if(modo==="wl"? bb>=a : bb===a) continue;
+    const cell=cells.get(a*1000+bb); let fill=COL.empty;
+    if(cell){ fill = S.cor==="first" ? mix(COL["first-lo"],COL["first-hi"],total?cell.rank/total:1) : mix(COL["freq-lo"],COL["freq-hi"],maxN>1?Math.log(cell.n)/Math.log(maxN):1); }
+    x.fillStyle=fill; x.fillRect(ML+c*CELL,MT+r*CELL,CELL-1,CELL-1); } }
+  if(opt.hl){ const [ha,hb]=opt.hl; x.strokeStyle=COL.hl; x.lineWidth=2; x.strokeRect(ML+(hb-b.lo)*CELL-1,MT+(b.hi-ha)*CELL-1,CELL+1,CELL+1); }
+  cv._hit={b,cols,rows,cells,modo,cell:CELL};
+  if(!cv._bound){ cv._bound=true;
+    cv.addEventListener("mousemove",e=>hover(cv,e)); cv.addEventListener("mouseleave",()=>tip.hidden=true);
+    cv.addEventListener("click",e=>{ const c=cellAt(cv,e); if(c&&c.valid) location.hash=href("placar",[`${c.a}-${c.b}`]); }); }
+  const leg=document.getElementById(id+"-leg");
+  if(leg){ const L=T[S.lang].leg; const lo=S.cor==="first"?COL["first-lo"]:COL["freq-lo"], hi=S.cor==="first"?COL["first-hi"]:COL["freq-hi"];
+    const lab=S.cor==="first"?L.first:[L.freq[0],t("leg.freq.1",{n:maxN})];
+    leg.innerHTML=`<span>${lab[0]}</span><span class="bar" style="background:linear-gradient(90deg,${lo},${hi})"></span><span>${lab[1]}</span><span><i class="sw" style="background:${COL.empty}"></i>${L.empty}</span>`; }
+}
+function cellAt(cv,e){ const h=cv._hit; if(!h) return null; const r=cv.getBoundingClientRect(); const C=h.cell; const c=Math.floor((e.clientX-r.left-ML)/C), ro=Math.floor((e.clientY-r.top-MT)/C);
+  if(c<0||ro<0||c>=h.cols||ro>=h.rows) return null; const a=h.b.hi-ro, b=h.b.lo+c; const valid=h.modo==="wl"?b<a:b!==a; return {a,b,valid,cell:h.cells.get(a*1000+b)}; }
+const tip=document.getElementById("tip");
+function hover(cv,e){ const c=cellAt(cv,e); if(!c||!c.valid){tip.hidden=true;return;}
+  const sc=`${c.a} × ${c.b}`; let h=`<div class="sc">${sc}</div>`;
+  if(c.cell){ const f=c.cell.first; h+=`${t("tip.games",{n:c.cell.n})}<br>${t("tip.first")}: ${fmtDate(f.date)}<br>${esc(TEAMS[f.h])} ${f.hs} × ${f.as} ${esc(TEAMS[f.a])}`;
+    if(c.cell.n>1) h+=`<br>${t("tip.last")}: ${fmtDate(c.cell.last.date)}`; } else h+=t("tip.none");
+  tip.innerHTML=h; tip.hidden=false; const pad=14; let X=e.clientX+pad, Y=e.clientY+pad; const w=tip.offsetWidth, hh=tip.offsetHeight;
+  if(X+w>innerWidth-8) X=e.clientX-w-pad; if(Y+hh>innerHeight-8) Y=e.clientY-hh-pad; tip.style.left=X+"px"; tip.style.top=Y+"px"; }
+
+/* ---------- componentes ---------- */
+const scoreLink = g => `<a class="score" href="${href("placar",[`${g.W}-${g.L}`],{modo:"wl"})}">${g.W}–${g.L}</a>`;
+const teamLink = i => `<a href="${href("time",[TSLUG[i]])}">${esc(TEAMS[i])}</a>`;
+const phasePill = g => `<span class="pill ${g.po?"po":""}">${T[S.lang].phaseShort[g.po]}</span>`;
+function gamesTable(games,{sg}={}){
+  if(!games.length) return `<p class="empty">${t("none")}</p>`;
+  const C=T[S.lang].col;
+  return `<div class="tbl-wrap"><table><thead><tr><th>${C.date}</th><th>${C.season}</th><th>${C.phase}</th><th class="r">${C.home}</th><th style="text-align:center">${C.score}</th><th>${C.away}</th><th>${C.ot}</th></tr></thead><tbody>${
+    games.map(g=>`<tr><td>${fmtDate(g.date)}</td><td>${g.season}</td><td>${phasePill(g)}${sg&&sg.has(g.i)?' <span class="pill sg">scorigami</span>':""}</td><td class="r">${g.hs>g.as?"<b>":""}${teamLink(g.h)}${g.hs>g.as?"</b>":""}</td><td style="text-align:center"><a class="score" style="font-size:17px" href="${href("placar",[`${g.W}-${g.L}`],{modo:"wl"})}">${g.hs} × ${g.as}</a></td><td>${g.as>g.hs?"<b>":""}${teamLink(g.a)}${g.as>g.hs?"</b>":""}</td><td>${g.ot==null?"—":g.ot?t("ot"):""}</td></tr>`).join("")}</tbody></table></div>`;
+}
+const seg = (key,label,opts) => `<div class="seg"><span class="lbl">${label}</span><div class="opts">${opts.map(([v,l])=>`<button type="button" data-seg="${key}" data-v="${v}" aria-pressed="${S[key]===v}">${l}</button>`).join("")}</div></div>`;
+
+/* ---------- filtros ---------- */
+const FILTERS = () => [
+  {k:"fase",label:t("f.fase"),all:t("f.all"),opts:[[0,T[S.lang].phase[0]],[1,T[S.lang].phase[1]]]},
+  {k:"times",label:t("f.times"),all:t("f.allm"),opts:TEAMS.map((n,i)=>[i,n]).sort((a,b)=>a[1].localeCompare(b[1],"pt"))},
+  {k:"eras",label:t("f.eras"),all:t("f.all"),opts:ERAS.map(e=>[e.id,eraLabel(e)])},
+  {k:"temps",label:t("f.temps"),all:t("f.all"),opts:ALL_SEASONS.filter(s=>DATA_SEASONS.has(s)).reverse().map(s=>[s,s])}];
+function fSummary(F){ const sel=S.f[F.k]; if(!sel.length) return F.all; if(sel.length===1) return F.opts.find(o=>o[0]===sel[0])?.[1]??sel[0]; return t("f.sel",{n:sel.length}); }
+function renderFilters(){
+  const bar=document.getElementById("fbar"), box=document.getElementById("filters");
+  const show = !["sobre","ajuste"].includes(S.route); box.hidden=!show; if(!show) return;
+  const noTeam = S.route==="confrontos"||S.route==="time";
+  let h = FILTERS().filter(F=>!(noTeam&&F.k==="times")).map(F=>`<div class="flt" data-k="${F.k}"><label for="f-${F.k}">${F.label}</label>
+    <button class="flt-btn ${S.f[F.k].length?"on":""}" id="f-${F.k}" type="button" aria-expanded="false"><span>${esc(fSummary(F))}</span><span aria-hidden="true">▾</span></button>
+    <div class="flt-pop" hidden><input type="search" id="f-${F.k}-q" placeholder="${t("f.search")}" aria-label="${t("f.search")}">
+    <div class="flt-opts">${F.opts.map(([v,l])=>`<label data-l="${esc(String(l).toLowerCase())}"><input type="checkbox" value="${v}" ${S.f[F.k].includes(v)?"checked":""}> ${esc(l)}</label>`).join("")}</div>
+    <div class="flt-act"><button type="button" class="lnk" data-clear>${t("f.clear")}</button></div></div></div>`).join("");
+  if(["home","time","timelapse"].includes(S.route)) h += seg("cor",t("f.cor"),[["freq",t("cor.freq")],["first",t("cor.first")]]) + seg("modo",t("f.modo"),[["wl",t("modo.wl")],["ha",t("modo.ha")]]);
+  if(Object.values(S.f).some(a=>a.length)) h += `<button type="button" class="lnk" id="freset" style="align-self:flex-end;padding-bottom:8px">${t("f.reset")}</button>`;
+  bar.innerHTML=h;
+}
+document.getElementById("fbar").addEventListener("click",e=>{
+  const btn=e.target.closest(".flt-btn");
+  if(btn){ const pop=btn.nextElementSibling, open=pop.hidden; closePops(); pop.hidden=!open; btn.setAttribute("aria-expanded",open); if(open) pop.querySelector("input[type=search]").focus(); return; }
+  if(e.target.closest("[data-clear]")){ const k=e.target.closest(".flt").dataset.k; S.f[k]=[]; changed(true); return; }
+  if(e.target.id==="freset"){ for(const k in S.f) S.f[k]=[]; changed(true); return; }
+  const sb=e.target.closest("[data-seg]"); if(sb){ S[sb.dataset.seg]=sb.dataset.v; changed(true); }
+});
+document.getElementById("fbar").addEventListener("change",e=>{
+  if(e.target.type!=="checkbox") return; const fl=e.target.closest(".flt"), k=fl.dataset.k;
+  const F=FILTERS().find(x=>x.k===k); S.f[k]=[...fl.querySelectorAll("input[type=checkbox]:checked")].map(i=>F.opts.find(o=>String(o[0])===i.value)[0]);
+  const b=fl.querySelector(".flt-btn"); b.querySelector("span").textContent=fSummary(F); b.classList.toggle("on",S.f[k].length>0);
+  changed(false);
+});
+document.getElementById("fbar").addEventListener("input",e=>{ if(e.target.type!=="search") return; const q=e.target.value.toLowerCase().normalize("NFD").replace(/[̀-ͯ]/g,"");
+  e.target.closest(".flt-pop").querySelectorAll("label").forEach(l=>l.hidden=!l.dataset.l.normalize("NFD").replace(/[̀-ͯ]/g,"").includes(q)); });
+function closePops(){ document.querySelectorAll(".flt-pop").forEach(p=>{p.hidden=true; p.previousElementSibling.setAttribute("aria-expanded","false");}); }
+document.addEventListener("click",e=>{ if(!e.target.closest(".flt")) closePops(); });
+document.addEventListener("keydown",e=>{ if(e.key==="Escape") closePops(); });
+function changed(rebar){ setHash(); if(rebar) renderFilters(); else { const r=document.getElementById("freset"); if(!r && Object.values(S.f).some(a=>a.length)) { renderFiltersKeepOpen(); } } renderView(); renderNav(); }
+function renderFiltersKeepOpen(){ const open=[...document.querySelectorAll(".flt-pop")].findIndex(p=>!p.hidden); renderFilters(); if(open>=0){ const p=document.querySelectorAll(".flt-pop")[open]; p.hidden=false; } }
+
+/* ---------- páginas ---------- */
+const V = {};
+V.home = () => {
+  const gs=filtered(), sg=scorigamis(gs), cells=buildCells(gs,"wl");
+  const top=[...cells.values()].sort((a,b)=>b.n-a.n||b.last.date.localeCompare(a.last.date)).slice(0,10);
+  return { html:`<div class="head"><div><h1>${t("home.h")}</h1><p class="sub">${t("home.sub")}</p></div><div class="counter">${t("home.showing",{a:gs.length.toLocaleString(LOC()),b:G.length.toLocaleString(LOC()),c:cells.size.toLocaleString(LOC())})}</div></div>
+  <div class="layout"><div class="panel">${gs.length?gridHTML("g-home"):`<p class="empty">${t("none")}</p>`}</div>
+  <aside class="side"><div class="panel"><h3>${t("home.latest")}</h3><ol class="list">${sg.slice(-5).reverse().map(g=>`<li>${scoreLink(g)}<span class="meta">${esc(TEAMS[g.w])} × ${esc(TEAMS[g.l])}</span><span class="meta num">${fmtDate(g.date)}</span></li>`).join("")}</ol><p style="margin:8px 0 0"><a class="lnk" href="${href("scorigamis")}">${t("home.all")} →</a></p></div>
+  <div class="panel"><h3>${t("home.freq")}</h3><ol class="list">${top.map(c=>`<li><a class="score" href="${href("placar",[`${c.a}-${c.b}`],{modo:"wl"})}">${c.a}–${c.b}</a><span class="meta">${t("tip.games",{n:c.n})}</span><span class="meta num">${fmtDate(c.last.date)}</span></li>`).join("")}</ol></div></aside></div>`,
+  after:()=>drawGrid("g-home",gs) };
+};
+V.scorigamis = () => {
+  const gs=filtered(), sg=scorigamis(gs);
+  const by={}; sg.forEach(g=>{const y=g.date.slice(0,4); by[y]=(by[y]||0)+1;});
+  const ys=Object.keys(by).sort(); let chart="";
+  if(ys.length){ const y0=+ys[0], y1=+ys[ys.length-1], n=y1-y0+1, mx=Math.max(...Object.values(by)), Wd=Math.max(320,n*26), Hd=180, pl=34, pb=24, bw=(Wd-pl)/n;
+    const step=mx>50?20:mx>20?10:mx>8?4:2; let ticks=""; for(let v=0;v<=mx;v+=step){ const yy=Hd-pb-(v/mx)*(Hd-pb-12); ticks+=`<line x1="${pl}" x2="${Wd}" y1="${yy}" y2="${yy}" stroke="var(--line)"/><text x="${pl-6}" y="${yy}" text-anchor="end" dominant-baseline="middle" font-size="11" fill="var(--muted)">${v}</text>`; }
+    let bars=""; for(let i=0;i<n;i++){ const y=y0+i, v=by[y]||0, h=(v/mx)*(Hd-pb-12); bars+=`<rect x="${pl+i*bw+3}" y="${Hd-pb-h}" width="${Math.max(2,bw-6)}" height="${h}" fill="var(--accent)" rx="2"><title>${y}: ${v}</title></rect>${v?`<text x="${pl+i*bw+bw/2}" y="${Hd-pb-h-4}" text-anchor="middle" font-size="11" fill="var(--ink)">${v}</text>`:""}${(n<=24||i%2===0)?`<text x="${pl+i*bw+bw/2}" y="${Hd-8}" text-anchor="middle" font-size="11" fill="var(--muted)">${y}</text>`:""}`; }
+    chart=`<div class="panel" style="margin-bottom:16px"><h3>${t("sg.year")}</h3><div class="tbl-wrap"><svg viewBox="0 0 ${Wd} ${Hd}" width="${Wd}" height="${Hd}" style="max-width:none">${ticks}${bars}</svg></div></div>`; }
+  const ids=new Set(sg.map(g=>g.i));
+  return {html:`<div class="head"><div><h1>${t("sg.h")}</h1><p class="sub">${t("sg.sub")}</p></div><div class="counter">${t("sg.count",{n:sg.length})}</div></div>${chart}<div class="panel">${gamesTable(sg.slice().reverse())}</div>`};
+};
+V.placar = () => {
+  const [a,b]=(S.args[0]||"").split("-").map(Number); const gs=filtered();
+  const list = S.modo==="ha" ? gs.filter(g=>g.hs===a&&g.as===b) : gs.filter(g=>g.W===Math.max(a,b)&&g.L===Math.min(a,b));
+  const label = S.modo==="ha" ? `${a} × ${b}` : `${Math.max(a,b)}–${Math.min(a,b)}`;
+  const f=list[0];
+  return {html:`<p style="margin:0 0 10px"><a class="lnk" href="${href("home")}">← ${t("score.back")}</a></p>
+   <div class="row" style="margin-bottom:18px"><div class="big">${label}</div><div style="padding-bottom:8px"><h1 style="font-size:24px">${S.modo==="ha"?t("score.ha",{a,b}):t("score.h",{s:label})}</h1>
+   ${f?`<p class="sub">${t("score.times",{n:list.length})} · ${t("score.first",{d:fmtDate(f.date)})}: ${esc(TEAMS[f.h])} ${f.hs} × ${f.as} ${esc(TEAMS[f.a])}</p>`:`<p class="sub">${t("score.never")}</p>`}</div></div>
+   <div class="panel">${list.length?gamesTable(list.slice().reverse(),{sg:new Set(f?[f.i]:[])}):""}${list.length?"":`<p class="empty">${t("score.never")}</p>`}</div>`};
+};
+function teamStats(gs,ti){ let w=0,l=0; const mine=gs.filter(g=>g.h===ti||g.a===ti); mine.forEach(g=>g.w===ti?w++:l++); return {mine,w,l}; }
+V.times = () => {
+  const gs=filtered({ignoreTeams:true}); const sg=scorigamis(gs);
+  const rows=TEAMS.map((n,i)=>({i,n,...teamStats(gs,i),sg:sg.filter(g=>g.h===i||g.a===i).length})).filter(r=>r.mine.length).sort((a,b)=>b.mine.length-a.mine.length||a.n.localeCompare(b.n));
+  return {html:`<div class="head"><div><h1>${t("teams.h")}</h1><p class="sub">${t("teams.sub")}</p></div></div><div class="cards">${rows.map(r=>`<a class="card" href="${href("time",[TSLUG[r.i]])}"><span class="t">${esc(r.n)}</span><span class="meta">${t("teams.games",{n:r.mine.length})} · ${t("teams.rec",{w:r.w,l:r.l})}</span><span class="meta">${t("sg.count",{n:r.sg})}</span></a>`).join("")||`<p class="empty">${t("none")}</p>`}</div>`};
+};
+V.time = () => {
+  const ti=TSLUG.indexOf(S.args[0]||""); if(ti<0) return V.times();
+  const gs=filtered({ignoreTeams:true}); const {mine,w,l}=teamStats(gs,ti); const own=scorigamis(mine); const glob=new Set(scorigamis(gs).map(g=>g.i));
+  const pts=mine.map(g=>g.h===ti?g.hs:g.as), opp=mine.map(g=>g.h===ti?g.as:g.hs); const avg=a=>a.length?(a.reduce((x,y)=>x+y,0)/a.length).toFixed(1):"—";
+  const C=T[S.lang].col;
+  return {html:`<p style="margin:0 0 10px"><a class="lnk" href="${href("times")}">← ${t("teams.h")}</a></p><div class="head"><div><h1>${esc(TEAMS[ti])}</h1><p class="sub">${t("teams.games",{n:mine.length})} · ${t("teams.rec",{w,l})}</p></div><a class="lnk" href="${href("confrontos",[TSLUG[ti]])}">${t("teams.h2h")} →</a></div>
+  <div class="stats"><div class="stat"><div class="k">${C.wl}</div><div class="v">${w}–${l}</div></div><div class="stat"><div class="k">${C.avg}</div><div class="v">${avg(pts)}</div><div class="d">× ${avg(opp)}</div></div><div class="stat"><div class="k">${t("teams.ownsg")}</div><div class="v">${own.length}</div></div><div class="stat"><div class="k">${C.sg} NBB</div><div class="v">${mine.filter(g=>glob.has(g.i)).length}</div></div></div>
+  <div class="panel" style="margin-bottom:16px"><h3 style="margin-bottom:10px">${t("teams.grid")}</h3>${mine.length?gridHTML("g-team"):`<p class="empty">${t("none")}</p>`}</div>
+  <div class="panel"><h3>${t("teams.recent")}</h3>${gamesTable(mine.slice().reverse().slice(0,40),{sg:glob})}</div>`, after:()=>drawGrid("g-team",mine)};
+};
+V.temporadas = () => {
+  const base=G.filter(g=>!S.f.fase.length||S.f.fase.includes(g.po)).filter(g=>!S.f.times.length||S.f.times.includes(g.h)||S.f.times.includes(g.a));
+  const sgIds=new Set(scorigamis(base).map(g=>g.i)); const C=T[S.lang].col;
+  const rows=ALL_SEASONS.slice().reverse().map(s=>{ const gs=base.filter(g=>g.season===s); const pts=gs.reduce((x,g)=>x+g.hs+g.as,0); const top=gs.reduce((m,g)=>!m||g.W>m.W?g:m,null);
+    return {s,gs,po:gs.filter(g=>g.po).length,sg:gs.filter(g=>sgIds.has(g.i)).length,avg:gs.length?(pts/gs.length/2).toFixed(1):"",top}; });
+  return {html:`<div class="head"><div><h1>${t("seasons.h")}</h1><p class="sub">${t("seasons.sub")}</p></div></div><div class="panel tbl-wrap"><table><thead><tr><th>${C.season}</th><th class="r">${C.games}</th><th class="r">${C.po}</th><th class="r">${C.sg}</th><th class="r">${C.avg}</th><th>${C.top}</th></tr></thead><tbody>${
+    rows.map(r=>r.gs.length?`<tr class="click" data-go="${href("home",[],{f:{...S.f,temps:[r.s]}})}"><td><a href="${href("home",[],{f:{...S.f,temps:[r.s]}})}"><b>${r.s}</b></a></td><td class="r">${r.gs.length}</td><td class="r">${r.po}</td><td class="r">${r.sg}</td><td class="r">${r.avg}</td><td>${r.top?`${r.top.W}–${r.top.L} <span class="meta">${esc(TEAMS[r.top.w])}</span>`:""}</td></tr>`:`<tr><td>${r.s}</td><td class="meta" colspan="5">${t("seasons.nodata")}</td></tr>`).join("")}</tbody></table></div>`,
+   after:()=>document.querySelectorAll("tr[data-go]").forEach(tr=>tr.addEventListener("click",e=>{ if(!e.target.closest("a")) location.hash=tr.dataset.go; }))};
+};
+let TL={i:0,timer:null,speed:4};
+V.timelapse = () => {
+  const gs=filtered(); TL.i=gs.length; stopTL();
+  return {html:`<div class="head"><div><h1>${t("tl.h")}</h1><p class="sub">${t("tl.sub")}</p></div></div>
+  <div class="panel"><div class="tl-ctrl"><button class="btn" id="tl-play" type="button">${t("tl.play")}</button><span class="tl-date" id="tl-date"></span>
+  <input type="range" id="tl-r" min="0" max="${gs.length}" value="${gs.length}" aria-label="${t("tl.h")}">
+  <label class="meta" for="tl-s">${t("tl.speed")}</label><select id="tl-s"><option value="1">1×</option><option value="4" selected>4×</option><option value="12">12×</option></select></div>
+  <p class="counter" id="tl-c" style="margin:0 0 10px"></p>${gs.length?gridHTML("g-tl"):`<p class="empty">${t("none")}</p>`}</div>`,
+  after:()=>{ if(!gs.length) return; const bd=bounds(gs,S.modo), r=document.getElementById("tl-r");
+    const sgAt=[]; { const seen=new Set(); let n=0; gs.forEach((g,i)=>{ const k=g.W*1000+g.L; if(!seen.has(k)){seen.add(k);n++;} sgAt[i]=n; }); }
+    const draw=()=>{ const sl=gs.slice(0,TL.i), last=sl[sl.length-1]; drawGrid("g-tl",sl,{bounds:bd,rankOf:Math.max(1,gs.length-1),hl:last?(S.modo==="ha"?[last.hs,last.as]:[last.W,last.L]):null});
+      document.getElementById("tl-date").textContent=last?fmtDate(last.date):"—"; document.getElementById("tl-c").textContent=t("tl.of",{a:TL.i,b:gs.length,c:TL.i?sgAt[TL.i-1]:0}); r.value=TL.i; };
+    draw(); r.addEventListener("input",()=>{TL.i=+r.value;draw();});
+    document.getElementById("tl-s").addEventListener("change",e=>TL.speed=+e.target.value);
+    const pb=document.getElementById("tl-play");
+    pb.addEventListener("click",()=>{ if(TL.timer){stopTL();pb.textContent=t("tl.play");return;} if(TL.i>=gs.length) TL.i=0; pb.textContent=t("tl.pause");
+      TL.timer=setInterval(()=>{ TL.i=Math.min(gs.length,TL.i+TL.speed); draw(); if(TL.i>=gs.length){stopTL();pb.textContent=t("tl.play");} },60); });
+  }};
+};
+function stopTL(){ if(TL.timer){clearInterval(TL.timer);TL.timer=null;} }
+V.confrontos = () => {
+  const gs=filtered({ignoreTeams:true}); const order=TEAMS.map((n,i)=>[i,n]).sort((a,b)=>a[1].localeCompare(b[1],"pt"));
+  let A=TSLUG.indexOf(S.args[0]||""), B=TSLUG.indexOf(S.args[1]||"");
+  if(A<0) A=TEAMS.indexOf("Flamengo"); if(B<0) B=TEAMS.indexOf(A===TEAMS.indexOf("Franca")?"Flamengo":"Franca");
+  const H=T[S.lang].h2h;
+  const opts=sel=>order.map(([i,n])=>`<option value="${TSLUG[i]}" ${i===sel?"selected":""}>${esc(n)}</option>`).join("");
+  let body="";
+  if(A===B) body=`<p class="empty">${H.same}</p>`;
+  else { const list=gs.filter(g=>S.mando==="a"?(g.h===A&&g.a===B):((g.h===A&&g.a===B)||(g.h===B&&g.a===A)));
+    if(!list.length) body=`<p class="empty">${H.none}</p>`;
+    else { const wa=list.filter(g=>g.w===A).length, wb=list.length-wa;
+      const cm=new Map(); list.forEach(g=>{const k=`${g.W}-${g.L}`; cm.set(k,(cm.get(k)||0)+1);}); const mc=[...cm.entries()].sort((x,y)=>y[1]-x[1])[0];
+      const big=ti=>list.filter(g=>g.w===ti).sort((x,y)=>(y.W-y.L)-(x.W-x.L)).slice(0,5);
+      const bigL=ti=>{const b=big(ti); return b.length?`<ol class="list">${b.map(g=>`<li>${scoreLink(g)}<span class="meta">+${g.W-g.L} · ${g.h===ti?t("col.home"):t("col.away")}</span><span class="meta num">${fmtDate(g.date)}</span></li>`).join("")}</ol>`:`<p class="empty" style="padding:8px 0">—</p>`;};
+      body=`<div class="h2h"><div><div class="n">${wa}</div><div class="tm">${esc(TEAMS[A])}</div><div class="meta">${H.wins}</div></div><div class="meta">×</div><div><div class="n">${wb}</div><div class="tm">${esc(TEAMS[B])}</div><div class="meta">${H.wins}</div></div></div>
+      <div class="stats"><div class="stat"><div class="k">${H.games}</div><div class="v">${list.length}</div></div><div class="stat"><div class="k">${H.common}</div><div class="v"><a class="score" style="font-size:28px" href="${href("placar",[mc[0]],{modo:"wl"})}">${mc[0].replace("-","–")}</a></div><div class="d">${t("tip.games",{n:mc[1]})}</div></div></div>
+      <div class="two" style="margin-bottom:16px"><div class="panel"><h3>${t("h2h.big",{t:esc(TEAMS[A])})}</h3>${bigL(A)}</div><div class="panel"><h3>${t("h2h.big",{t:esc(TEAMS[B])})}</h3>${bigL(B)}</div></div>
+      <div class="panel">${gamesTable(list.slice().reverse())}</div>`; } }
+  return {html:`<div class="head"><div><h1>${H.h}</h1><p class="sub">${H.sub}</p></div></div>
+   <div class="pick"><label for="h-a">${H.a}<select id="h-a">${opts(A)}</select></label><label for="h-b">${H.b}<select id="h-b">${opts(B)}</select></label>${seg("mando","",[["any",H.any],["a",H.ahome]]).replace('<span class="lbl"></span>','<span class="lbl">&nbsp;</span>')}</div>${body}`,
+   after:()=>{ const go=()=>{location.hash=href("confrontos",[document.getElementById("h-a").value,document.getElementById("h-b").value]);};
+     document.getElementById("h-a").addEventListener("change",go); document.getElementById("h-b").addEventListener("change",go);
+     document.querySelectorAll('[data-seg="mando"]').forEach(b=>b.addEventListener("click",()=>{S.mando=b.dataset.v; location.hash=href("confrontos",[TSLUG[A],TSLUG[B]]);})); }};
+};
+V.sobre = () => ({html:`<div class="prose"><h1>${t("about.h")}</h1>${ABOUT[S.lang]}</div>`});
+V.ajuste = () => { const A=T[S.lang].adj;
+  return {html:`<div class="prose" style="margin-bottom:16px"><h1>${A.h}</h1><p class="sub">${A.sub}</p></div>
+  <form class="adj" id="adj" novalidate><label for="a-type">${A.type}<select id="a-type">${A.types.map(x=>`<option>${x}</option>`).join("")}</select></label>
+  <label for="a-game">${A.game}<input id="a-game" placeholder="15/05/2009 · Limeira 87 × 77 Joinville"></label>
+  <label for="a-fix">${A.fix}<textarea id="a-fix" rows="4"></textarea></label>
+  <label for="a-src">${A.src}<input id="a-src" type="url" placeholder="https://"></label>
+  <label for="a-mail">${A.mail}<input id="a-mail" type="email"></label>
+  <p class="meta" id="a-err" hidden>${A.req}</p><button class="btn" type="submit">${A.send}</button></form><div id="a-done" style="margin-top:16px;max-width:620px"></div>`,
+  after:()=>document.getElementById("adj").addEventListener("submit",e=>{ e.preventDefault(); const v=id=>document.getElementById(id).value.trim();
+    if(!v("a-game")||!v("a-fix")){document.getElementById("a-err").hidden=false;return;} document.getElementById("a-err").hidden=true;
+    const msg=`${A.type}: ${v("a-type")}\n${A.game}: ${v("a-game")}\n${A.fix}: ${v("a-fix")}\n${A.src}: ${v("a-src")||"—"}\n${A.mail}: ${v("a-mail")||"—"}`;
+    const d=document.getElementById("a-done"); d.innerHTML=`<div class="ok"><p style="margin:0 0 8px">${A.sent}</p><pre class="msg" id="a-msg">${esc(msg)}</pre><button class="btn ghost" type="button" id="a-copy">${A.copy}</button></div>`;
+    document.getElementById("a-copy").addEventListener("click",ev=>{ navigator.clipboard?.writeText(msg).then(()=>ev.target.textContent=A.copied).catch(()=>{const r=document.createRange(); r.selectNodeContents(document.getElementById("a-msg")); const s=getSelection(); s.removeAllRanges(); s.addRange(r);}); }); })};
+};
+
+/* ---------- shell ---------- */
+function renderNav(){
+  const cur = S.route==="placar"?"home":S.route==="time"?"times":S.route;
+  document.getElementById("nav").innerHTML=Object.entries(T[S.lang].nav).map(([k,l])=>`<a href="${href(k)}" ${k===cur?'aria-current="page"':""}>${l}</a>`).join("");
+  document.getElementById("brand").href=href("home");
+}
+function renderView(){
+  tip.hidden=true; const r=(V[S.route]||V.home)(); const v=document.getElementById("view"); v.innerHTML=r.html; r.after&&r.after();
+  v.querySelectorAll("[data-seg]").forEach(()=>{}); }
+function renderShell(){
+  document.documentElement.lang = S.lang==="pt"?"pt-BR":S.lang;
+  document.getElementById("lang").value=S.lang;
+  document.getElementById("theme").textContent=t("theme."+S.theme);
+  document.getElementById("notice").textContent=t("notice",{n:G.length.toLocaleString(LOC()),s:DATA_SEASONS.size});
+  const ft=T[S.lang].foot; document.getElementById("foot1").textContent=ft[0]; document.getElementById("foot2").textContent=ft[1];
+}
+function applyTheme(){ if(S.theme==="auto") document.documentElement.removeAttribute("data-theme"); else document.documentElement.setAttribute("data-theme",S.theme); readColors(); }
+function route(){ stopTL(); readHash(); renderShell(); renderNav(); renderFilters(); renderView(); window.scrollTo(0,0); }
+document.getElementById("lang").addEventListener("change",e=>{ S.lang=e.target.value; try{localStorage.setItem("sgnbb-lang",S.lang);}catch(_){} setHash(); renderShell(); renderNav(); renderFilters(); renderView(); });
+document.getElementById("theme").addEventListener("click",()=>{ S.theme={auto:"light",light:"dark",dark:"auto"}[S.theme]; try{localStorage.setItem("sgnbb-theme",S.theme);}catch(_){} applyTheme(); renderShell(); renderView(); });
+matchMedia("(prefers-color-scheme: dark)").addEventListener("change",()=>{ readColors(); renderView(); });
+window.addEventListener("hashchange",route);
+let RW=innerWidth, RT; window.addEventListener("resize",()=>{ clearTimeout(RT); RT=setTimeout(()=>{ if(Math.abs(innerWidth-RW)>40 && S.route!=="timelapse"){ RW=innerWidth; renderView(); } },200); });
+applyTheme(); route();

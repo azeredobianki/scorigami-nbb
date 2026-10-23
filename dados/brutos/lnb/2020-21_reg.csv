@@ -1,0 +1,241 @@
+data,mandante,pts_mandante,pts_visitante,visitante,rodada,etapa,hora,prorrogacoes,quartos,status_quartos,id_lnb,link
+10/11/2020,VipTech CMB,61,74,Fortaleza B. C.,1ª RODADA,1º TURNO,17:00,0,14-15 5-13 27-21 15-25,ok,23524,https://lnb.com.br/noticias/campo-mourao-61-x-74-fortaleza-basquete-cearense/
+10/11/2020,Flamengo,102,68,Minas,1ª RODADA,1º TURNO,20:00,0,25-25 34-15 19-7 24-21,ok,23525,https://lnb.com.br/noticias/flamengo-102-x-68-minas-tenis-clube/
+12/11/2020,UNIFACISA,86,88,VipTech CMB,1ª RODADA,1º TURNO,15:30,,,sem_quartos,23526,https://lnb.com.br/noticias/unifacisa-86-x-88-campo-mourao/
+12/11/2020,Corinthians,109,86,Sesi Franca,1ª RODADA,1º TURNO,15:30,,,sem_quartos,23529,https://lnb.com.br/partidas/nbb-2020-2021-corinthians-x-sesi-franca-12112020-1530/
+12/11/2020,Fortaleza B. C.,69,82,Flamengo,1ª RODADA,1º TURNO,18:00,0,18-27 15-13 16-24 20-18,ok,23528,https://lnb.com.br/noticias/fortaleza-basquete-cearense-69-x-82-flamengo/
+12/11/2020,Minas,76,54,Pato Basquete,1ª RODADA,1º TURNO,20:30,0,16-16 25-10 22-15 13-13,ok,23527,https://lnb.com.br/noticias/minas-76-x-54-pato-basquete/
+13/11/2020,Mogi,85,90,Bauru,1ª RODADA,1º TURNO,20:00,0,18-26 25-24 22-22 20-18,ok,23530,https://lnb.com.br/noticias/mogi-basquete-85-x-90-bauru-basket/
+14/11/2020,VipTech CMB,54,90,Minas,1ª RODADA,1º TURNO,15:00,0,12-21 16-23 18-25 8-21,ok,23534,https://lnb.com.br/noticias/campo-mourao-54-x-94-minas-tenis-clube/
+14/11/2020,São Paulo,107,61,Corinthians,1ª RODADA,1º TURNO,16:00,0,26-15 26-25 27-13 28-8,ok,23531,https://lnb.com.br/noticias/sao-paulo-107-x-61-corinthians/
+14/11/2020,Pato Basquete,69,76,Fortaleza B. C.,1ª RODADA,1º TURNO,17:30,0,15-19 15-22 15-24 24-11,ok,23535,https://lnb.com.br/noticias/pato-basquete-69-x-76-fortaleza-basquete-cearense/
+14/11/2020,Brasília,57,73,Paulistano,1ª RODADA,1º TURNO,18:30,0,22-15 11-16 15-20 9-22,ok,23532,https://lnb.com.br/noticias/brasilia-57-x-73-paulistano/
+14/11/2020,Flamengo,86,79,UNIFACISA,1ª RODADA,1º TURNO,20:00,0,25-27 15-18 27-18 19-16,ok,23536,https://lnb.com.br/noticias/flamengo-86-x-79-unifacisa/
+14/11/2020,Sesi Franca,80,60,Pinheiros,1ª RODADA,1º TURNO,21:00,0,23-16 23-18 16-14 18-12,ok,23533,https://lnb.com.br/noticias/franca-80-x-60-pinheiros/
+16/11/2020,Cerrado Basquete,79,86,Sesi Franca,2ª RODADA,1º TURNO,16:00,0,17-27 26-12 14-22 22-25,ok,23537,https://lnb.com.br/noticias/cerrado-basquete-79-x-86-sesi-franca-basquete/
+16/11/2020,Bauru,93,70,Brasília,2ª RODADA,1º TURNO,18:30,0,23-15 25-12 22-17 23-26,ok,23538,https://lnb.com.br/noticias/bauru-93-x-70-brasilia-2/
+16/11/2020,Corinthians,76,74,Pinheiros,2ª RODADA,1º TURNO,21:00,,,sem_quartos,23539,https://lnb.com.br/noticias/corinthians-76-x-74-pinheiros/
+17/11/2020,VipTech CMB,78,82,Pato Basquete,2ª RODADA,1º TURNO,15:00,,,sem_quartos,23540,https://lnb.com.br/partidas/nbb-2020-2021-viptech-cmb-x-pato-basquete-17112020-1500/
+17/11/2020,UNIFACISA,69,67,Fortaleza B. C.,2ª RODADA,1º TURNO,17:30,0,21-17 19-12 20-23 9-15,ok,23541,https://lnb.com.br/noticias/unifacisa-69-x-67-fortaleza/
+17/11/2020,Mogi,75,112,São Paulo,2ª RODADA,1º TURNO,20:00,0,11-20 23-25 18-41 23-26,ok,23542,https://lnb.com.br/noticias/mogi-75-x-112-sao-paulo-fc/
+18/11/2020,KTO/Caxias do Sul,84,69,Brasília,2ª RODADA,1º TURNO,16:00,0,22-16 21-15 22-19 19-19,ok,23543,https://lnb.com.br/noticias/kto-caxias-do-sul-84-x-69-brasilia-basquete/
+18/11/2020,Cerrado Basquete,81,83,Bauru,2ª RODADA,1º TURNO,18:30,0,15-29 14-17 30-16 22-21,ok,23544,https://lnb.com.br/noticias/cerrado-81-x-83-bauru/
+18/11/2020,Paulistano,75,74,Corinthians,2ª RODADA,1º TURNO,21:00,0,20-20 21-13 20-14 14-27,ok,23545,https://lnb.com.br/noticias/paulistano-75-x-74-corinthians/
+19/11/2020,Pato Basquete,85,76,UNIFACISA,2ª RODADA,1º TURNO,13:30,0,16-21 14-21 31-17 24-17,ok,23547,https://lnb.com.br/noticias/pato-basquete-x-unifacisa/
+19/11/2020,Fortaleza B. C.,67,82,Minas,2ª RODADA,1º TURNO,16:00,,,sem_quartos,23546,https://lnb.com.br/partidas/nbb-2020-2021-fortaleza-b-c-x-minas-19112020-1600/
+19/11/2020,Pinheiros,73,100,São Paulo,2ª RODADA,1º TURNO,18:30,0,17-21 15-24 19-23 22-32,ok,23550,https://lnb.com.br/noticias/pinheiros-73-x-100-sao-paulo/
+19/11/2020,Sesi Franca,94,82,Mogi,2ª RODADA,1º TURNO,21:00,0,20-23 24-9 22-31 28-19,ok,23549,https://lnb.com.br/noticias/sesi-franca-x-mogi/
+20/11/2020,Paulistano,72,61,Cerrado Basquete,2ª RODADA,1º TURNO,16:00,0,21-16 13-14 17-26 21-5,ok,23552,https://lnb.com.br/noticias/paulistano-corpore-72-x-61-cerrado-basquete/
+20/11/2020,Bauru,74,54,KTO/Caxias do Sul,2ª RODADA,1º TURNO,18:30,0,17-11 22-13 18-14 17-16,ok,23551,https://lnb.com.br/noticias/zopone-gocil-bauru-basket-74-x-54-caxias-do-sul-basquete/
+20/11/2020,Flamengo,78,63,VipTech CMB,2ª RODADA,1º TURNO,21:00,0,15-10 17-15 18-19 28-19,ok,23548,https://lnb.com.br/noticias/flamengo-78-x-63-campo-mourao/
+21/11/2020,São Paulo,90,96,Sesi Franca,2ª RODADA,1º TURNO,15:00,0,16-30 19-22 30-14 25-30,ok,23553,https://lnb.com.br/noticias/sao-paulo-90-x-96-sesi-franca/
+21/11/2020,Minas,108,99,UNIFACISA,2ª RODADA,1º TURNO,17:30,0,33-24 26-25 23-22 26-28,ok,23555,https://lnb.com.br/noticias/minas-tenis-clube-108-x-99-unifacisa/
+21/11/2020,Brasília,84,78,Pinheiros,2ª RODADA,1º TURNO,20:00,0,19-24 21-9 26-21 18-24,ok,23554,https://lnb.com.br/noticias/brasilia-84-x-78-pinheiros/
+22/11/2020,KTO/Caxias do Sul,62,86,Paulistano,2ª RODADA,1º TURNO,16:00,0,15-18 13-27 20-18 14-23,ok,23557,https://lnb.com.br/noticias/caxias-62-x-86-paulistano/
+22/11/2020,Flamengo,105,70,Pato Basquete,2ª RODADA,1º TURNO,19:00,0,34-22 21-21 27-19 23-8,ok,23556,https://lnb.com.br/noticias/flamengo-105-x-70-pato-basquete/
+23/11/2020,Brasília,71,85,Corinthians,3ª RODADA,1º TURNO,17:00,0,11-21 20-23 22-19 18-22,ok,23558,https://lnb.com.br/noticias/brasilia-71-x-85-corinthians/
+23/11/2020,Mogi,81,75,Cerrado Basquete,3ª RODADA,1º TURNO,20:00,0,16-27 21-15 21-15 23-18,ok,23559,https://lnb.com.br/noticias/mogi-81-x-75-cerrado/
+25/11/2020,Cerrado Basquete,67,63,KTO/Caxias do Sul,3ª RODADA,1º TURNO,20:00,0,20-19 15-11 15-12 17-21,ok,23560,https://lnb.com.br/noticias/cerrado-basquete-67-x-63-caxias-do-sul-basquete/
+28/11/2020,Corinthians,81,87,Mogi,3ª RODADA,1º TURNO,16:00,0,25-15 12-19 18-18 26-35,ok,23561,https://lnb.com.br/noticias/corinthians-81-x-87-mogi/
+02/12/2020,Cerrado Basquete,67,75,UNIFACISA,4ª RODADA,1º TURNO,14:30,0,19-22 17-12 14-14 17-27,ok,23564,https://lnb.com.br/noticias/cerrado-67-x-75-unifacisa/
+02/12/2020,Fortaleza B. C.,85,78,KTO/Caxias do Sul,4ª RODADA,1º TURNO,17:30,0,27-15 18-22 23-26 17-15,ok,23563,https://lnb.com.br/noticias/fortaleza-basquete-cearense-85-x-78-kto-caxias-do-sul-do-basquete/
+02/12/2020,Minas,105,100,BRB/Brasília,4ª RODADA,1º TURNO,20:30,1,29-32 27-16 12-23 19-16 18-13,ok,23562,https://lnb.com.br/noticias/minas-tenis-clube-105-x-100-brasilia-basquete/
+03/12/2020,Pato Basquete,64,86,Sesi Franca,4ª RODADA,1º TURNO,14:30,,,sem_quartos,23565,https://lnb.com.br/partidas/nbb-2020-2021-pato-basquete-x-sesi-franca-03122020-1430/
+03/12/2020,Pinheiros,62,95,Flamengo,4ª RODADA,1º TURNO,17:30,,,sem_quartos,23566,https://lnb.com.br/noticias/pinheiros-62-x-95-flamengo/
+03/12/2020,São Paulo,92,79,VipTech CMB,4ª RODADA,1º TURNO,20:30,0,24-19 18-19 25-20 25-21,ok,23567,https://lnb.com.br/noticias/sao-paulo-92-x-79-campo-mourao/
+04/12/2020,KTO/Caxias do Sul,63,94,Minas,4ª RODADA,1º TURNO,14:30,0,17-18 18-24 13-22 15-30,ok,23568,https://lnb.com.br/noticias/kto-caxias-do-sul-63-x-94-minas-tenis-clube/
+04/12/2020,UNIFACISA,91,74,BRB/Brasília,4ª RODADA,1º TURNO,17:30,0,26-24 25-16 18-16 22-18,ok,23569,https://lnb.com.br/noticias/unifacisa-91-x-74-brasilia/
+04/12/2020,Paulistano,69,62,Mogi,4ª RODADA,1º TURNO,18:00,0,12-12 10-11 19-18 28-21,ok,23571,https://lnb.com.br/noticias/paulistano-69-x-62-mogi/
+04/12/2020,Cerrado Basquete,73,75,Fortaleza B. C.,4ª RODADA,1º TURNO,20:30,0,27-19 11-25 13-15 22-16,ok,23570,https://lnb.com.br/noticias/cerrado-73-x-75-fortaleza-bc/
+05/12/2020,VipTech CMB,79,66,Pinheiros,4ª RODADA,1º TURNO,09:00,0,16-9 22-18 20-12 21-27,ok,23572,https://lnb.com.br/noticias/campo-mourao-79-x-66-pinheiros/
+05/12/2020,Pato Basquete,71,80,São Paulo,4ª RODADA,1º TURNO,12:00,0,16-17 20-27 19-14 16-22,ok,23575,https://lnb.com.br/noticias/pato-basquete-71-x-80-sao-paulo/
+05/12/2020,Flamengo,93,62,Sesi Franca,4ª RODADA,1º TURNO,16:00,0,15-15 29-17 29-17 20-13,ok,23574,https://lnb.com.br/noticias/flamengo-93-x-62-sesi-franca/
+05/12/2020,Bauru,82,67,Corinthians,4ª RODADA,1º TURNO,19:00,0,18-18 25-14 22-19 17-16,ok,23573,https://lnb.com.br/noticias/bauru-82-x-67-corinthians/
+06/12/2020,Fortaleza B. C.,71,63,BRB/Brasília,4ª RODADA,1º TURNO,11:30,0,15-7 15-19 18-18 23-19,ok,23576,https://lnb.com.br/noticias/fortaleza-basquete-cearense-71-x-63-brasilia/
+06/12/2020,Minas,97,77,Cerrado Basquete,4ª RODADA,1º TURNO,14:30,0,17-12 27-21 29-17 24-27,ok,23578,https://lnb.com.br/noticias/minas-97-x-77-cerrado/
+06/12/2020,KTO/Caxias do Sul,65,90,UNIFACISA,4ª RODADA,1º TURNO,17:30,0,15-23 14-20 17-17 19-30,ok,23577,https://lnb.com.br/noticias/caxias-do-sul-x-unifacisa/
+07/12/2020,Pinheiros,85,77,Pato Basquete,5ª RODADA,1º TURNO,17:00,0,24-11 22-20 17-16 22-30,ok,23579,https://lnb.com.br/noticias/pinheiros-85-x-77-pato-basquete/
+07/12/2020,Sesi Franca,95,58,VipTech CMB,5ª RODADA,1º TURNO,20:00,0,17-5 19-13 25-15 34-25,ok,23580,https://lnb.com.br/noticias/sesi-franca-basquete-95-x-58-campo-mourao/
+08/12/2020,Bauru,81,62,Paulistano,5ª RODADA,1º TURNO,17:00,0,20-22 14-19 22-12 25-9,ok,23581,https://lnb.com.br/noticias/bauru-81-x-62-paulistano/
+08/12/2020,São Paulo,80,68,Flamengo,5ª RODADA,1º TURNO,20:00,0,13-15 21-12 15-19 31-22,ok,23582,https://lnb.com.br/noticias/sao-paulo-80-x-68-flamengo/
+09/12/2020,UNIFACISA,94,74,Corinthians,5ª RODADA,1º TURNO,20:00,0,25-17 22-25 22-13 25-19,ok,23583,https://lnb.com.br/noticias/unifacisa-94-x-74-corinthians/
+10/12/2020,Pato Basquete,80,79,Bauru,5ª RODADA,1º TURNO,17:00,0,19-16 21-22 22-23 18-18,ok,23584,https://lnb.com.br/noticias/pato-basquete-80-x-79-bauru/
+10/12/2020,Flamengo,104,76,Paulistano,5ª RODADA,1º TURNO,20:00,0,26-10 28-30 22-17 28-19,ok,23585,https://lnb.com.br/noticias/flamengo-104-x-76-paulistano/
+11/12/2020,Mogi,98,91,UNIFACISA,5ª RODADA,1º TURNO,14:30,0,29-21 18-16 24-28 27-26,ok,23588,https://lnb.com.br/noticias/mogi-das-cruzes-98-x-91-unifacisa/
+11/12/2020,Pinheiros,79,72,KTO/Caxias do Sul,5ª RODADA,1º TURNO,17:30,0,15-21 22-13 25-17 17-21,ok,23587,https://lnb.com.br/noticias/pinheiros-79-x-72-caxias-do-sul/
+11/12/2020,BRB/Brasília,80,104,São Paulo,5ª RODADA,1º TURNO,20:30,0,23-25 14-23 18-31 25-25,ok,23586,https://lnb.com.br/noticias/brasilia-80-x-104-sao-paulo/
+12/12/2020,Bauru,73,90,Flamengo,5ª RODADA,1º TURNO,16:00,0,13-28 24-27 19-15 17-20,ok,23589,https://lnb.com.br/noticias/bauru-73-x-90-flamengo/
+12/12/2020,Paulistano,75,68,Pato Basquete,5ª RODADA,1º TURNO,19:00,0,14-21 16-14 22-17 23-16,ok,23590,https://lnb.com.br/noticias/paulistano-75-x-68-pato/
+13/12/2020,Sesi Franca,90,93,BRB/Brasília,5ª RODADA,1º TURNO,13:00,0,18-21 18-21 23-25 31-26,ok,23591,https://lnb.com.br/noticias/sesi-franca-90-x-93-brasilia/
+13/12/2020,Pinheiros,80,77,Cerrado Basquete,5ª RODADA,1º TURNO,16:00,0,16-23 15-13 26-14 23-27,ok,23593,https://lnb.com.br/noticias/pinheiros-80-x-77-cerrado/
+13/12/2020,KTO/Caxias do Sul,89,109,São Paulo,5ª RODADA,1º TURNO,19:00,0,13-32 18-27 30-23 28-27,ok,23592,https://lnb.com.br/noticias/caxias-do-sul-89-x-109-sao-paulo/
+14/12/2020,Fortaleza B. C.,85,88,Mogi,6ª RODADA,1º TURNO,17:00,0,24-17 16-24 23-27 22-20,ok,23595,https://lnb.com.br/noticias/fortaleza-basquete-cearense-85-x-88-mogi/
+14/12/2020,Minas,20,0,Corinthians,6ª RODADA,1º TURNO,20:00,,,sem_quartos,23594,https://lnb.com.br/partidas/nbb-2020-2021-minas-x-corinthians-14122020-2000/
+15/12/2020,Sesi Franca,84,81,KTO/Caxias do Sul,6ª RODADA,1º TURNO,17:00,0,22-18 17-16 25-22 20-25,ok,23597,https://lnb.com.br/noticias/franca-84-x-81-caxias-do-sul/
+15/12/2020,VipTech CMB,75,88,Bauru,6ª RODADA,1º TURNO,17:30,0,21-19 21-28 17-19 16-22,ok,23596,https://lnb.com.br/noticias/campo-mourao-75-x-88-bauru/
+15/12/2020,São Paulo,91,83,Cerrado Basquete,6ª RODADA,1º TURNO,20:00,0,21-25 23-18 21-24 26-16,ok,23598,https://lnb.com.br/noticias/sao-paulo-91-x-83-cerrado/
+16/12/2020,Corinthians,0,20,Fortaleza B. C.,6ª RODADA,1º TURNO,20:00,,,sem_quartos,23599,https://lnb.com.br/partidas/nbb-2020-2021-corinthians-x-fortaleza-b-c-16122020-2000/
+16/12/2020,Mogi,74,80,Minas,6ª RODADA,1º TURNO,20:00,0,22-22 15-15 18-19 19-24,ok,23600,https://lnb.com.br/noticias/mogi-74-x-80-minas/
+17/12/2020,Paulistano,103,101,VipTech CMB,6ª RODADA,1º TURNO,15:00,2,18-20 21-16 25-19 20-29 8-8 11-9,ok,23601,https://lnb.com.br/noticias/paulistano-103-x-101-campo-mourao/
+18/12/2020,BRB/Brasília,74,103,Flamengo,6ª RODADA,1º TURNO,20:00,0,24-22 9-28 17-25 24-28,ok,23602,https://lnb.com.br/noticias/brasilia-74-x-103-flamengo/
+19/12/2020,UNIFACISA,92,85,Sesi Franca,6ª RODADA,1º TURNO,11:00,0,23-25 22-24 23-19 24-17,ok,23603,https://lnb.com.br/noticias/unifacisa-92-x-85-franca/
+19/12/2020,Minas,96,92,São Paulo,6ª RODADA,1º TURNO,16:00,0,19-21 13-28 28-22 36-21,ok,23604,https://lnb.com.br/noticias/minas-96-x-92-sao-paulo/
+19/12/2020,Fortaleza B. C.,79,62,Pinheiros,6ª RODADA,1º TURNO,19:00,0,24-16 22-12 15-14 18-20,ok,23605,https://lnb.com.br/noticias/fortaleza-bc-79-x-62-pinheiros/
+20/12/2020,BRB/Brasília,98,104,Pato Basquete,6ª RODADA,1º TURNO,16:00,1,17-21 18-21 27-22 21-19 15-21,ok,23607,https://lnb.com.br/noticias/brasilia-98-x-pato-104/
+20/12/2020,Cerrado Basquete,67,87,Flamengo,6ª RODADA,1º TURNO,19:00,0,17-29 18-14 18-22 14-22,ok,23608,https://lnb.com.br/noticias/cerrado-67-x-87-flamengo/
+20/12/2020,KTO/Caxias do Sul,76,96,VipTech CMB,6ª RODADA,1º TURNO,21:30,,,sem_quartos,23606,https://lnb.com.br/partidas/nbb-2020-2021-kto-caxias-do-sul-x-viptech-cmb-20122020-2130/
+21/12/2020,Pinheiros,76,84,Minas,7ª RODADA,1º TURNO,14:30,0,19-23 14-24 17-20 26-17,ok,23611,https://lnb.com.br/noticias/pinheiros-76-x-84-minas/
+21/12/2020,Sesi Franca,98,81,Fortaleza B. C.,7ª RODADA,1º TURNO,17:30,0,26-18 26-18 22-31 24-14,ok,23609,https://lnb.com.br/noticias/sesi-franca-98-x-81-fortaleza-basquete-cearense/
+21/12/2020,São Paulo,77,65,UNIFACISA,7ª RODADA,1º TURNO,20:30,0,18-13 20-18 19-12 20-22,ok,23610,https://lnb.com.br/noticias/sao-paulo-77-x-65-unifacisa/
+22/12/2020,Pato Basquete,79,68,Cerrado Basquete,7ª RODADA,1º TURNO,14:00,0,22-15 20-16 17-21 20-16,ok,23613,https://lnb.com.br/noticias/pato-basquete-79-x-68-cerrado/
+22/12/2020,VipTech CMB,94,78,BRB/Brasília,7ª RODADA,1º TURNO,17:00,0,22-32 21-17 26-14 25-15,ok,23612,https://lnb.com.br/noticias/campo-mourao-94-x-78-brasilia/
+22/12/2020,Flamengo,80,76,KTO/Caxias do Sul,7ª RODADA,1º TURNO,20:00,0,18-21 21-21 18-19 23-15,ok,23614,https://lnb.com.br/noticias/flamengo-80-x-76-caxias/
+23/12/2020,UNIFACISA,72,84,Pinheiros,7ª RODADA,1º TURNO,14:30,0,15-21 15-16 17-22 25-25,ok,23617,https://lnb.com.br/noticias/unifacisa-72-x-84-pinheiros/
+23/12/2020,Minas,89,82,Sesi Franca,7ª RODADA,1º TURNO,17:30,0,22-28 15-18 24-28 28-8,ok,23616,https://lnb.com.br/noticias/minas-tenis-clube-89-x-82-sesi-franca-basquete/
+23/12/2020,Fortaleza B. C.,92,85,São Paulo,7ª RODADA,1º TURNO,20:30,0,15-20 21-21 32-29 24-15,ok,23615,https://lnb.com.br/noticias/fortaleza-92-x-85-sao-paulo/
+28/12/2020,Flamengo,87,56,Mogi,7ª RODADA,1º TURNO,11:00,0,17-15 30-12 17-14 23-15,ok,23618,https://lnb.com.br/noticias/flamengo-87-x-56-mogi/
+28/12/2020,Paulistano,87,85,Sesi Franca,8ª RODADA,1º TURNO,17:00,1,22-13 10-22 23-20 15-15 17-15,ok,23619,https://lnb.com.br/noticias/paulistano-87-x-85-sesi-franca/
+28/12/2020,Bauru,79,68,São Paulo,8ª RODADA,1º TURNO,20:00,0,28-15 8-20 24-14 19-19,ok,23620,https://lnb.com.br/noticias/bauru-79-x-68-sao-paulo/
+29/12/2020,Mogi,74,68,Pinheiros,8ª RODADA,1º TURNO,17:00,0,18-10 17-20 21-17 18-21,ok,23621,https://lnb.com.br/noticias/mogi-74-x-68-pinheiros/
+29/12/2020,Corinthians,83,69,Flamengo,8ª RODADA,1º TURNO,20:00,0,15-22 16-11 21-13 31-23,ok,23622,https://lnb.com.br/noticias/corinthians-83-x-69-flamengo/
+30/12/2020,Sesi Franca,82,89,Bauru,8ª RODADA,1º TURNO,17:00,0,13-18 13-27 34-21 22-23,ok,23623,https://lnb.com.br/noticias/franca-82-x-89-bauru/
+30/12/2020,São Paulo,78,64,Paulistano,8ª RODADA,1º TURNO,20:00,1,11-12 16-8 19-24 15-17 17-3,ok,23624,https://lnb.com.br/noticias/sao-paulo-78-x-64-paulistano/
+04/01/2021,VipTech CMB,92,86,Mogi,9ª RODADA,1º TURNO,17:00,0,28-20 17-23 21-24 26-19,ok,23625,https://lnb.com.br/noticias/campo-mourao-92-x-86-mogi-basquete/
+04/01/2021,Pato Basquete,75,80,Corinthians,9ª RODADA,1º TURNO,20:00,0,18-12 15-25 20-24 22-19,ok,23626,https://lnb.com.br/noticias/pato-basquete-75-x-80-corinthians/
+05/01/2021,Bauru,75,85,Minas,9ª RODADA,1º TURNO,17:00,,,sem_quartos,23627,https://lnb.com.br/partidas/nbb-2020-2021-bauru-x-minas-05012021-1700/
+05/01/2021,Paulistano,78,73,Fortaleza B. C.,9ª RODADA,1º TURNO,20:00,0,28-12 19-18 14-22 17-21,ok,23628,https://lnb.com.br/noticias/paulistano-78-x-73-fortaleza-bc/
+06/01/2021,Cerrado Basquete,97,85,BRB/Brasília,9ª RODADA,1º TURNO,14:30,0,20-14 21-30 28-18 28-23,ok,23629,https://lnb.com.br/noticias/cerrado-97-x-85-brasilia/
+06/01/2021,Mogi,78,63,Pato Basquete,9ª RODADA,1º TURNO,17:30,0,19-16 24-15 19-21 16-11,ok,23630,https://lnb.com.br/noticias/mogi-78-x-63-pato-basquete/
+06/01/2021,Corinthians,96,72,VipTech CMB,9ª RODADA,1º TURNO,20:30,0,30-27 29-15 22-23 15-7,ok,23631,https://lnb.com.br/noticias/corinthians-96-x-72-campo-mourao/
+07/01/2021,Fortaleza B. C.,71,60,Bauru,9ª RODADA,1º TURNO,17:00,0,8-8 19-14 26-20 18-18,ok,23632,https://lnb.com.br/noticias/fortaleza-bc-71-x-60-bauru/
+07/01/2021,Minas,70,63,Paulistano,9ª RODADA,1º TURNO,20:00,0,23-9 15-25 16-16 16-13,ok,23633,https://lnb.com.br/noticias/minas-70-x-63-paulistano/
+08/01/2021,Pato Basquete,77,92,KTO/Caxias do Sul,9ª RODADA,1º TURNO,14:30,0,18-13 12-27 20-26 27-26,ok,23634,https://lnb.com.br/noticias/pato-77-x-92-caxias-do-sul/
+08/01/2021,VipTech CMB,66,74,Cerrado Basquete,9ª RODADA,1º TURNO,17:30,0,15-15 17-20 18-11 16-28,ok,23635,https://lnb.com.br/noticias/campo-mourao-66-x-74-cerrado/
+08/01/2021,BRB/Brasília,86,90,Mogi,9ª RODADA,1º TURNO,20:30,0,14-21 22-14 28-25 22-30,ok,23636,https://lnb.com.br/noticias/brasilia-86-x-90-mogi/
+09/01/2021,Bauru,89,75,UNIFACISA,9ª RODADA,1º TURNO,16:00,0,27-18 23-22 17-18 22-17,ok,23637,https://lnb.com.br/noticias/bauru-89-x-75-unifacisa/
+09/01/2021,Paulistano,68,46,Pinheiros,9ª RODADA,1º TURNO,19:00,0,16-11 18-17 16-15 18-3,ok,23638,https://lnb.com.br/noticias/paulistano-68-x-46-pinheiros/
+10/01/2021,KTO/Caxias do Sul,87,92,Mogi,9ª RODADA,1º TURNO,16:00,1,21-14 8-13 22-27 22-19 14-19,ok,23639,https://lnb.com.br/noticias/caxias-87-x-82-mogi/
+10/01/2021,Cerrado Basquete,71,74,Corinthians,9ª RODADA,1º TURNO,19:00,0,19-14 21-21 11-22 20-17,ok,23640,https://lnb.com.br/noticias/cerrado-71-x-74-corinthians/
+11/01/2021,UNIFACISA,89,77,Paulistano,10ª RODADA,1º TURNO,17:00,0,23-17 21-22 32-18 13-20,ok,23642,https://lnb.com.br/noticias/unifacisa-89-x-77-paulistano/
+11/01/2021,Pinheiros,89,92,Bauru,10ª RODADA,1º TURNO,20:00,0,15-30 30-22 14-20 30-20,ok,23641,https://lnb.com.br/noticias/pinheiros-89-x-92-bauru/
+12/01/2021,Corinthians,77,83,KTO/Caxias do Sul,10ª RODADA,1º TURNO,20:00,0,16-18 21-14 23-23 17-28,ok,23643,https://lnb.com.br/noticias/corinthians-77-x-83-caxias-basquete/
+25/01/2021,São Paulo,86,81,KTO/Caxias do Sul,11ª RODADA,2º TURNO,14:00,0,19-24 20-14 30-24 17-19,ok,23646,https://lnb.com.br/noticias/sao-paulo-86-x-81-caxias-basquete/
+25/01/2021,Bauru,60,72,Pinheiros,11ª RODADA,2º TURNO,17:00,0,16-24 17-19 13-15 14-14,ok,23647,https://lnb.com.br/noticias/bauru-60-x-72-pinheiros/
+25/01/2021,Sesi Franca,84,81,Corinthians,11ª RODADA,2º TURNO,20:00,0,19-17 18-21 20-28 27-15,ok,23645,https://lnb.com.br/noticias/sesi-franca-84-x-81-corinthians/
+26/01/2021,Pato Basquete,98,76,BRB/Brasília,11ª RODADA,2º TURNO,11:00,0,22-18 25-10 31-27 20-21,ok,23651,https://lnb.com.br/noticias/pato-basquete-98-x-76-brasilia/
+26/01/2021,VipTech CMB,59,72,UNIFACISA,11ª RODADA,2º TURNO,14:00,0,16-20 14-12 10-22 19-18,ok,23649,https://lnb.com.br/noticias/campo-mourao-59-x-72-unifacisa/
+26/01/2021,Cerrado Basquete,80,93,Minas,11ª RODADA,2º TURNO,17:00,0,20-27 19-21 11-23 30-22,ok,23650,https://lnb.com.br/noticias/cerrado-basquete-80-x-93-minas-tenis-clube/
+26/01/2021,Flamengo,77,74,Fortaleza B. C.,11ª RODADA,2º TURNO,20:00,0,24-18 22-12 12-16 19-28,ok,23648,https://lnb.com.br/noticias/flamengo-77-x-74-fortaleza-bc/
+27/01/2021,KTO/Caxias do Sul,63,71,Bauru,11ª RODADA,2º TURNO,15:00,0,25-21 10-19 12-14 16-17,ok,23654,https://lnb.com.br/noticias/caxias-basquete-63-x-71-bauru-basket/
+27/01/2021,Pinheiros,101,99,Sesi Franca,11ª RODADA,2º TURNO,18:00,1,22-24 22-19 23-22 25-27 9-7,ok,23652,https://lnb.com.br/noticias/pinheiros-101-x-99-sesi-franca/
+27/01/2021,São Paulo,96,72,Mogi,11ª RODADA,2º TURNO,21:00,0,23-13 22-16 27-20 24-23,ok,23653,https://lnb.com.br/noticias/sao-paulo-96-x-72-mogi-basquerte/
+28/01/2021,Fortaleza B. C.,68,71,Pato Basquete,11ª RODADA,2º TURNO,11:00,0,23-14 19-18 16-25 10-14,ok,23658,https://lnb.com.br/noticias/fortaleza-bc-68-x-71-pato-basquete/
+28/01/2021,Cerrado Basquete,74,57,VipTech CMB,11ª RODADA,2º TURNO,14:00,0,12-13 14-11 19-19 29-14,ok,23657,https://lnb.com.br/noticias/cerrado-74-x-57-campo-mourao/
+28/01/2021,BRB/Brasília,75,99,Minas,11ª RODADA,2º TURNO,17:00,0,26-25 11-21 18-29 20-24,ok,23656,https://lnb.com.br/noticias/brasilia-75-x-99-minas/
+28/01/2021,UNIFACISA,79,81,Flamengo,11ª RODADA,2º TURNO,20:00,0,8-19 23-19 23-23 25-20,ok,23655,https://lnb.com.br/noticias/unifacisa-79-x-81-flamengo/
+30/01/2021,Paulistano,71,64,KTO/Caxias do Sul,11ª RODADA,2º TURNO,11:00,0,17-17 21-19 14-20 19-8,ok,23659,https://lnb.com.br/noticias/paulistano-71-x-64-caxias-basquete/
+30/01/2021,Corinthians,74,64,Bauru,11ª RODADA,2º TURNO,16:00,0,18-20 15-16 21-14 20-14,ok,23661,https://lnb.com.br/noticias/corinthians-74-x-64-bauru-basket/
+30/01/2021,Pinheiros,77,81,Mogi,11ª RODADA,2º TURNO,19:00,0,25-26 17-19 19-22 16-14,ok,23660,https://lnb.com.br/noticias/pinheiros-77-x-81-mogi-das-cruze/
+31/01/2021,Flamengo,115,58,BRB/Brasília,11ª RODADA,2º TURNO,11:00,0,29-22 34-14 25-10 27-12,ok,23662,https://lnb.com.br/noticias/flamengo-115-x-58-brasilia/
+31/01/2021,Cerrado Basquete,77,76,Pato Basquete,11ª RODADA,2º TURNO,15:00,0,22-18 16-18 18-18 21-22,ok,23664,https://lnb.com.br/noticias/cerrado-77-x-76-pato/
+31/01/2021,UNIFACISA,76,88,Minas,11ª RODADA,2º TURNO,18:00,0,18-26 18-23 22-25 18-14,ok,23663,https://lnb.com.br/noticias/unifacisa-76-x-88-minas/
+02/02/2021,Corinthians,98,100,Paulistano,12ª RODADA,2º TURNO,20:00,2,9-13 22-15 20-19 17-21 12-12 18-20,ok,23665,https://lnb.com.br/noticias/corinthians-98-x-100-paulistano/
+06/02/2021,Mogi,75,77,Corinthians,12ª RODADA,2º TURNO,11:00,0,19-17 22-19 15-23 19-18,ok,23668,https://lnb.com.br/noticias/mogi-75-x-77-corinthians/
+06/02/2021,Sesi Franca,76,97,São Paulo,12ª RODADA,2º TURNO,16:00,0,18-25 16-21 20-24 22-27,ok,23666,https://lnb.com.br/noticias/sesi-franca-76-x-97-sao-paulo/
+06/02/2021,Paulistano,69,64,Bauru,12ª RODADA,2º TURNO,19:00,0,12-17 17-11 17-15 23-21,ok,23667,https://lnb.com.br/noticias/paulistano-69-x-64-bauru/
+07/02/2021,BRB/Brasília,86,103,UNIFACISA,12ª RODADA,2º TURNO,17:00,0,23-27 21-24 20-23 22-29,ok,23669,https://lnb.com.br/noticias/brasilia-83-x-103-unifacisa/
+07/02/2021,Fortaleza B. C.,86,77,Cerrado Basquete,12ª RODADA,2º TURNO,20:00,1,15-25 13-18 26-14 19-16 13-4,ok,23670,https://lnb.com.br/noticias/fortaleza-bc-86-x-77-cerrado/
+08/02/2021,Mogi,86,75,KTO/Caxias do Sul,13ª RODADA,2º TURNO,11:00,0,29-13 13-21 25-18 19-23,ok,23674,https://lnb.com.br/noticias/mogi-86-x-75-caxias/
+08/02/2021,Pinheiros,67,98,Corinthians,13ª RODADA,2º TURNO,14:00,0,16-26 14-23 13-30 24-19,ok,23673,https://lnb.com.br/noticias/pinheiros-67-x-98-corinthians/
+08/02/2021,Sesi Franca,90,82,Paulistano,13ª RODADA,2º TURNO,17:00,,,sem_quartos,23672,https://lnb.com.br/noticias/franca-90-x-82-paulistano/
+08/02/2021,São Paulo,92,84,Bauru,13ª RODADA,2º TURNO,20:00,0,21-20 19-26 24-21 28-17,ok,23671,https://lnb.com.br/noticias/sao-paulo-fc-92-x-84-bauru/
+09/02/2021,Pato Basquete,86,82,VipTech CMB,13ª RODADA,2º TURNO,16:00,0,24-19 23-16 19-23 20-24,ok,23676,https://lnb.com.br/noticias/nbb-20-21-pato-x-campo-mourao/
+09/02/2021,UNIFACISA,67,81,Cerrado Basquete,13ª RODADA,2º TURNO,17:00,0,23-14 19-22 11-25 14-20,ok,23678,https://lnb.com.br/noticias/unifacisa-67-x-81-cerrado/
+09/02/2021,Minas,94,96,Flamengo,13ª RODADA,2º TURNO,19:00,1,21-17 16-19 21-27 17-12 19-21,ok,23675,https://lnb.com.br/noticias/minas-94-x-96-flamengo/
+09/02/2021,BRB/Brasília,87,67,Fortaleza B. C.,13ª RODADA,2º TURNO,20:00,0,19-17 30-11 21-23 17-16,ok,23677,https://lnb.com.br/noticias/brasilia-87-x-67-fortaleza-bc/
+10/02/2021,Bauru,74,70,Sesi Franca,13ª RODADA,2º TURNO,14:00,0,19-11 15-24 26-16 14-19,ok,23680,https://lnb.com.br/noticias/bauru-74-x-70-sesi-franca/
+10/02/2021,São Paulo,100,74,Pinheiros,13ª RODADA,2º TURNO,17:00,0,19-17 28-19 30-13 23-25,ok,23679,https://lnb.com.br/noticias/sao-paulo-100-x-74-pinheiros/
+10/02/2021,KTO/Caxias do Sul,79,78,Corinthians,13ª RODADA,2º TURNO,20:00,0,20-24 25-21 15-14 19-19,ok,23681,https://lnb.com.br/noticias/caxias-79-x-78-corinthians/
+11/02/2021,Fortaleza B. C.,75,87,UNIFACISA,13ª RODADA,2º TURNO,17:00,0,16-25 19-18 14-27 26-17,ok,23683,https://lnb.com.br/noticias/fortaleza-bc-75-x-87-unifacisa/
+11/02/2021,BRB/Brasília,73,86,Cerrado Basquete,13ª RODADA,2º TURNO,20:00,0,15-26 11-18 28-20 19-22,ok,23682,https://lnb.com.br/noticias/brasilia-73-x-86-cerrado/
+12/02/2021,Pato Basquete,61,85,Flamengo,13ª RODADA,2º TURNO,17:00,0,20-22 17-9 9-29 15-25,ok,23684,https://lnb.com.br/noticias/pato-85-x-61-flamengo/
+12/02/2021,Minas,91,70,VipTech CMB,13ª RODADA,2º TURNO,20:00,0,18-18 27-14 24-17 22-21,ok,23685,https://lnb.com.br/noticias/minas-91-x-70-campo-mourao/
+13/02/2021,KTO/Caxias do Sul,76,73,Pinheiros,13ª RODADA,2º TURNO,11:00,0,19-16 17-12 12-17 28-28,ok,23688,https://lnb.com.br/noticias/caxias-76-x-73-pinheiros/
+13/02/2021,Paulistano,63,71,São Paulo,13ª RODADA,2º TURNO,16:00,0,13-14 10-17 21-18 19-22,ok,23686,https://lnb.com.br/noticias/paulistano-63-x-71-sao-paulo/
+13/02/2021,Mogi,87,75,Sesi Franca,13ª RODADA,2º TURNO,19:00,0,25-21 22-23 22-15 18-16,ok,23687,https://lnb.com.br/noticias/mogi-87-x-75-franca/
+14/02/2021,VipTech CMB,74,93,Flamengo,13ª RODADA,2º TURNO,16:00,0,25-17 18-21 9-31 22-24,ok,23689,https://lnb.com.br/noticias/campo-mourao-74-x-93-flamengo/
+14/02/2021,Pato Basquete,67,83,Minas,13ª RODADA,2º TURNO,19:00,0,16-19 17-27 12-22 22-15,ok,23690,https://lnb.com.br/noticias/pato-basquete-67-x-83-minas/
+24/02/2021,UNIFACISA,88,83,KTO/Caxias do Sul,14ª RODADA,2º TURNO,14:00,0,23-23 18-29 24-19 23-12,ok,23691,https://lnb.com.br/noticias/unifacisa-88-x-83-kto-caxias-do-sul-basquete/
+24/02/2021,Pinheiros,52,97,BRB/Brasília,14ª RODADA,2º TURNO,17:00,0,7-14 10-26 14-29 21-28,ok,23693,https://lnb.com.br/noticias/pinheiros-52-x-97-brasilia/
+24/02/2021,Cerrado Basquete,78,84,Mogi,14ª RODADA,2º TURNO,20:00,,,sem_quartos,23692,https://lnb.com.br/noticias/cerrado-78-x-84-mogi/
+25/02/2021,Sesi Franca,109,68,Pato Basquete,14ª RODADA,2º TURNO,14:00,0,26-12 27-20 34-16 22-20,ok,23695,https://lnb.com.br/noticias/sesi-franca-109-x-69-pato/
+25/02/2021,São Paulo,90,92,Minas,14ª RODADA,2º TURNO,17:00,0,24-23 23-13 19-27 24-29,ok,23696,https://lnb.com.br/noticias/sao-paulo-90-x-92-minas/
+25/02/2021,Paulistano,70,84,Flamengo,14ª RODADA,2º TURNO,20:00,0,23-23 12-15 17-23 18-23,ok,23694,https://lnb.com.br/noticias/paulistano-70-x-84-flamengo/
+26/02/2021,BRB/Brasília,66,88,KTO/Caxias do Sul,14ª RODADA,2º TURNO,11:00,0,25-26 8-11 12-20 21-31,ok,23697,https://lnb.com.br/noticias/brb-brasilia-66-x-88-kto-caxias-do-sul/
+26/02/2021,Pinheiros,73,87,UNIFACISA,14ª RODADA,2º TURNO,14:00,0,12-32 19-17 15-19 27-19,ok,23699,https://lnb.com.br/noticias/pinheiros-73-x-87-unifacisa/
+26/02/2021,Corinthians,83,61,Cerrado Basquete,14ª RODADA,2º TURNO,17:00,0,11-16 20-21 21-13 31-11,ok,23700,https://lnb.com.br/noticias/corinthians-83-x-61-cerrado/
+26/02/2021,Mogi,84,94,Fortaleza B. C.,14ª RODADA,2º TURNO,20:00,0,16-21 17-23 29-28 22-22,ok,23698,https://lnb.com.br/noticias/mogi-84-x-94-fortaleza/
+27/02/2021,Bauru,101,55,Pato Basquete,14ª RODADA,2º TURNO,09:00,0,31-18 19-13 24-12 27-12,ok,23703,https://lnb.com.br/noticias/bauru-101-x-55-pato-basquete/
+27/02/2021,VipTech CMB,78,86,Paulistano,14ª RODADA,2º TURNO,12:00,0,18-21 14-20 22-19 24-26,ok,23704,https://lnb.com.br/noticias/campo-mourao-78-x-86-paulistano/
+27/02/2021,Flamengo,93,74,São Paulo,14ª RODADA,2º TURNO,16:00,0,25-13 21-20 16-16 31-25,ok,23701,https://lnb.com.br/noticias/flamengo-93-x-74-sao-paulo/
+27/02/2021,Sesi Franca,87,93,Minas,14ª RODADA,2º TURNO,19:00,0,26-29 21-20 17-19 23-25,ok,23702,https://lnb.com.br/noticias/franca-87-x-93-minas/
+28/02/2021,KTO/Caxias do Sul,91,88,Cerrado Basquete,14ª RODADA,2º TURNO,09:00,1,21-21 23-27 16-16 17-13 14-11,ok,23705,https://lnb.com.br/noticias/caxias-91-x-88-cerrado/
+28/02/2021,Corinthians,96,70,BRB/Brasília,14ª RODADA,2º TURNO,12:00,0,24-16 23-15 20-17 29-22,ok,23706,https://lnb.com.br/noticias/corinthians-96-x-70-brasilia/
+28/02/2021,UNIFACISA,88,70,Mogi,14ª RODADA,2º TURNO,16:00,0,24-18 15-16 29-20 20-16,ok,23707,https://lnb.com.br/noticias/unifacisa-88-x-70-mogi/
+28/02/2021,Pinheiros,46,92,Fortaleza B. C.,14ª RODADA,2º TURNO,19:00,0,17-28 11-13 10-26 8-25,ok,23708,https://lnb.com.br/noticias/pinheiros-46-x-92-fortaleza-bc/
+01/03/2021,São Paulo,84,85,Pato Basquete,15ª RODADA,2º TURNO,17:00,0,19-17 20-22 24-24 21-22,ok,23709,https://lnb.com.br/noticias/sao-paulo-84-x-85-pato-basquete/
+01/03/2021,Paulistano,76,74,Minas,15ª RODADA,2º TURNO,20:00,0,24-16 18-15 20-23 14-20,ok,23710,https://lnb.com.br/noticias/paulistano-76-x-74-minas/
+02/03/2021,Bauru,104,92,VipTech CMB,15ª RODADA,2º TURNO,17:00,0,26-23 25-23 25-20 28-26,ok,23712,https://lnb.com.br/noticias/bauru-104-x-92-campo-mourao/
+02/03/2021,Sesi Franca,91,94,Flamengo,15ª RODADA,2º TURNO,20:00,0,23-22 15-19 30-32 23-21,ok,23711,https://lnb.com.br/noticias/sesi-franca-91-x-94-flamengo/
+03/03/2021,KTO/Caxias do Sul,81,82,Fortaleza B. C.,15ª RODADA,2º TURNO,19:00,0,17-16 24-21 15-19 25-26,ok,23713,https://lnb.com.br/noticias/caxias-81-x-82-fortaleza-basquete-cearense/
+04/03/2021,VipTech CMB,73,113,Sesi Franca,15ª RODADA,2º TURNO,17:00,0,13-23 16-21 21-30 23-39,ok,23715,https://lnb.com.br/noticias/campo-mourao-73-x-113-sesi-franca/
+04/03/2021,Flamengo,91,86,Bauru,15ª RODADA,2º TURNO,20:00,0,23-22 19-25 25-22 24-17,ok,23714,https://lnb.com.br/noticias/flamengo-91-x-86-bauru/
+06/03/2021,Fortaleza B. C.,77,83,Corinthians,15ª RODADA,2º TURNO,16:00,0,24-18 13-17 25-24 15-24,ok,23716,https://lnb.com.br/noticias/fortaleza-77-x-83-corinthians/
+09/03/2021,Mogi,62,69,Paulistano,16ª RODADA,2º TURNO,20:00,0,6-10 23-18 9-20 24-21,ok,23717,https://lnb.com.br/noticias/mogi-62-x-69-paulistano/
+10/03/2021,São Paulo,92,46,BRB/Brasília,16ª RODADA,2º TURNO,19:00,0,11-13 31-10 28-7 22-16,ok,23718,https://lnb.com.br/noticias/sao-paulo-fc-92-x-46-brasilia/
+11/03/2021,Pato Basquete,89,88,Pinheiros,16ª RODADA,2º TURNO,14:00,0,26-18 24-13 12-27 27-30,ok,23721,https://lnb.com.br/noticias/171017/
+11/03/2021,Mogi,96,79,VipTech CMB,16ª RODADA,2º TURNO,17:00,0,24-12 27-24 19-28 26-15,ok,23719,https://lnb.com.br/noticias/mogi-das-cruzes-96-x-79-campo-mourao/
+12/03/2021,Paulistano,81,65,UNIFACISA,16ª RODADA,2º TURNO,14:00,0,20-8 20-19 21-23 20-15,ok,23723,https://lnb.com.br/noticias/paulistano-81-x-65-unifacisa/
+12/03/2021,Minas,74,70,KTO/Caxias do Sul,16ª RODADA,2º TURNO,17:00,0,22-18 14-16 14-15 24-21,ok,23720,https://lnb.com.br/noticias/minas-74-x-70-caxias/
+12/03/2021,BRB/Brasília,70,99,Bauru,16ª RODADA,2º TURNO,20:00,0,22-16 10-29 17-26 21-28,ok,23722,https://lnb.com.br/noticias/brasilia-70-x-99-bauru/
+13/03/2021,São Paulo,98,76,Fortaleza B. C.,16ª RODADA,2º TURNO,16:00,0,18-12 30-17 18-23 32-24,ok,23772,https://lnb.com.br/noticias/sao-paulo-98-x-76-fortaleza-basquete-cearense/
+14/03/2021,VipTech CMB,73,89,KTO/Caxias do Sul,16ª RODADA,2º TURNO,09:00,0,19-26 10-20 24-17 20-26,ok,23728,https://lnb.com.br/noticias/campo-mourao-73-x-89-caxias-do-sul/
+14/03/2021,Minas,85,80,Mogi,16ª RODADA,2º TURNO,12:00,0,21-25 16-16 22-17 26-22,ok,23726,https://lnb.com.br/noticias/minas-85-x-80-mogi/
+14/03/2021,Corinthians,91,82,Pato Basquete,16ª RODADA,2º TURNO,15:00,0,23-12 24-22 24-21 20-27,ok,23727,https://lnb.com.br/noticias/corinthians-91-x-82-pato/
+14/03/2021,Flamengo,100,63,Pinheiros,16ª RODADA,2º TURNO,18:00,0,33-15 17-12 27-14 23-22,ok,23725,https://lnb.com.br/noticias/flamengo-100-x-63-pinheiros/
+14/03/2021,BRB/Brasília,79,96,Sesi Franca,17ª RODADA,2º TURNO,20:30,0,28-23 15-18 21-20 15-35,ok,23731,https://lnb.com.br/noticias/brasilia-79-x-96-franca/
+15/03/2021,UNIFACISA,79,90,São Paulo,17ª RODADA,2º TURNO,16:00,0,16-26 22-17 28-25 13-22,ok,23729,https://lnb.com.br/noticias/unifacisa-79-x-90-sao-paulo/
+16/03/2021,Mogi,74,89,Flamengo,17ª RODADA,2º TURNO,17:00,0,14-23 14-23 24-18 22-25,ok,23734,https://lnb.com.br/noticias/mogi-74-x-89-flamengo/
+16/03/2021,Corinthians,78,65,Minas,17ª RODADA,2º TURNO,20:00,0,23-16 14-17 24-17 17-15,ok,23733,https://lnb.com.br/noticias/corinthians-78-x-65-minas/
+17/03/2021,Sesi Franca,96,89,UNIFACISA,17ª RODADA,2º TURNO,17:00,0,30-14 18-25 25-20 23-30,ok,23737,https://lnb.com.br/noticias/franca-91-x-89-unifacisa/
+18/03/2021,Flamengo,98,85,Corinthians,18ª RODADA,2º TURNO,20:00,0,24-19 19-23 29-18 26-25,ok,23747,https://lnb.com.br/noticias/flamengo-98-x-85-corinthians/
+01/04/2021,Minas,92,66,Fortaleza B. C.,18ª RODADA,2º TURNO,16:00,0,22-9 17-22 25-19 28-16,ok,23749,https://lnb.com.br/noticias/minas-92-x-66-fortaleza/
+01/04/2021,Cerrado Basquete,80,86,São Paulo,17ª RODADA,2º TURNO,19:00,0,20-25 18-17 19-19 23-25,ok,23739,https://lnb.com.br/noticias/cerrado-80-x-86-sao-paulo/
+02/04/2021,Pato Basquete,49,87,Paulistano,18ª RODADA,2º TURNO,16:00,0,11-22 15-13 14-26 9-26,ok,23756,https://lnb.com.br/noticias/pato-basquete-49-x-87-paulistano/
+02/04/2021,KTO/Caxias do Sul,77,71,Sesi Franca,18ª RODADA,2º TURNO,19:00,0,20-16 18-21 16-16 23-18,ok,23744,https://lnb.com.br/noticias/caxias-do-sul-77-x-71-sesi-franca/
+03/04/2021,BRB/Brasília,89,79,VipTech CMB,18ª RODADA,2º TURNO,11:00,0,20-24 20-16 28-22 21-17,ok,23759,https://lnb.com.br/noticias/brasilia-89-x-79-campo-mourao/
+03/04/2021,Corinthians,78,85,São Paulo,18ª RODADA,2º TURNO,16:00,0,23-11 20-26 16-18 19-30,ok,23757,https://lnb.com.br/noticias/corinthians-85-x-78-sao-paulo/
+03/04/2021,Bauru,98,97,Fortaleza B. C.,17ª RODADA,2º TURNO,19:00,,,sem_quartos,23738,https://lnb.com.br/noticias/bauru-98-x-97-fortaleza-basquete-cearense/
+04/04/2021,Minas,93,61,Pinheiros,18ª RODADA,2º TURNO,13:00,0,21-14 17-20 31-15 24-12,ok,23746,https://lnb.com.br/noticias/minas-93-x-61-pinheiros/
+04/04/2021,Pato Basquete,73,62,Mogi,18ª RODADA,2º TURNO,16:00,0,18-19 22-16 17-18 16-9,ok,23761,https://lnb.com.br/noticias/pato-73-x-62-mogi/
+04/04/2021,Sesi Franca,93,81,Cerrado Basquete,18ª RODADA,2º TURNO,19:00,0,22-12 25-24 15-25 31-20,ok,23750,https://lnb.com.br/noticias/sesi-franca-93-x-81-cerrado/
+05/04/2021,Paulistano,70,66,BRB/Brasília,17ª RODADA,2º TURNO,14:00,0,18-23 11-18 16-12 25-13,ok,23740,https://lnb.com.br/noticias/paulistano-70-x-66-brasilia/
+05/04/2021,Corinthians,93,79,UNIFACISA,18ª RODADA,2º TURNO,16:45,0,24-19 20-24 24-19 25-17,ok,23753,https://lnb.com.br/noticias/corinthians-93-x-79-unifacisa/
+05/04/2021,KTO/Caxias do Sul,58,77,Flamengo,18ª RODADA,2º TURNO,19:30,0,10-15 14-13 29-24 5-25,ok,23752,https://lnb.com.br/noticias/caxias-58-x-77-flamengo/
+06/04/2021,VipTech CMB,74,99,São Paulo,18ª RODADA,2º TURNO,14:00,0,22-17 17-25 16-31 19-26,ok,23751,https://lnb.com.br/noticias/campo-mourao-74-x-99-sao-paulo/
+06/04/2021,Fortaleza B. C.,84,69,Sesi Franca,18ª RODADA,2º TURNO,16:45,0,24-9 12-26 24-17 24-17,ok,23755,https://lnb.com.br/noticias/fortaleza-basquete-cearense-84-x-69-sesi-franca/
+06/04/2021,Minas,81,79,Bauru,17ª RODADA,2º TURNO,19:30,0,19-18 22-18 23-25 17-18,ok,23741,https://lnb.com.br/noticias/minas-tenis-clube-81-x-79-bauru/
+07/04/2021,KTO/Caxias do Sul,83,85,Pato Basquete,17ª RODADA,2º TURNO,14:00,1,15-14 14-18 19-19 22-19 13-15,ok,23736,https://lnb.com.br/noticias/caxias-do-sul-x-pato/
+07/04/2021,Pinheiros,47,69,Paulistano,19ª RODADA,2º TURNO,16:45,0,6-19 16-19 22-17 3-14,ok,23764,https://lnb.com.br/noticias/pinheiros-x-paulistano/
+07/04/2021,Flamengo,88,57,Cerrado Basquete,18ª RODADA,2º TURNO,19:30,0,18-15 21-13 36-21 13-8,ok,23758,https://lnb.com.br/noticias/flamengo-87-x-56-cerrado-basquete/
+08/04/2021,Mogi,97,77,BRB/Brasília,18ª RODADA,2º TURNO,13:00,0,22-19 21-15 27-26 27-17,ok,23754,https://lnb.com.br/noticias/mogi-97-x-77-brasilia/
+08/04/2021,UNIFACISA,72,88,Bauru,18ª RODADA,2º TURNO,16:00,0,14-17 16-21 18-25 24-25,ok,23760,https://lnb.com.br/noticias/unifacisa-72-x-88-bauru/
+08/04/2021,VipTech CMB,74,86,Corinthians,19ª RODADA,2º TURNO,19:00,,,sem_quartos,23762,https://lnb.com.br/noticias/campo-mourao-74-x-86-corinthians/
+09/04/2021,Cerrado Basquete,63,71,Pinheiros,17ª RODADA,2º TURNO,16:00,0,13-18 11-19 20-20 19-14,ok,23742,https://lnb.com.br/noticias/cerrado-63-x-71-pinheiros/
+10/04/2021,UNIFACISA,99,80,Pato Basquete,18ª RODADA,2º TURNO,12:00,0,39-19 13-14 26-30 21-17,ok,23748,https://lnb.com.br/noticias/unifacisa-99-x-80-pato-basquete/
+10/04/2021,Bauru,82,91,Mogi,19ª RODADA,2º TURNO,16:00,0,16-24 19-23 24-25 23-19,ok,23763,https://lnb.com.br/noticias/bauru-xx-x-xx-mogi/
+10/04/2021,Fortaleza B. C.,83,84,VipTech CMB,18ª RODADA,2º TURNO,19:00,0,19-17 21-20 17-18 26-29,ok,23743,https://lnb.com.br/noticias/fortaleza-83-x-84-campo-mourao/
+11/04/2021,Cerrado Basquete,67,75,Paulistano,18ª RODADA,2º TURNO,11:00,0,16-21 10-20 21-16 20-18,ok,23745,https://lnb.com.br/noticias/cerrado-67-x-75-paulistano/
+13/04/2021,Pinheiros,84,75,VipTech CMB,17ª RODADA,2º TURNO,14:00,0,14-9 21-22 26-22 23-22,ok,23735,https://lnb.com.br/noticias/pinheiros-x-campo-mourao/
+13/04/2021,Bauru,81,69,Cerrado Basquete,17ª RODADA,2º TURNO,16:45,0,18-17 18-18 23-15 22-19,ok,23730,https://lnb.com.br/noticias/bauru-81-x-69-cerrado/
+13/04/2021,Fortaleza B. C.,92,97,Paulistano,17ª RODADA,2º TURNO,19:30,2,14-24 24-18 21-15 19-21 8-8 6-11,ok,23732,https://lnb.com.br/noticias/fortaleza-bc-97-x-92-paulistano/

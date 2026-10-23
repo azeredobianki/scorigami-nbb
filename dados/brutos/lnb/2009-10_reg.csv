@@ -1,0 +1,183 @@
+data,mandante,pts_mandante,pts_visitante,visitante,rodada,etapa,hora,prorrogacoes,quartos,status_quartos,id_lnb,link
+01/11/2009,Pinheiros,92,98,Brasília,1ª RODADA,1º TURNO,10:00,,,sem_quartos,1345,https://lnb.com.br/noticias/pinheiros-x-brasilia-01112009-2/
+01/11/2009,Franca,74,63,Assis,1ª RODADA,1º TURNO,11:00,,,sem_quartos,1330,https://lnb.com.br/noticias/franca-x-assis-01112009-2/
+01/11/2009,Paulistano,85,88,Minas,1ª RODADA,1º TURNO,11:00,,,sem_quartos,1331,https://lnb.com.br/noticias/paulistano-x-minas-01112009-2/
+01/11/2009,Flamengo,99,70,Espírito Santo,1ª RODADA,1º TURNO,11:00,,,sem_quartos,1339,https://lnb.com.br/noticias/flamengo-x-vila-velha-01112009/
+01/11/2009,Joinville,108,76,Londrina,1ª RODADA,1º TURNO,11:00,,,sem_quartos,1350,https://lnb.com.br/noticias/joinville-x-londrina-01112009-2/
+01/11/2009,São José,84,72,Saldanha,1ª RODADA,1º TURNO,11:00,,,sem_quartos,1376,https://lnb.com.br/noticias/sao-jose-x-saldanha-01112009-2/
+01/11/2009,Araraquara,76,69,Bauru,1ª RODADA,1º TURNO,11:00,,,sem_quartos,1377,https://lnb.com.br/noticias/araraquara-x-bauru-01112009-2/
+02/11/2009,Paulistano,67,75,Brasília,2ª RODADA,1º TURNO,19:00,,,sem_quartos,1332,https://lnb.com.br/noticias/paulistano-x-brasilia-02112009-2/
+06/11/2009,Flamengo,109,72,Saldanha,2ª RODADA,1º TURNO,19:00,,,sem_quartos,1364,https://lnb.com.br/noticias/flamengo-x-saldanha-06112009-2/
+08/11/2009,Franca,88,69,Bauru,2ª RODADA,1º TURNO,10:00,,,sem_quartos,1343,https://lnb.com.br/noticias/franca-x-bauru-08112009-2/
+08/11/2009,Pinheiros,78,70,Minas,2ª RODADA,1º TURNO,11:00,,,sem_quartos,1349,https://lnb.com.br/noticias/pinheiros-x-minas-08112009-2/
+08/11/2009,São José,94,70,Espírito Santo,2ª RODADA,1º TURNO,11:00,,,sem_quartos,1351,https://lnb.com.br/noticias/sao-jose-x-vila-velha-08112009/
+08/11/2009,Araraquara,64,66,Assis,2ª RODADA,1º TURNO,19:00,,,sem_quartos,1348,https://lnb.com.br/noticias/araraquara-x-assis-08112009-2/
+15/11/2009,Joinville,72,69,Flamengo,3ª RODADA,1º TURNO,10:00,,,sem_quartos,1334,https://lnb.com.br/noticias/joinville-x-flamengo-15112009-2/
+15/11/2009,Bauru,88,64,Assis,3ª RODADA,1º TURNO,11:00,,,sem_quartos,1328,https://lnb.com.br/noticias/bauru-x-assis-15112009-2/
+15/11/2009,Saldanha,75,76,Pinheiros,3ª RODADA,1º TURNO,11:00,,,sem_quartos,1333,https://lnb.com.br/noticias/saldanha-x-pinheiros-15112009-2/
+15/11/2009,Londrina,69,67,São José,3ª RODADA,1º TURNO,11:00,,,sem_quartos,1335,https://lnb.com.br/noticias/londrina-x-sao-jose-15112009-2/
+15/11/2009,Brasília,88,80,Franca,3ª RODADA,1º TURNO,11:00,,,sem_quartos,1337,https://lnb.com.br/noticias/brasilia-x-franca-15112009-2/
+15/11/2009,Espírito Santo,54,52,Paulistano,3ª RODADA,1º TURNO,11:00,,,sem_quartos,1338,https://lnb.com.br/noticias/vila-velha-x-paulistano-15112009/
+20/11/2009,Londrina,86,84,Flamengo,4ª RODADA,1º TURNO,21:00,,,sem_quartos,1355,https://lnb.com.br/noticias/londrina-x-flamengo-20112009-2/
+22/11/2009,Minas,101,106,Franca,4ª RODADA,1º TURNO,10:00,,,sem_quartos,1388,https://lnb.com.br/noticias/minas-x-franca-22112009-2/
+22/11/2009,Joinville,71,60,São José,4ª RODADA,1º TURNO,11:00,,,sem_quartos,1327,https://lnb.com.br/noticias/joinville-x-sao-jose-22112009-2/
+22/11/2009,Saldanha,74,71,Paulistano,4ª RODADA,1º TURNO,11:00,,,sem_quartos,1342,https://lnb.com.br/noticias/saldanha-x-paulistano-22112009-2/
+22/11/2009,Brasília,96,75,Araraquara,4ª RODADA,1º TURNO,11:00,,,sem_quartos,1353,https://lnb.com.br/noticias/brasilia-x-araraquara-22112009-2/
+22/11/2009,Espírito Santo,81,76,Pinheiros,4ª RODADA,1º TURNO,11:00,,,sem_quartos,1384,https://lnb.com.br/noticias/vila-velha-x-pinheiros-22112009/
+27/11/2009,Assis,73,81,Minas,5ª RODADA,1º TURNO,20:00,,,sem_quartos,1346,https://lnb.com.br/noticias/assis-x-minas-27112009-2/
+27/11/2009,Bauru,75,81,Brasília,5ª RODADA,1º TURNO,20:00,,,sem_quartos,1356,https://lnb.com.br/noticias/bauru-x-brasilia-27112009-2/
+27/11/2009,Pinheiros,84,81,Londrina,5ª RODADA,1º TURNO,20:00,,,sem_quartos,1357,https://lnb.com.br/noticias/pinheiros-x-londrina-27112009-2/
+27/11/2009,Araraquara,67,69,Espírito Santo,5ª RODADA,1º TURNO,20:00,,,sem_quartos,1358,https://lnb.com.br/noticias/araraquara-x-vila-velha-27112009/
+27/11/2009,Franca,95,81,Saldanha,5ª RODADA,1º TURNO,20:00,,,sem_quartos,1370,https://lnb.com.br/noticias/franca-x-saldanha-27112009-2/
+27/11/2009,São José,61,85,Flamengo,5ª RODADA,1º TURNO,20:00,,,sem_quartos,1381,https://lnb.com.br/noticias/sao-jose-x-flamengo-27112009-2/
+29/11/2009,Paulistano,62,60,Londrina,6ª RODADA,1º TURNO,10:00,,,sem_quartos,1354,https://lnb.com.br/noticias/paulistano-x-londrina-29112009-2/
+29/11/2009,Assis,84,91,Brasília,6ª RODADA,1º TURNO,11:00,,,sem_quartos,1352,https://lnb.com.br/noticias/assis-x-brasilia-29112009-2/
+29/11/2009,Pinheiros,88,91,Joinville,6ª RODADA,1º TURNO,11:00,,,sem_quartos,1360,https://lnb.com.br/noticias/pinheiros-x-joinville-29112009-2/
+29/11/2009,Franca,71,75,Espírito Santo,6ª RODADA,1º TURNO,11:00,,,sem_quartos,1361,https://lnb.com.br/noticias/franca-x-vila-velha-29112009/
+29/11/2009,Bauru,78,83,Minas,6ª RODADA,1º TURNO,11:00,,,sem_quartos,1362,https://lnb.com.br/noticias/bauru-x-minas-29112009-2/
+29/11/2009,Araraquara,81,65,Saldanha,6ª RODADA,1º TURNO,11:00,,,sem_quartos,1365,https://lnb.com.br/noticias/araraquara-x-saldanha-29112009-2/
+01/12/2009,Paulistano,85,73,Joinville,5ª RODADA,1º TURNO,19:30,,,sem_quartos,1363,https://lnb.com.br/noticias/paulistano-x-joinville-01122009-2/
+06/12/2009,São José,81,64,Paulistano,7ª RODADA,1º TURNO,10:20,,,sem_quartos,1378,https://lnb.com.br/noticias/sao-jose-x-paulistano-06122009-2/
+06/12/2009,Saldanha,68,66,Bauru,7ª RODADA,1º TURNO,11:00,,,sem_quartos,1336,https://lnb.com.br/noticias/saldanha-x-bauru-06122009-2/
+06/12/2009,Joinville,67,61,Araraquara,7ª RODADA,1º TURNO,11:00,,,sem_quartos,1341,https://lnb.com.br/noticias/joinville-x-araraquara-06122009-2/
+06/12/2009,Espírito Santo,66,67,Assis,7ª RODADA,1º TURNO,11:00,,,sem_quartos,1347,https://lnb.com.br/noticias/vila-velha-x-assis-06122009/
+06/12/2009,Londrina,90,94,Franca,7ª RODADA,1º TURNO,11:00,,,sem_quartos,1366,https://lnb.com.br/noticias/londrina-x-franca-06122009-2/
+06/12/2009,Flamengo,82,77,Pinheiros,7ª RODADA,1º TURNO,13:00,,,sem_quartos,1367,https://lnb.com.br/noticias/flamengo-x-pinheiros-06122009-2/
+08/12/2009,Saldanha,71,91,Assis,8ª RODADA,1º TURNO,20:00,,,sem_quartos,1368,https://lnb.com.br/noticias/saldanha-x-assis-08122009-2/
+08/12/2009,Espírito Santo,69,67,Bauru,8ª RODADA,1º TURNO,20:00,,,sem_quartos,1369,https://lnb.com.br/noticias/vila-velha-x-bauru-08122009/
+12/12/2009,Minas,89,91,Brasília,7ª RODADA,1º TURNO,11:00,,,sem_quartos,1491,https://lnb.com.br/noticias/minas-x-brasilia-12122009-2/
+14/12/2009,Londrina,83,98,Brasília,12ª RODADA,1º TURNO,20:00,,,sem_quartos,1373,https://lnb.com.br/noticias/londrina-x-brasilia-14122009-2/
+17/12/2009,Joinville,99,74,Brasília,11ª RODADA,1º TURNO,20:00,,,sem_quartos,1359,https://lnb.com.br/noticias/joinville-x-brasilia-17122009-2/
+08/01/2010,Londrina,82,78,Araraquara,8ª RODADA,1º TURNO,19:00,,,sem_quartos,1387,https://lnb.com.br/noticias/londrina-x-araraquara-08012010-2/
+15/01/2010,Bauru,85,74,Londrina,9ª RODADA,1º TURNO,20:00,,,sem_quartos,1371,https://lnb.com.br/noticias/bauru-x-londrina-15012010-2/
+15/01/2010,Franca,72,71,Flamengo,9ª RODADA,1º TURNO,20:00,,,sem_quartos,1375,https://lnb.com.br/noticias/franca-x-flamengo-15012010-2/
+15/01/2010,Pinheiros,104,85,Paulistano,9ª RODADA,1º TURNO,20:00,,,sem_quartos,1379,https://lnb.com.br/noticias/pinheiros-x-paulistano-15012010-2/
+15/01/2010,Minas,102,85,Saldanha,9ª RODADA,1º TURNO,20:00,,,sem_quartos,1383,https://lnb.com.br/noticias/minas-x-saldanha-15012010-2/
+15/01/2010,Araraquara,80,56,São José,9ª RODADA,1º TURNO,20:00,,,sem_quartos,1386,https://lnb.com.br/noticias/araraquara-x-sao-jose-15012010-2/
+15/01/2010,Brasília,88,75,Espírito Santo,9ª RODADA,1º TURNO,20:00,,,sem_quartos,1390,https://lnb.com.br/noticias/brasilia-x-vila-velha-15012010/
+17/01/2010,Brasília,96,85,Saldanha,10ª RODADA,1º TURNO,11:00,,,sem_quartos,1385,https://lnb.com.br/noticias/brasilia-x-saldanha-17012010-2/
+17/01/2010,Araraquara,72,74,Flamengo,10ª RODADA,1º TURNO,11:00,,,sem_quartos,1402,https://lnb.com.br/noticias/araraquara-x-flamengo-17012010-2/
+17/01/2010,Minas,105,80,Espírito Santo,10ª RODADA,1º TURNO,11:00,,,sem_quartos,1407,https://lnb.com.br/noticias/minas-x-vila-velha-17012010/
+17/01/2010,Assis,88,93,Londrina,10ª RODADA,1º TURNO,11:00,,,sem_quartos,1419,https://lnb.com.br/noticias/assis-x-londrina-17012010-2/
+18/01/2010,Bauru,79,76,Joinville,10ª RODADA,1º TURNO,20:00,,,sem_quartos,1389,https://lnb.com.br/noticias/bauru-x-joinville-18012010-2/
+19/01/2010,Minas,91,85,Araraquara,3ª RODADA,1º TURNO,19:00,,,sem_quartos,1374,https://lnb.com.br/noticias/minas-x-araraquara-19012010-2/
+20/01/2010,Assis,92,90,Joinville,9ª RODADA,1º TURNO,20:00,,,sem_quartos,1380,https://lnb.com.br/noticias/assis-x-joinville-20012010-2/
+22/01/2010,Pinheiros,93,84,Araraquara,11ª RODADA,1º TURNO,19:00,,,sem_quartos,1382,https://lnb.com.br/noticias/pinheiros-x-araraquara-22012010-2/
+22/01/2010,Espírito Santo,76,60,Saldanha,11ª RODADA,1º TURNO,20:00,,,sem_quartos,1329,https://lnb.com.br/noticias/vila-velha-x-saldanha-22012010/
+22/01/2010,Londrina,78,87,Minas,11ª RODADA,1º TURNO,20:00,,,sem_quartos,1340,https://lnb.com.br/noticias/londrina-x-minas-22012010-2/
+22/01/2010,Flamengo,107,90,Bauru,11ª RODADA,1º TURNO,20:00,,,sem_quartos,1372,https://lnb.com.br/noticias/flamengo-x-bauru-22012010-2/
+24/01/2010,Pinheiros,98,95,Franca,12ª RODADA,1º TURNO,11:00,,,sem_quartos,1391,https://lnb.com.br/noticias/pinheiros-x-franca-24012010-2/
+24/01/2010,Flamengo,104,74,Assis,12ª RODADA,1º TURNO,11:00,,,sem_quartos,1392,https://lnb.com.br/noticias/flamengo-x-assis-24012010-2/
+24/01/2010,Joinville,67,84,Minas,12ª RODADA,1º TURNO,11:00,,,sem_quartos,1394,https://lnb.com.br/noticias/joinville-x-minas-24012010-2/
+26/01/2010,Joinville,65,63,Franca,8ª RODADA,1º TURNO,11:00,,,sem_quartos,1395,https://lnb.com.br/noticias/joinville-x-franca-26012010-2/
+29/01/2010,Franca,94,83,Araraquara,13ª RODADA,1º TURNO,19:00,,,sem_quartos,1400,https://lnb.com.br/noticias/franca-x-araraquara-29012010-2/
+29/01/2010,Espírito Santo,77,68,Londrina,13ª RODADA,1º TURNO,20:00,,,sem_quartos,1396,https://lnb.com.br/noticias/vila-velha-x-londrina-29012010/
+29/01/2010,Saldanha,63,82,Joinville,13ª RODADA,1º TURNO,20:00,,,sem_quartos,1398,https://lnb.com.br/noticias/saldanha-x-joinville-29012010-2/
+29/01/2010,Brasília,85,64,São José,13ª RODADA,1º TURNO,20:00,,,sem_quartos,1403,https://lnb.com.br/noticias/brasilia-x-sao-jose-29012010-2/
+29/01/2010,Bauru,106,73,Paulistano,13ª RODADA,1º TURNO,20:00,,,sem_quartos,1404,https://lnb.com.br/noticias/bauru-x-paulistano-29012010-2/
+29/01/2010,Assis,94,92,Pinheiros,13ª RODADA,1º TURNO,20:00,,,sem_quartos,1405,https://lnb.com.br/noticias/assis-x-pinheiros-29012010-2/
+29/01/2010,Minas,94,101,Flamengo,13ª RODADA,1º TURNO,20:00,,,sem_quartos,1406,https://lnb.com.br/noticias/minas-x-flamengo-29012010-2/
+31/01/2010,Minas,89,86,São José,14ª RODADA,1º TURNO,11:00,,,sem_quartos,1393,https://lnb.com.br/noticias/minas-x-sao-jose-31012010-2/
+31/01/2010,Assis,83,85,Paulistano,14ª RODADA,1º TURNO,11:00,,,sem_quartos,1399,https://lnb.com.br/noticias/assis-x-paulistano-31012010-2/
+31/01/2010,Saldanha,64,68,Londrina,14ª RODADA,1º TURNO,11:00,,,sem_quartos,1418,https://lnb.com.br/noticias/saldanha-x-londrina-31012010-2/
+31/01/2010,Bauru,103,83,Pinheiros,14ª RODADA,1º TURNO,11:00,,,sem_quartos,1423,https://lnb.com.br/noticias/bauru-x-pinheiros-31012010-2/
+31/01/2010,Espírito Santo,70,81,Joinville,14ª RODADA,1º TURNO,11:00,,,sem_quartos,1424,https://lnb.com.br/noticias/vila-velha-x-joinville-31012010/
+31/01/2010,Flamengo,73,81,Brasília,14ª RODADA,1º TURNO,12:00,,,sem_quartos,1412,https://lnb.com.br/noticias/flamengo-x-brasilia-31012010-2/
+02/02/2010,Flamengo,105,70,Paulistano,8ª RODADA,1º TURNO,20:00,,,sem_quartos,1344,https://lnb.com.br/noticias/flamengo-x-paulistano-02022010-2/
+05/02/2010,Espírito Santo,79,100,Flamengo,15ª RODADA,2º TURNO,19:00,,,sem_quartos,1414,https://lnb.com.br/noticias/vila-velha-x-flamengo-05022010/
+05/02/2010,Minas,91,84,Paulistano,15ª RODADA,2º TURNO,20:00,,,sem_quartos,1408,https://lnb.com.br/noticias/minas-x-paulistano-05022010-2/
+05/02/2010,Assis,65,72,Franca,15ª RODADA,2º TURNO,20:00,,,sem_quartos,1409,https://lnb.com.br/noticias/assis-x-franca-05022010-2/
+05/02/2010,Bauru,63,59,Araraquara,15ª RODADA,2º TURNO,20:00,,,sem_quartos,1413,https://lnb.com.br/noticias/bauru-x-araraquara-05022010-2/
+05/02/2010,Londrina,79,83,Joinville,15ª RODADA,2º TURNO,20:00,,,sem_quartos,1415,https://lnb.com.br/noticias/londrina-x-joinville-05022010-2/
+05/02/2010,Brasília,105,77,Pinheiros,15ª RODADA,2º TURNO,20:00,,,sem_quartos,1432,https://lnb.com.br/noticias/brasilia-x-pinheiros-05022010-2/
+05/02/2010,Saldanha,60,90,São José,15ª RODADA,2º TURNO,21:00,,,sem_quartos,1428,https://lnb.com.br/noticias/saldanha-x-sao-jose-05022010-2/
+07/02/2010,Espírito Santo,73,61,São José,16ª RODADA,2º TURNO,11:00,,,sem_quartos,1410,https://lnb.com.br/noticias/vila-velha-x-sao-jose-07022010/
+07/02/2010,Saldanha,65,90,Flamengo,16ª RODADA,2º TURNO,11:00,,,sem_quartos,1416,https://lnb.com.br/noticias/saldanha-x-flamengo-07022010-2/
+07/02/2010,Brasília,109,80,Paulistano,16ª RODADA,2º TURNO,11:00,,,sem_quartos,1420,https://lnb.com.br/noticias/brasilia-x-paulistano-07022010-2/
+07/02/2010,Assis,72,68,Araraquara,16ª RODADA,2º TURNO,11:00,,,sem_quartos,1427,https://lnb.com.br/noticias/assis-x-araraquara-07022010-2/
+07/02/2010,Minas,92,87,Pinheiros,16ª RODADA,2º TURNO,11:00,,,sem_quartos,1431,https://lnb.com.br/noticias/minas-x-pinheiros-07022010-2/
+07/02/2010,Bauru,105,97,Franca,16ª RODADA,2º TURNO,17:00,,,sem_quartos,1426,https://lnb.com.br/noticias/bauru-x-franca-07022010-2/
+09/02/2010,Franca,91,75,São José,10ª RODADA,1º TURNO,20:00,,,sem_quartos,1425,https://lnb.com.br/noticias/franca-x-sao-jose-09022010-2/
+10/02/2010,Paulistano,68,79,Araraquara,12ª RODADA,1º TURNO,20:00,,,sem_quartos,1411,https://lnb.com.br/noticias/paulistano-x-araraquara-10022010-2/
+10/02/2010,São José,79,100,Pinheiros,8ª RODADA,1º TURNO,21:00,,,sem_quartos,1397,https://lnb.com.br/noticias/sao-jose-x-pinheiros-03022010-2/
+12/02/2010,São José,74,68,Assis,11ª RODADA,1º TURNO,19:00,,,sem_quartos,1401,https://lnb.com.br/noticias/sao-jose-x-assis-12022010-2/
+12/02/2010,Paulistano,104,109,Franca,11ª RODADA,1º TURNO,20:00,,,sem_quartos,1434,https://lnb.com.br/noticias/paulistano-x-franca-12022010-2/
+17/02/2010,São José,90,74,Bauru,12ª RODADA,1º TURNO,20:00,,,sem_quartos,1417,https://lnb.com.br/noticias/sao-jose-x-bauru-17022010-2/
+26/02/2010,Paulistano,87,78,Espírito Santo,17ª RODADA,2º TURNO,15:00,,,sem_quartos,1443,https://lnb.com.br/noticias/paulistano-x-vila-velha-26022010/
+26/02/2010,Franca,98,89,Brasília,17ª RODADA,2º TURNO,20:00,,,sem_quartos,1422,https://lnb.com.br/noticias/franca-x-brasilia-26022010-2/
+26/02/2010,Pinheiros,98,85,Saldanha,17ª RODADA,2º TURNO,20:00,,,sem_quartos,1437,https://lnb.com.br/noticias/pinheiros-x-saldanha-26022010-2/
+26/02/2010,Assis,93,80,Bauru,17ª RODADA,2º TURNO,20:00,,,sem_quartos,1438,https://lnb.com.br/noticias/assis-x-bauru-26022010-2/
+26/02/2010,Araraquara,98,92,Minas,17ª RODADA,2º TURNO,20:00,,,sem_quartos,1439,https://lnb.com.br/noticias/araraquara-x-minas-26022010-2/
+26/02/2010,São José,95,56,Londrina,17ª RODADA,2º TURNO,20:00,,,sem_quartos,1440,https://lnb.com.br/noticias/sao-jose-x-londrina-26022010-2/
+26/02/2010,Flamengo,100,87,Joinville,17ª RODADA,2º TURNO,20:30,,,sem_quartos,1435,https://lnb.com.br/noticias/flamengo-x-joinville-26022010-2/
+28/02/2010,Franca,76,66,Minas,18ª RODADA,2º TURNO,11:00,,,sem_quartos,1429,https://lnb.com.br/noticias/franca-x-minas-28022010-2/
+28/02/2010,Flamengo,95,72,Londrina,18ª RODADA,2º TURNO,11:00,,,sem_quartos,1436,https://lnb.com.br/noticias/flamengo-x-londrina-28022010-2/
+28/02/2010,Pinheiros,91,80,Espírito Santo,18ª RODADA,2º TURNO,11:00,,,sem_quartos,1444,https://lnb.com.br/noticias/pinheiros-x-vila-velha-28022010/
+28/02/2010,Paulistano,85,91,Saldanha,18ª RODADA,2º TURNO,11:00,,,sem_quartos,1452,https://lnb.com.br/noticias/paulistano-x-saldanha-28022010-2/
+28/02/2010,Araraquara,95,90,Brasília,18ª RODADA,2º TURNO,11:00,,,sem_quartos,1453,https://lnb.com.br/noticias/araraquara-x-brasilia-28022010-2/
+28/02/2010,São José,93,76,Joinville,18ª RODADA,2º TURNO,11:00,,,sem_quartos,1454,https://lnb.com.br/noticias/sao-jose-x-joinville-28022010-2/
+05/03/2010,Minas,82,76,Assis,19ª RODADA,2º TURNO,19:00,,,sem_quartos,1455,https://lnb.com.br/noticias/minas-x-assis-05032010-2/
+05/03/2010,Brasília,100,76,Bauru,19ª RODADA,2º TURNO,20:00,,,sem_quartos,1421,https://lnb.com.br/noticias/brasilia-x-bauru-05032010-2/
+05/03/2010,Londrina,105,107,Pinheiros,19ª RODADA,2º TURNO,20:00,,,sem_quartos,1430,https://lnb.com.br/noticias/londrina-x-pinheiros-05032010-2/
+05/03/2010,Saldanha,62,95,Franca,19ª RODADA,2º TURNO,20:00,,,sem_quartos,1441,https://lnb.com.br/noticias/saldanha-x-franca-05032010-2/
+05/03/2010,Joinville,74,79,Paulistano,19ª RODADA,2º TURNO,20:00,,,sem_quartos,1445,https://lnb.com.br/noticias/joinville-x-paulistano-05032010-2/
+05/03/2010,Espírito Santo,73,68,Araraquara,19ª RODADA,2º TURNO,20:00,,,sem_quartos,1448,https://lnb.com.br/noticias/vila-velha-x-araraquara-05032010/
+07/03/2010,Espírito Santo,64,85,Franca,20ª RODADA,2º TURNO,11:00,,,sem_quartos,1433,https://lnb.com.br/noticias/vila-velha-x-franca-07032010/
+07/03/2010,Saldanha,61,70,Araraquara,20ª RODADA,2º TURNO,11:00,,,sem_quartos,1442,https://lnb.com.br/noticias/saldanha-x-araraquara-07032010/
+07/03/2010,Joinville,63,75,Pinheiros,20ª RODADA,2º TURNO,11:00,,,sem_quartos,1446,https://lnb.com.br/noticias/joinville-x-pinheiros-07032010-2/
+07/03/2010,Londrina,75,64,Paulistano,20ª RODADA,2º TURNO,11:00,,,sem_quartos,1447,https://lnb.com.br/noticias/londrina-x-paulistano-07032010-2/
+07/03/2010,Minas,114,113,Bauru,20ª RODADA,2º TURNO,11:00,,,sem_quartos,1449,https://lnb.com.br/noticias/minas-x-bauru-07032010/
+07/03/2010,Brasília,101,62,Assis,20ª RODADA,2º TURNO,11:00,,,sem_quartos,1450,https://lnb.com.br/noticias/brasilia-x-assis-07032010/
+07/03/2010,Flamengo,101,89,São José,19ª RODADA,2º TURNO,11:00,,,sem_quartos,1451,https://lnb.com.br/noticias/flamengo-x-sao-jose-07032010-2/
+12/03/2010,Brasília,77,96,Minas,21ª RODADA,2º TURNO,19:00,,,sem_quartos,1495,https://lnb.com.br/noticias/brasilia-x-minas-12032010-2/
+12/03/2010,Franca,81,73,Londrina,21ª RODADA,2º TURNO,20:00,,,sem_quartos,1457,https://lnb.com.br/noticias/franca-x-londrina-12032010-2/
+12/03/2010,Bauru,94,72,Saldanha,21ª RODADA,2º TURNO,20:00,,,sem_quartos,1461,https://lnb.com.br/noticias/bauru-x-saldanha-12032010-2/
+12/03/2010,Assis,89,75,Espírito Santo,21ª RODADA,2º TURNO,20:00,,,sem_quartos,1465,https://lnb.com.br/noticias/assis-x-vila-velha-12032010-2/
+12/03/2010,Paulistano,95,90,São José,21ª RODADA,2º TURNO,20:00,,,sem_quartos,1467,https://lnb.com.br/noticias/paulistano-x-sao-jose-12032010-2/
+12/03/2010,Araraquara,90,93,Joinville,21ª RODADA,2º TURNO,20:00,,,sem_quartos,1469,https://lnb.com.br/noticias/araraquara-x-joinville-12032010-2/
+12/03/2010,Pinheiros,79,83,Flamengo,21ª RODADA,2º TURNO,20:00,,,sem_quartos,1498,https://lnb.com.br/noticias/pinheiros-x-flamengo-12032010-2/
+14/03/2010,Franca,91,77,Joinville,22ª RODADA,2º TURNO,11:00,,,sem_quartos,1459,https://lnb.com.br/noticias/franca-x-joinville-14032010-2/
+14/03/2010,Araraquara,81,74,Londrina,22ª RODADA,2º TURNO,11:00,,,sem_quartos,1460,https://lnb.com.br/noticias/araraquara-x-londrina-14032010-2/
+14/03/2010,Assis,79,56,Saldanha,22ª RODADA,2º TURNO,11:00,,,sem_quartos,1462,https://lnb.com.br/noticias/assis-x-saldanha-14032010-2/
+14/03/2010,Pinheiros,70,71,São José,22ª RODADA,2º TURNO,11:00,,,sem_quartos,1463,https://lnb.com.br/noticias/pinheiros-x-sao-jose-14032010-2/
+14/03/2010,Bauru,80,72,Espírito Santo,22ª RODADA,2º TURNO,11:00,,,sem_quartos,1464,https://lnb.com.br/noticias/bauru-x-vila-velha-14032010-2/
+14/03/2010,Paulistano,77,86,Flamengo,22ª RODADA,2º TURNO,11:00,,,sem_quartos,1496,https://lnb.com.br/noticias/paulistano-x-flamengo-14032010-2/
+19/03/2010,Flamengo,78,70,Franca,23ª RODADA,2º TURNO,19:00,,,sem_quartos,1473,https://lnb.com.br/noticias/flamengo-x-franca-19032010-2/
+19/03/2010,Saldanha,72,81,Minas,23ª RODADA,2º TURNO,20:00,,,sem_quartos,1492,https://lnb.com.br/noticias/saldanha-x-minas-19032010-2/
+19/03/2010,São José,96,89,Araraquara,23ª RODADA,2º TURNO,20:00,,,sem_quartos,1494,https://lnb.com.br/noticias/sao-jose-x-araraquara-19032010-2/
+19/03/2010,Paulistano,85,80,Pinheiros,23ª RODADA,2º TURNO,20:00,,,sem_quartos,1497,https://lnb.com.br/noticias/paulistano-x-pinheiros-19032010-2/
+19/03/2010,Joinville,75,74,Assis,23ª RODADA,2º TURNO,20:00,,,sem_quartos,1500,https://lnb.com.br/noticias/joinville-x-assis-19032010-2/
+19/03/2010,Espírito Santo,85,92,Brasília,23ª RODADA,2º TURNO,20:00,,,sem_quartos,1506,https://lnb.com.br/noticias/vila-velha-x-brasilia-19032010-2/
+21/03/2010,Londrina,76,86,Assis,24ª RODADA,2º TURNO,11:00,,,sem_quartos,1456,https://lnb.com.br/noticias/londrina-x-assis-21032010-2/
+21/03/2010,São José,83,77,Franca,24ª RODADA,2º TURNO,11:00,,,sem_quartos,1458,https://lnb.com.br/noticias/sao-jose-x-franca-21032010-2/
+21/03/2010,Saldanha,76,75,Brasília,24ª RODADA,2º TURNO,11:00,,,sem_quartos,1466,https://lnb.com.br/noticias/saldanha-x-brasilia-21032010-2/
+21/03/2010,Joinville,65,61,Bauru,24ª RODADA,2º TURNO,11:00,,,sem_quartos,1468,https://lnb.com.br/noticias/joinville-x-bauru-21032010-2/
+21/03/2010,Espírito Santo,69,72,Minas,24ª RODADA,2º TURNO,11:00,,,sem_quartos,1470,https://lnb.com.br/noticias/vila-velha-x-minas-21032010-2/
+21/03/2010,Flamengo,98,71,Araraquara,24ª RODADA,2º TURNO,11:00,,,sem_quartos,1474,https://lnb.com.br/noticias/flamengo-x-araraquara-21032010-2/
+23/03/2010,Londrina,74,87,Bauru,23ª RODADA,2º TURNO,20:00,,,sem_quartos,1471,https://lnb.com.br/noticias/londrina-x-bauru-23032010-2/
+26/03/2010,Brasília,106,81,Joinville,25ª RODADA,2º TURNO,19:00,,,sem_quartos,1502,https://lnb.com.br/noticias/brasilia-x-joinville-26032010-2/
+26/03/2010,Araraquara,94,90,Pinheiros,25ª RODADA,2º TURNO,20:00,,,sem_quartos,1476,https://lnb.com.br/noticias/araraquara-x-pinheiros-26032010-2/
+26/03/2010,Franca,88,85,Paulistano,25ª RODADA,2º TURNO,20:00,,,sem_quartos,1479,https://lnb.com.br/noticias/franca-x-paulistano-26032010-2/
+26/03/2010,Minas,101,80,Londrina,25ª RODADA,2º TURNO,20:00,,,sem_quartos,1483,https://lnb.com.br/noticias/minas-x-londrina-26032010-2/
+26/03/2010,Saldanha,83,57,Espírito Santo,25ª RODADA,2º TURNO,20:00,,,sem_quartos,1485,https://lnb.com.br/noticias/saldanha-x-vila-velha-26032010-2/
+26/03/2010,Bauru,108,105,Flamengo,25ª RODADA,2º TURNO,20:00,,,sem_quartos,1501,https://lnb.com.br/noticias/bauru-x-flamengo-26032010-2/
+26/03/2010,Assis,84,89,São José,25ª RODADA,2º TURNO,20:00,,,sem_quartos,1512,https://lnb.com.br/noticias/assis-x-sao-jose-26032010-2/
+28/03/2010,Assis,60,95,Flamengo,26ª RODADA,2º TURNO,11:00,,,sem_quartos,1472,https://lnb.com.br/noticias/assis-x-flamengo-28032010-2/
+28/03/2010,Bauru,104,79,São José,26ª RODADA,2º TURNO,11:00,,,sem_quartos,1477,https://lnb.com.br/noticias/bauru-x-sao-jose-28032010-2/
+28/03/2010,Franca,77,78,Pinheiros,26ª RODADA,2º TURNO,11:00,,,sem_quartos,1478,https://lnb.com.br/noticias/franca-x-pinheiros-28032010-2/
+28/03/2010,Araraquara,106,110,Paulistano,26ª RODADA,2º TURNO,11:00,,,sem_quartos,1481,https://lnb.com.br/noticias/araraquara-x-paulistano-28032010-2/
+28/03/2010,Minas,87,88,Joinville,26ª RODADA,2º TURNO,11:00,,,sem_quartos,1484,https://lnb.com.br/noticias/minas-x-joinville-28032010-2/
+28/03/2010,Brasília,91,76,Londrina,26ª RODADA,2º TURNO,11:00,,,sem_quartos,1486,https://lnb.com.br/noticias/brasilia-x-londrina-28032010-2/
+02/04/2010,Araraquara,96,70,Franca,27ª RODADA,2º TURNO,17:00,,,sem_quartos,1475,https://lnb.com.br/noticias/araraquara-x-franca-02042010-2/
+02/04/2010,Flamengo,91,71,Minas,27ª RODADA,2º TURNO,17:00,,,sem_quartos,1480,https://lnb.com.br/noticias/flamengo-x-minas-02042010-2/
+02/04/2010,São José,72,84,Brasília,27ª RODADA,2º TURNO,17:00,,,sem_quartos,1482,https://lnb.com.br/noticias/sao-jose-x-brasilia-02042010-2/
+02/04/2010,Joinville,63,71,Saldanha,27ª RODADA,2º TURNO,17:00,,,sem_quartos,1488,https://lnb.com.br/noticias/joinville-x-saldanha-02042010-2/
+02/04/2010,Paulistano,95,86,Bauru,27ª RODADA,2º TURNO,17:00,,,sem_quartos,1489,https://lnb.com.br/noticias/paulistano-x-bauru-02042010-2/
+02/04/2010,Londrina,81,73,Espírito Santo,27ª RODADA,2º TURNO,17:00,,,sem_quartos,1504,https://lnb.com.br/noticias/londrina-x-vila-velha-02042010-2/
+02/04/2010,Pinheiros,83,80,Assis,27ª RODADA,2º TURNO,19:00,,,sem_quartos,1487,https://lnb.com.br/noticias/pinheiros-x-assis-02042010-2/
+04/04/2010,Pinheiros,96,87,Bauru,28ª RODADA,2º TURNO,11:00,,,sem_quartos,1490,https://lnb.com.br/noticias/pinheiros-x-bauru-04042010-2/
+04/04/2010,São José,85,74,Minas,28ª RODADA,2º TURNO,11:00,,,sem_quartos,1493,https://lnb.com.br/noticias/sao-jose-x-minas-04042010-2/
+04/04/2010,Paulistano,81,87,Assis,28ª RODADA,2º TURNO,11:00,,,sem_quartos,1499,https://lnb.com.br/noticias/paulistano-x-assis-04042010-2/
+04/04/2010,Londrina,99,83,Saldanha,28ª RODADA,2º TURNO,11:00,,,sem_quartos,1503,https://lnb.com.br/noticias/londrina-x-saldanha-04042010-2/
+04/04/2010,Joinville,73,65,Espírito Santo,28ª RODADA,2º TURNO,11:00,,,sem_quartos,1505,https://lnb.com.br/noticias/joinville-x-vila-velha-04042010-2/
+04/04/2010,Brasília,90,83,Flamengo,28ª RODADA,2º TURNO,12:00,,,sem_quartos,1509,https://lnb.com.br/noticias/brasilia-x-flamengo-04042010-2/

@@ -1,0 +1,273 @@
+data,mandante,pts_mandante,pts_visitante,visitante,rodada,etapa,hora,prorrogacoes,quartos,status_quartos,id_lnb,link
+23/10/2021,São Paulo,61,86,Flamengo,1ª RODADA,1º TURNO,16:10,0,9-20 17-19 17-17 18-30,ok,23971,https://lnb.com.br/noticias/sao-paulo-61-x-86-flamengo/
+25/10/2021,Luvix/União Corinthians,59,77,Minas,2ª RODADA,1º TURNO,20:30,0,14-8 12-18 15-34 18-17,ok,23972,https://lnb.com.br/noticias/uniao-corinthians-59-x-77-minas-tenis-clube/
+26/10/2021,Bauru,76,87,Sesi Franca,2ª RODADA,1º TURNO,19:00,0,24-21 16-25 19-21 17-20,ok,23973,https://lnb.com.br/noticias/bauru-76-x-87-sesi-franca/
+26/10/2021,São Paulo,76,78,Cerrado Basquete,2ª RODADA,1º TURNO,20:00,1,20-22 17-20 19-12 12-14 8-10,ok,23974,https://lnb.com.br/noticias/sao-paulo-76-x-78-cerrado-basquete/
+26/10/2021,Pinheiros,86,75,Rio Claro,2ª RODADA,1º TURNO,20:00,0,20-18 13-12 37-23 16-22,ok,23975,https://lnb.com.br/noticias/pinheiros-86-x-75-rio-claro/
+27/10/2021,Fortaleza B. C.,71,72,UNIFACISA,2ª RODADA,1º TURNO,19:00,,,sem_quartos,23978,https://lnb.com.br/partidas/nbb-2021-2022-fortaleza-b-c-x-unifacisa-27102021-1900/
+27/10/2021,Caxias do Sul Basquete,75,83,123 Minas,2ª RODADA,1º TURNO,20:00,0,17-24 18-19 10-23 30-17,ok,23976,https://lnb.com.br/noticias/caxias-do-sul-basquete-75-x-83-minas-tenis-clube/
+27/10/2021,Luvix/União Corinthians,76,87,Flamengo,2ª RODADA,1º TURNO,20:30,0,19-14 12-28 27-23 18-22,ok,23977,https://lnb.com.br/noticias/uniao-corinthians-76-x-87-flamengo/
+28/10/2021,Pato Basquete,73,80,Corinthians,2ª RODADA,1º TURNO,19:30,0,21-14 17-25 12-21 23-20,ok,23979,https://lnb.com.br/noticias/pato-basquete-73-x-80-corinthians/
+28/10/2021,Mogi,77,72,Paulistano,2ª RODADA,1º TURNO,20:00,0,15-17 18-15 25-22 19-18,ok,23980,https://lnb.com.br/noticias/mogi-basquete-77-x-72-paulistano-corpore/
+28/10/2021,Pinheiros,80,89,Sesi Franca,2ª RODADA,1º TURNO,20:00,0,21-25 15-19 22-14 22-31,ok,23981,https://lnb.com.br/noticias/pinheiros-80-x-89-sesi-franca-basquete/
+28/10/2021,Bauru,77,65,Rio Claro,2ª RODADA,1º TURNO,20:00,0,18-15 13-21 27-12 19-17,ok,23982,https://lnb.com.br/noticias/bauru-basket-77-x-65-rio-claro/
+29/10/2021,Caxias do Sul Basquete,73,86,Flamengo,2ª RODADA,1º TURNO,20:00,0,23-22 8-25 27-17 15-22,ok,23983,https://lnb.com.br/noticias/caxias-do-sul-basquete-73-x-86-flamengo/
+29/10/2021,São Paulo,85,66,BRB/Brasília,2ª RODADA,1º TURNO,20:00,0,24-16 10-13 24-19 27-18,ok,23984,https://lnb.com.br/noticias/sao-paulo-85-x-66-brb-brasilia/
+30/10/2021,Mogi,70,69,Corinthians,2ª RODADA,1º TURNO,16:10,0,17-12 25-27 23-21 5-9,ok,23985,https://lnb.com.br/noticias/mogi-das-cruzes-70-x-69-corinthians/
+30/10/2021,Pato Basquete,55,68,Paulistano,2ª RODADA,1º TURNO,18:00,0,22-8 8-23 11-20 14-17,ok,23987,https://lnb.com.br/noticias/pato-basquete-55-x-68-paulistano-corpore/
+01/11/2021,Rio Claro,74,63,Luvix/União Corinthians,3ª RODADA,1º TURNO,19:30,0,15-13 18-17 21-22 20-11,ok,23986,https://lnb.com.br/noticias/rio-claro-74-x-63-uniao-corinthians/
+02/11/2021,Paulistano,74,69,Corinthians,3ª RODADA,1º TURNO,19:00,0,19-15 24-17 8-20 23-17,ok,23988,https://lnb.com.br/noticias/paulistano-74-x-69-corinthians/
+02/11/2021,Cerrado Basquete,88,79,Pinheiros,3ª RODADA,1º TURNO,20:45,0,20-17 17-27 27-16 24-19,ok,23989,https://lnb.com.br/noticias/cerrado-88-x-79-pinheiros/
+03/11/2021,Minas,109,75,Mogi,3ª RODADA,1º TURNO,19:00,0,20-20 36-17 24-16 29-22,ok,23993,https://lnb.com.br/noticias/minas-tenis-clube-109-x-75-mogi-das-cruzes-basquete/
+03/11/2021,Rio Claro,63,65,Caxias do Sul Basquete,3ª RODADA,1º TURNO,19:30,0,13-22 24-19 13-7 13-17,ok,23991,https://lnb.com.br/noticias/rio-claro-63-x-65-kto-caxias-do-sul/
+03/11/2021,Sesi Franca,115,74,Luvix/União Corinthians,3ª RODADA,1º TURNO,20:00,0,30-12 28-17 33-19 24-26,ok,23990,https://lnb.com.br/noticias/sesi-franca-115-x-74-uniao-corinthians/
+03/11/2021,Flamengo,94,62,Pato Basquete,3ª RODADA,1º TURNO,20:00,0,21-15 25-15 23-8 25-24,ok,23992,https://lnb.com.br/noticias/flamengo-x-pato-basquete/
+04/11/2021,Fortaleza B. C.,68,81,São Paulo,3ª RODADA,1º TURNO,20:00,0,12-21 29-9 13-27 14-24,ok,23996,https://lnb.com.br/noticias/fortaleza-b-c-68-x-81-sao-paulo/
+04/11/2021,BRB/Brasília,92,93,Pinheiros,3ª RODADA,1º TURNO,20:15,1,26-9 14-29 16-22 24-20 12-13,ok,23994,https://lnb.com.br/noticias/brb-brasilia-92-x-93-pinheiros/
+04/11/2021,Cerrado Basquete,87,92,Bauru,3ª RODADA,1º TURNO,20:30,1,19-24 18-21 19-15 23-19 8-13,ok,23995,https://lnb.com.br/noticias/cerrado-87-x-92-bauru/
+05/11/2021,Flamengo,116,73,Mogi,3ª RODADA,1º TURNO,19:00,0,19-20 27-16 38-19 32-18,ok,23998,https://lnb.com.br/noticias/flamengo-116-x-73-mogi/
+05/11/2021,Minas,79,67,Pato Basquete,3ª RODADA,1º TURNO,19:00,0,18-17 25-16 15-10 21-24,ok,23999,https://lnb.com.br/noticias/minas-79-x-67-pato-basquete/
+05/11/2021,Sesi Franca,84,75,Caxias do Sul Basquete,3ª RODADA,1º TURNO,20:00,0,17-21 23-16 24-18 20-20,ok,23997,https://lnb.com.br/noticias/sesi-franca-84-x-75-caxias-do-sul/
+06/11/2021,UNIFACISA,66,78,São Paulo,3ª RODADA,1º TURNO,16:10,0,12-22 14-17 22-24 18-15,ok,24000,https://lnb.com.br/noticias/unifacisa-66-x-78-sao-paulo/
+06/11/2021,BRB/Brasília,49,60,Bauru,3ª RODADA,1º TURNO,20:00,0,18-16 5-15 14-16 12-13,ok,24001,https://lnb.com.br/noticias/brb-brasilia-49-x-60-bauru-basket/
+08/11/2021,Pinheiros,81,60,Fortaleza B. C.,4ª RODADA,1º TURNO,20:00,0,18-16 24-12 18-19 21-13,ok,24003,https://lnb.com.br/noticias/pinheiros-81-x-60-fortaleza-b-c/
+08/11/2021,Luvix/União Corinthians,75,76,Cerrado Basquete,4ª RODADA,1º TURNO,20:45,1,14-12 13-21 19-16 23-20 6-7,ok,24002,https://lnb.com.br/noticias/luvix-uniao-corinthians-75-x-76-cerrado-basquete/
+09/11/2021,Corinthians,80,83,Flamengo,4ª RODADA,1º TURNO,20:00,0,17-21 23-14 15-23 25-25,ok,24004,https://lnb.com.br/noticias/corinthians-80-x-83-flamengo/
+10/11/2021,Caxias do Sul Basquete,72,64,Cerrado Basquete,4ª RODADA,1º TURNO,19:15,0,13-16 16-21 25-16 18-11,ok,24007,https://lnb.com.br/noticias/caxias-do-sul-72-x-64-cerrado-basquete/
+10/11/2021,Bauru,74,59,Fortaleza B. C.,4ª RODADA,1º TURNO,19:30,0,12-14 15-18 25-8 22-19,ok,24006,https://lnb.com.br/noticias/bauru-74-x-59-fortaleza-bc/
+10/11/2021,Pinheiros,67,86,UNIFACISA,4ª RODADA,1º TURNO,20:30,0,16-11 20-23 12-26 19-26,ok,24005,https://lnb.com.br/noticias/pinheiros-67-x-86-unifacisa/
+10/11/2021,Luvix/União Corinthians,70,55,BRB/Brasília,4ª RODADA,1º TURNO,20:30,0,23-13 11-11 22-13 14-18,ok,24008,https://lnb.com.br/noticias/luvix-uniao-corinthians-70-x-55-brb-brasilia/
+11/11/2021,Paulistano,87,81,Flamengo,4ª RODADA,1º TURNO,19:30,0,26-24 21-19 21-19 19-19,ok,24012,https://lnb.com.br/noticias/paulistano-87-x-81-flamengo/
+11/11/2021,Corinthians,65,82,Minas,4ª RODADA,1º TURNO,20:00,0,15-31 19-15 14-21 17-15,ok,24009,https://lnb.com.br/noticias/corinthians-65-x-82-minas-tenis-clube/
+11/11/2021,Pato Basquete,66,88,Sesi Franca,4ª RODADA,1º TURNO,20:00,0,6-25 13-22 25-22 22-19,ok,24010,https://lnb.com.br/noticias/pato-basquete-66-x-88-sesi-franca-basquete/
+11/11/2021,Mogi,64,60,Rio Claro,4ª RODADA,1º TURNO,20:00,0,15-16 17-12 16-25 16-7,ok,24011,https://lnb.com.br/noticias/mogi-basquete-64-x-60-rio-claro-basquete/
+12/11/2021,Bauru,84,68,UNIFACISA,4ª RODADA,1º TURNO,19:30,0,18-15 25-19 17-14 24-20,ok,24013,https://lnb.com.br/noticias/bauru-84-x-68-unifacisa/
+12/11/2021,Caxias do Sul Basquete,76,64,BRB/Brasília,4ª RODADA,1º TURNO,20:00,0,13-11 25-15 19-16 19-22,ok,24014,https://lnb.com.br/noticias/caxias-76-x-64-brasilia/
+13/11/2021,Paulistano,67,96,Minas,4ª RODADA,1º TURNO,16:10,0,15-26 11-16 16-25 25-29,ok,24015,https://lnb.com.br/noticias/paulistano-67-x-96-minas/
+13/11/2021,Mogi,96,102,Sesi Franca,4ª RODADA,1º TURNO,18:00,1,25-30 16-12 22-27 26-20 7-13,ok,24016,https://lnb.com.br/noticias/mogi-96-x-102-sesi-franca/
+13/11/2021,Pato Basquete,72,77,Rio Claro,4ª RODADA,1º TURNO,18:00,0,15-22 22-17 16-20 19-18,ok,24017,https://lnb.com.br/noticias/pato-basquete-72-x-77-rio-claro/
+16/11/2021,São Paulo,79,77,Bauru,5ª RODADA,1º TURNO,20:00,,,sem_quartos,24018,https://lnb.com.br/partidas/nbb-2021-2022-sao-paulo-x-bauru-16112021-2000/
+17/11/2021,Fortaleza B. C.,94,85,Caxias do Sul Basquete,5ª RODADA,1º TURNO,18:30,0,19-26 28-19 25-21 22-19,ok,24019,https://lnb.com.br/noticias/fortaleza-bc-94-x-85-caxias-do-sul/
+17/11/2021,UNIFACISA,104,99,Luvix/União Corinthians,5ª RODADA,1º TURNO,19:00,0,28-30 22-18 28-18 26-33,ok,24020,https://lnb.com.br/noticias/unifacisa-104-x-99-uniao-corinthians/
+18/11/2021,Rio Claro,85,79,Paulistano,5ª RODADA,1º TURNO,19:30,0,18-18 28-25 21-18 18-18,ok,24023,https://lnb.com.br/noticias/rio-claro-85-x-79-paulistano/
+18/11/2021,São Paulo,86,70,Pinheiros,5ª RODADA,1º TURNO,20:00,0,20-17 26-16 21-17 19-20,ok,24021,https://lnb.com.br/noticias/sao-paulo-86-x-70-pinheiros/
+18/11/2021,Sesi Franca,86,62,Corinthians,5ª RODADA,1º TURNO,20:00,,,sem_quartos,24022,https://lnb.com.br/noticias/sesi-franca-basquete-86-x-62-corinthians/
+19/11/2021,UNIFACISA,53,70,Caxias do Sul Basquete,5ª RODADA,1º TURNO,19:00,0,15-25 9-16 16-14 13-15,ok,24026,https://lnb.com.br/noticias/unifacisa-53-x-70-caxias-do-sul/
+19/11/2021,Fortaleza B. C.,77,76,Luvix/União Corinthians,5ª RODADA,1º TURNO,20:00,0,21-20 18-19 23-22 15-15,ok,24025,https://lnb.com.br/noticias/fortaleza-bc-77-x-76-uniao-corinthians/
+19/11/2021,BRB/Brasília,78,73,Mogi,5ª RODADA,1º TURNO,20:30,1,17-20 17-14 13-14 19-18 12-7,ok,24024,https://lnb.com.br/noticias/brb-brasilia-78-x-73-mogi-das-cruzes-basquete/
+19/11/2021,Cerrado Basquete,85,86,Pato Basquete,5ª RODADA,1º TURNO,20:30,1,22-23 21-17 16-22 16-13 10-11,ok,24027,https://lnb.com.br/noticias/cerrado-85-x-86-pato-basquete/
+20/11/2021,Flamengo,99,63,Minas,5ª RODADA,1º TURNO,16:10,0,23-14 22-16 31-16 23-17,ok,24028,https://lnb.com.br/noticias/flamengo-99-x-63-minas-tenis-clube/
+20/11/2021,Rio Claro,63,75,Corinthians,5ª RODADA,1º TURNO,18:00,0,21-16 13-17 13-15 16-27,ok,24029,https://lnb.com.br/noticias/rio-claro-63-x-75-corinthians/
+20/11/2021,Sesi Franca,82,78,Paulistano,5ª RODADA,1º TURNO,18:00,0,24-22 24-14 11-19 23-23,ok,24030,https://lnb.com.br/noticias/sesi-franca-82-x-78-paulistano/
+21/11/2021,BRB/Brasília,53,70,Pato Basquete,5ª RODADA,1º TURNO,11:00,0,22-17 8-16 8-17 15-20,ok,24032,https://lnb.com.br/noticias/brasilia-53-x-70-pato-basquete/
+21/11/2021,Cerrado Basquete,74,86,Mogi,5ª RODADA,1º TURNO,18:00,0,17-26 12-16 22-23 23-21,ok,24031,https://lnb.com.br/noticias/cerrado-basquete-74-x-86-mogi-basquete/
+01/12/2021,Pato Basquete,66,63,Fortaleza B. C.,6ª RODADA,1º TURNO,19:00,0,20-19 11-15 18-14 17-15,ok,24034,https://lnb.com.br/noticias/pato-basquete-66-x-63-fortaleza-basquete-cearense/
+01/12/2021,Paulistano,85,84,Cerrado Basquete,6ª RODADA,1º TURNO,19:30,0,13-20 19-18 32-23 21-23,ok,24035,https://lnb.com.br/noticias/paulistano-85-x-84-cerrado/
+01/12/2021,Mogi,75,85,UNIFACISA,6ª RODADA,1º TURNO,20:00,0,15-21 25-12 17-27 18-25,ok,24033,https://lnb.com.br/noticias/mogi-basquete-75-x-85-unifacisa/
+01/12/2021,Corinthians,73,64,BRB/Brasília,6ª RODADA,1º TURNO,20:30,0,16-17 15-17 25-9 17-21,ok,24036,https://lnb.com.br/noticias/corinthians-73-x-64-brasilia/
+02/12/2021,Bauru,73,68,Pinheiros,6ª RODADA,1º TURNO,19:30,0,23-17 15-9 14-20 21-22,ok,24039,https://lnb.com.br/noticias/bauru-73-x-68-pinheiros/
+02/12/2021,Minas,75,96,Sesi Franca,6ª RODADA,1º TURNO,20:00,0,19-26 22-24 18-21 16-25,ok,24037,https://lnb.com.br/noticias/minas-75-x-96-sesi-franca/
+02/12/2021,Flamengo,91,66,Rio Claro,6ª RODADA,1º TURNO,20:00,0,24-13 19-18 23-16 25-19,ok,24038,https://lnb.com.br/noticias/flamengo-91-x-66-rio-claro/
+02/12/2021,Luvix/União Corinthians,71,66,São Paulo,6ª RODADA,1º TURNO,20:30,0,13-19 15-15 21-19 22-13,ok,24040,https://lnb.com.br/noticias/uniao-corinthians-71-x-66-sao-paulo/
+03/12/2021,Corinthians,79,89,Cerrado Basquete,6ª RODADA,1º TURNO,19:00,0,26-21 12-24 18-22 23-22,ok,24042,https://lnb.com.br/noticias/corinthians-79-x-89-cerrado-basquete/
+03/12/2021,Paulistano,75,77,BRB/Brasília,6ª RODADA,1º TURNO,19:30,1,14-11 15-17 12-20 25-18 9-11,ok,24043,https://lnb.com.br/noticias/paulistano-75-x-77-brasilia/
+03/12/2021,Mogi,86,79,Fortaleza B. C.,6ª RODADA,1º TURNO,20:00,0,17-16 22-9 20-30 27-24,ok,24041,https://lnb.com.br/noticias/mogi-86-x-79-fortaleza/
+03/12/2021,Pato Basquete,69,80,UNIFACISA,6ª RODADA,1º TURNO,20:30,0,10-20 11-21 21-18 27-21,ok,24044,https://lnb.com.br/noticias/pato-basquete-69-x-80-unifacisa/
+04/12/2021,Flamengo,65,80,Sesi Franca,6ª RODADA,1º TURNO,16:10,0,16-19 16-19 16-21 17-21,ok,24045,https://lnb.com.br/noticias/flamengo-65-x-80-franca/
+04/12/2021,Minas,89,61,Rio Claro,6ª RODADA,1º TURNO,17:00,0,21-14 15-17 28-15 25-15,ok,24047,https://lnb.com.br/noticias/minas-tenis-clube-89-x-61-rio-claro/
+04/12/2021,Caxias do Sul Basquete,69,79,São Paulo,6ª RODADA,1º TURNO,18:00,0,10-14 16-14 23-23 20-28,ok,24046,https://lnb.com.br/noticias/caxias-do-sul-69-x-79-sao-paulo/
+07/12/2021,Bauru,92,67,Luvix/União Corinthians,7ª RODADA,1º TURNO,19:30,0,21-6 24-20 24-26 23-15,ok,24051,https://lnb.com.br/noticias/bauru-92-x-57-uniao-corinthians/
+07/12/2021,BRB/Brasília,60,69,Flamengo,7ª RODADA,1º TURNO,20:00,0,15-19 15-14 14-24 16-12,ok,24048,https://lnb.com.br/noticias/brasilia-60-x-69-flamengo/
+07/12/2021,Pinheiros,75,79,Caxias do Sul Basquete,7ª RODADA,1º TURNO,20:00,0,19-15 19-17 15-15 22-32,ok,24050,https://lnb.com.br/noticias/pinheiros-75-x-79-caxias-do-sul/
+07/12/2021,Cerrado Basquete,74,90,123 Minas,7ª RODADA,1º TURNO,20:30,0,13-20 17-22 22-23 22-25,ok,24049,https://lnb.com.br/noticias/cerrado-basquete-74-x-90-minas-tenis-clube/
+08/12/2021,Sesi Franca,86,76,Rio Claro,7ª RODADA,1º TURNO,20:00,0,12-17 23-12 24-20 27-27,ok,24052,https://lnb.com.br/noticias/franca-86-x-76-rio-claro/
+09/12/2021,Fortaleza B. C.,72,69,Paulistano,7ª RODADA,1º TURNO,19:00,1,18-11 16-14 15-23 14-15 9-6,ok,24056,https://lnb.com.br/noticias/fortaleza-basquete-cearense-72-x-69-paulistano/
+09/12/2021,BRB/Brasília,77,82,123 Minas,7ª RODADA,1º TURNO,20:00,0,19-20 31-27 12-22 15-13,ok,24053,https://lnb.com.br/noticias/brb-brasilia-77-x-82-minas-tenis-clube/
+09/12/2021,Bauru,89,81,Caxias do Sul Basquete,7ª RODADA,1º TURNO,20:00,0,32-19 16-14 22-19 19-29,ok,24054,https://lnb.com.br/noticias/bauru-basket-89-x-81-caxias-basquete/
+09/12/2021,Pinheiros,88,66,Luvix/União Corinthians,7ª RODADA,1º TURNO,20:00,0,28-14 14-16 25-25 21-11,ok,24055,https://lnb.com.br/noticias/pinheiros-88-x-66-luvix-uniao-corinthians/
+11/12/2021,Fortaleza B. C.,78,66,Corinthians,7ª RODADA,1º TURNO,16:10,0,12-16 25-16 19-17 22-17,ok,24057,https://lnb.com.br/noticias/fortaleza-basquete-cearense-78-x-66-corinthians/
+11/12/2021,UNIFACISA,72,87,Paulistano,7ª RODADA,1º TURNO,19:00,0,17-22 21-26 11-19 23-20,ok,24059,https://lnb.com.br/noticias/unifacisa-72-x-87-paulistano/
+11/12/2021,BRB/Brasília,72,82,Cerrado Basquete,7ª RODADA,1º TURNO,20:00,0,18-13 12-27 19-30 23-12,ok,24058,https://lnb.com.br/noticias/brb-brasilia-72-x-82-cerrado-basquete/
+13/12/2021,UNIFACISA,99,87,Corinthians,8ª RODADA,1º TURNO,19:00,0,18-27 19-17 30-23 32-20,ok,24060,https://lnb.com.br/noticias/unifacisa-99-x-87-corinthians/
+14/12/2021,Pinheiros,83,73,Paulistano,8ª RODADA,1º TURNO,20:00,0,29-16 17-22 22-21 15-14,ok,24061,https://lnb.com.br/noticias/pinheiro-83-x-73-paulistano/
+16/12/2021,Pato Basquete,81,69,Pinheiros,8ª RODADA,1º TURNO,19:30,0,20-21 18-13 22-14 21-21,ok,24065,https://lnb.com.br/noticias/pato-basquete-x-ec-pinheiros/
+16/12/2021,São Paulo,89,72,Mogi,8ª RODADA,1º TURNO,20:00,0,20-17 27-11 23-19 19-25,ok,24062,https://lnb.com.br/noticias/sao-paulo-89-x-72-mogi-basquete/
+16/12/2021,Caxias do Sul Basquete,89,72,Luvix/União Corinthians,8ª RODADA,1º TURNO,20:00,0,25-17 23-20 19-17 22-18,ok,24063,https://lnb.com.br/noticias/caxias-89-x-72-uniao-corinthians/
+16/12/2021,Rio Claro,93,75,Cerrado Basquete,8ª RODADA,1º TURNO,20:00,0,20-26 20-15 27-13 26-21,ok,24064,https://lnb.com.br/noticias/rio-claro-x-cerrado-basquete/
+18/12/2021,Corinthians,78,83,São Paulo,8ª RODADA,1º TURNO,16:10,0,16-17 20-23 27-22 15-21,ok,24066,https://lnb.com.br/noticias/corinthians-78-x-83-sao-paulo/
+18/12/2021,Pato Basquete,87,53,Bauru,8ª RODADA,1º TURNO,18:00,0,18-16 19-13 29-18 21-6,ok,24067,https://lnb.com.br/noticias/pato-basquete-87-x-53-bauru-basket/
+18/12/2021,Sesi Franca,96,61,Cerrado Basquete,8ª RODADA,1º TURNO,18:00,0,18-12 31-11 24-25 23-13,ok,24068,https://lnb.com.br/noticias/sesi-franca-96-x-61-cerrado-basquete/
+19/12/2021,123 Minas,101,74,Fortaleza B. C.,8ª RODADA,1º TURNO,11:00,0,24-12 18-22 31-18 28-22,ok,24069,https://lnb.com.br/noticias/minas-tenis-clube-101-x-74-fortaleza-basquete-cearense/
+19/12/2021,Rio Claro,80,58,BRB/Brasília,8ª RODADA,1º TURNO,11:00,0,23-4 17-16 18-17 22-21,ok,24071,https://lnb.com.br/noticias/rio-claro-80-x-58-brasilia/
+19/12/2021,Flamengo,89,70,UNIFACISA,8ª RODADA,1º TURNO,18:00,0,19-18 26-11 25-23 19-18,ok,24070,https://lnb.com.br/noticias/flamengo-89-x-70-unifacisa/
+20/12/2021,Mogi,76,79,Bauru,9ª RODADA,1º TURNO,20:00,0,20-14 18-15 15-27 23-23,ok,24072,https://lnb.com.br/noticias/mogi-basquete-76-x-79-bauru-basket/
+21/12/2021,123 Minas,71,68,UNIFACISA,9ª RODADA,1º TURNO,19:00,0,14-14 17-17 20-14 20-23,ok,24075,https://lnb.com.br/noticias/minas-tenis-clube-71-x-68-unifacisa/
+21/12/2021,Flamengo,91,74,Fortaleza B. C.,9ª RODADA,1º TURNO,20:00,0,26-15 16-18 26-21 23-20,ok,24073,https://lnb.com.br/noticias/flamengo-91-x-74-fortaleza-basquete-cearense/
+21/12/2021,Sesi Franca,87,79,BRB/Brasília,9ª RODADA,1º TURNO,20:00,0,22-13 20-23 24-21 21-22,ok,24074,https://lnb.com.br/noticias/franca-87-x-79-brasilia/
+22/12/2021,Mogi,65,82,Pinheiros,9ª RODADA,1º TURNO,20:00,0,14-22 14-24 14-15 23-21,ok,24076,https://lnb.com.br/noticias/mogi-basquete-65-x-82-pinheiros/
+23/12/2021,Paulistano,60,75,São Paulo,9ª RODADA,1º TURNO,18:00,0,19-24 6-21 20-15 15-15,ok,24077,https://lnb.com.br/noticias/paulistano-corpore-60-x-75-sao-paulo/
+28/12/2021,Luvix/União Corinthians,92,80,Mogi,10ª RODADA,1º TURNO,19:30,0,21-25 21-22 25-20 25-13,ok,24080,https://lnb.com.br/noticias/uniao-corinthians-92-x-80-mogi-basquete/
+28/12/2021,Bauru,77,71,Corinthians,10ª RODADA,1º TURNO,20:00,0,20-15 24-16 17-23 16-17,ok,24078,https://lnb.com.br/noticias/bauru-77-x-71-corinthians/
+28/12/2021,Caxias do Sul Basquete,80,67,Pato Basquete,10ª RODADA,1º TURNO,20:00,0,19-14 18-18 21-19 22-16,ok,24079,https://lnb.com.br/noticias/caxias-do-sul-80-x-67-pato-basquete/
+30/12/2021,Luvix/União Corinthians,74,68,Pato Basquete,10ª RODADA,1º TURNO,19:30,0,17-13 18-12 16-15 23-28,ok,24083,https://lnb.com.br/noticias/uniao-corinthians-74-x-68-pato/
+30/12/2021,Cerrado Basquete,75,91,Flamengo,10ª RODADA,1º TURNO,20:00,0,24-27 15-20 18-17 18-27,ok,24081,https://lnb.com.br/noticias/cerrado-basquete-75-x-91-flamengo/
+30/12/2021,Caxias do Sul Basquete,73,78,Mogi,10ª RODADA,1º TURNO,20:00,0,19-27 18-22 17-15 19-14,ok,24082,https://lnb.com.br/noticias/caxias-do-sul-73-x-78-mogi-basquete/
+03/01/2022,UNIFACISA,81,85,Sesi Franca,11ª RODADA,1º TURNO,19:30,0,20-26 21-16 17-25 23-18,ok,24084,https://lnb.com.br/noticias/unifacisa-81-x-85-sesi-franca/
+03/01/2022,Fortaleza B. C.,20,0,Rio Claro,11ª RODADA,1º TURNO,20:00,,,sem_quartos,24085,https://lnb.com.br/partidas/nbb-2021-2022-fortaleza-b-c-x-rio-claro-03012022-2000/
+04/01/2022,São Paulo,91,87,123 Minas,11ª RODADA,1º TURNO,20:00,0,29-25 20-24 19-10 23-28,ok,24086,https://lnb.com.br/noticias/sao-paulo-91-x-89-123-minas/
+05/01/2022,UNIFACISA,20,0,Rio Claro,11ª RODADA,1º TURNO,19:30,,,sem_quartos,24088,https://lnb.com.br/partidas/nbb-2021-2022-unifacisa-x-rio-claro-05012022-1930/
+05/01/2022,Fortaleza B. C.,64,110,Sesi Franca,11ª RODADA,1º TURNO,20:45,0,13-18 16-26 19-31 16-35,ok,24087,https://lnb.com.br/noticias/fortaleza-basquete-cearense-64-x-110-sesi-franca-basquete/
+06/01/2022,Bauru,97,98,Paulistano,11ª RODADA,1º TURNO,20:00,0,17-25 24-20 23-23 33-30,ok,24089,https://lnb.com.br/noticias/bauru-basket-97-x-98-paulistano/
+06/01/2022,Pinheiros,67,65,Corinthians,11ª RODADA,1º TURNO,20:00,0,17-13 17-23 21-12 12-17,ok,24090,https://lnb.com.br/noticias/pinheiros-67-x-65-corinthians/
+08/01/2022,Sesi Franca,92,87,São Paulo,11ª RODADA,1º TURNO,16:10,0,28-29 22-23 20-13 22-22,ok,24091,https://lnb.com.br/noticias/sesi-franca-92-x-87-sao-paulo/
+09/01/2022,123 Minas,76,64,Bauru,11ª RODADA,1º TURNO,11:00,0,16-19 19-20 19-14 22-11,ok,24092,https://lnb.com.br/noticias/123-minas-76-x-64-bauru-basket/
+09/01/2022,BRB/Brasília,60,79,UNIFACISA,11ª RODADA,1º TURNO,13:00,0,16-21 25-12 8-23 11-23,ok,24093,https://lnb.com.br/noticias/brb-brasilia-60-x-79-unifacisa/
+09/01/2022,Cerrado Basquete,122,126,Fortaleza B. C.,11ª RODADA,1º TURNO,18:00,4,20-17 21-16 18-23 19-22 14-14 11-11 9-9 10-14,ok,24094,https://lnb.com.br/noticias/cerrado-basquete-122-x-126-fortaleza-bc/
+09/01/2022,Flamengo,81,64,Pinheiros,11ª RODADA,1º TURNO,18:00,0,25-19 21-16 19-16 16-13,ok,24095,https://lnb.com.br/noticias/flamengo-81-x-64-pinheiros/
+10/01/2022,Paulistano,90,78,Luvix/União Corinthians,12ª RODADA,1º TURNO,19:30,0,29-17 15-14 17-25 29-22,ok,24096,https://lnb.com.br/noticias/paulistano-90-x-78-uniao-corinthians/
+10/01/2022,Rio Claro,91,85,São Paulo,12ª RODADA,1º TURNO,19:30,1,20-23 21-19 17-29 17-4 16-10,ok,24098,https://lnb.com.br/noticias/rio-claro-91-x-85-sao-paulo/
+10/01/2022,Corinthians,104,60,Caxias do Sul Basquete,12ª RODADA,1º TURNO,20:00,0,22-15 29-11 31-21 22-13,ok,24097,https://lnb.com.br/noticias/corinthians-104-x-60-caxias/
+10/01/2022,Mogi,68,72,Pato Basquete,12ª RODADA,1º TURNO,20:00,0,15-14 12-11 17-28 24-19,ok,24099,https://lnb.com.br/noticias/mogi-basquete-68-x-72-pato-basquete/
+11/01/2022,123 Minas,91,84,Pinheiros,12ª RODADA,1º TURNO,19:00,0,22-22 22-27 21-23 26-12,ok,24101,https://lnb.com.br/noticias/123-minas-91-x-84-pinheiros/
+11/01/2022,Flamengo,103,59,Bauru,12ª RODADA,1º TURNO,20:00,0,24-19 21-14 26-13 32-13,ok,24100,https://lnb.com.br/noticias/flamengo-103-x-59-bauru/
+11/01/2022,BRB/Brasília,82,75,Fortaleza B. C.,12ª RODADA,1º TURNO,20:00,0,21-18 26-15 14-18 21-24,ok,24102,https://lnb.com.br/noticias/brasilia-82-x-74-fortaleza/
+11/01/2022,Cerrado Basquete,74,88,UNIFACISA,12ª RODADA,1º TURNO,20:30,0,18-19 18-22 22-28 16-19,ok,24103,https://lnb.com.br/noticias/cerrado-74-x-88-unifacisa/
+12/01/2022,Paulistano,89,83,Caxias do Sul Basquete,12ª RODADA,1º TURNO,19:30,,,sem_quartos,24104,https://lnb.com.br/partidas/nbb-2021-2022-paulistano-x-caxias-do-sul-basquete-12012022-1930/
+12/01/2022,Corinthians,74,63,Luvix/União Corinthians,12ª RODADA,1º TURNO,20:00,0,20-13 14-9 12-20 28-21,ok,24105,https://lnb.com.br/noticias/corinthians-74-x-63-luvix-uniao-corinthians/
+12/01/2022,São Paulo,86,77,Pato Basquete,12ª RODADA,1º TURNO,20:00,0,15-26 24-14 23-17 24-20,ok,24106,https://lnb.com.br/noticias/sao-paulo-86-x-77-pato-basquete/
+25/01/2022,Rio Claro,84,80,Pinheiros,13ª RODADA,2º TURNO,19:30,0,21-18 23-22 19-19 21-21,ok,24118,https://lnb.com.br/noticias/rio-claro-84-x-80-pinheiros/
+25/01/2022,BRB/Brasília,86,90,São Paulo,13ª RODADA,2º TURNO,20:00,1,22-19 18-18 14-14 23-26 9-13,ok,24115,https://lnb.com.br/noticias/brasilia-86-x-90-sao-paulo/
+25/01/2022,Corinthians,98,75,Mogi,13ª RODADA,2º TURNO,20:00,0,26-21 19-16 27-17 26-21,ok,24116,https://lnb.com.br/noticias/corinthians-98-x-75-mogi-basquete/
+25/01/2022,Flamengo,90,55,Caxias do Sul Basquete,13ª RODADA,2º TURNO,20:00,0,30-10 19-6 18-22 23-17,ok,24117,https://lnb.com.br/noticias/flamengo-90-x-55-caxias-basquete/
+26/01/2022,Paulistano,82,86,Pato Basquete,13ª RODADA,2º TURNO,19:30,,,sem_quartos,24119,https://lnb.com.br/partidas/nbb-2021-2022-paulistano-x-pato-basquete-26012022-1930/
+26/01/2022,UNIFACISA,95,68,Fortaleza B. C.,13ª RODADA,2º TURNO,19:30,0,20-15 24-13 25-23 26-17,ok,24120,https://lnb.com.br/noticias/unifacisa-95-x-68-fortaleza-basquete-cearense/
+27/01/2022,123 Minas,83,62,Caxias do Sul Basquete,13ª RODADA,2º TURNO,19:00,0,17-13 24-14 27-19 15-16,ok,24124,https://lnb.com.br/noticias/123-minas-83-x-62-caxias-basquete/
+27/01/2022,Rio Claro,76,84,Bauru,13ª RODADA,2º TURNO,19:30,0,29-27 16-12 10-22 21-23,ok,24122,https://lnb.com.br/noticias/rio-claro-76-x-84-bauru-basket/
+27/01/2022,Sesi Franca,95,80,Pinheiros,13ª RODADA,2º TURNO,20:00,0,30-19 24-21 19-14 22-26,ok,24121,https://lnb.com.br/noticias/franca-95-x-80-pinheiros/
+27/01/2022,Cerrado Basquete,86,84,São Paulo,13ª RODADA,2º TURNO,20:30,0,20-18 25-15 21-24 20-27,ok,24123,https://lnb.com.br/noticias/cerrado-86-x-84-sao-paulo/
+28/01/2022,Paulistano,69,62,Mogi,13ª RODADA,2º TURNO,19:30,0,16-19 22-14 11-11 20-18,ok,24126,https://lnb.com.br/noticias/paulistano-69-x-62-mogi-das-cruzes-basquete/
+28/01/2022,Corinthians,58,60,Pato Basquete,13ª RODADA,2º TURNO,20:00,0,21-19 15-17 11-12 11-12,ok,24125,https://lnb.com.br/noticias/corinthian-58-x-60-pato-basquete/
+29/01/2022,Sesi Franca,104,88,Bauru,13ª RODADA,2º TURNO,16:10,0,32-24 25-18 19-31 28-15,ok,24127,https://lnb.com.br/noticias/sesi-franca-basquete-104-x-88-bauru-basket/
+29/01/2022,123 Minas,97,82,Luvix/União Corinthians,13ª RODADA,2º TURNO,19:00,0,30-19 25-19 18-26 24-18,ok,24128,https://lnb.com.br/noticias/123-minas-97-x-82-luvix-uniao-corinthians/
+31/01/2022,Pinheiros,107,95,BRB/Brasília,14ª RODADA,2º TURNO,20:00,1,24-23 18-10 22-25 22-28 21-9,ok,24129,https://lnb.com.br/noticias/pinheiros-107-x-95-brasilia/
+01/02/2022,Caxias do Sul Basquete,85,77,Rio Claro,14ª RODADA,2º TURNO,20:00,0,23-25 16-19 24-18 22-15,ok,24131,https://lnb.com.br/noticias/caxias-do-sul-85-x-77-rio-claro/
+02/02/2022,Bauru,96,74,BRB/Brasília,14ª RODADA,2º TURNO,18:00,0,12-24 35-9 25-15 24-26,ok,24132,https://lnb.com.br/noticias/bauru-basket-96-x-74-brasilia/
+02/02/2022,Pinheiros,88,70,Cerrado Basquete,14ª RODADA,2º TURNO,20:00,0,20-18 31-14 12-18 25-20,ok,24133,https://lnb.com.br/noticias/pinheiros-88-x-70-cerrado-basquete/
+03/02/2022,Pato Basquete,87,93,Flamengo,14ª RODADA,2º TURNO,19:00,0,27-25 24-24 15-21 21-23,ok,24136,https://lnb.com.br/noticias/pato-basquete-87-x-93-flamengo/
+03/02/2022,Caxias do Sul Basquete,68,83,Sesi Franca,14ª RODADA,2º TURNO,20:00,0,15-26 20-12 20-24 13-21,ok,24134,https://lnb.com.br/noticias/caxias-do-sul-68-x-83-sesi-franca/
+03/02/2022,Luvix/União Corinthians,84,75,Rio Claro,14ª RODADA,2º TURNO,20:30,0,16-19 22-15 22-18 24-23,ok,24135,https://lnb.com.br/noticias/luvix-uniao-corinthians-84-x-75-rio-claro/
+03/02/2022,Corinthians,81,71,Paulistano,14ª RODADA,2º TURNO,21:00,0,24-15 20-23 20-20 17-13,ok,24130,https://lnb.com.br/noticias/corinthians-81-x-71-paulistano/
+04/02/2022,Bauru,74,68,Cerrado Basquete,14ª RODADA,2º TURNO,19:30,0,19-22 21-17 13-19 21-10,ok,24137,https://lnb.com.br/noticias/bauru-74-x-68-cerrado/
+05/02/2022,Mogi,77,117,Flamengo,14ª RODADA,2º TURNO,16:10,0,15-32 25-29 21-32 16-24,ok,24138,https://lnb.com.br/noticias/mogi-das-cruzes-basquete-77-x-117-flamengo/
+05/02/2022,São Paulo,88,70,UNIFACISA,14ª RODADA,2º TURNO,19:00,0,18-12 27-16 21-22 22-20,ok,24139,https://lnb.com.br/noticias/sao-paulo-x-unifacisa/
+05/02/2022,Luvix/União Corinthians,89,85,Sesi Franca,14ª RODADA,2º TURNO,19:00,0,26-20 22-16 19-22 22-27,ok,24140,https://lnb.com.br/noticias/luvix-uniao-corinthians-89-x-85-sesi-franca/
+06/02/2022,Pato Basquete,70,101,123 Minas,14ª RODADA,2º TURNO,18:00,0,19-21 17-19 17-32 17-29,ok,24141,https://lnb.com.br/noticias/pato-basquete-70-x-101-123-minas/
+07/02/2022,São Paulo,73,62,Fortaleza B. C.,15ª RODADA,2º TURNO,20:00,0,12-18 20-21 23-11 18-12,ok,24142,https://lnb.com.br/noticias/sao-paulo-73-x-62-fortaleza-basquete-cearense/
+07/02/2022,BRB/Brasília,78,79,Caxias do Sul Basquete,15ª RODADA,2º TURNO,20:00,0,14-26 18-14 27-15 19-24,ok,24143,https://lnb.com.br/noticias/brb-brasilia-78-x-79-caxias-basquete/
+08/02/2022,Mogi,70,73,123 Minas,15ª RODADA,2º TURNO,20:00,0,18-12 17-18 21-26 14-17,ok,24144,https://lnb.com.br/noticias/mogi-basquete-70-x-73-minas-tenis-clube/
+09/02/2022,UNIFACISA,87,85,Pinheiros,15ª RODADA,2º TURNO,19:30,0,16-22 13-17 22-23 36-23,ok,24147,https://lnb.com.br/noticias/unifacisa-87-x-85-pinheiros/
+09/02/2022,BRB/Brasília,92,71,Luvix/União Corinthians,15ª RODADA,2º TURNO,20:00,0,27-13 26-21 25-22 14-15,ok,24146,https://lnb.com.br/noticias/brb-brasilia-92-x-71-luvix-uniao-corinthians/
+09/02/2022,Cerrado Basquete,79,61,Caxias do Sul Basquete,15ª RODADA,2º TURNO,20:30,0,24-16 20-12 12-18 23-15,ok,24145,https://lnb.com.br/noticias/cerrado-basquete-79-x-61-caxias-do-sul-basquete/
+10/02/2022,Rio Claro,79,65,Pato Basquete,15ª RODADA,2º TURNO,20:00,0,26-17 12-13 22-16 19-19,ok,24148,https://lnb.com.br/noticias/rio-claro-xx-x-xx-pato-basquete/
+11/02/2022,UNIFACISA,92,64,Bauru,15ª RODADA,2º TURNO,19:30,0,24-12 26-9 20-18 22-25,ok,24151,https://lnb.com.br/noticias/unifacisa-92-x-64-bauru-basket/
+11/02/2022,Fortaleza B. C.,65,81,Pinheiros,15ª RODADA,2º TURNO,20:30,0,20-17 14-17 13-22 18-25,ok,24149,https://lnb.com.br/noticias/fortaleza-65-x-81-pinheiros/
+11/02/2022,Cerrado Basquete,55,73,Luvix/União Corinthians,15ª RODADA,2º TURNO,20:30,0,8-9 17-16 12-28 18-20,ok,24150,https://lnb.com.br/noticias/cerrado-55-x-73-luvix-uniao-corinthians/
+12/02/2022,123 Minas,91,88,Corinthians,15ª RODADA,2º TURNO,16:10,1,17-22 24-25 25-21 19-17 6-3,ok,24152,https://lnb.com.br/noticias/123-minas-91-x-88-corinthians/
+12/02/2022,Rio Claro,75,56,Mogi,15ª RODADA,2º TURNO,18:00,0,28-12 10-10 22-18 15-16,ok,24153,https://lnb.com.br/noticias/rio-claro-75-x-56-mogi-das-cruzes/
+12/02/2022,Sesi Franca,97,80,Pato Basquete,15ª RODADA,2º TURNO,18:00,0,22-26 25-18 29-18 21-18,ok,24154,https://lnb.com.br/noticias/sesi-franca-97-x-80-pato-basquete/
+13/02/2022,Fortaleza B. C.,74,72,Bauru,15ª RODADA,2º TURNO,11:00,0,16-19 23-19 16-13 19-21,ok,24155,https://lnb.com.br/noticias/fortaleza-b-c-74-x-72-bauru-basket/
+14/02/2022,Sesi Franca,92,71,Mogi,16ª RODADA,2º TURNO,20:00,0,20-5 23-18 29-26 20-22,ok,24156,https://lnb.com.br/noticias/sesi-franca-basquete-92-x-71-mogi-basquete/
+15/02/2022,123 Minas,104,67,Paulistano,16ª RODADA,2º TURNO,19:00,0,24-13 23-14 28-20 29-20,ok,24158,https://lnb.com.br/noticias/123-minas-104-x-67-paulistano/
+15/02/2022,Pinheiros,92,98,São Paulo,16ª RODADA,2º TURNO,20:00,0,15-27 24-23 24-24 29-24,ok,24157,https://lnb.com.br/noticias/pinheiros-92-x-98-sao-paulo/
+17/02/2022,Pato Basquete,77,75,BRB/Brasília,16ª RODADA,2º TURNO,19:30,0,21-22 16-15 13-23 27-15,ok,24160,https://lnb.com.br/noticias/pato-77-x-75-brasilia-basquete/
+17/02/2022,Corinthians,84,78,Rio Claro,16ª RODADA,2º TURNO,20:00,1,10-18 18-24 13-14 24-9 19-13,ok,24159,https://lnb.com.br/noticias/corinthians-84-x-78-rio-claro-basquete/
+17/02/2022,Mogi,87,67,Cerrado Basquete,16ª RODADA,2º TURNO,20:00,0,29-16 14-16 27-11 17-24,ok,24161,https://lnb.com.br/noticias/mogi-das-cruzes-basquete-87-x-67-cerrado-basquete/
+18/02/2022,Bauru,102,87,São Paulo,16ª RODADA,2º TURNO,19:30,0,29-19 24-29 17-21 32-18,ok,24163,https://lnb.com.br/noticias/bauru-basket-102-x-87-sao-paulo/
+18/02/2022,Caxias do Sul Basquete,74,66,Fortaleza B. C.,16ª RODADA,2º TURNO,20:00,0,13-13 28-13 17-15 16-25,ok,24165,https://lnb.com.br/noticias/caxias-do-sul-basquete-74-x-66-fortaleza-b-c/
+18/02/2022,Luvix/União Corinthians,70,74,UNIFACISA,16ª RODADA,2º TURNO,20:30,0,11-21 22-17 24-14 13-22,ok,24164,https://lnb.com.br/noticias/luvix-uniao-corinthians-70-x-74-unifacisa/
+19/02/2022,Corinthians,65,81,Sesi Franca,16ª RODADA,2º TURNO,16:00,0,18-13 15-21 13-24 19-23,ok,24166,https://lnb.com.br/noticias/corinthians-65-x-81-sesi-franca/
+19/02/2022,Mogi,83,72,BRB/Brasília,16ª RODADA,2º TURNO,18:00,0,20-24 18-14 23-10 22-24,ok,24167,https://lnb.com.br/noticias/mogi-das-cruzes-basquete-83-x-72-brasilia/
+19/02/2022,Pato Basquete,78,94,Cerrado Basquete,16ª RODADA,2º TURNO,18:00,0,16-19 16-23 22-17 24-35,ok,24168,https://lnb.com.br/noticias/pato-basquete-78-x-94-cerrado-basquete/
+20/02/2022,123 Minas,88,79,Flamengo,16ª RODADA,2º TURNO,11:00,0,15-20 24-28 22-18 27-13,ok,24170,https://lnb.com.br/noticias/123-minas-88-x-79-flamengo/
+20/02/2022,Paulistano,86,78,Rio Claro,16ª RODADA,2º TURNO,11:00,0,24-12 11-21 13-27 38-18,ok,24171,https://lnb.com.br/noticias/paulistano-86-x-78-rio-claro/
+20/02/2022,Caxias do Sul Basquete,60,79,UNIFACISA,16ª RODADA,2º TURNO,11:00,0,12-24 13-27 18-17 17-11,ok,24172,https://lnb.com.br/noticias/caxias-do-sul-60-x-79-unifacisa/
+20/02/2022,Luvix/União Corinthians,80,86,Fortaleza B. C.,16ª RODADA,2º TURNO,19:00,0,16-19 10-22 23-23 31-22,ok,24169,https://lnb.com.br/noticias/luvix-uniao-corinthians-80-x-86-fortaleza-basquete-cearense/
+02/03/2022,UNIFACISA,91,82,Mogi,17ª RODADA,2º TURNO,19:30,0,21-20 30-30 19-9 21-23,ok,24173,https://lnb.com.br/noticias/unifacisa-91-x-82-mogi/
+02/03/2022,São Paulo,93,53,Caxias do Sul Basquete,17ª RODADA,2º TURNO,20:00,0,25-12 20-8 15-19 33-14,ok,24175,https://lnb.com.br/noticias/sao-paulo-93-x-53-caxias-do-sul/
+02/03/2022,Flamengo,69,63,Cerrado Basquete,17ª RODADA,2º TURNO,20:00,0,29-13 9-15 17-19 14-16,ok,24176,https://lnb.com.br/noticias/flamengo-69-x-63-cerrado-basquete/
+02/03/2022,Fortaleza B. C.,78,84,Pato Basquete,17ª RODADA,2º TURNO,20:30,0,23-15 12-17 20-29 23-23,ok,24174,https://lnb.com.br/noticias/fortaleza-bc-78-x-84-pato-basquete/
+03/03/2022,Sesi Franca,98,89,123 Minas,17ª RODADA,2º TURNO,20:00,0,30-20 19-21 29-25 20-23,ok,24177,https://lnb.com.br/noticias/sesi-franca-98-x-89-123-minas/
+04/03/2022,Paulistano,53,65,Bauru,17ª RODADA,2º TURNO,19:30,0,11-21 14-18 9-13 19-13,ok,24178,https://lnb.com.br/noticias/paulistano-53-x-65-bauru/
+04/03/2022,UNIFACISA,87,78,Pato Basquete,17ª RODADA,2º TURNO,19:30,0,27-14 16-20 20-21 24-23,ok,24180,https://lnb.com.br/noticias/unifacisa-87-x-78-pato/
+04/03/2022,São Paulo,98,71,Luvix/União Corinthians,17ª RODADA,2º TURNO,20:00,0,24-19 25-12 31-17 18-23,ok,24181,https://lnb.com.br/noticias/sao-paulo-98-x-71-luvix-uniao-corinthians/
+04/03/2022,Fortaleza B. C.,82,75,Mogi,17ª RODADA,2º TURNO,20:30,0,18-18 25-19 21-21 18-17,ok,24179,https://lnb.com.br/noticias/fortaleza-basquete-cearense-82-x-75-mogi-das-cruzes-basquete/
+05/03/2022,Sesi Franca,90,85,Flamengo,17ª RODADA,2º TURNO,16:10,0,22-17 18-22 29-15 21-31,ok,24182,https://lnb.com.br/noticias/sesi-franca-basquete-90-x-85-flamengo/
+05/03/2022,Rio Claro,75,78,123 Minas,17ª RODADA,2º TURNO,18:00,0,18-18 17-17 21-22 19-21,ok,24183,https://lnb.com.br/noticias/rio-claro-75-x-78-123-minas/
+06/03/2022,Pinheiros,60,65,Bauru,17ª RODADA,2º TURNO,11:00,0,15-14 14-19 14-17 17-15,ok,24184,https://lnb.com.br/noticias/pinheiros-60-x-65-bauru/
+06/03/2022,Cerrado Basquete,86,80,Corinthians,17ª RODADA,2º TURNO,11:00,0,19-19 23-19 22-22 22-20,ok,24185,https://lnb.com.br/noticias/cerrado-basquete-86-x-80-corinthians/
+07/03/2022,Rio Claro,79,99,Flamengo,18ª RODADA,2º TURNO,19:30,0,21-23 15-18 15-25 28-33,ok,24186,https://lnb.com.br/noticias/rio-claro-79-x-99-flamengo/
+07/03/2022,São Paulo,80,71,Paulistano,18ª RODADA,2º TURNO,20:00,0,25-22 20-21 15-12 20-16,ok,24187,https://lnb.com.br/noticias/sao-paulo-80-x-71-paulistano/
+08/03/2022,BRB/Brasília,89,91,Corinthians,18ª RODADA,2º TURNO,20:00,0,23-23 24-17 19-26 23-25,ok,24188,https://lnb.com.br/noticias/brb-brasilia-89-x-91-corinthians/
+09/03/2022,123 Minas,74,66,Cerrado Basquete,18ª RODADA,2º TURNO,19:00,0,17-8 25-19 15-21 17-18,ok,24189,https://lnb.com.br/noticias/123-minas-74-x-66-cerrado/
+10/03/2022,Paulistano,94,88,Fortaleza B. C.,18ª RODADA,2º TURNO,19:30,1,23-21 14-20 18-17 23-20 16-10,ok,24191,https://lnb.com.br/noticias/paulistano-94-x-88-fortaleza-basquete-cearense/
+10/03/2022,Rio Claro,78,102,Sesi Franca,18ª RODADA,2º TURNO,20:00,0,16-19 21-22 22-29 19-32,ok,24190,https://lnb.com.br/noticias/rio-claro-78-x-102-sesi-franca-basquete/
+11/03/2022,123 Minas,95,82,BRB/Brasília,18ª RODADA,2º TURNO,19:00,0,21-21 31-19 26-18 17-24,ok,24193,https://lnb.com.br/noticias/123-minas-95-x-82-brb-brasilia/
+11/03/2022,Pato Basquete,79,70,Mogi,18ª RODADA,2º TURNO,19:30,0,18-12 22-16 19-28 20-14,ok,24192,https://lnb.com.br/noticias/pato-basquete-79-x-70-mogi-basquete/
+12/03/2022,Corinthians,81,65,Fortaleza B. C.,18ª RODADA,2º TURNO,16:10,0,15-19 22-9 16-19 28-18,ok,24194,https://lnb.com.br/noticias/corinthians-81-x-65-fortaleza-basquete-cearense/
+12/03/2022,Caxias do Sul Basquete,80,87,Pinheiros,18ª RODADA,2º TURNO,17:00,0,18-22 14-16 23-30 25-19,ok,24196,https://lnb.com.br/noticias/caxias-do-sul-basquete-80-x-87-ec-pinheiros/
+12/03/2022,Paulistano,83,64,UNIFACISA,18ª RODADA,2º TURNO,18:00,0,11-17 21-19 23-7 28-21,ok,24195,https://lnb.com.br/noticias/paulistano-constroi-boa-estrategia-de-crescimento-entrega-3o-quarto-arrasador-e-sai-com-a-vitoria-para-cima-do-unifacisa/
+12/03/2022,Luvix/União Corinthians,77,82,Bauru,18ª RODADA,2º TURNO,19:00,,,sem_quartos,24197,https://lnb.com.br/noticias/uniao-corinthians-77-x-82-bauru/
+14/03/2022,Corinthians,69,70,UNIFACISA,19ª RODADA,2º TURNO,20:00,0,18-12 16-18 17-20 18-20,ok,24198,https://lnb.com.br/noticias/corinthians-69-x-70-unifacisa/
+14/03/2022,Caxias do Sul Basquete,60,66,Bauru,19ª RODADA,2º TURNO,20:00,0,20-15 18-14 7-15 15-22,ok,24200,https://lnb.com.br/noticias/caxias-do-sul-basquete-60-x-66-bauru-basket/
+14/03/2022,Luvix/União Corinthians,83,87,Pinheiros,19ª RODADA,2º TURNO,20:30,0,15-22 31-20 26-27 11-18,ok,24199,https://lnb.com.br/noticias/luvix-uniao-corinthians-83-x-87-pinheiros/
+15/03/2022,Paulistano,87,77,Sesi Franca,19ª RODADA,2º TURNO,18:00,0,19-23 16-15 29-18 23-21,ok,24201,https://lnb.com.br/noticias/paulistano-87-x-77-sesi-franca/
+16/03/2022,Mogi,73,90,São Paulo,19ª RODADA,2º TURNO,20:00,0,18-30 17-15 20-26 18-19,ok,24202,https://lnb.com.br/noticias/mogi-das-cruzes-basquete-73-x-90-sao-paulo/
+18/03/2022,Flamengo,73,70,Paulistano,16ª RODADA,2º TURNO,18:30,0,20-18 16-15 15-18 22-19,ok,24162,https://lnb.com.br/noticias/flamengo-73-x-70-paulistano/
+22/03/2022,Flamengo,76,71,Corinthians,20ª RODADA,2º TURNO,20:00,0,12-12 23-14 18-23 23-22,ok,24204,https://lnb.com.br/noticias/flamengo-76-x-71-corinthians/
+23/03/2022,Pato Basquete,62,82,São Paulo,20ª RODADA,2º TURNO,19:30,0,16-20 10-18 25-23 11-21,ok,24205,https://lnb.com.br/noticias/pato-basquete-62-x-82-sao-paulo/
+24/03/2022,Flamengo,117,55,Luvix/União Corinthians,20ª RODADA,2º TURNO,17:00,0,31-20 17-14 29-16 40-5,ok,24209,https://lnb.com.br/noticias/flamengo-117-x-55-uniao-corinthians/
+24/03/2022,Bauru,107,103,Mogi,20ª RODADA,2º TURNO,19:30,2,20-20 23-24 22-20 21-22 12-12 9-5,ok,24206,https://lnb.com.br/noticias/bauru-basket-107-x-103-mogi-das-cruzes/
+24/03/2022,Paulistano,93,82,Pinheiros,20ª RODADA,2º TURNO,19:30,0,22-12 19-20 24-25 28-25,ok,24208,https://lnb.com.br/noticias/paulistano-93-x-82-pinheiros/
+24/03/2022,Cerrado Basquete,73,79,Rio Claro,20ª RODADA,2º TURNO,20:00,0,18-16 14-14 29-22 12-27,ok,24207,https://lnb.com.br/noticias/cerrado-basquete-73-x-79-rio-claro/
+25/03/2022,UNIFACISA,70,59,123 Minas,20ª RODADA,2º TURNO,19:30,0,19-22 18-15 17-9 16-13,ok,24210,https://lnb.com.br/noticias/unifacisa-70-x-59-123-minas/
+26/03/2022,São Paulo,88,67,Corinthians,20ª RODADA,2º TURNO,16:10,0,27-16 22-15 23-15 16-21,ok,24211,https://lnb.com.br/noticias/sao-paulo-88-x-67-corinthians/
+26/03/2022,Cerrado Basquete,88,89,Sesi Franca,20ª RODADA,2º TURNO,18:00,0,20-22 21-24 24-18 23-25,ok,24213,https://lnb.com.br/noticias/cerrado-basquete-88-x-89-sesi-franca/
+26/03/2022,BRB/Brasília,79,80,Rio Claro,20ª RODADA,2º TURNO,20:00,0,19-16 18-22 16-20 26-22,ok,24212,https://lnb.com.br/noticias/brasilia-basquete-79-x-80-rio-claro/
+27/03/2022,Fortaleza B. C.,75,85,123 Minas,20ª RODADA,2º TURNO,11:00,0,15-17 22-23 19-26 19-19,ok,24215,https://lnb.com.br/noticias/fortaleza-b-c-75-x-85-123-minas/
+27/03/2022,UNIFACISA,74,60,Flamengo,20ª RODADA,2º TURNO,18:00,0,11-18 18-12 22-15 23-15,ok,24214,https://lnb.com.br/noticias/unifacisa-74-x-60-flamengo/
+28/03/2022,BRB/Brasília,96,86,Sesi Franca,21ª RODADA,2º TURNO,20:00,0,32-23 23-21 21-18 20-24,ok,24216,https://lnb.com.br/noticias/brasilia-96-x-86-franca/
+29/03/2022,Fortaleza B. C.,91,94,Flamengo,21ª RODADA,2º TURNO,20:00,0,17-21 17-22 30-26 27-25,ok,24217,https://lnb.com.br/noticias/fortaleza-b-c-91-x-94-flamengo/
+29/03/2022,Luvix/União Corinthians,84,70,Caxias do Sul Basquete,21ª RODADA,2º TURNO,20:30,0,15-17 18-20 25-14 26-19,ok,24218,https://lnb.com.br/noticias/luvix-uniao-corinthians-84-x-70-caxias-do-sul/
+31/03/2022,123 Minas,61,82,São Paulo,21ª RODADA,2º TURNO,19:00,0,16-23 14-24 14-15 17-20,ok,24220,https://lnb.com.br/noticias/123-minas-61-x-82-sao-paulo/
+31/03/2022,Bauru,84,74,Pato Basquete,21ª RODADA,2º TURNO,20:00,0,19-24 20-20 26-10 19-20,ok,24219,https://lnb.com.br/noticias/bauru-basket-84-x-74-pato-basquete/
+02/04/2022,Flamengo,88,78,São Paulo,21ª RODADA,2º TURNO,16:10,0,17-27 14-18 24-20 33-13,ok,24221,https://lnb.com.br/noticias/flamengo-88-x-78-sao-paulo/
+02/04/2022,Cerrado Basquete,76,80,Paulistano,21ª RODADA,2º TURNO,18:00,0,21-18 18-21 18-19 19-22,ok,24222,https://lnb.com.br/noticias/cerrado-76-x-80-paulistano/
+02/04/2022,Pinheiros,82,69,Pato Basquete,21ª RODADA,2º TURNO,18:00,0,16-15 21-19 21-22 24-13,ok,24223,https://lnb.com.br/noticias/pinheiros-82-x-69-pato-basquete/
+04/04/2022,Mogi,85,75,Luvix/União Corinthians,22ª RODADA,2º TURNO,20:00,0,19-20 28-15 17-16 21-24,ok,24224,https://lnb.com.br/noticias/mogi-das-cruzes-85-x-75-luvix-uniao-corinthians/
+04/04/2022,BRB/Brasília,60,78,Paulistano,22ª RODADA,2º TURNO,20:00,0,19-23 14-14 13-22 14-19,ok,24225,https://lnb.com.br/noticias/brasilia-60-x-78-paulistano/
+04/04/2022,Corinthians,79,83,Pinheiros,22ª RODADA,2º TURNO,20:00,0,17-18 20-26 19-21 23-18,ok,24226,https://lnb.com.br/noticias/corinthians-79-x-83-pinheiros/
+05/04/2022,Sesi Franca,74,65,UNIFACISA,22ª RODADA,2º TURNO,19:00,0,28-16 15-13 16-22 15-14,ok,24227,https://lnb.com.br/noticias/sesi-franca-74-x-65-basquete-unifacisa/
+05/04/2022,Rio Claro,82,66,Fortaleza B. C.,22ª RODADA,2º TURNO,19:30,0,17-11 22-11 14-24 29-20,ok,24228,https://lnb.com.br/noticias/rio-claro-82-x-66-fortaleza-b-c/
+06/04/2022,Pato Basquete,90,89,Luvix/União Corinthians,22ª RODADA,2º TURNO,19:30,0,25-21 22-17 15-27 28-24,ok,24230,https://lnb.com.br/noticias/pato-basquete-90-x-89-uniao-corinthians/
+06/04/2022,Mogi,86,65,Caxias do Sul Basquete,22ª RODADA,2º TURNO,20:00,0,14-12 22-11 24-23 26-19,ok,24229,https://lnb.com.br/noticias/mogi-basquete-86-x-65-caxias-basquete/
+07/04/2022,Rio Claro,83,72,UNIFACISA,22ª RODADA,2º TURNO,19:30,0,18-21 23-15 16-24 26-12,ok,24232,https://lnb.com.br/noticias/rio-claro-83-x-72-unifacisa/
+07/04/2022,Sesi Franca,90,66,Fortaleza B. C.,22ª RODADA,2º TURNO,20:00,0,33-22 17-15 23-13 17-16,ok,24231,https://lnb.com.br/noticias/franca-90-x-86-fortaleza-b-c/
+08/04/2022,Pato Basquete,59,68,Caxias do Sul Basquete,22ª RODADA,2º TURNO,19:30,0,8-19 22-15 20-14 9-20,ok,24233,https://lnb.com.br/noticias/pato-basquete-59-x-68-caxias-do-sul-basquete/
+08/04/2022,Cerrado Basquete,86,90,BRB/Brasília,22ª RODADA,2º TURNO,20:30,1,28-26 19-20 13-22 19-11 7-11,ok,24234,https://lnb.com.br/noticias/cerrado-basquete-86-x-90-brb-brasilia/
+09/04/2022,Corinthians,75,67,Bauru,22ª RODADA,2º TURNO,16:10,0,16-17 19-14 14-19 26-17,ok,24235,https://lnb.com.br/noticias/corinthians-75-x-67-bauru-basket/
+11/04/2022,Pinheiros,69,90,Mogi,23ª RODADA,2º TURNO,20:00,0,16-29 8-18 15-15 30-28,ok,24236,https://lnb.com.br/noticias/pinheiros-69-x-90-mogi-basquete/
+12/04/2022,Bauru,101,69,123 Minas,23ª RODADA,2º TURNO,20:00,0,23-8 25-16 27-20 26-25,ok,24237,https://lnb.com.br/noticias/bauru-basket-101-x-69-123-minas/
+12/04/2022,Luvix/União Corinthians,71,88,Paulistano,23ª RODADA,2º TURNO,20:30,0,17-31 18-20 14-20 22-17,ok,24238,https://lnb.com.br/noticias/luvix-uniao-corinthians-71-x-88-paulistano/
+13/04/2022,UNIFACISA,72,90,BRB/Brasília,23ª RODADA,2º TURNO,19:30,0,22-27 16-21 15-20 19-22,ok,24239,https://lnb.com.br/noticias/unifacisa-72-x-90-brasilia/
+13/04/2022,São Paulo,96,69,Rio Claro,23ª RODADA,2º TURNO,20:00,0,22-21 27-11 30-16 17-21,ok,24241,https://lnb.com.br/noticias/sao-paulo-96-x-69-rio-claro/
+13/04/2022,Fortaleza B. C.,75,77,Cerrado Basquete,23ª RODADA,2º TURNO,20:30,0,16-17 21-25 15-15 23-20,ok,24240,https://lnb.com.br/noticias/fortaleza-b-c-75-x-77-cerrado/
+14/04/2022,Bauru,80,92,Flamengo,23ª RODADA,2º TURNO,20:00,0,23-17 14-23 26-33 17-19,ok,24242,https://lnb.com.br/noticias/bauru-basket-80-x-92-flamengo/
+14/04/2022,Pinheiros,83,93,123 Minas,23ª RODADA,2º TURNO,20:00,0,19-27 23-17 16-28 25-21,ok,24243,https://lnb.com.br/noticias/pinheiros-83-x-93-minas/
+14/04/2022,Caxias do Sul Basquete,61,54,Paulistano,23ª RODADA,2º TURNO,20:00,,,sem_quartos,24245,https://lnb.com.br/noticias/caxias-61-x-54-paulistano/
+14/04/2022,Luvix/União Corinthians,55,74,Corinthians,23ª RODADA,2º TURNO,20:30,0,15-18 21-17 6-21 13-18,ok,24244,https://lnb.com.br/noticias/uniao-corinthians-55-x-72-corinthians/
+15/04/2022,UNIFACISA,75,65,Cerrado Basquete,23ª RODADA,2º TURNO,19:30,0,18-16 17-13 17-23 23-13,ok,24247,https://lnb.com.br/noticias/unifacisa-75-x-65-cerrado/
+15/04/2022,Fortaleza B. C.,77,65,BRB/Brasília,23ª RODADA,2º TURNO,20:30,0,15-12 22-21 23-16 17-16,ok,24246,https://lnb.com.br/noticias/fortaleza-b-c-77-x-65-brasilia/
+16/04/2022,São Paulo,66,81,Sesi Franca,23ª RODADA,2º TURNO,16:10,0,22-29 13-11 18-21 13-20,ok,24248,https://lnb.com.br/noticias/sao-paulo-66-x-81-sesi-franca/
+16/04/2022,Caxias do Sul Basquete,57,62,Corinthians,23ª RODADA,2º TURNO,17:00,0,14-18 10-14 19-12 14-18,ok,24250,https://lnb.com.br/noticias/caxias-do-sul-basquete-57-x-62-corinthians/
+16/04/2022,Pinheiros,92,80,Flamengo,23ª RODADA,2º TURNO,18:00,0,17-16 30-20 22-19 23-25,ok,24249,https://lnb.com.br/noticias/pinheiros-92-x-80-flamengo/
+18/04/2022,Flamengo,113,83,BRB/Brasília,19ª RODADA,2º TURNO,20:00,0,40-22 21-16 25-17 27-28,ok,24203,https://lnb.com.br/noticias/flamengo-113-x-83-brasilia/

@@ -1,0 +1,211 @@
+data,mandante,pts_mandante,pts_visitante,visitante,rodada,etapa,hora,prorrogacoes,quartos,status_quartos,id_lnb,link
+29/10/2010,São José,63,78,Brasília,1ª RODADA,1º TURNO,19:00,,,sem_quartos,1326,https://lnb.com.br/partidas/nbb-20102011-s%c3%a3o-jos%c3%a9-x-bras%c3%adlia-29102010/
+30/10/2010,Vitória (ES),56,109,Pinheiros,1ª RODADA,1º TURNO,11:00,,,sem_quartos,305,https://lnb.com.br/noticias/vitoria-x-pinheiros-30102010/
+30/10/2010,Espírito Santo,60,63,Paulistano,1ª RODADA,1º TURNO,11:00,,,sem_quartos,419,https://lnb.com.br/noticias/vila-velha-x-paulistano-30102010/
+30/10/2010,Araraquara,93,74,Minas,1ª RODADA,1º TURNO,15:00,,,sem_quartos,430,https://lnb.com.br/noticias/araraquara-x-minas-30102010/
+30/10/2010,Joinville,78,83,Bauru,1ª RODADA,1º TURNO,18:00,,,sem_quartos,297,https://lnb.com.br/noticias/joinville-x-bauru-30102010/
+30/10/2010,Limeira,60,65,Uberlândia,1ª RODADA,1º TURNO,18:00,,,sem_quartos,496,https://lnb.com.br/noticias/limeira-x-uberlandia-30102010/
+07/11/2010,Vitória (ES),81,78,Paulistano,2ª RODADA,1º TURNO,11:00,,,sem_quartos,317,https://lnb.com.br/noticias/vitoria-x-paulistano-07112010/
+07/11/2010,Espírito Santo,80,95,Pinheiros,2ª RODADA,1º TURNO,11:00,,,sem_quartos,416,https://lnb.com.br/noticias/vila-velha-x-pinheiros-07112010/
+07/11/2010,Joinville,74,69,Assis,2ª RODADA,1º TURNO,12:00,,,sem_quartos,257,https://lnb.com.br/noticias/joinville-x-assis-07112010/
+13/11/2010,Brasília,85,84,Araraquara,4ª RODADA,1º TURNO,18:00,,,sem_quartos,485,https://lnb.com.br/noticias/brasilia-x-araraquara-13112010/
+14/11/2010,Pinheiros,95,97,Bauru,3ª RODADA,1º TURNO,11:00,,,sem_quartos,298,https://lnb.com.br/noticias/pinheiros-x-bauru-14112010/
+14/11/2010,Paulistano,83,77,Assis,3ª RODADA,1º TURNO,11:00,,,sem_quartos,392,https://lnb.com.br/noticias/paulistano-x-assis-14112010/
+14/11/2010,Minas,92,78,Vitória (ES),3ª RODADA,1º TURNO,11:00,,,sem_quartos,407,https://lnb.com.br/noticias/minas-x-vitoria-14112010/
+14/11/2010,Limeira,72,86,Joinville,3ª RODADA,1º TURNO,12:00,,,sem_quartos,453,https://lnb.com.br/noticias/limeira-x-joinville-14112010/
+15/11/2010,Uberlândia,95,88,Araraquara,3ª RODADA,1º TURNO,16:00,,,sem_quartos,425,https://lnb.com.br/noticias/uberlandia-x-araraquara-15112010/
+15/11/2010,Brasília,67,69,Franca,3ª RODADA,1º TURNO,19:00,,,sem_quartos,466,https://lnb.com.br/noticias/brasilia-x-franca-15112010/
+17/11/2010,Flamengo,90,70,Espírito Santo,3ª RODADA,1º TURNO,20:00,,,sem_quartos,426,https://lnb.com.br/noticias/flamengo-x-vila-velha-17112010/
+21/11/2010,Uberlândia,75,76,Franca,4ª RODADA,1º TURNO,10:00,,,sem_quartos,409,https://lnb.com.br/noticias/uberlandia-x-franca-21112010/
+21/11/2010,Pinheiros,88,68,Assis,4ª RODADA,1º TURNO,11:00,,,sem_quartos,259,https://lnb.com.br/noticias/pinheiros-x-assis-21112010/
+21/11/2010,São José,92,99,Joinville,4ª RODADA,1º TURNO,11:00,,,sem_quartos,264,https://lnb.com.br/noticias/sao-jose-x-joinville-21112010/
+21/11/2010,Paulistano,88,86,Bauru,4ª RODADA,1º TURNO,11:00,,,sem_quartos,299,https://lnb.com.br/noticias/paulistano-x-bauru-21112010/
+21/11/2010,Flamengo,112,58,Vitória (ES),4ª RODADA,1º TURNO,11:00,,,sem_quartos,404,https://lnb.com.br/noticias/flamengo-x-vitoria-21112010/
+21/11/2010,Minas,95,86,Espírito Santo,4ª RODADA,1º TURNO,11:00,,,sem_quartos,429,https://lnb.com.br/noticias/minas-x-vila-velha-21112010/
+28/11/2010,Joinville,95,76,Paulistano,5ª RODADA,1º TURNO,11:00,,,sem_quartos,313,https://lnb.com.br/noticias/joinville-x-paulistano-28112010/
+28/11/2010,Araraquara,67,75,São José,5ª RODADA,1º TURNO,11:00,,,sem_quartos,401,https://lnb.com.br/noticias/araraquara-x-sao-jose-28112010/
+28/11/2010,Bauru,78,82,Minas,5ª RODADA,1º TURNO,11:30,,,sem_quartos,347,https://lnb.com.br/noticias/bauru-x-minas-28112010/
+02/12/2010,Vitória (ES),68,83,Uberlândia,5ª RODADA,1º TURNO,20:00,,,sem_quartos,353,https://lnb.com.br/noticias/vitoria-x-uberlandia-02122010/
+03/12/2010,Assis,77,91,Flamengo,5ª RODADA,1º TURNO,20:00,,,sem_quartos,323,https://lnb.com.br/noticias/assis-x-flamengo-03122010/
+05/12/2010,Franca,82,65,São José,6ª RODADA,1º TURNO,11:00,,,sem_quartos,273,https://lnb.com.br/noticias/franca-x-sao-jose-05122010/
+05/12/2010,Bauru,80,81,Flamengo,6ª RODADA,1º TURNO,11:00,,,sem_quartos,324,https://lnb.com.br/noticias/bauru-x-flamengo-05122010/
+05/12/2010,Assis,66,70,Minas,6ª RODADA,1º TURNO,11:00,,,sem_quartos,341,https://lnb.com.br/noticias/assis-x-minas-05122010/
+05/12/2010,Vitória (ES),77,104,Brasília,6ª RODADA,1º TURNO,11:00,,,sem_quartos,373,https://lnb.com.br/noticias/vitoria-x-brasilia-05122010/
+05/12/2010,Espírito Santo,88,98,Uberlândia,6ª RODADA,1º TURNO,11:00,,,sem_quartos,433,https://lnb.com.br/noticias/vila-velha-x-uberlandia-05122010/
+05/12/2010,Araraquara,52,72,Limeira,6ª RODADA,1º TURNO,11:00,,,sem_quartos,435,https://lnb.com.br/noticias/araraquara-x-limeira-05122010/
+05/12/2010,Joinville,93,94,Pinheiros,6ª RODADA,1º TURNO,15:00,,,sem_quartos,306,https://lnb.com.br/noticias/joinville-x-pinheiros-05122010/
+07/12/2010,Espírito Santo,68,80,Brasília,5ª RODADA,1º TURNO,20:00,,,sem_quartos,440,https://lnb.com.br/noticias/vila-velha-x-brasilia-07122010/
+10/12/2010,Brasília,107,78,Assis,7ª RODADA,1º TURNO,20:00,,,sem_quartos,449,https://lnb.com.br/noticias/brasilia-x-assis-10122010/
+12/12/2010,São José,97,62,Vitória (ES),7ª RODADA,1º TURNO,11:00,,,sem_quartos,281,https://lnb.com.br/noticias/sao-jose-x-vitoria-12122010/
+12/12/2010,Joinville,91,75,Araraquara,7ª RODADA,1º TURNO,11:00,,,sem_quartos,325,https://lnb.com.br/noticias/joinville-x-araraquara-12122010/
+12/12/2010,Minas,89,94,Paulistano,7ª RODADA,1º TURNO,11:00,,,sem_quartos,423,https://lnb.com.br/noticias/minas-x-paulistano-12122010/
+12/12/2010,Uberlândia,96,64,Assis,8ª RODADA,1º TURNO,11:00,,,sem_quartos,450,https://lnb.com.br/noticias/uberlandia-x-assis-12122010/
+12/12/2010,Brasília,92,85,Bauru,8ª RODADA,1º TURNO,11:00,,,sem_quartos,472,https://lnb.com.br/noticias/brasilia-x-bauru-12122010/
+12/12/2010,Limeira,74,77,Espírito Santo,7ª RODADA,1º TURNO,11:00,,,sem_quartos,490,https://lnb.com.br/noticias/limeira-x-vila-velha-12122010/
+12/12/2010,Flamengo,88,90,Pinheiros,7ª RODADA,1º TURNO,15:30,,,sem_quartos,417,https://lnb.com.br/noticias/flamengo-x-pinheiros-12122010/
+14/12/2010,Uberlândia,67,76,Bauru,7ª RODADA,1º TURNO,20:00,,,sem_quartos,412,https://lnb.com.br/noticias/uberlandia-x-bauru-14122010/
+19/12/2010,Joinville,93,78,Franca,8ª RODADA,1º TURNO,11:00,,,sem_quartos,286,https://lnb.com.br/noticias/joinville-x-franca-19122010/
+19/12/2010,São José,88,61,Espírito Santo,8ª RODADA,1º TURNO,11:00,,,sem_quartos,331,https://lnb.com.br/noticias/sao-jose-x-vila-velha-19122010/
+19/12/2010,Minas,93,86,Pinheiros,8ª RODADA,1º TURNO,11:00,,,sem_quartos,420,https://lnb.com.br/noticias/minas-x-pinheiros-19122010/
+19/12/2010,Flamengo,116,76,Paulistano,8ª RODADA,1º TURNO,11:00,,,sem_quartos,421,https://lnb.com.br/noticias/flamengo-x-paulistano-19122010/
+19/12/2010,Limeira,91,89,Vitória (ES),8ª RODADA,1º TURNO,11:00,,,sem_quartos,463,https://lnb.com.br/noticias/limeira-x-vitoria-19122010/
+07/01/2011,Bauru,92,74,São José,9ª RODADA,1º TURNO,20:00,,,sem_quartos,274,https://lnb.com.br/noticias/bauru-x-sao-jose-07012011/
+07/01/2011,Vitória (ES),83,80,Franca,9ª RODADA,1º TURNO,20:00,,,sem_quartos,291,https://lnb.com.br/noticias/vitoria-x-franca-07012011/
+07/01/2011,Paulistano,66,95,Uberlândia,9ª RODADA,1º TURNO,20:00,,,sem_quartos,354,https://lnb.com.br/noticias/paulistano-x-uberlandia-07012011/
+07/01/2011,Assis,78,81,Limeira,9ª RODADA,1º TURNO,20:00,,,sem_quartos,361,https://lnb.com.br/noticias/assis-x-limeira-07012011/
+07/01/2011,Pinheiros,77,66,Brasília,9ª RODADA,1º TURNO,20:00,,,sem_quartos,374,https://lnb.com.br/noticias/pinheiros-x-brasilia-07012011/
+07/01/2011,Espírito Santo,76,84,Araraquara,9ª RODADA,1º TURNO,20:00,,,sem_quartos,424,https://lnb.com.br/noticias/vila-velha-x-araraquara-07012011/
+07/01/2011,Flamengo,85,78,Joinville,9ª RODADA,1º TURNO,20:00,,,sem_quartos,454,https://lnb.com.br/noticias/flamengo-x-joinville-07012011/
+09/01/2011,Assis,70,75,São José,10ª RODADA,1º TURNO,11:00,,,sem_quartos,275,https://lnb.com.br/noticias/assis-x-sao-jose-09012011/
+09/01/2011,Vitória (ES),82,73,Araraquara,10ª RODADA,1º TURNO,11:00,,,sem_quartos,326,https://lnb.com.br/noticias/vitoria-x-araraquara-09012011/
+09/01/2011,Paulistano,51,95,Brasília,10ª RODADA,1º TURNO,11:00,,,sem_quartos,375,https://lnb.com.br/noticias/paulistano-x-brasilia-09012011/
+09/01/2011,Espírito Santo,67,87,Franca,10ª RODADA,1º TURNO,11:00,,,sem_quartos,410,https://lnb.com.br/noticias/vila-velha-x-franca-09012011/
+09/01/2011,Minas,80,81,Joinville,10ª RODADA,1º TURNO,12:00,,,sem_quartos,396,https://lnb.com.br/noticias/minas-x-joinville-09012011/
+11/01/2011,Assis,74,78,Bauru,11ª RODADA,1º TURNO,20:00,,,sem_quartos,300,https://lnb.com.br/noticias/assis-x-bauru-11012011/
+11/01/2011,Franca,98,79,Araraquara,11ª RODADA,1º TURNO,20:00,,,sem_quartos,327,https://lnb.com.br/noticias/franca-x-araraquara-11012011/
+11/01/2011,Espírito Santo,85,83,Vitória (ES),11ª RODADA,1º TURNO,20:00,,,sem_quartos,405,https://lnb.com.br/noticias/vila-velha-x-vitoria-11012011/
+11/01/2011,Uberlândia,94,84,Brasília,11ª RODADA,1º TURNO,20:00,,,sem_quartos,441,https://lnb.com.br/noticias/uberlandia-x-brasilia-11012011/
+14/01/2011,Bauru,84,68,Franca,12ª RODADA,1º TURNO,19:00,,,sem_quartos,292,https://lnb.com.br/noticias/bauru-x-franca-14012011/
+14/01/2011,Vitória (ES),72,81,Joinville,12ª RODADA,1º TURNO,20:00,,,sem_quartos,265,https://lnb.com.br/noticias/vitoria-x-joinville-14012011/
+14/01/2011,São José,91,71,Paulistano,12ª RODADA,1º TURNO,20:00,,,sem_quartos,314,https://lnb.com.br/noticias/sao-jose-x-paulistano-14012011/
+14/01/2011,Araraquara,77,76,Assis,12ª RODADA,1º TURNO,20:00,,,sem_quartos,393,https://lnb.com.br/noticias/araraquara-x-assis-14012011/
+14/01/2011,Brasília,82,76,Minas,12ª RODADA,1º TURNO,20:00,,,sem_quartos,493,https://lnb.com.br/noticias/brasilia-x-minas-14012011/
+16/01/2011,Assis,75,85,Franca,13ª RODADA,1º TURNO,11:00,,,sem_quartos,287,https://lnb.com.br/noticias/assis-x-franca-16012011/
+16/01/2011,São José,101,65,Pinheiros,13ª RODADA,1º TURNO,11:00,,,sem_quartos,307,https://lnb.com.br/noticias/sao-jose-x-pinheiros-16012011/
+16/01/2011,Espírito Santo,71,94,Joinville,13ª RODADA,1º TURNO,11:00,,,sem_quartos,397,https://lnb.com.br/noticias/vila-velha-x-joinville-16012011/
+16/01/2011,Araraquara,73,71,Bauru,13ª RODADA,1º TURNO,11:00,,,sem_quartos,413,https://lnb.com.br/noticias/araraquara-x-bauru-16012011/
+16/01/2011,Limeira,81,69,Paulistano,13ª RODADA,1º TURNO,11:00,,,sem_quartos,482,https://lnb.com.br/noticias/limeira-x-paulistano-16012011/
+16/01/2011,Uberlândia,61,71,Minas,13ª RODADA,1º TURNO,12:00,,,sem_quartos,431,https://lnb.com.br/noticias/uberlandia-x-minas-16012011/
+18/01/2011,Franca,100,80,Minas,2ª RODADA,1º TURNO,20:00,,,sem_quartos,346,https://lnb.com.br/noticias/franca-x-minas-18012011/
+18/01/2011,Uberlândia,89,68,Flamengo,12ª RODADA,1º TURNO,20:00,,,sem_quartos,445,https://lnb.com.br/noticias/uberlandia-x-flamengo-18012011/
+18/01/2011,Limeira,86,91,Brasília,2ª RODADA,1º TURNO,20:00,,,sem_quartos,499,https://lnb.com.br/noticias/limeira-x-brasilia-18012011/
+21/01/2011,Pinheiros,84,66,Araraquara,14ª RODADA,1º TURNO,16:00,,,sem_quartos,332,https://lnb.com.br/noticias/pinheiros-x-araraquara-21012011/
+21/01/2011,Paulistano,74,80,Franca,14ª RODADA,1º TURNO,19:00,,,sem_quartos,293,https://lnb.com.br/noticias/paulistano-x-franca-21012011/
+21/01/2011,Assis,92,86,Vitória (ES),14ª RODADA,1º TURNO,20:00,,,sem_quartos,282,https://lnb.com.br/noticias/assis-x-vitoria-21012011/
+21/01/2011,Bauru,111,70,Espírito Santo,14ª RODADA,1º TURNO,20:00,,,sem_quartos,336,https://lnb.com.br/noticias/bauru-x-vila-velha-21012011/
+21/01/2011,Joinville,81,91,Brasília,14ª RODADA,1º TURNO,20:00,,,sem_quartos,369,https://lnb.com.br/noticias/joinville-x-brasilia-21012011/
+21/01/2011,Minas,67,73,Limeira,14ª RODADA,1º TURNO,20:00,,,sem_quartos,437,https://lnb.com.br/noticias/minas-x-limeira-21012011/
+21/01/2011,Flamengo,88,85,São José,14ª RODADA,1º TURNO,20:00,,,sem_quartos,461,https://lnb.com.br/noticias/flamengo-x-sao-jose-21012011/
+23/01/2011,Bauru,114,69,Vitória (ES),15ª RODADA,1º TURNO,11:00,,,sem_quartos,288,https://lnb.com.br/noticias/bauru-x-vitoria-23012011/
+23/01/2011,Assis,64,68,Espírito Santo,15ª RODADA,1º TURNO,11:00,,,sem_quartos,334,https://lnb.com.br/noticias/assis-x-vila-velha-23012011/
+23/01/2011,Joinville,92,66,Uberlândia,15ª RODADA,1º TURNO,11:00,,,sem_quartos,356,https://lnb.com.br/noticias/joinville-x-uberlandia-23012011/
+23/01/2011,Minas,72,98,São José,15ª RODADA,1º TURNO,11:00,,,sem_quartos,402,https://lnb.com.br/noticias/minas-x-sao-jose-23012011/
+23/01/2011,Flamengo,113,67,Limeira,15ª RODADA,1º TURNO,11:00,,,sem_quartos,497,https://lnb.com.br/noticias/flamengo-x-limeira-23012011/
+23/01/2011,Paulistano,76,67,Araraquara,15ª RODADA,1º TURNO,12:00,,,sem_quartos,333,https://lnb.com.br/noticias/paulistano-x-araraquara-23012011/
+23/01/2011,Pinheiros,86,79,Franca,15ª RODADA,1º TURNO,14:00,,,sem_quartos,294,https://lnb.com.br/noticias/pinheiros-x-franca-23012011/
+25/01/2011,Pinheiros,68,74,Uberlândia,10ª RODADA,1º TURNO,20:00,,,sem_quartos,355,https://lnb.com.br/noticias/pinheiros-x-uberlandia-25012011/
+25/01/2011,Bauru,94,97,Limeira,10ª RODADA,1º TURNO,20:00,,,sem_quartos,368,https://lnb.com.br/noticias/bauru-x-limeira-25012011/
+25/01/2011,Araraquara,86,99,Flamengo,2ª RODADA,1º TURNO,20:00,,,sem_quartos,443,https://lnb.com.br/noticias/araraquara-x-flamengo-25012011/
+27/01/2011,Franca,101,91,Flamengo,1ª RODADA,1º TURNO,19:00,,,sem_quartos,382,https://lnb.com.br/noticias/franca-x-flamengo-27012011/
+27/01/2011,São José,91,78,Uberlândia,2ª RODADA,1º TURNO,20:00,,,sem_quartos,352,https://lnb.com.br/noticias/sao-jose-x-uberlandia-27012011/
+01/02/2011,Pinheiros,111,88,Paulistano,11ª RODADA,1º TURNO,20:00,,,sem_quartos,318,https://lnb.com.br/noticias/pinheiros-x-paulistano-01022011/
+01/02/2011,Franca,100,95,Limeira,5ª RODADA,1º TURNO,20:00,,,sem_quartos,360,https://lnb.com.br/noticias/franca-x-limeira-01022011/
+04/02/2011,Brasília,75,68,São José,16ª RODADA,2º TURNO,19:00,,,sem_quartos,462,https://lnb.com.br/noticias/brasilia-x-sao-jose-04022011/
+04/02/2011,Bauru,92,69,Joinville,16ª RODADA,2º TURNO,20:00,,,sem_quartos,266,https://lnb.com.br/noticias/bauru-x-joinville-04022011/
+04/02/2011,Pinheiros,91,77,Vitória (ES),16ª RODADA,2º TURNO,20:00,,,sem_quartos,289,https://lnb.com.br/noticias/pinheiros-x-vitoria-04022011/
+04/02/2011,Paulistano,79,83,Espírito Santo,16ª RODADA,2º TURNO,20:00,,,sem_quartos,337,https://lnb.com.br/noticias/paulistano-x-vila-velha-04022011/
+04/02/2011,Minas,74,69,Araraquara,16ª RODADA,2º TURNO,20:00,,,sem_quartos,427,https://lnb.com.br/noticias/minas-x-araraquara-04022011/
+04/02/2011,Uberlândia,94,80,Limeira,16ª RODADA,2º TURNO,20:00,,,sem_quartos,438,https://lnb.com.br/noticias/uberlandia-x-limeira-04022011/
+06/02/2011,Assis,85,74,Joinville,17ª RODADA,2º TURNO,11:00,,,sem_quartos,260,https://lnb.com.br/noticias/assis-x-joinville-06022011/
+06/02/2011,Paulistano,61,84,Vitória (ES),17ª RODADA,2º TURNO,11:00,,,sem_quartos,290,https://lnb.com.br/noticias/paulistano-x-vitoria-06022011/
+06/02/2011,Pinheiros,88,55,Espírito Santo,17ª RODADA,2º TURNO,11:00,,,sem_quartos,338,https://lnb.com.br/noticias/pinheiros-x-vila-velha-06022011/
+06/02/2011,Brasília,90,93,Limeira,17ª RODADA,2º TURNO,11:00,,,sem_quartos,498,https://lnb.com.br/noticias/brasilia-x-limeira-06022011/
+06/02/2011,Uberlândia,92,66,São José,17ª RODADA,2º TURNO,12:00,,,sem_quartos,456,https://lnb.com.br/noticias/uberlandia-x-sao-jose-06022011/
+07/02/2011,Minas,89,85,Franca,17ª RODADA,2º TURNO,20:00,,,sem_quartos,411,https://lnb.com.br/noticias/minas-x-franca-07022011/
+09/02/2011,Minas,78,69,Flamengo,11ª RODADA,1º TURNO,20:30,,,sem_quartos,444,https://lnb.com.br/noticias/minas-x-flamengo-09022011/
+10/02/2011,Assis,72,60,Paulistano,18ª RODADA,2º TURNO,16:00,,,sem_quartos,315,https://lnb.com.br/noticias/assis-x-paulistano-10022011/
+10/02/2011,Bauru,89,94,Pinheiros,18ª RODADA,2º TURNO,19:00,,,sem_quartos,308,https://lnb.com.br/noticias/bauru-x-pinheiros-10022011/
+11/02/2011,Bauru,77,66,Paulistano,19ª RODADA,2º TURNO,16:00,,,sem_quartos,319,https://lnb.com.br/noticias/bauru-x-paulistano-11022011/
+11/02/2011,Assis,81,94,Pinheiros,19ª RODADA,2º TURNO,19:00,,,sem_quartos,309,https://lnb.com.br/noticias/assis-x-pinheiros-11022011/
+11/02/2011,Vitória (ES),68,71,Minas,18ª RODADA,2º TURNO,20:00,,,sem_quartos,348,https://lnb.com.br/noticias/vitoria-x-minas-11022011/
+11/02/2011,Joinville,67,58,Limeira,18ª RODADA,2º TURNO,20:00,,,sem_quartos,363,https://lnb.com.br/noticias/joinville-x-limeira-11022011/
+11/02/2011,Araraquara,82,87,Uberlândia,18ª RODADA,2º TURNO,20:00,,,sem_quartos,434,https://lnb.com.br/noticias/araraquara-x-uberlandia-11022011/
+11/02/2011,Espírito Santo,76,82,Flamengo,18ª RODADA,2º TURNO,20:00,,,sem_quartos,446,https://lnb.com.br/noticias/vila-velha-x-flamengo-11022011/
+13/02/2011,Franca,83,93,Uberlândia,19ª RODADA,2º TURNO,11:00,,,sem_quartos,357,https://lnb.com.br/noticias/franca-x-uberlandia-13022011/
+13/02/2011,Vitória (ES),62,71,Flamengo,19ª RODADA,2º TURNO,11:00,,,sem_quartos,383,https://lnb.com.br/noticias/vitoria-x-flamengo-13022011/
+13/02/2011,Espírito Santo,71,73,Minas,19ª RODADA,2º TURNO,11:00,,,sem_quartos,432,https://lnb.com.br/noticias/vila-velha-x-minas-13022011/
+13/02/2011,Joinville,68,67,São José,19ª RODADA,2º TURNO,12:00,,,sem_quartos,276,https://lnb.com.br/noticias/joinville-x-sao-jose-13022011/
+15/02/2011,Limeira,71,67,Pinheiros,12ª RODADA,1º TURNO,20:00,,,sem_quartos,477,https://lnb.com.br/noticias/limeira-x-pinheiros-15022011/
+16/02/2011,Flamengo,97,72,Araraquara,17ª RODADA,2º TURNO,20:00,,,sem_quartos,486,https://lnb.com.br/noticias/flamengo-x-araraquara-16022011/
+18/02/2011,Minas,67,86,Bauru,20ª RODADA,2º TURNO,19:00,,,sem_quartos,414,https://lnb.com.br/noticias/minas-x-bauru-18022011/
+18/02/2011,Paulistano,85,92,Joinville,20ª RODADA,2º TURNO,20:00,,,sem_quartos,267,https://lnb.com.br/noticias/paulistano-x-joinville-18022011/
+18/02/2011,São José,78,72,Araraquara,20ª RODADA,2º TURNO,20:00,,,sem_quartos,328,https://lnb.com.br/noticias/sao-jose-x-araraquara-18022011/
+18/02/2011,Flamengo,100,75,Assis,20ª RODADA,2º TURNO,20:00,,,sem_quartos,451,https://lnb.com.br/noticias/flamengo-x-assis-18022011/
+18/02/2011,Uberlândia,94,64,Vitória (ES),20ª RODADA,2º TURNO,20:00,,,sem_quartos,464,https://lnb.com.br/noticias/uberlandia-x-vitoria-18022011/
+18/02/2011,Limeira,58,79,Franca,20ª RODADA,2º TURNO,20:00,,,sem_quartos,468,https://lnb.com.br/noticias/limeira-x-franca-18022011/
+18/02/2011,Brasília,106,69,Espírito Santo,20ª RODADA,2º TURNO,20:00,,,sem_quartos,491,https://lnb.com.br/noticias/brasilia-x-vila-velha-18022011/
+20/02/2011,Pinheiros,93,81,Joinville,21ª RODADA,2º TURNO,11:00,,,sem_quartos,268,https://lnb.com.br/noticias/pinheiros-x-joinville-20022011/
+20/02/2011,São José,78,82,Franca,21ª RODADA,2º TURNO,11:00,,,sem_quartos,295,https://lnb.com.br/noticias/sao-jose-x-franca-20022011/
+20/02/2011,Minas,62,56,Assis,21ª RODADA,2º TURNO,11:00,,,sem_quartos,394,https://lnb.com.br/noticias/minas-x-assis-20022011/
+20/02/2011,Brasília,105,62,Vitória (ES),21ª RODADA,2º TURNO,11:00,,,sem_quartos,465,https://lnb.com.br/noticias/brasilia-x-vitoria-20022011/
+20/02/2011,Limeira,89,55,Araraquara,21ª RODADA,2º TURNO,11:00,,,sem_quartos,487,https://lnb.com.br/noticias/limeira-x-araraquara-20022011/
+20/02/2011,Uberlândia,77,55,Espírito Santo,21ª RODADA,2º TURNO,11:00,,,sem_quartos,492,https://lnb.com.br/noticias/uberlandia-x-vila-velha-20022011/
+20/02/2011,Flamengo,84,64,Bauru,21ª RODADA,2º TURNO,12:00,,,sem_quartos,474,https://lnb.com.br/noticias/flamengo-x-bauru-20022011/
+22/02/2011,São José,79,69,Limeira,11ª RODADA,1º TURNO,20:00,,,sem_quartos,362,https://lnb.com.br/noticias/sao-jose-x-limeira-22022011/
+23/02/2011,Brasília,85,71,Flamengo,13ª RODADA,1º TURNO,19:30,,,sem_quartos,501,https://lnb.com.br/noticias/brasilia-x-flamengo-23022011/
+25/02/2011,Vitória (ES),67,82,São José,22ª RODADA,2º TURNO,16:00,,,sem_quartos,277,https://lnb.com.br/noticias/vitoria-x-sao-jose-25022011/
+25/02/2011,Espírito Santo,82,56,Limeira,22ª RODADA,2º TURNO,19:00,,,sem_quartos,436,https://lnb.com.br/noticias/vila-velha-x-limeira-25022011/
+25/02/2011,Paulistano,72,70,Minas,22ª RODADA,2º TURNO,20:00,,,sem_quartos,349,https://lnb.com.br/noticias/paulistano-x-minas-25022011/
+25/02/2011,Bauru,102,86,Uberlândia,22ª RODADA,2º TURNO,20:00,,,sem_quartos,358,https://lnb.com.br/noticias/bauru-x-uberlandia-25022011/
+25/02/2011,Assis,91,88,Brasília,22ª RODADA,2º TURNO,20:00,,,sem_quartos,370,https://lnb.com.br/noticias/assis-x-brasilia-25022011/
+25/02/2011,Pinheiros,92,78,Flamengo,22ª RODADA,2º TURNO,20:00,,,sem_quartos,384,https://lnb.com.br/noticias/pinheiros-x-flamengo-25022011/
+25/02/2011,Araraquara,69,76,Joinville,22ª RODADA,2º TURNO,20:00,,,sem_quartos,398,https://lnb.com.br/noticias/araraquara-x-joinville-25022011/
+27/02/2011,Franca,84,82,Joinville,23ª RODADA,2º TURNO,11:00,,,sem_quartos,269,https://lnb.com.br/noticias/franca-x-joinville-27022011/
+27/02/2011,Pinheiros,87,77,Minas,23ª RODADA,2º TURNO,11:00,,,sem_quartos,350,https://lnb.com.br/noticias/pinheiros-x-minas-27022011/
+27/02/2011,Assis,94,90,Uberlândia,23ª RODADA,2º TURNO,11:00,,,sem_quartos,359,https://lnb.com.br/noticias/assis-x-uberlandia-27022011/
+27/02/2011,Bauru,92,85,Brasília,23ª RODADA,2º TURNO,11:00,,,sem_quartos,377,https://lnb.com.br/noticias/bauru-x-brasilia-27022011/
+27/02/2011,Paulistano,82,91,Flamengo,23ª RODADA,2º TURNO,11:00,,,sem_quartos,385,https://lnb.com.br/noticias/paulistano-x-flamengo-27022011/
+27/02/2011,Vitória (ES),87,79,Limeira,23ª RODADA,2º TURNO,12:00,,,sem_quartos,364,https://lnb.com.br/noticias/vitoria-x-limeira-27022011/
+27/02/2011,Espírito Santo,62,70,São José,23ª RODADA,2º TURNO,14:00,,,sem_quartos,403,https://lnb.com.br/noticias/vila-velha-x-sao-jose-27022011/
+11/03/2011,Araraquara,80,66,Espírito Santo,24ª RODADA,2º TURNO,16:00,,,sem_quartos,428,https://lnb.com.br/noticias/araraquara-x-vila-velha-11032011/
+11/03/2011,Joinville,80,90,Flamengo,24ª RODADA,2º TURNO,19:00,,,sem_quartos,386,https://lnb.com.br/noticias/joinville-x-flamengo-11032011/
+11/03/2011,Franca,109,71,Vitória (ES),24ª RODADA,2º TURNO,20:00,,,sem_quartos,283,https://lnb.com.br/noticias/franca-x-vitoria-11032011/
+11/03/2011,São José,78,81,Bauru,24ª RODADA,2º TURNO,20:00,,,sem_quartos,301,https://lnb.com.br/noticias/sao-jose-x-bauru-11032011/
+11/03/2011,Limeira,72,68,Assis,24ª RODADA,2º TURNO,20:00,,,sem_quartos,452,https://lnb.com.br/noticias/limeira-x-assis-11032011/
+11/03/2011,Brasília,78,76,Pinheiros,24ª RODADA,2º TURNO,20:00,,,sem_quartos,478,https://lnb.com.br/noticias/brasilia-x-pinheiros-11032011/
+11/03/2011,Uberlândia,75,67,Paulistano,24ª RODADA,2º TURNO,20:00,,,sem_quartos,483,https://lnb.com.br/noticias/uberlandia-x-paulistano-11032011/
+13/03/2011,São José,85,65,Assis,25ª RODADA,2º TURNO,11:00,,,sem_quartos,258,https://lnb.com.br/noticias/sao-jose-x-assis-13032011/
+13/03/2011,Franca,102,66,Espírito Santo,25ª RODADA,2º TURNO,11:00,,,sem_quartos,339,https://lnb.com.br/noticias/franca-x-vila-velha-13032011/
+13/03/2011,Joinville,80,52,Minas,25ª RODADA,2º TURNO,11:00,,,sem_quartos,342,https://lnb.com.br/noticias/joinville-x-minas-13032011/
+13/03/2011,Araraquara,112,88,Vitória (ES),25ª RODADA,2º TURNO,11:00,,,sem_quartos,406,https://lnb.com.br/noticias/araraquara-x-vitoria-13032011/
+13/03/2011,Limeira,69,75,Bauru,25ª RODADA,2º TURNO,11:00,,,sem_quartos,473,https://lnb.com.br/noticias/limeira-x-bauru-13032011/
+13/03/2011,Brasília,91,68,Paulistano,25ª RODADA,2º TURNO,11:00,,,sem_quartos,484,https://lnb.com.br/noticias/brasilia-x-paulistano-13032011/
+13/03/2011,Uberlândia,80,83,Pinheiros,25ª RODADA,2º TURNO,12:00,,,sem_quartos,479,https://lnb.com.br/noticias/uberlandia-x-pinheiros-13032011/
+15/03/2011,Flamengo,80,75,Franca,16ª RODADA,2º TURNO,20:00,,,sem_quartos,467,https://lnb.com.br/noticias/flamengo-x-franca-15032011/
+18/03/2011,Bauru,91,62,Assis,26ª RODADA,2º TURNO,20:00,,,sem_quartos,261,https://lnb.com.br/noticias/bauru-x-assis-18032011/
+18/03/2011,Paulistano,80,88,Pinheiros,26ª RODADA,2º TURNO,20:00,,,sem_quartos,316,https://lnb.com.br/noticias/paulistano-x-pinheiros-18032011/
+18/03/2011,Vitória (ES),87,75,Espírito Santo,26ª RODADA,2º TURNO,20:00,,,sem_quartos,340,https://lnb.com.br/noticias/vitoria-x-vila-velha-18032011/
+18/03/2011,Araraquara,87,85,Franca,26ª RODADA,2º TURNO,20:00,,,sem_quartos,408,https://lnb.com.br/noticias/araraquara-x-franca-18032011/
+18/03/2011,Limeira,81,84,São José,26ª RODADA,2º TURNO,20:00,,,sem_quartos,457,https://lnb.com.br/noticias/limeira-x-sao-jose-18032011/
+18/03/2011,Flamengo,84,71,Minas,26ª RODADA,2º TURNO,20:00,,,sem_quartos,494,https://lnb.com.br/noticias/flamengo-x-minas-18032011/
+18/03/2011,Brasília,88,74,Uberlândia,26ª RODADA,2º TURNO,20:30,,,sem_quartos,505,https://lnb.com.br/noticias/brasilia-x-uberlandia-18032011/
+20/03/2011,Franca,80,77,Brasília,18ª RODADA,2º TURNO,19:30,,,sem_quartos,376,https://lnb.com.br/noticias/franca-x-brasilia-20032011/
+22/03/2011,Araraquara,75,98,Brasília,19ª RODADA,2º TURNO,20:00,,,sem_quartos,439,https://lnb.com.br/noticias/araraquara-x-brasilia-22032011/
+24/03/2011,Pinheiros,92,93,Limeira,27ª RODADA,2º TURNO,20:00,,,sem_quartos,371,https://lnb.com.br/noticias/pinheiros-x-limeira-24032011/
+25/03/2011,Joinville,88,70,Vitória (ES),27ª RODADA,2º TURNO,20:00,,,sem_quartos,284,https://lnb.com.br/noticias/joinville-x-vitoria-25032011/
+25/03/2011,Paulistano,87,86,São José,27ª RODADA,2º TURNO,20:00,,,sem_quartos,285,https://lnb.com.br/noticias/paulistano-x-sao-jose-25032011/
+25/03/2011,Franca,76,71,Bauru,27ª RODADA,2º TURNO,20:00,,,sem_quartos,302,https://lnb.com.br/noticias/franca-x-bauru-25032011/
+25/03/2011,Assis,73,77,Araraquara,27ª RODADA,2º TURNO,20:00,,,sem_quartos,329,https://lnb.com.br/noticias/assis-x-araraquara-25032011/
+25/03/2011,Minas,91,103,Brasília,27ª RODADA,2º TURNO,20:00,,,sem_quartos,442,https://lnb.com.br/noticias/minas-x-brasilia-25032011/
+25/03/2011,Flamengo,88,90,Uberlândia,27ª RODADA,2º TURNO,20:00,,,sem_quartos,506,https://lnb.com.br/noticias/flamengo-x-uberlandia-25032011/
+27/03/2011,Franca,92,68,Assis,28ª RODADA,2º TURNO,11:00,,,sem_quartos,262,https://lnb.com.br/noticias/franca-x-assis-27032011/
+27/03/2011,Pinheiros,83,74,São José,28ª RODADA,2º TURNO,11:00,,,sem_quartos,278,https://lnb.com.br/noticias/pinheiros-x-sao-jose-27032011/
+27/03/2011,Bauru,95,73,Araraquara,28ª RODADA,2º TURNO,11:00,,,sem_quartos,330,https://lnb.com.br/noticias/bauru-x-araraquara-27032011/
+27/03/2011,Joinville,102,57,Espírito Santo,28ª RODADA,2º TURNO,11:00,,,sem_quartos,335,https://lnb.com.br/noticias/joinville-x-vila-velha-27032011/
+27/03/2011,Paulistano,70,61,Limeira,28ª RODADA,2º TURNO,11:00,,,sem_quartos,372,https://lnb.com.br/noticias/paulistano-x-limeira-27032011/
+27/03/2011,Minas,62,96,Uberlândia,28ª RODADA,2º TURNO,11:00,,,sem_quartos,448,https://lnb.com.br/noticias/minas-x-uberlandia-27032011/
+27/03/2011,Flamengo,93,80,Brasília,28ª RODADA,2º TURNO,13:00,,,sem_quartos,500,https://lnb.com.br/noticias/flamengo-x-brasilia-27032011/
+01/04/2011,Brasília,90,88,Joinville,29ª RODADA,2º TURNO,19:00,,,sem_quartos,455,https://lnb.com.br/noticias/brasilia-x-joinville-01042011/
+01/04/2011,Vitória (ES),87,86,Assis,29ª RODADA,2º TURNO,20:00,,,sem_quartos,263,https://lnb.com.br/noticias/vitoria-x-assis-01042011/
+01/04/2011,Franca,94,74,Paulistano,29ª RODADA,2º TURNO,20:00,,,sem_quartos,320,https://lnb.com.br/noticias/franca-x-paulistano-01042011/
+01/04/2011,São José,70,81,Flamengo,29ª RODADA,2º TURNO,20:00,,,sem_quartos,387,https://lnb.com.br/noticias/sao-jose-x-flamengo-01042011/
+01/04/2011,Espírito Santo,76,93,Bauru,29ª RODADA,2º TURNO,20:00,,,sem_quartos,415,https://lnb.com.br/noticias/vila-velha-x-bauru-01042011/
+01/04/2011,Araraquara,82,90,Pinheiros,29ª RODADA,2º TURNO,20:00,,,sem_quartos,418,https://lnb.com.br/noticias/araraquara-x-pinheiros-01042011/
+01/04/2011,Limeira,61,89,Minas,29ª RODADA,2º TURNO,20:00,,,sem_quartos,495,https://lnb.com.br/noticias/limeira-x-minas-01042011/
+03/04/2011,Limeira,79,69,Flamengo,30ª RODADA,2º TURNO,10:00,,,sem_quartos,502,https://lnb.com.br/noticias/limeira-x-flamengo-03042011/
+03/04/2011,Vitória (ES),80,81,Bauru,30ª RODADA,2º TURNO,11:00,,,sem_quartos,303,https://lnb.com.br/noticias/vitoria-x-bauru-03042011/
+03/04/2011,São José,79,65,Minas,30ª RODADA,2º TURNO,11:00,,,sem_quartos,351,https://lnb.com.br/noticias/sao-jose-x-minas-03042011/
+03/04/2011,Espírito Santo,72,69,Assis,30ª RODADA,2º TURNO,11:00,,,sem_quartos,395,https://lnb.com.br/noticias/vila-velha-x-assis-03042011/
+03/04/2011,Araraquara,69,58,Paulistano,30ª RODADA,2º TURNO,11:00,,,sem_quartos,422,https://lnb.com.br/noticias/araraquara-x-paulistano-03042011/
+03/04/2011,Uberlândia,85,77,Joinville,30ª RODADA,2º TURNO,11:00,,,sem_quartos,458,https://lnb.com.br/noticias/uberlandia-x-joinville-03042011/
+03/04/2011,Franca,92,78,Pinheiros,30ª RODADA,2º TURNO,12:00,,,sem_quartos,310,https://lnb.com.br/noticias/franca-x-pinheiros-03042011/

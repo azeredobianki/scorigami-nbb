@@ -1,0 +1,37 @@
+data,mandante,pts_mandante,pts_visitante,visitante,rodada,etapa,hora,prorrogacoes,quartos,status_quartos,id_lnb,link
+30/03/2019,Brasília,87,78,Corinthians,,OITAVAS,14:00,,,sem_quartos,23062,https://lnb.com.br/noticias/brasilia-87-x-78-corinthians/
+01/04/2019,São José,81,87,Botafogo,,OITAVAS,20:00,,,sem_quartos,23059,https://lnb.com.br/noticias/sao-jose-81-x-87-botafogo/
+03/04/2019,Minas,78,71,Bauru,,OITAVAS,20:00,0,18-19 17-26 20-11 23-15,ok,23065,https://lnb.com.br/noticias/minas-78-x-71-bauru/
+04/04/2019,Corinthians,92,86,Brasília,,OITAVAS,20:00,0,25-19 17-17 18-22 32-28,ok,23063,https://lnb.com.br/noticias/corinthians-92-x-86-brasilia/
+05/04/2019,Basq. Cearense,75,68,Paulistano,,OITAVAS,19:00,0,18-20 24-19 14-17 19-12,ok,23056,https://lnb.com.br/noticias/basquete-cearense-75-x-68-paulistano/
+05/04/2019,Botafogo,66,61,São José,,OITAVAS,21:10,0,20-13 19-20 12-14 15-14,ok,23060,https://lnb.com.br/noticias/botafogo-66-x-61-sao-jose/
+06/04/2019,Bauru,66,59,Minas,,OITAVAS,14:00,,,sem_quartos,23066,https://lnb.com.br/noticias/bauru-66-x-59-minas/
+06/04/2019,Corinthians,83,74,Brasília,,OITAVAS,19:30,1,18-15 15-12 16-19 11-14 23-14,ok,23064,https://lnb.com.br/noticias/corinthians-83-x-74-brasilia/
+08/04/2019,Paulistano,74,84,Basq. Cearense,,OITAVAS,19:00,0,13-16 21-13 19-17 21-38,ok,23057,https://lnb.com.br/noticias/paulistano-74-x-84-basquete-cearense/
+08/04/2019,Bauru,85,64,Minas,,OITAVAS,20:00,0,24-13 26-21 14-13 21-17,ok,23067,https://lnb.com.br/noticias/bauru-85-x-64-minas/
+12/04/2019,Botafogo,91,76,Pinheiros,,QUARTAS,21:10,0,23-11 17-16 27-27 24-22,ok,23074,https://lnb.com.br/noticias/botafogo-97-x-76-pinheiros/
+13/04/2019,Corinthians,73,92,Flamengo,,QUARTAS,14:00,0,22-20 18-22 19-23 14-27,ok,23071,https://lnb.com.br/noticias/corinthians-73-x-92-flamengo/
+13/04/2019,Basq. Cearense,69,77,Mogi,,QUARTAS,18:00,0,18-15 10-20 20-16 21-26,ok,23077,https://lnb.com.br/noticias/basquete-cearense-69-x-77-mogi/
+16/04/2019,Bauru,82,94,Sesi Franca,,QUARTAS,21:00,0,24-25 20-22 21-26 17-21,ok,23068,https://lnb.com.br/noticias/bauru-82-x-94-franca/
+17/04/2019,Flamengo,79,60,Corinthians,,QUARTAS,20:00,0,16-16 16-10 28-18 19-16,ok,23072,https://lnb.com.br/noticias/flamengo-79-x-60-corinthians/
+18/04/2019,Pinheiros,67,58,Botafogo,,QUARTAS,19:30,,,sem_quartos,23075,https://lnb.com.br/noticias/pinheiros-67-x-58-botafogo/
+19/04/2019,Mogi,96,71,Basq. Cearense,,QUARTAS,21:10,0,23-17 19-10 27-25 27-19,ok,23078,https://lnb.com.br/noticias/mogi-96-x-71-basquete-cearense/
+20/04/2019,Flamengo,91,65,Corinthians,,QUARTAS,14:00,0,19-17 29-11 21-21 22-16,ok,23073,https://lnb.com.br/noticias/flamengo-91-x-65-corinthians/
+20/04/2019,Pinheiros,89,64,Botafogo,,QUARTAS,18:00,0,27-18 24-15 20-20 18-11,ok,23076,https://lnb.com.br/noticias/pinheiros-89-x-64-botafogo/
+21/04/2019,Mogi,73,71,Basq. Cearense,,QUARTAS,19:00,0,16-23 23-16 20-16 14-16,ok,23079,https://lnb.com.br/noticias/mogi-73-x-71-basquete-cearense/
+22/04/2019,Sesi Franca,83,77,Bauru,,QUARTAS,20:10,,,sem_quartos,23069,https://lnb.com.br/noticias/franca-83-x-77-bauru/
+24/04/2019,Sesi Franca,90,68,Bauru,,QUARTAS,20:10,0,22-23 20-13 23-21 25-11,ok,23070,https://lnb.com.br/noticias/franca-90-x-68-bauru/
+27/04/2019,Botafogo,88,73,Pinheiros,,QUARTAS,14:00,0,14-14 17-18 33-17 24-24,ok,23080,https://lnb.com.br/noticias/botafogo-88-x-73-pinheiros/
+30/04/2019,Pinheiros,78,82,Botafogo,,QUARTAS,20:00,0,22-20 16-14 23-19 17-29,ok,23087,https://lnb.com.br/noticias/pinheiros-78-x-82-botafogo/
+03/05/2019,Botafogo,77,79,Flamengo,,SEMI,21:00,,,sem_quartos,23088,https://lnb.com.br/noticias/botafogo-77-x-79-flamengo/
+04/05/2019,Mogi,77,85,Sesi Franca,,SEMI,14:00,0,20-26 19-22 14-23 24-14,ok,23093,https://lnb.com.br/noticias/mogi-77-x-85-franca/
+08/05/2019,Sesi Franca,89,78,Mogi,,SEMI,19:00,0,25-24 23-19 27-14 14-21,ok,23094,https://lnb.com.br/noticias/franca-89-x-78-mogi/
+09/05/2019,Flamengo,81,69,Botafogo,,SEMI,20:00,,,sem_quartos,23089,https://lnb.com.br/noticias/flamengo-81-x-69-botafogo/
+10/05/2019,Sesi Franca,108,100,Mogi,,SEMI,20:00,0,30-24 30-24 24-25 24-27,ok,23095,https://lnb.com.br/noticias/franca-108-x-100-botafogo/
+11/05/2019,Flamengo,77,81,Botafogo,,SEMI,14:00,0,14-19 25-21 21-16 17-25,ok,23091,https://lnb.com.br/noticias/flamengo-77-x-81-botafogo/
+14/05/2019,Botafogo,75,90,Flamengo,,SEMI,21:00,,,sem_quartos,23104,https://lnb.com.br/noticias/botafogo-75-x-90-flamengo/
+19/05/2019,Flamengo,82,68,Sesi Franca,,FINAL,10:45,0,20-15 28-17 18-19 16-17,ok,23110,https://lnb.com.br/noticias/flamengo-82-x-68-franca/
+23/05/2019,Sesi Franca,88,79,Flamengo,,FINAL,20:00,0,29-21 22-15 16-20 21-23,ok,23111,https://lnb.com.br/noticias/franca-88-x-79-flamengo/
+25/05/2019,Sesi Franca,77,71,Flamengo,,FINAL,14:30,,,sem_quartos,23112,https://lnb.com.br/noticias/franca-77-x-71-flamengo/
+01/06/2019,Flamengo,76,62,Sesi Franca,,FINAL,14:30,0,19-16 14-11 23-17 20-18,ok,23116,https://lnb.com.br/noticias/flamengo-76-x-62-franca/
+08/06/2019,Sesi Franca,72,81,Flamengo,,FINAL,14:30,0,10-24 19-21 15-11 28-25,ok,23119,https://lnb.com.br/noticias/franca-72-x-81-flamengo/

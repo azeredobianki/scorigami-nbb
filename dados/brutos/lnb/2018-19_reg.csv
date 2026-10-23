@@ -1,0 +1,183 @@
+data,mandante,pts_mandante,pts_visitante,visitante,rodada,etapa,hora,prorrogacoes,quartos,status_quartos,id_lnb,link
+13/10/2018,Paulistano,75,85,Mogi,,1º TURNO,13:35,0,19-15 20-26 17-16 19-28,ok,22734,https://lnb.com.br/noticias/e-do-mogi-paulistano/
+13/10/2018,Brasília,76,77,Vasco da Gama,,1º TURNO,15:25,0,14-21 25-16 19-24 18-16,ok,22806,https://lnb.com.br/noticias/com-muita-emocao-brasilia-vasco-nbb/
+13/10/2018,Basq. Cearense,54,73,Flamengo,,1º TURNO,18:00,0,17-23 9-16 13-14 15-20,ok,22735,https://lnb.com.br/noticias/forca-rubro-negra-flamengo-basquetecearense-nbb/
+13/10/2018,Pinheiros,92,81,Bauru,,1º TURNO,18:00,,,sem_quartos,22736,https://lnb.com.br/noticias/inicio-insano/
+15/10/2018,Brasília,69,94,Flamengo,,1º TURNO,20:00,,,sem_quartos,22737,https://lnb.com.br/noticias/classico-dominado-flamengo-brasilia-nbb/
+15/10/2018,Botafogo,62,64,Joinville / AABJ,,1º TURNO,20:00,,,sem_quartos,22738,https://lnb.com.br/noticias/que-estreia-joinville-botafogo-nbb/
+15/10/2018,Pinheiros,88,86,São José,,1º TURNO,20:00,,,sem_quartos,22739,https://lnb.com.br/noticias/vitoria-apertada-pinheiros-sao-jose-nbb/
+16/10/2018,Corinthians,80,83,Sesi Franca,,1º TURNO,20:00,,,sem_quartos,22740,https://lnb.com.br/noticias/no-sufoco-corinthians-franca-nbb/
+17/10/2018,São José,92,86,Basq. Cearense,,1º TURNO,20:00,1,22-19 16-22 27-12 15-27 12-6,ok,22741,https://lnb.com.br/noticias/a-primeira-sao-jose-basquete-cearense/
+17/10/2018,Flamengo,76,75,Joinville / AABJ,,1º TURNO,20:30,0,12-22 26-25 22-11 16-17,ok,22742,https://lnb.com.br/noticias/que-jogo-amigos/
+18/10/2018,Mogi,77,83,Pinheiros,,1º TURNO,20:45,,,sem_quartos,22743,https://lnb.com.br/noticias/pinheiros-100-mogi-nbb/
+19/10/2018,Vasco da Gama,66,74,Joinville / AABJ,,1º TURNO,19:00,0,17-14 15-28 16-17 18-15,ok,22744,https://lnb.com.br/noticias/ta-em-casa-joinville-vasco-nbb/
+19/10/2018,Corinthians,83,92,Paulistano,,1º TURNO,21:10,0,19-25 23-22 17-25 24-20,ok,22745,https://lnb.com.br/noticias/primeira-vitoria-corinthians-paulistano-nbb/
+20/10/2018,Sesi Franca,74,77,Botafogo,,1º TURNO,14:00,0,17-16 13-21 23-21 21-19,ok,22752,https://lnb.com.br/noticias/botou-fogo-botafogo-franca-nbb/
+20/10/2018,Mogi,100,72,Basq. Cearense,,1º TURNO,19:00,0,25-21 25-23 20-14 30-14,ok,22747,https://lnb.com.br/noticias/mogi-on-fire-basquete-cearense-nbb/
+22/10/2018,Joinville / AABJ,68,87,Pinheiros,,1º TURNO,19:00,0,10-22 17-19 21-22 20-24,ok,22748,https://lnb.com.br/noticias/fez-chover-pinheiros-joinville/
+22/10/2018,Paulistano,72,60,Basq. Cearense,,1º TURNO,20:00,0,26-12 14-17 16-19 16-12,ok,22749,https://lnb.com.br/noticias/segunda-seguida-paulistano-basquete-cearense/
+22/10/2018,São José,62,71,Minas,,1º TURNO,20:00,0,10-19 17-11 14-13 21-28,ok,22750,https://lnb.com.br/noticias/belo-principio/
+23/10/2018,Bauru,76,80,Vasco da Gama,,1º TURNO,19:00,0,18-26 20-14 22-23 16-17,ok,22751,https://lnb.com.br/noticias/pra-dar-moral/
+24/10/2018,Paulistano,81,76,Minas,,1º TURNO,19:15,0,15-15 17-26 26-24 23-11,ok,22753,https://lnb.com.br/noticias/grande-virada-paulistano-minas/
+24/10/2018,Corinthians,91,79,Brasília,,1º TURNO,21:00,0,27-26 23-18 21-16 20-19,ok,22754,https://lnb.com.br/noticias/primeira-vitoria-corinthians-brasilia/
+25/10/2018,Bauru,82,63,Botafogo,,1º TURNO,19:00,,,sem_quartos,22755,https://lnb.com.br/noticias/primeira-do-dragao-bauru-botafogo-nbb/
+25/10/2018,Sesi Franca,101,75,Vasco da Gama,,1º TURNO,20:45,0,23-19 30-23 20-15 28-18,ok,22756,https://lnb.com.br/noticias/mira-afiada-franca-vasco-nbb/
+26/10/2018,Pinheiros,76,85,Corinthians,,1º TURNO,18:00,,,sem_quartos,22758,https://lnb.com.br/noticias/timao-crescendo/
+26/10/2018,Mogi,97,82,Brasília,,1º TURNO,21:10,0,24-26 27-18 23-18 23-20,ok,22757,https://lnb.com.br/noticias/grande-vitoria-mogi-brasilia/
+27/10/2018,Bauru,69,70,Sesi Franca,,1º TURNO,14:00,0,20-27 15-9 14-20 20-14,ok,22759,https://lnb.com.br/noticias/classico-e-assim/
+29/10/2018,Minas,85,73,Joinville / AABJ,,1º TURNO,20:00,0,18-18 19-12 30-17 18-26,ok,22760,https://lnb.com.br/noticias/gringo-quente-minas-joinville-nbb/
+30/10/2018,Botafogo,77,74,Paulistano,,1º TURNO,20:00,0,20-12 12-18 17-21 28-23,ok,22761,https://lnb.com.br/noticias/olha-o-fogo-ai/
+30/10/2018,Flamengo,93,73,Mogi,,1º TURNO,20:00,0,21-16 20-21 23-16 29-20,ok,22762,https://lnb.com.br/noticias/so-alegria-flamengo-vence-mogi/
+31/10/2018,Minas,93,65,Vasco da Gama,,1º TURNO,19:00,0,11-22 31-10 26-16 25-17,ok,22765,https://lnb.com.br/noticias/chama-o-gringo-minas-vasco/
+31/10/2018,Basq. Cearense,82,91,Sesi Franca,,1º TURNO,20:00,0,19-26 14-16 21-32 28-17,ok,22763,https://lnb.com.br/noticias/terceira-seguida-franca-basquete-cearense/
+31/10/2018,Brasília,105,113,Bauru,,1º TURNO,21:00,2,23-24 24-26 20-25 22-14 11-11 5-13,ok,22764,https://lnb.com.br/noticias/jogo-epico-brasilia-bauru-nbb/
+01/11/2018,Joinville / AABJ,72,98,Corinthians,,1º TURNO,19:00,0,20-26 17-21 17-27 18-24,ok,22768,https://lnb.com.br/noticias/terceira-e-contando-corinthians-joinville-nbb/
+01/11/2018,Botafogo,90,86,Mogi,,1º TURNO,20:00,0,22-24 22-25 21-18 25-19,ok,22767,https://lnb.com.br/noticias/cheios-de-moral/
+01/11/2018,Flamengo,61,74,Pinheiros,,1º TURNO,20:45,0,14-19 19-17 9-16 19-22,ok,22766,https://lnb.com.br/noticias/novo-lider-pinheiros-flamengo/
+02/11/2018,Brasília,73,101,Sesi Franca,,1º TURNO,19:15,0,14-30 18-19 18-25 23-27,ok,22769,https://lnb.com.br/noticias/franca-na-lideranca-brasilia-nbb/
+02/11/2018,Basq. Cearense,82,73,Bauru,,1º TURNO,20:00,,,sem_quartos,22770,https://lnb.com.br/noticias/primeiro-triunfo/
+02/11/2018,Vasco da Gama,60,76,Paulistano,,1º TURNO,21:10,0,13-23 10-16 24-13 13-24,ok,22771,https://lnb.com.br/noticias/e-do-cap-3/
+03/11/2018,Flamengo,72,64,Corinthians,,1º TURNO,14:00,0,23-6 10-23 15-15 24-20,ok,22772,https://lnb.com.br/noticias/e-do-mengao-classico-flamengo-corinthians/
+03/11/2018,Minas,83,79,Pinheiros,,1º TURNO,17:00,0,20-17 19-21 18-16 26-25,ok,22773,https://lnb.com.br/noticias/na-cola-dos-lideres-minas-pinheiros-nbb/
+05/11/2018,São José,74,96,Mogi,,1º TURNO,20:00,0,27-22 15-19 9-30 23-25,ok,22774,https://lnb.com.br/noticias/triunfo-maiusculo-mogi-sao-jose/
+06/11/2018,Bauru,47,77,Flamengo,,1º TURNO,20:00,0,7-17 15-22 18-20 7-18,ok,22775,https://lnb.com.br/noticias/flamengo-imponente-bauru-nbb/
+06/11/2018,Sesi Franca,83,66,Minas,,1º TURNO,20:10,0,24-15 18-18 21-19 20-14,ok,22776,https://lnb.com.br/noticias/grande-fase-franca-minas-nbb/
+07/11/2018,Joinville / AABJ,72,69,Basq. Cearense,,1º TURNO,19:00,0,22-11 23-22 14-20 13-16,ok,22778,https://lnb.com.br/noticias/recuperado-joinville-basquete-cearense-nbb/
+07/11/2018,Pinheiros,71,82,Paulistano,,1º TURNO,20:00,0,15-15 21-16 21-28 14-23,ok,22777,https://lnb.com.br/noticias/deu-cap-pinheiros-paulistano-nbb/
+08/11/2018,Bauru,81,68,Minas,,1º TURNO,20:00,0,19-17 25-18 21-14 16-19,ok,22779,https://lnb.com.br/noticias/vitoria-do-dragao-bauru-minas/
+08/11/2018,Sesi Franca,84,77,Flamengo,,1º TURNO,20:45,0,15-21 28-17 15-17 26-22,ok,22746,https://lnb.com.br/noticias/franca-na-lideranca-flamengo-nbb/
+09/11/2018,Botafogo,86,71,Corinthians,,1º TURNO,21:10,,,sem_quartos,22781,https://lnb.com.br/noticias/mais-uma-do-glorioso-botafogo-corinthians-nbb/
+10/11/2018,Flamengo,90,70,Vasco da Gama,,1º TURNO,14:00,0,20-9 31-15 22-19 17-27,ok,22782,https://lnb.com.br/noticias/sabor-especial-flamengo-vasco-classico/
+10/11/2018,Bauru,63,75,São José,,1º TURNO,18:00,0,16-12 12-17 20-16 15-30,ok,22783,https://lnb.com.br/noticias/ultrapassagem-bauru-sao-jose-nbb/
+10/11/2018,Pinheiros,88,86,Basq. Cearense,,1º TURNO,21:00,1,14-22 15-12 23-14 25-29 11-9,ok,22784,https://lnb.com.br/noticias/vitoria-magistral-pinheiros-basquete-cearense/
+12/11/2018,Corinthians,57,55,Basq. Cearense,,1º TURNO,20:00,0,12-13 22-17 11-9 12-16,ok,22785,https://lnb.com.br/noticias/vitoria-alvinegra-corinthians-basquete-cearense-nbb/
+13/11/2018,Joinville / AABJ,89,56,Bauru,,1º TURNO,19:00,,,sem_quartos,22787,https://lnb.com.br/noticias/pegaram-fogo-joinville-bauru/
+13/11/2018,Minas,97,99,Mogi,,1º TURNO,20:00,,,sem_quartos,22798,https://lnb.com.br/noticias/um-passo-a-frente-mogi-minas/
+14/11/2018,São José,57,64,Flamengo,,1º TURNO,19:00,0,22-15 8-19 14-11 13-19,ok,22788,https://lnb.com.br/noticias/vitoria-suada-sao-jose-flamengo-nbb/
+14/11/2018,Brasília,82,64,Botafogo,,1º TURNO,21:00,,,sem_quartos,22789,https://lnb.com.br/noticias/que-alivio-brasilia-botafogo-nbb/
+15/11/2018,Mogi,73,67,Bauru,,1º TURNO,20:00,0,19-15 19-18 12-15 23-19,ok,22790,https://lnb.com.br/noticias/bola-neles-shamell-jpbatista-mogi-bauru/
+16/11/2018,Basq. Cearense,65,54,Botafogo,,1º TURNO,19:00,,,sem_quartos,22792,https://lnb.com.br/noticias/alegria-dupla-basquete-cearense-botafogo/
+16/11/2018,Paulistano,97,84,Flamengo,,1º TURNO,21:10,0,16-23 34-18 25-17 22-26,ok,22791,https://lnb.com.br/noticias/respeita-o-campeao-paulistano-flamengo-nbb/
+17/11/2018,Vasco da Gama,78,68,Corinthians,,1º TURNO,14:00,0,13-19 15-10 22-15 28-24,ok,22793,https://lnb.com.br/noticias/e-do-vasco-corinthians-nbb/
+19/11/2018,Mogi,89,95,Sesi Franca,,1º TURNO,20:00,0,19-21 21-24 21-27 28-23,ok,22786,https://lnb.com.br/noticias/vitoria-maiuscula-franca-mogi/
+20/11/2018,Paulistano,88,82,São José,,1º TURNO,20:00,0,21-11 17-18 29-27 21-26,ok,22795,https://lnb.com.br/noticias/paulistano-voando-sao-jose-nbb/
+21/11/2018,Pinheiros,79,61,Brasília,,1º TURNO,20:00,0,24-16 13-11 20-13 22-21,ok,22796,https://lnb.com.br/noticias/triunfo-importante-pinheiros-brasilia-nbb/
+22/11/2018,Sesi Franca,95,93,São José,,1º TURNO,20:45,0,23-31 29-18 22-16 21-28,ok,22780,https://lnb.com.br/noticias/forca-de-lider-franca-sao-jose-nbb/
+23/11/2018,Joinville / AABJ,77,84,Brasília,,1º TURNO,21:10,0,19-18 18-19 20-27 20-20,ok,22799,https://lnb.com.br/noticias/para-dar-moral-brasilia-joinville/
+24/11/2018,Sesi Franca,89,73,Paulistano,,1º TURNO,14:00,0,21-19 18-17 34-17 16-20,ok,22800,https://lnb.com.br/noticias/festa-completa-franca-paulistano-nbb/
+25/11/2018,Minas,72,69,Corinthians,,1º TURNO,18:00,0,17-21 10-11 24-18 21-19,ok,22794,https://lnb.com.br/noticias/grande-vitoria-minas-corinthians/
+27/11/2018,Botafogo,84,74,São José,,1º TURNO,20:00,0,20-24 20-6 25-30 19-14,ok,22801,https://lnb.com.br/noticias/fogo-reaceso-botafogo-sao-jose-nbb/
+29/11/2018,Vasco da Gama,81,77,São José,,1º TURNO,20:45,0,19-13 18-11 25-19 19-34,ok,22803,https://lnb.com.br/noticias/mais-uma-do-vascao/
+01/12/2018,Vasco da Gama,79,97,Botafogo,,1º TURNO,14:00,0,24-20 9-24 24-31 22-22,ok,22804,https://lnb.com.br/noticias/em-chamas-botafogo-vasco/
+04/12/2018,Minas,85,77,Botafogo,,1º TURNO,20:00,0,22-16 22-25 23-12 18-24,ok,22805,https://lnb.com.br/noticias/vitoria-imponente-minas-botafogo/
+04/12/2018,Pinheiros,91,79,Sesi Franca,,1º TURNO,20:00,0,16-24 24-17 28-13 23-25,ok,22809,https://lnb.com.br/noticias/super-8-e-logo-ali-pinheiros-franca/
+05/12/2018,Corinthians,74,82,São José,,1º TURNO,20:00,,,sem_quartos,22797,https://lnb.com.br/noticias/super-8-pode-sonhar-sao-jose-corinthians/
+05/12/2018,Basq. Cearense,76,63,Brasília,,1º TURNO,20:00,0,17-14 22-15 19-24 18-10,ok,22802,https://lnb.com.br/noticias/noite-de-cobb-basquete-cearense-brasilia/
+06/12/2018,Bauru,85,64,Paulistano,,1º TURNO,19:00,,,sem_quartos,22808,https://lnb.com.br/noticias/que-retorno-bauru-paulistano/
+06/12/2018,Mogi,81,67,Joinville / AABJ,,1º TURNO,20:45,0,24-15 18-9 15-21 24-22,ok,22807,https://lnb.com.br/noticias/no-g-4-mogi-joinville/
+07/12/2018,Basq. Cearense,66,60,Vasco da Gama,,1º TURNO,19:00,0,17-14 13-14 24-15 12-17,ok,22811,https://lnb.com.br/noticias/carcara-voando-basquete-cearense-vasco-nbb/
+07/12/2018,Flamengo,102,73,Botafogo,,1º TURNO,21:10,0,26-15 21-17 32-21 23-20,ok,22810,https://lnb.com.br/noticias/imponente-flamengo-botafogo-nbb/
+08/12/2018,Mogi,102,96,Corinthians,,1º TURNO,14:00,1,21-24 25-26 17-18 23-18 16-10,ok,22812,https://lnb.com.br/noticias/na-raca-mogi-corinthians-nbb/
+08/12/2018,São José,102,100,Joinville / AABJ,,1º TURNO,18:00,0,27-29 20-18 20-17 35-36,ok,22813,https://lnb.com.br/noticias/ainda-vivos-sao-jose-joinville-nbb/
+10/12/2018,Brasília,88,77,Minas,,1º TURNO,20:00,,,sem_quartos,22814,https://lnb.com.br/noticias/no-caminho-certo-brasilia-minas-nbb/
+10/12/2018,Paulistano,109,97,Joinville / AABJ,,1º TURNO,20:00,0,28-29 24-13 27-24 30-31,ok,22815,https://lnb.com.br/noticias/pra-dar-moral-paulistano-joinville-nbb/
+11/12/2018,Vasco da Gama,65,71,Pinheiros,,1º TURNO,20:00,0,19-18 19-11 18-22 9-20,ok,22816,https://lnb.com.br/noticias/tudo-azul-pinheiros-vasco-nbb/
+12/12/2018,Basq. Cearense,70,61,Minas,,1º TURNO,20:00,0,15-8 19-21 18-17 18-15,ok,22817,https://lnb.com.br/noticias/grande-fase-basquete-cearense-minas-nbb/
+13/12/2018,São José,87,75,Brasília,,1º TURNO,20:00,,,sem_quartos,22818,https://lnb.com.br/noticias/dever-cumprido-agora-e-torcer-sao-jose-brasilia/
+13/12/2018,Botafogo,76,91,Pinheiros,,1º TURNO,20:45,0,24-26 13-21 24-21 15-23,ok,22819,https://lnb.com.br/noticias/pinheiros-e-vice-lider-botafogo-nbb/
+14/12/2018,Vasco da Gama,75,88,Mogi,,1º TURNO,21:10,0,14-23 18-18 21-24 22-23,ok,22820,https://lnb.com.br/noticias/mando-garantido-vasco-mogi/
+15/12/2018,Corinthians,87,83,Bauru,,1º TURNO,14:00,0,16-21 23-13 28-21 20-28,ok,22822,https://lnb.com.br/noticias/triunfo-alvinegro-corinthians-bauru-nbb/
+15/12/2018,Minas,80,91,Flamengo,,1º TURNO,17:00,0,12-26 19-27 29-17 20-21,ok,22824,https://lnb.com.br/noticias/so-a-previa-flamengo-minas-nbb-super8/
+15/12/2018,Paulistano,83,82,Brasília,,1º TURNO,18:00,0,23-26 30-11 16-24 14-21,ok,22823,https://lnb.com.br/noticias/que-venha-o-super-8/
+18/12/2018,Joinville / AABJ,80,95,Sesi Franca,,1º TURNO,19:00,,,sem_quartos,22821,https://lnb.com.br/noticias/super-8-e-em-casa-franca-joinville/
+05/01/2019,Paulistano,82,78,Corinthians,,2º TURNO,14:00,0,22-15 27-28 18-19 15-16,ok,22825,https://lnb.com.br/noticias/triunfo-alvirrubro-paulistano-corinthians-nbb/
+07/01/2019,Mogi,88,82,São José,,2º TURNO,20:00,,,sem_quartos,22826,https://lnb.com.br/noticias/dever-cumprido-mogi-sao-jose-nbb/
+08/01/2019,Corinthians,97,82,Minas,,2º TURNO,20:00,0,28-25 26-13 16-20 27-24,ok,22827,https://lnb.com.br/noticias/pra-dar-moral-corinthians-minas-nbb/
+09/01/2019,Vasco da Gama,82,88,Bauru,,2º TURNO,20:00,0,23-19 20-23 20-22 19-24,ok,22828,https://lnb.com.br/noticias/bom-e-velho-dragao-vasco-bauru-nbb/
+09/01/2019,Basq. Cearense,65,77,Paulistano,,2º TURNO,21:00,0,14-15 15-21 20-20 16-21,ok,22829,https://lnb.com.br/noticias/mais-uma-do-cap-cearense-paulistano-nbb/
+10/01/2019,Joinville / AABJ,84,90,Mogi,,2º TURNO,19:00,1,26-15 17-24 20-22 14-16 7-13,ok,22862,https://lnb.com.br/noticias/que-vitoria-nbb-mogi-joinville/
+10/01/2019,Pinheiros,87,75,Minas,,2º TURNO,20:45,,,sem_quartos,22830,https://lnb.com.br/noticias/sextou-nbb-minas-pinheiros/
+11/01/2019,Brasília,71,97,Paulistano,,2º TURNO,19:15,0,11-22 23-21 14-24 23-30,ok,22832,https://lnb.com.br/noticias/grande-fase-brasilia-paulistano-nbb/
+11/01/2019,Botafogo,74,80,Bauru,,2º TURNO,21:10,0,18-15 19-13 21-23 16-29,ok,22831,https://lnb.com.br/noticias/o-dragao-e-fogo-bauru-botafogo/
+12/01/2019,Corinthians,68,91,Flamengo,,2º TURNO,14:00,0,16-22 18-27 18-20 16-22,ok,22833,https://lnb.com.br/noticias/vitoria-maiuscula-corinthians-flamengo-nbb/
+12/01/2019,Sesi Franca,82,74,Basq. Cearense,,2º TURNO,18:00,,,sem_quartos,22834,https://lnb.com.br/noticias/no-sufoco-franca-basquete-cearense-nbb/
+14/01/2019,Joinville / AABJ,81,92,Vasco da Gama,,2º TURNO,19:00,0,10-23 22-25 20-22 29-22,ok,22835,https://lnb.com.br/noticias/sai-zica-vasco-joinville-nbb/
+14/01/2019,Pinheiros,81,73,Flamengo,,2º TURNO,19:00,0,19-13 19-18 20-26 23-16,ok,22836,https://lnb.com.br/noticias/que-vitoria-pinheiros-x-flamengo/
+14/01/2019,Bauru,82,71,Basq. Cearense,,2º TURNO,21:00,0,16-15 29-17 10-24 27-15,ok,22837,https://lnb.com.br/noticias/deu-dragao-bauru-basquete-cearense-nbb/
+15/01/2019,Brasília,76,80,Mogi,,2º TURNO,19:00,0,18-28 22-15 23-12 13-25,ok,22838,https://lnb.com.br/noticias/o-nome-dele-e-clutch/
+16/01/2019,Minas,75,80,São José,,2º TURNO,19:00,0,24-17 13-25 21-17 17-21,ok,22840,https://lnb.com.br/noticias/aguia-fatal-sao-jose-minas-nbb/
+16/01/2019,Corinthians,77,80,Pinheiros,,2º TURNO,20:00,0,20-17 16-22 20-19 21-22,ok,22839,https://lnb.com.br/noticias/quem-segura-corinthians-pinheiros-nbb/
+17/01/2019,Vasco da Gama,78,84,Sesi Franca,,2º TURNO,19:00,0,15-27 13-28 25-15 25-14,ok,22841,https://lnb.com.br/noticias/lider-sim-franca-vasco-nbb/
+17/01/2019,Basq. Cearense,60,73,Mogi,,2º TURNO,20:45,0,25-23 14-19 7-17 14-14,ok,22842,https://lnb.com.br/noticias/7-seguidas-mogi-cearense/
+18/01/2019,Flamengo,96,83,São José,,2º TURNO,21:10,,,sem_quartos,22843,https://lnb.com.br/noticias/recuperados-flamengo-sao-jose-nbb-18-19/
+19/01/2019,Botafogo,69,71,Sesi Franca,,2º TURNO,14:00,0,22-23 12-17 19-22 16-9,ok,22844,https://lnb.com.br/noticias/chama-o-dj-franca-botafogo-nbb/
+19/01/2019,Joinville / AABJ,80,89,Minas,,2º TURNO,18:00,0,26-21 10-26 17-20 27-22,ok,22845,https://lnb.com.br/noticias/reabilitado-minas-joinville/
+21/01/2019,Mogi,65,64,Minas,,2º TURNO,20:00,0,18-16 19-14 16-17 12-17,ok,22846,https://lnb.com.br/noticias/quem-para-mogi-minas-nbb/
+22/01/2019,Bauru,75,76,Brasília,,2º TURNO,19:00,0,28-23 15-13 16-22 16-18,ok,22849,https://lnb.com.br/noticias/enfim-vitoria-brasilia-bauru-nbb/
+22/01/2019,Botafogo,78,69,Basq. Cearense,,2º TURNO,20:00,0,21-13 19-18 15-21 23-17,ok,22848,https://lnb.com.br/noticias/em-chamas-botafogo-basquete-cearense-nbb/
+23/01/2019,Paulistano,85,91,Pinheiros,,2º TURNO,19:30,,,sem_quartos,22847,https://lnb.com.br/noticias/nona-seguida-pinheiros-paulistano-nbb/
+24/01/2019,Vasco da Gama,77,79,Basq. Cearense,,2º TURNO,19:00,0,18-15 23-23 15-18 21-23,ok,22851,https://lnb.com.br/noticias/heroi-do-carcara-basquete-cearense-vasco/
+24/01/2019,Joinville / AABJ,50,89,Flamengo,,2º TURNO,20:45,,,sem_quartos,22850,https://lnb.com.br/noticias/mengo-compressor-flamengo-joinville/
+26/01/2019,Mogi,74,81,Flamengo,,2º TURNO,14:00,0,16-24 19-12 17-21 22-24,ok,22853,https://lnb.com.br/noticias/no-brilho-da-dupla-flamengo-mogi-nbb/
+26/01/2019,Pinheiros,69,67,Botafogo,,2º TURNO,18:00,,,sem_quartos,22854,https://lnb.com.br/noticias/10-x-pinheiros-botafogo-nbb/
+28/01/2019,São José,79,72,Botafogo,,2º TURNO,20:00,0,28-18 13-16 17-27 21-11,ok,22855,https://lnb.com.br/noticias/salto-triplo-sao-jose-botafogo/
+29/01/2019,Basq. Cearense,77,90,Corinthians,,2º TURNO,20:00,0,16-22 21-24 21-23 19-21,ok,22856,https://lnb.com.br/noticias/trator-alvinegro-corinthians-basquete-cearense-nbb/
+30/01/2019,Minas,88,85,Paulistano,,2º TURNO,20:00,0,22-15 18-26 25-26 23-18,ok,22857,https://lnb.com.br/noticias/com-emocao-minas-paulistano-nbb/
+31/01/2019,Brasília,84,82,Corinthians,,2º TURNO,20:45,0,24-22 27-22 22-14 11-24,ok,22858,https://lnb.com.br/noticias/toque-de-experiencia-brasilia-corinthians-nbb/
+01/02/2019,Flamengo,95,87,Paulistano,,2º TURNO,21:10,0,23-29 19-15 22-21 31-22,ok,22859,https://lnb.com.br/noticias/cara-de-playoff-flamengo-paulistano/
+02/02/2019,Sesi Franca,88,71,Bauru,,2º TURNO,14:00,0,22-18 21-13 26-18 19-22,ok,22860,https://lnb.com.br/noticias/firme-e-forte-classico-bauru-franca-nbb/
+04/02/2019,São José,67,83,Pinheiros,,2º TURNO,20:00,0,14-22 13-18 13-17 27-26,ok,22861,https://lnb.com.br/noticias/ninguem-para-pinheiros-sao-jose-nbb/
+04/02/2019,Vasco da Gama,81,92,Minas,,2º TURNO,20:00,0,11-25 26-21 25-28 19-18,ok,22876,https://lnb.com.br/noticias/para-embalar-minas-vasco-nbb/
+05/02/2019,Brasília,80,87,Basq. Cearense,,2º TURNO,20:00,,,sem_quartos,22864,https://lnb.com.br/noticias/com-emocao-basquete-cearense-brasilia-nbb/
+05/02/2019,Flamengo,79,74,Sesi Franca,,2º TURNO,20:00,0,14-25 26-20 16-16 23-13,ok,22865,https://lnb.com.br/noticias/isso-e-flamengo-franca-nbb/
+11/02/2019,Sesi Franca,83,69,Brasília,,2º TURNO,20:10,0,24-13 20-13 18-24 21-19,ok,22852,https://lnb.com.br/noticias/para-embalar-2/
+13/02/2019,Mogi,90,88,Vasco da Gama,,2º TURNO,20:00,0,27-22 21-17 17-27 25-22,ok,22866,https://lnb.com.br/noticias/vitoria-heroica-mogi-vasco/
+13/02/2019,Pinheiros,92,70,Joinville / AABJ,,2º TURNO,20:00,0,18-12 23-25 29-12 22-21,ok,22868,https://lnb.com.br/noticias/embalados-pinheiros-joinville-nbb/
+13/02/2019,Basq. Cearense,76,86,São José,,2º TURNO,21:00,0,18-28 13-25 19-9 26-24,ok,22867,https://lnb.com.br/noticias/firme-entre-os-8-sao-jose/
+14/02/2019,Minas,93,89,Bauru,,2º TURNO,20:45,,,sem_quartos,22869,https://lnb.com.br/noticias/terceira-seguida-minas-bauru-nbb/
+15/02/2019,Corinthians,92,83,Joinville / AABJ,,2º TURNO,19:15,0,18-18 33-22 20-22 21-21,ok,22871,https://lnb.com.br/noticias/raca-alvinegra-corinthians-joinville-nbb/
+15/02/2019,Brasília,81,73,São José,,2º TURNO,20:00,0,28-16 19-19 16-25 18-13,ok,22872,https://lnb.com.br/noticias/chegando-la-brasilia-sao-jose-nbb/
+15/02/2019,Mogi,89,91,Paulistano,,2º TURNO,21:10,,,sem_quartos,22870,https://lnb.com.br/noticias/recuperado-paulistano-mogi-nbb/
+16/02/2019,Minas,86,103,Sesi Franca,,2º TURNO,14:00,0,9-29 31-22 23-35 23-17,ok,22874,https://lnb.com.br/noticias/na-cola-do-lider-franca-minas-nbb/
+19/02/2019,Joinville / AABJ,54,59,Botafogo,,2º TURNO,19:00,,,sem_quartos,22875,https://lnb.com.br/noticias/vitoria-suada-botafogo-joinville/
+23/02/2019,Botafogo,79,74,Vasco da Gama,,2º TURNO,14:00,0,9-18 26-27 19-10 25-19,ok,22863,https://lnb.com.br/noticias/que-virada-botafogo-vasco-nbb/
+26/02/2019,São José,82,68,Vasco da Gama,,2º TURNO,20:00,0,22-20 25-15 14-17 21-16,ok,22878,https://lnb.com.br/noticias/solta-o-grito-aguia-sao-jose-vasco/
+26/02/2019,Basq. Cearense,88,77,Joinville / AABJ,,2º TURNO,20:00,0,18-26 26-21 22-7 22-23,ok,22879,https://lnb.com.br/noticias/que-virada-cearense-joinville/
+28/02/2019,Paulistano,109,65,Vasco da Gama,,2º TURNO,19:00,0,22-8 23-23 26-25 38-9,ok,22883,https://lnb.com.br/noticias/dominante-paulistano-vasco-nbb/
+28/02/2019,Bauru,68,75,Pinheiros,,2º TURNO,20:00,0,22-20 9-9 18-22 19-24,ok,22880,https://lnb.com.br/noticias/quem-para-pinheiros-nbb/
+28/02/2019,Brasília,98,90,Joinville / AABJ,,2º TURNO,20:00,0,23-29 22-11 30-27 23-23,ok,22882,https://lnb.com.br/noticias/rumo-aos-playoffs-brasilia-joinville-nbb/
+28/02/2019,Corinthians,90,79,Mogi,,2º TURNO,21:00,0,20-16 23-16 24-24 23-23,ok,22881,https://lnb.com.br/noticias/voa-gaviao/
+01/03/2019,Botafogo,67,73,Flamengo,,2º TURNO,21:10,0,18-13 13-20 16-28 20-12,ok,22884,https://lnb.com.br/noticias/colou-no-franca/
+02/03/2019,Sesi Franca,93,78,Pinheiros,,2º TURNO,18:00,0,31-28 20-15 24-18 18-17,ok,22885,https://lnb.com.br/noticias/franca-e-lider-pinheiros-nbb/
+04/03/2019,Sesi Franca,83,60,Corinthians,,2º TURNO,18:00,0,18-15 18-19 21-15 26-11,ok,22890,https://lnb.com.br/noticias/na-hora-certa-corinthians-franca-nbb/
+06/03/2019,Botafogo,79,62,Minas,,2º TURNO,20:00,,,sem_quartos,22877,https://lnb.com.br/noticias/firme-e-forte-botafogo-minas-nbb/
+07/03/2019,Vasco da Gama,78,94,Brasília,,2º TURNO,19:00,,,sem_quartos,22888,https://lnb.com.br/noticias/com-propriedade-brasilia-vasco-nbb/
+07/03/2019,Bauru,92,81,Corinthians,,2º TURNO,20:00,0,26-23 22-24 28-18 16-16,ok,22887,https://lnb.com.br/noticias/dragao-imponente-bauru-corinthians-nbb/
+08/03/2019,Pinheiros,78,71,Mogi,,2º TURNO,21:10,,,sem_quartos,22886,https://lnb.com.br/noticias/daqui-nao-saio-pinheiros-mogi-nbb/
+09/03/2019,Botafogo,79,65,Brasília,,2º TURNO,11:30,0,19-15 16-14 26-15 18-21,ok,22891,https://lnb.com.br/noticias/em-chamas-botafogo-brasilia-nbb/
+09/03/2019,Flamengo,82,60,Minas,,2º TURNO,14:00,0,14-21 24-16 22-17 22-6,ok,22889,https://lnb.com.br/noticias/vitoria-na-superacao/
+11/03/2019,Joinville / AABJ,87,84,São José,,2º TURNO,19:00,0,29-24 12-18 15-22 31-20,ok,22892,https://lnb.com.br/noticias/no-sufoco-joinville-sao-jose-nbb/
+12/03/2019,Flamengo,80,72,Bauru,,2º TURNO,20:00,0,19-18 22-18 18-22 21-14,ok,22873,https://lnb.com.br/noticias/flamengo-embalado-nbb/
+14/03/2019,Basq. Cearense,79,81,Pinheiros,,2º TURNO,20:00,0,16-16 17-12 17-25 29-28,ok,22894,https://lnb.com.br/noticias/vitoria-suada-pinheiros-basquete-cearense-nbb/
+14/03/2019,São José,74,83,Bauru,,2º TURNO,20:00,0,11-18 14-22 19-20 30-23,ok,22895,https://lnb.com.br/noticias/voa-dragao-bauru-sao-jose-nbb/
+15/03/2019,Joinville / AABJ,87,97,Paulistano,,2º TURNO,19:00,,,sem_quartos,22897,https://lnb.com.br/noticias/foi-na-prorrogacao-nbb-joinville-paulistano/
+15/03/2019,Mogi,89,72,Botafogo,,2º TURNO,21:10,0,19-19 10-21 27-15 33-17,ok,22896,https://lnb.com.br/noticias/briga-boa-nbb-mogi-botafogo/
+16/03/2019,Vasco da Gama,67,107,Flamengo,,2º TURNO,14:00,0,17-23 15-26 17-30 18-28,ok,22898,https://lnb.com.br/noticias/flamengo-107-x-67-vasco-da-gama/
+16/03/2019,São José,80,98,Sesi Franca,,2º TURNO,14:00,,,sem_quartos,22899,https://lnb.com.br/noticias/sesi-franca-98-x-80-sao-jose/
+16/03/2019,Brasília,81,77,Pinheiros,,2º TURNO,18:00,,,sem_quartos,22900,https://lnb.com.br/noticias/ubr-81-x-77-pin/
+18/03/2019,Paulistano,86,93,Sesi Franca,,2º TURNO,19:30,,,sem_quartos,22901,https://lnb.com.br/noticias/franca-93-x-86-paulistano/
+19/03/2019,São José,61,72,Corinthians,,2º TURNO,17:00,,,sem_quartos,22902,https://lnb.com.br/noticias/sao-jose-61-x-72-corinthians/
+21/03/2019,Paulistano,74,76,Bauru,,2º TURNO,19:30,0,16-22 20-17 23-17 15-20,ok,22893,https://lnb.com.br/noticias/paulistano-74-x-76-bauru-basket/
+23/03/2019,Sesi Franca,82,65,Mogi,,2º TURNO,14:00,,,sem_quartos,22903,https://lnb.com.br/noticias/franca-82-x-65-mogi/
+24/03/2019,Bauru,84,76,Joinville / AABJ,,2º TURNO,11:00,,,sem_quartos,22904,https://lnb.com.br/noticias/bauru-84-x-76-joinville/
+24/03/2019,Corinthians,85,72,Vasco da Gama,,2º TURNO,11:00,0,23-23 24-22 18-12 20-15,ok,22905,https://lnb.com.br/noticias/corinthians-85-x-72-vasco/
+24/03/2019,Paulistano,100,104,Botafogo,,2º TURNO,11:00,0,17-28 27-21 18-23 38-32,ok,22906,https://lnb.com.br/noticias/botafogo-104-x-100-paulistano/
+24/03/2019,Minas,95,85,Basq. Cearense,,2º TURNO,11:00,0,33-23 12-21 23-21 27-20,ok,22908,https://lnb.com.br/noticias/minas-95-x-85-basquete-cearense/
+24/03/2019,Flamengo,97,54,Brasília,,2º TURNO,13:00,,,sem_quartos,22907,https://lnb.com.br/noticias/flamengo-97-x-54-brasilia/
+26/03/2019,Bauru,81,96,Mogi,,2º TURNO,20:00,,,sem_quartos,22909,https://lnb.com.br/noticias/bauru-81-x-96-mogi/
+26/03/2019,Sesi Franca,84,72,Joinville / AABJ,,2º TURNO,20:00,0,18-19 19-10 24-17 23-26,ok,22910,https://lnb.com.br/noticias/sesi-franca-84-x-72-joinville/
+26/03/2019,Corinthians,84,77,Botafogo,,2º TURNO,20:00,,,sem_quartos,22911,https://lnb.com.br/noticias/corinthians-84-x-77-botafogo/
+26/03/2019,Pinheiros,112,80,Vasco da Gama,,2º TURNO,20:00,0,27-18 19-25 30-21 36-16,ok,22912,https://lnb.com.br/noticias/pinheiros-112-x-80-vasco/
+26/03/2019,Flamengo,100,82,Basq. Cearense,,2º TURNO,20:00,,,sem_quartos,22913,https://lnb.com.br/noticias/flamengo-100-x-82-basquete-cearense/
+26/03/2019,Minas,68,74,Brasília,,2º TURNO,20:00,0,18-24 15-14 20-15 15-21,ok,22914,https://lnb.com.br/noticias/minas-68-x-74-brasilia/
+26/03/2019,São José,65,73,Paulistano,,2º TURNO,20:00,0,18-17 10-16 16-16 21-24,ok,22915,https://lnb.com.br/noticias/sao-jose-65-x-73-paulistano/

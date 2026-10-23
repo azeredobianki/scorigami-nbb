@@ -1,0 +1,307 @@
+data,mandante,pts_mandante,pts_visitante,visitante,rodada,etapa,hora,prorrogacoes,quartos,status_quartos,id_lnb,link
+12/10/2024,R10 Score Vasco da Gama,50,59,Flamengo,1ª RODADA,1º TURNO,17:00,0,14-11 8-14 12-20 16-14,ok,25739,https://lnb.com.br/noticias/flamengo-estreia-no-nbb-caixa-2024-25-com-vitoria-no-classico-dos-milhoes/
+12/10/2024,KTO Minas,74,66,CAIXA/Brasília Basquete,1ª RODADA,1º TURNO,18:00,0,16-15 18-18 17-13 23-20,ok,25741,https://lnb.com.br/noticias/nbb-caixa-2024-25-kto-minas-74-x-66-caixa-brasilia/
+12/10/2024,Mogi,72,67,Paulistano/CORPe,1ª RODADA,1º TURNO,18:30,0,19-17 21-21 18-15 14-14,ok,25742,https://lnb.com.br/noticias/nbb-caixa-2024-25-mogi-basquete-72-x-67-paulistano-corpe/
+12/10/2024,Pinheiros,68,67,Pato Basquete,1ª RODADA,1º TURNO,19:30,0,24-23 16-12 15-15 13-17,ok,25740,https://lnb.com.br/noticias/nbb-caixa-2024-25-pinheiros-68-x-67-pato-basquete/
+12/10/2024,Farma Conde/São José Basketball,70,81,Botafogo,1ª RODADA,1º TURNO,19:30,0,18-32 17-21 16-17 19-11,ok,25743,https://lnb.com.br/noticias/nbb-caixa-2024-25-farma-conde-sao-jose-70-x-81-botafogo/
+14/10/2024,Paulistano/CORPe,80,62,Pinheiros,2ª RODADA,1º TURNO,19:30,0,29-13 24-13 13-18 14-18,ok,25744,https://lnb.com.br/noticias/paulistano-vence-classico-contra-pinheiros-e-conquista-a-primeira-vitoria-no-nbb-caixa-2024-25/
+14/10/2024,Corinthians,86,89,Pato Basquete,2ª RODADA,1º TURNO,20:00,0,25-22 16-25 22-19 23-23,ok,25745,https://lnb.com.br/noticias/nbb-caixa-2024-25-corinthians-86-x-89-pato-basquete/
+14/10/2024,Mogi,70,72,Botafogo,2ª RODADA,1º TURNO,20:00,1,12-17 17-12 21-18 15-18 5-7,ok,25746,https://lnb.com.br/noticias/nbb-caixa-2024-25-mogi-basquete-70-x-72-botafogo/
+15/10/2024,Bauru Basket,93,91,CAIXA/Brasília Basquete,2ª RODADA,1º TURNO,19:30,0,28-19 22-20 20-24 23-28,ok,25747,https://lnb.com.br/noticias/nbb-caixa-2024-25-bauru-basket-93-x-91-caixa-brasilia-basquete/
+15/10/2024,Fortaleza B. C. / CFO,76,68,Caxias do Sul Basquete,2ª RODADA,1º TURNO,19:30,0,15-18 18-17 25-13 18-20,ok,25748,https://lnb.com.br/noticias/nbb-caixa-2024-25-fortaleza-b-c-cfo-76-x-68-caxias-do-sul-basquete/
+15/10/2024,UNIFACISA,83,71,Ceisc/União Corinthians,2ª RODADA,1º TURNO,19:30,0,14-32 25-12 21-18 23-9,ok,25749,https://lnb.com.br/noticias/nbb-caixa-2024-25-unifacisa-83-x-71-ceisc-uniao-corinthians/
+15/10/2024,Farma Conde/São José Basketball,59,68,R10 Score Vasco da Gama,2ª RODADA,1º TURNO,19:30,0,13-19 18-14 15-13 13-22,ok,25750,https://lnb.com.br/noticias/nbb-caixa-2024-25-farma-conde-sao-jose-basketball-59-x-68-r10-score-vasco-da-gama/
+15/10/2024,Sesi Franca,82,76,KTO Minas,2ª RODADA,1º TURNO,20:00,0,20-21 20-20 17-10 25-25,ok,25751,https://lnb.com.br/noticias/sesi-franca-comeca-nbb-2024-25-da-mesma-forma-que-terminou-o-anterior-com-vitoria/
+17/10/2024,Farma Conde/São José Basketball,63,71,Flamengo,2ª RODADA,1º TURNO,19:30,0,20-18 8-18 14-26 21-9,ok,25752,https://lnb.com.br/noticias/nbb-caixa-2024-25-farma-conde-sao-jose-63-x-71-flamengo/
+17/10/2024,Bauru Basket,81,82,KTO Minas,2ª RODADA,1º TURNO,19:30,1,12-9 14-23 13-22 32-17 10-11,ok,25753,https://lnb.com.br/noticias/nbb-caixa-2024-25-bauru-basket-81-x-82-kto-minas/
+17/10/2024,Pato Basquete,81,88,São Paulo,2ª RODADA,1º TURNO,19:30,0,30-23 16-22 25-19 10-24,ok,25754,https://lnb.com.br/noticias/nbb-caixa-2024-25-pato-basquete-81-x-88-sao-paulo/
+17/10/2024,Sesi Franca,79,74,CAIXA/Brasília Basquete,2ª RODADA,1º TURNO,20:00,0,25-17 17-14 23-20 14-23,ok,25755,https://lnb.com.br/noticias/nbb-caixa-2024-25-sesi-franca-79-x-74-caixa-brasilia-basquete/
+17/10/2024,Mogi,66,65,R10 Score Vasco da Gama,2ª RODADA,1º TURNO,20:00,,,sem_quartos,25756,https://lnb.com.br/noticias/nbb-caixa-2024-25-mogi-basquete-66-x-65-r10-score-vasco-da-gama/
+18/10/2024,UNIFACISA,63,81,Caxias do Sul Basquete,2ª RODADA,1º TURNO,19:30,0,12-21 15-18 11-22 25-20,ok,25757,https://lnb.com.br/noticias/nbb-caixa-2024-25-unifacisa-63-x-81-caxias-do-sul-basquete/
+18/10/2024,Fortaleza B. C. / CFO,70,79,Ceisc/União Corinthians,2ª RODADA,1º TURNO,19:30,0,19-16 11-24 18-22 22-17,ok,25758,https://lnb.com.br/noticias/nbb-caixa-2024-25-fortaleza-b-c-cfo-70-x-79-ceisc-uniao-corinthians/
+19/10/2024,Mogi,66,114,Flamengo,2ª RODADA,1º TURNO,11:00,0,20-25 14-30 5-29 27-30,ok,25760,https://lnb.com.br/noticias/nbb-caixa-2024-25-mogi-basquete-66-x-114-flamengo/
+19/10/2024,Corinthians,80,82,São Paulo,2ª RODADA,1º TURNO,17:00,0,15-20 26-20 20-19 19-23,ok,25759,https://lnb.com.br/noticias/faverani-bate-recorde-pessoal-de-pontos-e-sao-paulo-vence-majestoso-na-casa-do-rival/
+21/10/2024,KTO Minas,91,64,Farma Conde/São José Basketball,3ª RODADA,1º TURNO,19:00,0,16-22 28-14 25-17 22-11,ok,25761,https://lnb.com.br/noticias/nbb-caixa-2024-25-kto-minas-91-x-64-farma-conde-sao-jose-basketball/
+21/10/2024,R10 Score Vasco da Gama,62,65,Pinheiros,3ª RODADA,1º TURNO,20:00,0,10-10 16-17 14-11 22-27,ok,25762,https://lnb.com.br/noticias/nbb-caixa-2024-25-r10-score-vasco-da-gama-62-x-65-pinheiros/
+22/10/2024,Pato Basquete,89,60,Fortaleza B. C. / CFO,3ª RODADA,1º TURNO,19:30,0,23-11 25-15 21-19 20-15,ok,25763,https://lnb.com.br/noticias/nbb-caixa-2024-25-pato-basquete-x-fortaleza-b-c-cfo/
+22/10/2024,São Paulo,82,66,Sesi Franca,3ª RODADA,1º TURNO,20:00,0,21-14 16-22 22-18 23-12,ok,25764,https://lnb.com.br/noticias/sao-paulo-impoe-primeiro-reves-ao-sesi-franca-na-temporada-e-conquista-terceiro-triunfo-no-nbb-caixa-2024-25/
+22/10/2024,Botafogo,58,73,Corinthians,3ª RODADA,1º TURNO,20:00,0,15-15 15-26 11-25 17-7,ok,25765,https://lnb.com.br/noticias/nbb-caixa-2024-25-botafogo-58-x-73-corinthians/
+23/10/2024,Caxias do Sul Basquete,77,89,Ceisc/União Corinthians,3ª RODADA,1º TURNO,20:00,0,18-23 20-25 13-20 26-21,ok,25766,https://lnb.com.br/noticias/nbb-caixa-2024-25-caxias-do-sul-x-ceisc-uniao-corinthians/
+23/10/2024,CAIXA/Brasília Basquete,81,76,Farma Conde/São José Basketball,3ª RODADA,1º TURNO,20:00,0,25-22 16-17 13-20 27-17,ok,25767,https://lnb.com.br/noticias/nbb-caixa-2024-25-caixa-brasilia-basquete-x-farma-conde-sao-jose-basketball/
+24/10/2024,Botafogo,67,80,Pinheiros,3ª RODADA,1º TURNO,11:00,0,13-14 8-21 31-28 15-17,ok,25771,https://lnb.com.br/noticias/nbb-caixa-2024-25-botafogo-67-x-80-pinheiros/
+24/10/2024,KTO Minas,91,61,Mogi,3ª RODADA,1º TURNO,19:00,0,21-14 17-24 24-10 29-13,ok,25768,https://lnb.com.br/noticias/nbb-caixa-2024-25-kto-minas-t-c-91-x-61-mogi-basquete/
+24/10/2024,Paulistano/CORPe,90,100,Sesi Franca,3ª RODADA,1º TURNO,19:30,0,30-17 26-31 12-29 22-23,ok,25769,https://lnb.com.br/noticias/nbb-caixa-2024-25-paulistano-90-x-100-sesi-franca/
+24/10/2024,Flamengo,70,83,Corinthians,3ª RODADA,1º TURNO,20:00,0,25-26 18-19 13-18 14-20,ok,25770,https://lnb.com.br/noticias/corinthians-quebra-invencibilidade-do-flamengo-no-nbb-caixa-2024-25-e-conquista-sua-segunda-vitoria-fora-de-casa/
+25/10/2024,Pato Basquete,85,77,UNIFACISA,3ª RODADA,1º TURNO,19:30,0,17-22 21-9 14-27 33-19,ok,25772,https://lnb.com.br/noticias/nbb-caixa-2024-25-pato-basquete-85-x-77-unifacisa/
+26/10/2024,CAIXA/Brasília Basquete,86,80,Mogi,3ª RODADA,1º TURNO,11:00,,,sem_quartos,25773,https://lnb.com.br/noticias/nbb-caixa-2024-25-caixa-brasilia-86-x-80-mogi-basquete/
+26/10/2024,Flamengo,66,61,Pinheiros,3ª RODADA,1º TURNO,11:00,0,16-22 16-15 12-15 22-9,ok,25775,https://lnb.com.br/noticias/nbb-caixa-2024-25-flamengo-66-x-61-pinheiros/
+26/10/2024,São Paulo,78,68,Bauru Basket,3ª RODADA,1º TURNO,17:00,0,19-22 17-21 23-16 19-9,ok,25774,https://lnb.com.br/noticias/sao-paulo-vira-contra-o-bauru-basket-e-continua-como-unico-invicto-do-nbb-caixa-2024-25/
+27/10/2024,Fortaleza B. C. / CFO,52,77,Botafogo,4ª RODADA,1º TURNO,20:00,0,10-17 17-20 11-22 14-18,ok,25776,https://lnb.com.br/noticias/nbb-caixa-2024-25-fortaleza-b-c-52-x-77-botafogo/
+28/10/2024,Paulistano/CORPe,79,83,Bauru Basket,4ª RODADA,1º TURNO,19:30,0,19-17 16-23 24-22 20-21,ok,25777,https://lnb.com.br/noticias/nbb-caixa-2024-25-paulistano-corpe-x-bauru-basket/
+28/10/2024,Sesi Franca,93,70,Pato Basquete,4ª RODADA,1º TURNO,20:00,0,19-21 27-14 26-14 21-21,ok,25778,https://lnb.com.br/noticias/nbb-caixa-2024-25-sesi-franca-x-pato-basquete/
+29/10/2024,Fortaleza B. C. / CFO,56,78,Flamengo,4ª RODADA,1º TURNO,19:30,0,23-21 11-25 9-14 13-18,ok,25779,https://lnb.com.br/noticias/nbb-caixa-2024-25-fortaleza-b-c-56-x-78-flamengo/
+29/10/2024,Pinheiros,67,77,KTO Minas,4ª RODADA,1º TURNO,20:00,0,17-18 12-26 20-17 18-16,ok,25780,https://lnb.com.br/noticias/franco-baralle-comanda-triunfo-do-kto-minas-sobre-o-pinheiros-em-duelo-com-francisco-farabello/
+30/10/2024,UNIFACISA,90,74,Botafogo,4ª RODADA,1º TURNO,19:30,0,27-12 16-26 29-14 18-22,ok,25781,https://lnb.com.br/noticias/nbb-caixa-2024-25-unifacisa-90-x-74-botafogo/
+30/10/2024,São Paulo,86,84,Paulistano/CORPe,4ª RODADA,1º TURNO,20:00,0,24-27 22-19 16-16 24-22,ok,25782,https://lnb.com.br/noticias/com-game-winner-de-bennett-sao-paulo-bate-o-paulistano-corpe-e-continua-como-unico-invicto-no-nbb-caixa/
+31/10/2024,Corinthians,60,86,KTO Minas,4ª RODADA,1º TURNO,20:00,0,14-21 18-20 11-14 17-31,ok,25784,https://lnb.com.br/noticias/apos-vencer-o-pinheiros-kto-minas-fecha-passagem-por-sao-paulo-com-triunfo-sobre-o-corinthians/
+31/10/2024,Caxias do Sul Basquete,81,80,Pato Basquete,4ª RODADA,1º TURNO,20:00,0,15-16 19-26 28-19 19-19,ok,25785,https://lnb.com.br/noticias/nbb-caixa-2024-25-caxias-do-sul-81-x-80-pato-basquete/
+31/10/2024,Pinheiros,75,89,CAIXA/Brasília Basquete,4ª RODADA,1º TURNO,20:00,0,18-25 16-24 20-13 21-27,ok,25786,https://lnb.com.br/noticias/nbb-caixa-2024-25-pinheiros-75-x-89-caixa-brasilia/
+31/10/2024,Bauru Basket,76,70,Sesi Franca,4ª RODADA,1º TURNO,21:00,0,17-13 26-17 11-22 22-18,ok,25783,https://lnb.com.br/noticias/nbb-caixa-2024-25-bauru-basket-76-x-70-sesi-franca/
+01/11/2024,Fortaleza B. C. / CFO,68,70,R10 Score Vasco da Gama,4ª RODADA,1º TURNO,19:30,0,18-14 16-13 22-26 12-17,ok,25787,https://lnb.com.br/noticias/nbb-caixa-2024-25-fortaleza-b-c-68-x-70-r10-score-vasco-da-gama/
+01/11/2024,UNIFACISA,77,87,Flamengo,4ª RODADA,1º TURNO,19:30,0,20-18 16-20 25-25 16-24,ok,25788,https://lnb.com.br/noticias/nbb-caixa-2024-25-unifacisa-77-x-87-flamengo/
+01/11/2024,Mogi,78,74,São Paulo,4ª RODADA,1º TURNO,20:00,,,sem_quartos,25789,https://lnb.com.br/partidas/nbb-2024-2025-mogi-x-sao-paulo-01112024-2000/
+02/11/2024,Paulistano/CORPe,88,70,Botafogo,4ª RODADA,1º TURNO,17:00,0,23-23 19-12 19-19 27-16,ok,25790,https://lnb.com.br/noticias/nbb-caixa-2024-25-paulistano-corpe-x-botafogo/
+02/11/2024,Corinthians,99,105,CAIXA/Brasília Basquete,4ª RODADA,1º TURNO,18:00,0,33-24 19-26 22-24 25-31,ok,25791,https://lnb.com.br/noticias/anderson-rodrigues-e-dominante-em-vitoria-do-caixa-brasilia-basquete-sobre-o-corinthians/
+02/11/2024,Bauru Basket,73,67,Farma Conde/São José Basketball,4ª RODADA,1º TURNO,18:00,0,19-19 14-18 22-15 18-15,ok,25792,https://lnb.com.br/noticias/nbb-caixa-2024-25-bauru-basket-73-x-67-farma-conde-sao-jose/
+02/11/2024,Ceisc/União Corinthians,81,70,Pato Basquete,4ª RODADA,1º TURNO,19:00,0,22-22 21-19 19-19 19-10,ok,25793,https://lnb.com.br/noticias/nbb-caixa-2024-25-ceisc-uniao-corinthians-x-pato-basquete/
+04/11/2024,UNIFACISA,72,81,R10 Score Vasco da Gama,5ª RODADA,1º TURNO,19:30,1,18-16 17-21 15-16 15-12 7-16,ok,25794,https://lnb.com.br/noticias/nbb-caixa-2024-25-unifacisa-72-x-81-r10-score-vasco-da-gama/
+04/11/2024,Flamengo,84,55,Caxias do Sul Basquete,5ª RODADA,1º TURNO,20:00,0,22-14 27-16 21-15 14-10,ok,25795,https://lnb.com.br/noticias/nbb-caixa-2024-25-flamengo-x-caxias-do-sul/
+04/11/2024,Sesi Franca,77,86,Farma Conde/São José Basketball,5ª RODADA,1º TURNO,20:00,0,17-21 19-17 24-23 17-25,ok,25796,https://lnb.com.br/noticias/nbb-caixa-2024-25-sesi-franca-77-x-86-farma-conde-sao-jose/
+05/11/2024,Paulistano/CORPe,69,75,Corinthians,5ª RODADA,1º TURNO,19:30,0,20-24 13-21 25-20 11-10,ok,25797,https://lnb.com.br/noticias/nbb-caixa-2024-25-paulistano-69-x-75-corinthians/
+05/11/2024,São Paulo,69,76,Pinheiros,5ª RODADA,1º TURNO,20:00,0,10-22 20-13 24-22 15-19,ok,25798,https://lnb.com.br/noticias/reynan-dos-santos-comanda-vitoria-do-pinheiros-sobre-o-sao-paulo-no-morumbis/
+05/11/2024,CAIXA/Brasília Basquete,73,72,Fortaleza B. C. / CFO,5ª RODADA,1º TURNO,20:00,0,20-25 19-14 17-14 17-19,ok,25799,https://lnb.com.br/noticias/nbb-caixa-2024-25-caixa-brasilia-73-x-72-fortaleza-b-c/
+06/11/2024,Botafogo,71,80,Ceisc/União Corinthians,5ª RODADA,1º TURNO,20:00,0,20-23 20-20 16-18 15-19,ok,25800,https://lnb.com.br/noticias/nbb-caixa-2024-25-botafogo-71-x-80-ceisc-uniao-corinthians/
+06/11/2024,Sesi Franca,77,68,Mogi,5ª RODADA,1º TURNO,20:00,0,17-12 18-14 21-34 21-8,ok,25801,https://lnb.com.br/noticias/nbb-caixa-2024-25-sesi-franca-77-x-68-mogi-basquete/
+07/11/2024,KTO Minas,86,64,Fortaleza B. C. / CFO,5ª RODADA,1º TURNO,19:00,0,25-10 24-10 21-16 16-28,ok,25802,https://lnb.com.br/noticias/nbb-caixa-2024-25-kto-minas-86-x-64-fortaleza-basquete-cearense/
+07/11/2024,R10 Score Vasco da Gama,80,71,Caxias do Sul Basquete,5ª RODADA,1º TURNO,20:00,0,19-18 19-13 26-24 16-16,ok,25804,https://lnb.com.br/noticias/nbb-caixa-2024-25-r10-score-vasco-80-x-71-caxias-do-sul/
+07/11/2024,São Paulo,77,75,Flamengo,5ª RODADA,1º TURNO,20:30,0,25-18 13-18 20-17 19-22,ok,25803,https://lnb.com.br/noticias/em-grande-jogo-sao-paulo-supera-o-flamengo-no-morumbis-e-se-recupera-no-nbb-caixa/
+08/11/2024,Bauru Basket,68,66,Mogi,5ª RODADA,1º TURNO,19:30,,,sem_quartos,25805,https://lnb.com.br/noticias/nbb-caixa-2024-25-bauru-basket-68-x-66-mogi-basquete/
+08/11/2024,Farma Conde/São José Basketball,62,75,Paulistano/CORPe,5ª RODADA,1º TURNO,19:30,0,14-21 11-16 18-19 19-19,ok,25806,https://lnb.com.br/noticias/nbb-caixa-2024-25-farma-conde-sao-jose-62-x-75-paulistano-corpe/
+09/11/2024,CAIXA/Brasília Basquete,77,72,UNIFACISA,5ª RODADA,1º TURNO,15:00,0,27-12 17-14 17-20 16-26,ok,25807,https://lnb.com.br/noticias/nbb-caixa-2024-25-caixa-brasilia-77-x-72-unifacisa/
+09/11/2024,R10 Score Vasco da Gama,79,81,Ceisc/União Corinthians,5ª RODADA,1º TURNO,16:00,0,22-18 17-26 23-23 17-14,ok,25809,https://lnb.com.br/noticias/nbb-caixa-2024-25-r10-score-vasco-79-x-81-ceisc-uniao-corinthians/
+09/11/2024,Corinthians,75,83,Sesi Franca,5ª RODADA,1º TURNO,17:00,0,14-14 17-23 20-25 24-21,ok,25810,https://lnb.com.br/noticias/nbb-caixa-2024-25-corinthians-75-x-83-sesi-franca/
+09/11/2024,Botafogo,63,69,Caxias do Sul Basquete,5ª RODADA,1º TURNO,21:00,0,25-15 15-19 13-17 10-18,ok,25808,https://lnb.com.br/noticias/nbb-caixa-2024-25-botafogo-63-x-69-caxias-do-sul/
+11/11/2024,KTO Minas,78,76,UNIFACISA,6ª RODADA,1º TURNO,19:00,0,19-19 22-20 19-27 18-10,ok,25811,https://lnb.com.br/noticias/nbb-caixa-2024-25-kto-minas-x-unifacisa/
+11/11/2024,Fortaleza B. C. / CFO,66,49,Paulistano/CORPe,6ª RODADA,1º TURNO,19:30,0,19-15 15-16 14-9 18-9,ok,25812,https://lnb.com.br/noticias/nbb-caixa-2024-25-fortaleza-basquete-cearense-x-paulistano-corpe/
+11/11/2024,Farma Conde/São José Basketball,79,68,São Paulo,6ª RODADA,1º TURNO,19:30,0,15-10 25-13 20-23 19-22,ok,25813,https://lnb.com.br/noticias/nbb-caixa-2024-25-farma-conde-sao-jose-79-x-68-sao-paulo/
+11/11/2024,Pinheiros,87,76,Sesi Franca,6ª RODADA,1º TURNO,20:00,0,18-18 24-17 19-17 26-24,ok,25814,https://lnb.com.br/noticias/pinheiros-apresenta-sloan-de-fato-e-armador-faz-28-pontos-para-conduzir-o-time-a-segunda-vitoria-em-casa-no-nbb-caixa-2024-25/
+11/11/2024,Flamengo,95,77,Ceisc/União Corinthians,6ª RODADA,1º TURNO,20:00,0,30-18 29-21 13-14 23-24,ok,25815,https://lnb.com.br/noticias/nbb-caixa-2024-24-flamengo-95-x-77-ceisc-uniao-corinthians/
+12/11/2024,Pato Basquete,76,84,R10 Score Vasco da Gama,6ª RODADA,1º TURNO,19:30,0,13-22 12-20 29-25 22-17,ok,25816,https://lnb.com.br/noticias/nbb-caixa-2024-25-pato-basquete-76-x-84-r10-score-vasco-da-gama/
+12/11/2024,Corinthians,103,87,Bauru Basket,6ª RODADA,1º TURNO,20:00,0,29-25 29-17 22-18 23-27,ok,25817,https://lnb.com.br/noticias/nbb-caixa-2024-25-corinthians-103-x-87-bauru-basket/
+13/11/2024,Flamengo,91,67,Botafogo,6ª RODADA,1º TURNO,18:00,0,22-16 24-14 18-14 27-23,ok,25818,https://lnb.com.br/noticias/nbb-caixa-2024-25-flamengo-91-x-67-botafogo/
+14/11/2024,Fortaleza B. C. / CFO,79,80,São Paulo,6ª RODADA,1º TURNO,19:30,1,13-17 16-20 24-15 20-21 6-7,ok,25820,https://lnb.com.br/noticias/nbb-caixa-2024-25-fortaleza-basquete-cearense-cfo-79-x-80-sao-paulo/
+14/11/2024,Ceisc/União Corinthians,71,89,KTO Minas,6ª RODADA,1º TURNO,19:30,0,24-18 18-27 13-27 16-17,ok,25821,https://lnb.com.br/noticias/nbb-caixa-2024-25-ceisc-uniao-corinthians-71-x-89-kto-minas/
+14/11/2024,UNIFACISA,69,86,Paulistano/CORPe,6ª RODADA,1º TURNO,20:00,0,21-27 14-15 19-27 15-17,ok,25819,https://lnb.com.br/noticias/nbb-caixa-2024-25-unifacisa-69-x-86-paulistano-corpe/
+14/11/2024,Caxias do Sul Basquete,71,76,CAIXA/Brasília Basquete,6ª RODADA,1º TURNO,20:00,0,21-15 21-21 13-12 16-28,ok,25822,https://lnb.com.br/noticias/nbb-caixa-2024-25-caxias-basquete-71-x-76-caixa-brasilia/
+14/11/2024,Pinheiros,80,87,Bauru Basket,6ª RODADA,1º TURNO,20:00,0,22-26 16-18 20-15 22-28,ok,25823,https://lnb.com.br/noticias/nbb-caixa-2024-25-pinheiros-80-x-87-bauru-basket/
+15/11/2024,Farma Conde/São José Basketball,89,79,Mogi,6ª RODADA,1º TURNO,18:00,,,sem_quartos,25824,https://lnb.com.br/noticias/nbb-caixa-2024-25-farma-conde-sao-jose-basketball-89-x-79-mogi-basquete/
+15/11/2024,Botafogo,68,66,R10 Score Vasco da Gama,6ª RODADA,1º TURNO,20:00,0,21-11 9-19 18-20 20-16,ok,25825,https://lnb.com.br/noticias/nbb-caixa-2024-25-botafogo-68-x-66-r10-score-vasco-da-gama/
+16/11/2024,Flamengo,88,65,Sesi Franca,6ª RODADA,1º TURNO,17:00,0,22-22 24-22 25-12 17-9,ok,25826,https://lnb.com.br/noticias/flamengo-mantem-ritmo-nos-primeiros-quartos-acelera-e-faz-valer-elenco-qualificado-para-vencer-sesi-franca-no-segundo-tempo/
+16/11/2024,Caxias do Sul Basquete,58,78,KTO Minas,6ª RODADA,1º TURNO,17:00,0,16-17 10-22 19-21 13-18,ok,25827,https://lnb.com.br/noticias/nbb-caixa-2024-25-caxias-basquete-58-x-78-kto-minas/
+16/11/2024,Ceisc/União Corinthians,76,78,CAIXA/Brasília Basquete,6ª RODADA,1º TURNO,19:00,0,16-15 17-17 23-22 20-24,ok,25828,https://lnb.com.br/noticias/nbb-caixa-2024-25-ceisc-uniao-corinthians-76-x-78-caixa-brasilia/
+17/11/2024,R10 Score Vasco da Gama,90,84,Corinthians,7ª RODADA,1º TURNO,11:00,0,27-21 17-17 16-24 30-22,ok,25829,https://lnb.com.br/noticias/r10-score-vasco-da-gama-coloca-o-trem-bala-da-colina-para-funcionar-e-arranca-no-final-para-vencer-corinthians-em-casa/
+17/11/2024,Pato Basquete,66,65,Paulistano/CORPe,7ª RODADA,1º TURNO,11:00,0,15-15 21-20 12-9 18-21,ok,25830,https://lnb.com.br/noticias/nbb-caixa-2024-25-pato-basquete-66-x-65-paulistano/
+17/11/2024,UNIFACISA,88,84,São Paulo,7ª RODADA,1º TURNO,17:00,0,22-15 23-21 20-26 23-22,ok,25831,https://lnb.com.br/noticias/nbb-caixa-2024-25-unifacisa-88-x-84-sao-paulo/
+27/11/2024,Bauru Basket,80,71,Fortaleza B. C. / CFO,8ª RODADA,1º TURNO,19:30,0,21-12 21-24 20-18 18-17,ok,25832,https://lnb.com.br/noticias/nbb-caixa-2024-25-bauru-basket-80-x-71-fortaleza-basquete-cearense-cfo/
+27/11/2024,Farma Conde/São José Basketball,88,66,Caxias do Sul Basquete,8ª RODADA,1º TURNO,19:30,0,21-12 20-18 27-16 20-20,ok,25833,https://lnb.com.br/noticias/nbb-caixa-2024-25-farma-conde-sao-jose-basketball-88-x-66-caxias-do-sul-basquete/
+27/11/2024,Mogi,82,85,Ceisc/União Corinthians,8ª RODADA,1º TURNO,20:00,0,21-22 17-20 26-12 18-31,ok,25834,https://lnb.com.br/noticias/nbb-caixa-2024-25-mogi-basquete-x-ceisc-uniao-corinthians/
+28/11/2024,Corinthians,69,89,Pinheiros,8ª RODADA,1º TURNO,11:00,0,20-23 11-25 14-21 24-20,ok,25836,https://lnb.com.br/noticias/pinheiros-segura-o-corinthians-segundo-melhor-ataque-do-nbb-caixa-e-vence-com-bom-desempenho-de-reynan/
+28/11/2024,Pato Basquete,98,78,Botafogo,8ª RODADA,1º TURNO,20:00,0,27-20 20-11 25-14 26-33,ok,25835,https://lnb.com.br/noticias/nbb-caixa-2024-25-pato-basquete-98-x-78-botafogo/
+29/11/2024,Farma Conde/São José Basketball,98,82,Ceisc/União Corinthians,8ª RODADA,1º TURNO,19:30,0,18-17 29-19 18-23 33-23,ok,25837,https://lnb.com.br/noticias/nbb-caixa-2024-25-farma-conde-sao-jose-basketball-98-x-82-ceisc-uniao-corinthians/
+29/11/2024,Sesi Franca,97,71,Fortaleza B. C. / CFO,8ª RODADA,1º TURNO,20:00,0,25-15 24-13 21-18 27-25,ok,25838,https://lnb.com.br/noticias/nbb-caixa-2024-25-sesi-franca-97-x-71-fortaleza-basquete-cearense-cfo/
+29/11/2024,Mogi,74,71,Caxias do Sul Basquete,8ª RODADA,1º TURNO,20:00,0,24-18 16-18 18-23 16-12,ok,25839,https://lnb.com.br/noticias/nbb-caixa-2024-25-mogi-basquete-74-x-71-caxias-do-sul-basquete/
+30/11/2024,Flamengo,70,81,KTO Minas,8ª RODADA,1º TURNO,15:00,0,21-19 14-17 23-21 12-24,ok,25840,https://lnb.com.br/noticias/em-grande-jogo-kto-minas-supera-o-flamengo-e-se-mantem-na-lideranca-do-nbb-caixa/
+30/11/2024,Bauru Basket,70,61,UNIFACISA,8ª RODADA,1º TURNO,18:00,0,19-13 20-20 17-22 14-6,ok,25841,https://lnb.com.br/noticias/nbb-caixa-2024-25-bauru-basket-x-unifacisa/
+02/12/2024,Farma Conde/São José Basketball,83,78,Corinthians,9ª RODADA,1º TURNO,19:30,0,28-26 20-13 25-25 10-14,ok,25842,https://lnb.com.br/noticias/nbb-caixa-2024-25-farma-conde-sao-jose-basketball-83-x-78-corinthians/
+02/12/2024,Sesi Franca,68,71,UNIFACISA,9ª RODADA,1º TURNO,20:00,0,18-16 9-14 17-26 24-15,ok,25843,https://lnb.com.br/noticias/nbb-caixa-2024-25-sesi-franca-68-x-71-unifacisa/
+02/12/2024,Botafogo,68,95,KTO Minas,9ª RODADA,1º TURNO,20:00,0,13-25 19-21 20-20 16-29,ok,25844,https://lnb.com.br/noticias/nbb-caixa-2024-25-botafogo-68-x-95-kto-minas/
+02/12/2024,Mogi,53,73,Pinheiros,9ª RODADA,1º TURNO,20:00,0,16-20 11-14 9-19 17-20,ok,25845,https://lnb.com.br/noticias/nbb-caixa-2024-25-mogi-x-pinheiros/
+03/12/2024,Pato Basquete,103,110,Flamengo,9ª RODADA,1º TURNO,19:30,,,sem_quartos,25846,https://lnb.com.br/noticias/nbb-caixa-2024-25-pato-basquete-103-x-110-flamengo/
+03/12/2024,Caxias do Sul Basquete,66,71,Bauru Basket,9ª RODADA,1º TURNO,20:00,0,24-13 14-21 15-21 13-16,ok,25847,https://lnb.com.br/noticias/nbb-caixa-2024-25-caxias-do-sul-basquete-66-x-71-bauru-basket/
+04/12/2024,Paulistano/CORPe,70,76,R10 Score Vasco da Gama,11ª RODADA,1º TURNO,19:30,0,16-15 12-16 23-23 19-22,ok,25870,https://lnb.com.br/noticias/marquinhos-volta-de-contusao-com-a-mesma-qualidade-e-e-o-cestinha-do-r10-score-vasco-da-gama-na-vitoria-contra-o-paulistano/
+05/12/2024,KTO Minas,97,70,Pato Basquete,9ª RODADA,1º TURNO,19:00,0,30-19 22-19 23-14 22-18,ok,25848,https://lnb.com.br/noticias/nbb-caixa-2024-25-kto-minas-97-x-70-pato-basquete/
+05/12/2024,Ceisc/União Corinthians,83,77,Bauru Basket,9ª RODADA,1º TURNO,19:30,0,19-21 16-17 29-17 19-22,ok,25849,https://lnb.com.br/noticias/nbb-caixa-2024-25-ceisc-uniao-corinthians-x-bauru-basket/
+05/12/2024,Botafogo,67,89,CAIXA/Brasília Basquete,9ª RODADA,1º TURNO,20:00,0,18-33 12-27 20-11 17-18,ok,25851,https://lnb.com.br/noticias/nbb-caixa-2024-25-botafogo-x-caixa-brasilia-basquete/
+05/12/2024,Caxias do Sul Basquete,76,82,Sesi Franca,9ª RODADA,1º TURNO,20:30,0,18-21 21-19 24-17 13-25,ok,25850,https://lnb.com.br/noticias/nbb-caixa-2024-25-caxias-do-sul-basquete-76-x-82-sesi-franca/
+06/12/2024,Fortaleza B. C. / CFO,76,69,Mogi,9ª RODADA,1º TURNO,11:00,0,18-14 22-19 18-19 18-17,ok,25852,https://lnb.com.br/noticias/nbb-caixa-2024-25-fortaleza-basquete-cearense-cfo-76-x-69-mogi-basquete/
+06/12/2024,UNIFACISA,70,58,Farma Conde/São José Basketball,9ª RODADA,1º TURNO,19:30,0,18-14 14-12 24-15 14-17,ok,25853,https://lnb.com.br/noticias/nbb-caixa-2024-25-unifacisa-84-x-87-farma-conde-sao-jose-basketball/
+06/12/2024,São Paulo,84,87,R10 Score Vasco da Gama,11ª RODADA,1º TURNO,20:00,0,23-21 17-12 21-22 23-32,ok,25874,https://lnb.com.br/noticias/marquinhos-faz-16-pontos-contra-ex-time-e-ajuda-ao-r10-score-vasco-da-gama-a-conquistar-a-terceira-vitoria-fora-de-casa/
+07/12/2024,Ceisc/União Corinthians,72,92,Sesi Franca,9ª RODADA,1º TURNO,17:00,0,21-22 13-20 20-19 18-31,ok,25854,https://lnb.com.br/noticias/nbb-caixa-2024-25-ceisc-uniao-corinthians-72-x-92-sesi-franca/
+07/12/2024,Flamengo,90,84,CAIXA/Brasília Basquete,9ª RODADA,1º TURNO,18:00,,,sem_quartos,25855,https://lnb.com.br/noticias/flamengo-vence-o-caixa-brasilia-basquete-e-se-mantem-na-segunda-colocacao-do-nbb-caixa/
+09/12/2024,Fortaleza B. C. / CFO,55,75,Farma Conde/São José Basketball,10ª RODADA,1º TURNO,19:30,,,sem_quartos,25856,https://lnb.com.br/noticias/nbb-caixa-2024-25-fortaleza-b-c-x-farma-conde-sao-jose-basketball/
+09/12/2024,UNIFACISA,66,70,Mogi,10ª RODADA,1º TURNO,19:30,0,20-17 17-7 10-22 19-24,ok,25857,https://lnb.com.br/noticias/nbb-caixa-2024-25-unifacisa-x-mogi/
+09/12/2024,R10 Score Vasco da Gama,81,64,KTO Minas,10ª RODADA,1º TURNO,20:00,0,23-14 13-9 21-21 24-20,ok,25859,https://lnb.com.br/noticias/marquinhos-e-cestinha-novamente-colabora-com-a-quarta-vitoria-seguida-do-r10-score-vasco-da-gama-e-time-se-aproxima-da-copa-super-8/
+10/12/2024,Paulistano/CORPe,78,65,Ceisc/União Corinthians,10ª RODADA,1º TURNO,19:30,0,16-15 14-16 23-15 25-19,ok,25858,https://lnb.com.br/noticias/nbb-caixa-2024-25-paulistano-corpe-x-ceisc-uniao-corinthians/
+10/12/2024,São Paulo,89,79,Caxias do Sul Basquete,10ª RODADA,1º TURNO,20:00,0,15-21 17-18 28-19 29-21,ok,25860,https://lnb.com.br/noticias/nbb-caixa-2024-25-sao-paulo-89-x-79-caxias-do-sul/
+12/12/2024,Paulistano/CORPe,82,72,Caxias do Sul Basquete,10ª RODADA,1º TURNO,19:30,0,20-17 17-19 20-17 25-19,ok,25861,https://lnb.com.br/noticias/nbb-caixa-2024-25-paulistano-corpe-82-x-72-caxias-do-sul-basquete/
+12/12/2024,R10 Score Vasco da Gama,79,88,CAIXA/Brasília Basquete,10ª RODADA,1º TURNO,19:30,0,16-19 21-21 23-28 19-20,ok,25862,https://lnb.com.br/noticias/nbb-caixa-2024-25-r10-score-vasco-da-gama-xx-x-xx-caixa-brasilia-basquete/
+12/12/2024,Corinthians,92,83,Fortaleza B. C. / CFO,10ª RODADA,1º TURNO,20:00,0,25-24 22-23 23-11 22-25,ok,25863,https://lnb.com.br/noticias/nbb-caixa-2024-25-corinthians-92-x-83-fortaleza-b-c-cfo/
+12/12/2024,Pinheiros,78,82,UNIFACISA,10ª RODADA,1º TURNO,20:00,0,20-29 18-18 18-22 22-13,ok,25864,https://lnb.com.br/noticias/nbb-caixa-2024-25-pinheiros-78-x-82-unifacisa/
+12/12/2024,São Paulo,70,80,Ceisc/União Corinthians,10ª RODADA,1º TURNO,20:00,0,12-25 20-20 21-19 17-16,ok,25865,https://lnb.com.br/noticias/nbb-caixa-2024-25-sao-paulo-70-x-80-ceisc-uniao-corinthians/
+13/12/2024,Bauru Basket,97,91,Pato Basquete,10ª RODADA,1º TURNO,19:30,0,16-18 26-29 26-20 29-24,ok,25866,https://lnb.com.br/noticias/nbb-2024-25-bauru-basket-97-x-91-pato-basquete/
+14/12/2024,Corinthians,77,80,UNIFACISA,10ª RODADA,1º TURNO,17:00,0,17-20 23-35 13-11 24-14,ok,25867,https://lnb.com.br/noticias/nbb-caixa-2024-25-corinthians-x-unifacisa/
+14/12/2024,Pinheiros,76,74,Fortaleza B. C. / CFO,10ª RODADA,1º TURNO,17:00,0,14-20 21-16 22-17 19-21,ok,25868,https://lnb.com.br/noticias/nbb-caixa-2024-25-ec-pinheiros-76-x-74-fortaleza-bc-cfo/
+15/12/2024,São Paulo,82,71,Botafogo,11ª RODADA,1º TURNO,11:00,,,sem_quartos,25869,https://lnb.com.br/noticias/nbb-caixa-2024-25-sao-paulo-82-x-71-botafogo/
+16/12/2024,CAIXA/Brasília Basquete,98,94,Pato Basquete,11ª RODADA,1º TURNO,19:30,0,21-22 19-24 27-26 31-22,ok,25871,https://lnb.com.br/noticias/nbb-caixa-2024-25-caixa-brasilia-basquete-98-x-94-pato-basquete/
+17/12/2024,Farma Conde/São José Basketball,76,77,Pinheiros,11ª RODADA,1º TURNO,19:30,0,21-13 27-23 21-23 7-18,ok,25872,https://lnb.com.br/noticias/nbb-caixa-2024-25-farma-conde-sao-jose-x-pinheiros/
+17/12/2024,Mogi,70,72,Corinthians,11ª RODADA,1º TURNO,20:00,0,21-14 16-11 15-18 18-29,ok,25873,https://lnb.com.br/noticias/nbb-caixa-2024-25-mogi-70-x-72-corinthians/
+18/12/2024,Botafogo,93,92,Bauru Basket,11ª RODADA,1º TURNO,18:00,1,14-18 24-19 22-15 19-27 14-13,ok,25875,https://lnb.com.br/noticias/com-37-pontos-de-sifontes-botafogo-derrota-o-bauru-basket-e-conquista-quinto-triunfo-no-nbb-caixa/
+18/12/2024,CAIXA/Brasília Basquete,87,102,Paulistano/CORPe,11ª RODADA,1º TURNO,20:00,0,21-32 27-22 22-24 17-24,ok,25876,https://lnb.com.br/noticias/nbb-caixa-2024-25-caixa-brasilia-basquete-87-x-102-paulistano-corpe/
+19/12/2024,UNIFACISA,77,81,Fortaleza B. C. / CFO,11ª RODADA,1º TURNO,19:30,0,16-24 19-25 19-8 23-24,ok,25877,https://lnb.com.br/noticias/nbb-caixa-2024-25-unifacisa-77-x-81-fortaleza-b-c-cfo/
+19/12/2024,Pato Basquete,85,81,Farma Conde/São José Basketball,11ª RODADA,1º TURNO,19:30,0,22-18 16-23 22-19 25-21,ok,25878,https://lnb.com.br/noticias/nbb-caixa-2024-25-pato-basquete-85-x-81-farma-conde-sao-jose-basketball/
+20/12/2024,KTO Minas,86,82,Paulistano/CORPe,11ª RODADA,1º TURNO,19:00,0,24-27 18-20 21-20 23-15,ok,25879,https://lnb.com.br/noticias/kto-minas-supera-paulistano-corpe-de-virada-tira-chances-do-rival-ir-a-super-8-e-ratifica-melhor-campanha-do-primeiro-turno-do-nbb-caixa/
+20/12/2024,Flamengo,94,79,Bauru Basket,11ª RODADA,1º TURNO,20:00,0,16-20 39-15 21-27 18-17,ok,25880,https://lnb.com.br/noticias/nbb-caixa-2024-25-flamengo-94-x-79-bauru-basket/
+21/12/2024,CAIXA/Brasília Basquete,83,85,São Paulo,11ª RODADA,1º TURNO,11:00,0,23-30 25-27 21-13 14-15,ok,25881,https://lnb.com.br/noticias/nbb-caixa-2024-25-caixa-brasilia-basquete-83-x-85-sao-paulo/
+21/12/2024,R10 Score Vasco da Gama,69,88,Sesi Franca,11ª RODADA,1º TURNO,17:00,0,13-23 16-29 15-17 25-19,ok,25883,https://lnb.com.br/noticias/georginho-de-paula-comanda-atuacao-dominante-e-sesi-franca-derrota-o-r10-score-vasco-da-gama/
+21/12/2024,Caxias do Sul Basquete,92,101,Pinheiros,11ª RODADA,1º TURNO,17:00,1,23-25 17-22 18-14 24-21 10-19,ok,25884,https://lnb.com.br/noticias/nbb-caixa-2024-25-caxias-do-sul-basquete-92-x-101-pinheiros/
+21/12/2024,Pato Basquete,90,106,Mogi,11ª RODADA,1º TURNO,18:00,0,28-30 20-26 20-21 22-29,ok,25882,https://lnb.com.br/noticias/nbb-caixa-2024-25-pato-basquete-90-x-106-mogi-basquete/
+21/12/2024,Ceisc/União Corinthians,79,64,Corinthians,11ª RODADA,1º TURNO,19:00,0,20-18 11-20 28-9 20-17,ok,25885,https://lnb.com.br/noticias/nbb-caixa-2024-25-ceisc-uniao-corinthians-79-x-64-corinthians/
+23/12/2024,KTO Minas,77,63,São Paulo,12ª RODADA,1º TURNO,19:30,0,14-21 13-19 24-13 26-10,ok,25886,https://lnb.com.br/noticias/nbb-caixa-2024-25-kto-minas-77-x-63-sao-paulo/
+23/12/2024,Paulistano/CORPe,75,89,Flamengo,12ª RODADA,1º TURNO,19:30,0,18-30 27-18 10-27 20-14,ok,25887,https://lnb.com.br/noticias/nbb-caixa-2024-25-paulistano-corpe-75-x-89-flamengo/
+23/12/2024,Ceisc/União Corinthians,80,73,Pinheiros,12ª RODADA,1º TURNO,19:30,0,22-30 19-8 24-17 15-18,ok,25888,https://lnb.com.br/noticias/nbb-caixa-2024-25-ceisc-uniao-corinthians-80-x-73-pinheiros/
+23/12/2024,Botafogo,73,86,Sesi Franca,12ª RODADA,1º TURNO,20:00,0,18-16 17-21 20-25 18-24,ok,25889,https://lnb.com.br/noticias/nbb-caixa-2024-25-botafogo-73-x-86-sesi-franca/
+23/12/2024,R10 Score Vasco da Gama,81,63,Bauru Basket,12ª RODADA,1º TURNO,20:00,0,13-9 22-16 29-20 17-18,ok,25890,https://lnb.com.br/noticias/nbb-caixa-2024-25-r10-score-vasco-da-gama-81-x-63-bauru-basket/
+23/12/2024,Caxias do Sul Basquete,80,79,Corinthians,12ª RODADA,1º TURNO,20:00,0,19-29 25-22 25-16 11-12,ok,25891,https://lnb.com.br/noticias/nbb-caixa-2024-25-caxias-do-sul-basquete-80-x-79-corinthians/
+27/12/2024,KTO Minas,83,73,Bauru Basket,12ª RODADA,2º TURNO,19:00,0,28-27 22-16 18-10 15-20,ok,25892,https://lnb.com.br/noticias/nbb-caixa-2024-25-kto-minas-83-x-73-bauru-basket/
+27/12/2024,Pato Basquete,90,86,Pinheiros,12ª RODADA,2º TURNO,19:30,0,22-16 19-18 21-25 28-27,ok,25893,https://lnb.com.br/noticias/nbb-caixa-2024-25-pato-basquete-90-x-86-pinheiros/
+27/12/2024,Ceisc/União Corinthians,75,76,UNIFACISA,12ª RODADA,2º TURNO,19:30,1,14-16 26-15 10-20 20-19 5-6,ok,25894,https://lnb.com.br/noticias/nbb-caixa-2024-25-ceisc-uniao-corinthians-75-x-76-unifacisa/
+27/12/2024,Flamengo,82,89,Farma Conde/São José Basketball,12ª RODADA,2º TURNO,20:00,0,21-20 14-24 25-8 22-37,ok,25895,https://lnb.com.br/noticias/nbb-caixa-2024-25-flamengo-82-x-89-farma-conde-sao-jose-basketball/
+27/12/2024,Botafogo,97,85,Mogi,12ª RODADA,2º TURNO,20:00,,,sem_quartos,25896,https://lnb.com.br/noticias/nbb-caixa-2024-25-botafogo-97-x-85-mogi-basquete/
+27/12/2024,CAIXA/Brasília Basquete,91,86,Sesi Franca,12ª RODADA,2º TURNO,20:00,0,20-20 26-21 17-26 28-19,ok,25897,https://lnb.com.br/noticias/nbb-caixa-2024-25-caixa-brasilia-91-x-86-sesi-franca/
+27/12/2024,Caxias do Sul Basquete,73,70,Fortaleza B. C. / CFO,12ª RODADA,2º TURNO,20:00,,,sem_quartos,25898,https://lnb.com.br/noticias/nbb-caixa-2024-25-caxias-do-sul-basquete-73-x-70-fortaleza-basquete-cearense/
+28/12/2024,Paulistano/CORPe,80,76,São Paulo,12ª RODADA,2º TURNO,16:30,0,24-15 19-29 21-18 16-14,ok,25899,https://lnb.com.br/noticias/nbb-caixa-2024-25-paulistano-80-x-76-sao-paulo/
+29/12/2024,KTO Minas,92,73,Sesi Franca,13ª RODADA,2º TURNO,11:00,0,23-16 28-16 22-15 19-26,ok,25900,https://lnb.com.br/noticias/nbb-caixa-2024-25-kto-minas-92-x-73-sesi-franca/
+29/12/2024,CAIXA/Brasília Basquete,77,67,Bauru Basket,13ª RODADA,2º TURNO,11:00,0,26-18 18-18 18-20 15-11,ok,25901,https://lnb.com.br/noticias/nbb-caixa-2024-25-caixa-brasilia-basquete-77-x-67-bauru-basket/
+29/12/2024,Caxias do Sul Basquete,65,78,UNIFACISA,13ª RODADA,2º TURNO,11:00,0,15-18 10-22 15-20 25-18,ok,25902,https://lnb.com.br/noticias/nbb-caixa-2024-25-caxias-do-sul-basquete-65-x-78-unifacisa/
+29/12/2024,Ceisc/União Corinthians,82,71,Fortaleza B. C. / CFO,13ª RODADA,2º TURNO,11:00,0,28-22 19-14 16-16 19-19,ok,25903,https://lnb.com.br/noticias/nbb-caixa-2024-25-ceisc-uniao-corinthians-82-x-71-fortaleza-basquete-cearense/
+29/12/2024,R10 Score Vasco da Gama,69,75,Farma Conde/São José Basketball,13ª RODADA,2º TURNO,11:00,0,19-20 10-18 15-15 25-22,ok,25904,https://lnb.com.br/noticias/nbb-caixa-2024-25-r10-score-vasco-da-gama-69-x-75-farma-conde-sao-jose-basketball/
+29/12/2024,Flamengo,81,60,Mogi,13ª RODADA,2º TURNO,11:00,0,19-11 21-17 23-17 18-15,ok,25905,https://lnb.com.br/noticias/nbb-caixa-2024-25-flamengo-81-x-60-mogi-basquete/
+29/12/2024,Pato Basquete,76,85,Corinthians,13ª RODADA,2º TURNO,11:00,,,sem_quartos,25906,https://lnb.com.br/noticias/nbb-caixa-2024-25-pato-basquete-76-x-85-corinthians/
+09/01/2025,Corinthians,99,79,R10 Score Vasco da Gama,14ª RODADA,2º TURNO,20:00,0,22-21 29-18 27-20 21-20,ok,25939,https://lnb.com.br/noticias/corinthians-demonstra-forca-em-casa-supera-o-r10-score-vasco-da-gama-e-comeca-o-ano-com-vitoria/
+09/01/2025,Pinheiros,75,63,Botafogo,14ª RODADA,2º TURNO,20:00,0,20-10 24-18 12-14 19-21,ok,25940,https://lnb.com.br/noticias/nbb-caixa-2024-25-ec-pinheiros-75-x-63-botafogo/
+10/01/2025,Paulistano/CORPe,76,63,Mogi,14ª RODADA,2º TURNO,19:30,0,25-9 14-17 19-17 18-20,ok,25941,https://lnb.com.br/noticias/nbb-caixa-2024-25-paulistano-76-x-63-mogi-basquete/
+10/01/2025,UNIFACISA,80,67,Pato Basquete,14ª RODADA,2º TURNO,19:30,,,sem_quartos,25942,https://lnb.com.br/noticias/nbb-caixa-2024-25-unifacisa-x-pato-basquete/
+11/01/2025,Bauru Basket,75,73,São Paulo,14ª RODADA,2º TURNO,17:00,,,sem_quartos,25943,https://lnb.com.br/noticias/nbb-caixa-2024-25-bauru-basket-75-x-73-sao-paulo/
+11/01/2025,Corinthians,84,79,Botafogo,14ª RODADA,2º TURNO,18:00,,,sem_quartos,25944,https://lnb.com.br/noticias/nbb-caixa-2024-25-corinthians-84x-79-botafogo/
+11/01/2025,Pinheiros,87,70,R10 Score Vasco da Gama,14ª RODADA,2º TURNO,18:00,,,sem_quartos,25945,https://lnb.com.br/noticias/nbb-caixa-2024-25-pinheiros-87-x-70-r10-score-vasco-da-gama/
+11/01/2025,Farma Conde/São José Basketball,94,79,CAIXA/Brasília Basquete,14ª RODADA,2º TURNO,18:00,,,sem_quartos,25946,https://lnb.com.br/noticias/nbb-caixa-2024-25-farma-conde-sao-jose-94-x-79-caixa-brasilia/
+13/01/2025,Fortaleza B. C. / CFO,80,76,Pato Basquete,15ª RODADA,2º TURNO,19:30,0,17-31 29-19 23-16 11-10,ok,25947,https://lnb.com.br/noticias/nbb-caixa-2024-25-fortaleza-basquete-cearense-80-x-76-pato-basquete/
+13/01/2025,Ceisc/União Corinthians,78,77,Caxias do Sul Basquete,15ª RODADA,2º TURNO,19:30,0,23-15 20-21 20-25 15-16,ok,25948,https://lnb.com.br/noticias/nbb-caixa-2024-25-ceisc-uniao-corinthians-x-caxias-basquete/
+13/01/2025,Mogi,89,71,CAIXA/Brasília Basquete,15ª RODADA,2º TURNO,20:00,0,28-17 17-25 27-14 17-15,ok,25949,https://lnb.com.br/noticias/nbb-caixa-2024-25-mogi-basquete-89-x-71-caixa-brasilia/
+14/01/2025,R10 Score Vasco da Gama,76,74,UNIFACISA,15ª RODADA,2º TURNO,20:30,,,sem_quartos,25950,https://lnb.com.br/noticias/nbb-caixa-2024-25-r10-score-vasco-76-x-74-unifacisa/
+16/01/2025,Botafogo,71,83,UNIFACISA,15ª RODADA,2º TURNO,20:00,,,sem_quartos,25951,https://lnb.com.br/noticias/nbb-caixa-2024-25-botafogo-71-x-83-unifacisa/
+16/01/2025,Corinthians,95,87,Flamengo,15ª RODADA,2º TURNO,21:00,0,32-28 24-23 15-22 24-14,ok,25952,https://lnb.com.br/noticias/com-grande-exibicao-de-elinho-corinthians-supera-o-flamengo-em-jogaco-no-nbb-caixa/
+17/01/2025,São Paulo,69,80,Mogi,15ª RODADA,2º TURNO,20:00,0,14-26 20-19 15-24 20-11,ok,25953,https://lnb.com.br/noticias/nbb-caixa-2024-25-sao-paulo-69-x-80-mogi-basquete/
+18/01/2025,R10 Score Vasco da Gama,75,74,Fortaleza B. C. / CFO,15ª RODADA,2º TURNO,16:00,0,21-18 18-14 17-23 19-19,ok,25954,https://lnb.com.br/noticias/nbb-caixa-2024-25-r10-score-vasco-da-gama-75-x-74-fortaleza-basquete-cearense/
+18/01/2025,Pinheiros,65,86,Flamengo,15ª RODADA,2º TURNO,17:00,0,25-24 14-26 19-26 7-10,ok,25955,https://lnb.com.br/noticias/nbb-caixa-2024-25-pinheiros-65-x-86-flamengo/
+18/01/2025,Sesi Franca,84,86,Paulistano/CORPe,15ª RODADA,2º TURNO,18:00,1,22-20 21-18 20-22 14-17 7-9,ok,25956,https://lnb.com.br/noticias/nbb-caixa-2024-25-sesi-franca-84-x-86-paulistano-corpe/
+20/01/2025,Bauru Basket,73,85,Paulistano/CORPe,16ª RODADA,2º TURNO,19:30,0,18-21 12-29 26-22 17-13,ok,25957,https://lnb.com.br/noticias/nbb-caixa-2024-25-bauru-basket-73-x-85-paulistano-corpe/
+20/01/2025,Pato Basquete,78,65,Caxias do Sul Basquete,16ª RODADA,2º TURNO,19:30,0,16-20 21-15 16-17 25-13,ok,25958,https://lnb.com.br/noticias/nbb-caixa-2024-25-pato-basquete-78-x-65-caxias-do-sul-basquete/
+20/01/2025,Farma Conde/São José Basketball,98,88,KTO Minas,16ª RODADA,2º TURNO,19:30,0,29-20 19-21 31-19 19-28,ok,25959,https://lnb.com.br/noticias/nbb-caixa-2024-25-farma-conde-sao-jose-basketball-98-x-88-kto-minas/
+20/01/2025,Botafogo,74,83,Fortaleza B. C. / CFO,16ª RODADA,2º TURNO,19:30,0,20-17 17-18 19-21 18-27,ok,25960,https://lnb.com.br/noticias/nbb-caixa-2024-25-botafogo-74-x-83-fortaleza-basquete-cearense-cfo/
+21/01/2025,Sesi Franca,75,65,São Paulo,16ª RODADA,2º TURNO,20:00,0,16-13 20-15 19-20 20-17,ok,25961,https://lnb.com.br/noticias/nbb-caixa-2024-25-sesi-franca-75-x-65-sao-paulo/
+22/01/2025,Pato Basquete,81,74,Ceisc/União Corinthians,16ª RODADA,2º TURNO,19:30,,,sem_quartos,25962,https://lnb.com.br/noticias/nbb-caixa-2024-25-pato-branco-81-x-74-ceisc-uniao-corinthians/
+22/01/2025,CAIXA/Brasília Basquete,74,70,Corinthians,16ª RODADA,2º TURNO,20:00,0,9-15 18-14 21-13 26-28,ok,25963,https://lnb.com.br/noticias/nbb-caixa-2024-25-caixa-brasilia-74-x-70-corinthians/
+22/01/2025,Mogi,68,79,KTO Minas,16ª RODADA,2º TURNO,20:00,0,13-23 21-19 20-17 14-20,ok,25964,https://lnb.com.br/noticias/nbb-caixa-2024-25-mogi-basquete-68-x-79-kto-minas/
+23/01/2025,São Paulo,80,89,Farma Conde/São José Basketball,16ª RODADA,2º TURNO,20:00,0,23-22 18-20 19-28 20-19,ok,25965,https://lnb.com.br/noticias/com-boas-atuacoes-de-douglas-e-adyel-farma-conde-sao-jose-basketball-supera-o-sao-paulo-e-conquista-quinta-vitoria-seguida/
+04/02/2025,Caxias do Sul Basquete,88,82,R10 Score Vasco da Gama,17ª RODADA,2º TURNO,20:00,0,26-18 11-16 24-27 27-21,ok,25967,https://lnb.com.br/noticias/nbb-caixa-2024-25-caixas-do-sul-basquete-88-x-82-r10-score-vasco-da-gama/
+04/02/2025,Mogi,97,93,Farma Conde/São José Basketball,17ª RODADA,2º TURNO,20:00,1,20-20 24-22 18-22 18-16 17-13,ok,25968,https://lnb.com.br/noticias/nbb-caixa-2024-25-mogi-basquete-97-x-93-farma-conde-sao-jose-basketball/
+04/02/2025,São Paulo,66,90,Corinthians,17ª RODADA,2º TURNO,20:30,0,18-22 14-31 18-18 16-19,ok,25969,https://lnb.com.br/noticias/com-grande-atuacao-corinthians-derrota-o-sao-paulo-no-majestoso-e-ultrapassa-o-rival-na-classificacao/
+05/02/2025,UNIFACISA,80,67,CAIXA/Brasília Basquete,17ª RODADA,2º TURNO,19:30,0,20-20 11-20 26-11 23-16,ok,25966,https://lnb.com.br/noticias/nbb-caixa-2024-25-unifacisa-80-x-67-caixa-brasilia/
+05/02/2025,Pato Basquete,91,94,Bauru Basket,17ª RODADA,2º TURNO,19:30,0,15-18 26-23 19-27 31-26,ok,25970,https://lnb.com.br/noticias/nbb-caixa-2024-25-pato-basquete-91-x-94-bauru-basket/
+05/02/2025,Pinheiros,61,69,Paulistano/CORPe,17ª RODADA,2º TURNO,20:00,0,13-16 19-15 15-20 14-18,ok,25971,https://lnb.com.br/noticias/nbb-caixa-2024-25-pinheiros-61-x-69-paulistano-corpe/
+06/02/2025,Ceisc/União Corinthians,84,71,R10 Score Vasco da Gama,17ª RODADA,2º TURNO,19:30,0,23-26 13-10 26-20 22-15,ok,25972,https://lnb.com.br/noticias/nbb-caixa-2024-25-ceisc-uniao-corinthians-84-x-71-r10-score-vasco-da-gama/
+06/02/2025,Caxias do Sul Basquete,78,67,Botafogo,17ª RODADA,2º TURNO,20:00,0,24-11 19-21 12-19 23-16,ok,25973,https://lnb.com.br/noticias/nbb-caixa-2024-25-caxias-do-sul-basquete-78-x-67-botafogo/
+07/02/2025,Fortaleza B. C. / CFO,62,84,CAIXA/Brasília Basquete,17ª RODADA,2º TURNO,19:30,0,21-26 9-14 15-29 17-15,ok,25974,https://lnb.com.br/noticias/nbb-caixa-2024-25-fortaleza-basquete-cearense-62-x-84-caixa-brasilia/
+08/02/2025,Pinheiros,80,71,São Paulo,17ª RODADA,2º TURNO,17:00,0,16-15 24-15 27-26 13-15,ok,25975,https://lnb.com.br/noticias/reynan-e-sloan-combinam-para-36-pontos-e-comandam-vitoria-do-pinheiros-sobre-o-sao-paulo/
+08/02/2025,Ceisc/União Corinthians,90,77,Botafogo,17ª RODADA,2º TURNO,17:00,0,24-27 18-20 32-10 16-20,ok,25977,https://lnb.com.br/noticias/nbb-caixa-2024-25-ceisc-uniao-corinthians-90-x-77-botafogo/
+08/02/2025,Mogi,62,80,Bauru Basket,17ª RODADA,2º TURNO,18:00,0,11-22 15-22 20-18 16-18,ok,25976,https://lnb.com.br/noticias/nbb-caixa-2024-25-mogi-basquete-62-x-80-bauru-basket/
+11/02/2025,Corinthians,74,65,Paulistano/CORPe,18ª RODADA,2º TURNO,20:30,0,17-22 13-12 19-12 25-19,ok,25978,https://lnb.com.br/noticias/nbb-caixa-2024-25-corinthians-74-x-65-paulistano-corpe/
+12/02/2025,CAIXA/Brasília Basquete,83,77,Caxias do Sul Basquete,18ª RODADA,2º TURNO,20:00,0,21-20 20-14 12-21 30-22,ok,25979,https://lnb.com.br/noticias/nbb-caixa-2024-25-caixa-brasilia-83-x-77-caxias-do-sul-basquete/
+13/02/2025,São Paulo,68,66,UNIFACISA,18ª RODADA,2º TURNO,11:00,0,9-9 28-18 20-17 11-22,ok,25983,https://lnb.com.br/noticias/com-intensidade-defensiva-sao-paulo-supera-a-unifacisa-e-volta-a-vencer-apos-oito-jogos-no-nbb-caixa/
+13/02/2025,KTO Minas,63,72,Corinthians,18ª RODADA,2º TURNO,19:00,0,13-15 19-30 15-13 16-14,ok,25980,https://lnb.com.br/noticias/nbb-caixa-2024-25-kto-minas-63-x-72-corinthians/
+13/02/2025,Paulistano/CORPe,93,78,Farma Conde/São José Basketball,18ª RODADA,2º TURNO,19:30,0,28-13 25-27 28-20 12-18,ok,25981,https://lnb.com.br/noticias/nbb-caixa-2024-25-paulistano-corpe-93-x-78-farma-conde-sao-jose/
+13/02/2025,Flamengo,84,79,Fortaleza B. C. / CFO,18ª RODADA,2º TURNO,20:00,0,20-21 21-19 24-17 19-22,ok,25982,https://lnb.com.br/noticias/nbb-caixa-2024-25-flamengo-84-x-79-fortaleza-basquete-cearense/
+14/02/2025,CAIXA/Brasília Basquete,95,71,Ceisc/União Corinthians,18ª RODADA,2º TURNO,20:00,0,25-16 24-22 27-20 19-13,ok,25984,https://lnb.com.br/noticias/nbb-caixa-2024-25-caixa-brasilia-95-x-71-ceisc-uniao-corinthians/
+14/02/2025,Mogi,81,91,Sesi Franca,18ª RODADA,2º TURNO,20:00,0,21-28 18-20 24-23 18-20,ok,25985,https://lnb.com.br/noticias/nbb-caixa-2024-25-mogi-basquete-81-x-91-sesi-franca/
+14/02/2025,R10 Score Vasco da Gama,98,86,Pato Basquete,18ª RODADA,2º TURNO,20:00,0,18-19 29-24 29-21 22-22,ok,25986,https://lnb.com.br/noticias/nbb-caixa-2024-25-r10-score-vasco-da-gama-98-x-86-pato-basquete/
+15/02/2025,KTO Minas,70,59,Pinheiros,18ª RODADA,2º TURNO,17:00,0,19-13 13-21 18-12 20-13,ok,25988,https://lnb.com.br/noticias/nbb-caixa-2024-25-kto-minas-70-x-59-pinheiros/
+15/02/2025,Flamengo,85,71,UNIFACISA,18ª RODADA,2º TURNO,19:00,0,17-22 30-19 24-17 14-13,ok,25987,https://lnb.com.br/noticias/nbb-caixa-2024-25-flamengo-85-x-71-unifacisa/
+16/02/2025,Botafogo,91,76,Pato Basquete,19ª RODADA,2º TURNO,11:00,,,sem_quartos,25989,https://lnb.com.br/noticias/nbb-caixa-2024-25-botafogo-91-x-76-pato-basquete/
+16/02/2025,Bauru Basket,74,64,Corinthians,19ª RODADA,2º TURNO,18:00,0,21-14 20-11 18-20 15-19,ok,25990,https://lnb.com.br/noticias/nbb-caixa-2024-25-bauru-basket-x-corinthians/
+16/02/2025,Farma Conde/São José Basketball,68,105,Sesi Franca,19ª RODADA,2º TURNO,18:00,0,17-22 15-26 16-27 20-30,ok,25991,https://lnb.com.br/noticias/nbb-caixa-2024-25-farma-conde-sao-jose-68-x-105-sesi-franca/
+26/02/2025,CAIXA/Brasília Basquete,72,70,Pinheiros,20ª RODADA,2º TURNO,20:00,0,19-21 21-22 18-14 14-13,ok,25992,https://lnb.com.br/noticias/nbb-caixa-2024-25-caixa-brasilia-x-pinheiros/
+27/02/2025,Paulistano/CORPe,75,77,UNIFACISA,20ª RODADA,2º TURNO,19:30,0,19-13 16-26 9-17 31-21,ok,25993,https://lnb.com.br/noticias/nbb-caixa-2024-25-paulistano-corpe-75-x-77-unifacisa/
+27/02/2025,Farma Conde/São José Basketball,83,78,Bauru Basket,20ª RODADA,2º TURNO,19:30,0,28-17 15-19 15-23 25-19,ok,25994,https://lnb.com.br/noticias/nbb-caixa-2024-25-farma-conde-sao-jose-83-x-78-bauru-basket/
+27/02/2025,Sesi Franca,98,89,Corinthians,20ª RODADA,2º TURNO,20:00,0,24-27 27-15 21-22 26-25,ok,25995,https://lnb.com.br/noticias/lucas-dias-e-didi-combinam-para-44-pontos-e-o-sesi-franca-derrota-o-corinthians-no-pedrocao/
+28/02/2025,Fortaleza B. C. / CFO,86,92,KTO Minas,20ª RODADA,2º TURNO,19:30,0,21-16 18-23 21-27 26-26,ok,25996,https://lnb.com.br/noticias/nbb-caixa-2024-25-fortaleza-basquete-cearense-86-x-92-kto-minas/
+28/02/2025,Flamengo,91,81,Pato Basquete,20ª RODADA,2º TURNO,20:00,0,19-12 27-22 25-22 20-25,ok,25997,https://lnb.com.br/noticias/em-noite-de-homenagem-ao-idolo-algodao-flamengo-supera-o-pato-basquete-na-estreia-de-sergio-hernandez/
+28/02/2025,R10 Score Vasco da Gama,104,82,Desk Manager Mogi Basquete,20ª RODADA,2º TURNO,20:00,0,20-20 27-25 24-21 33-16,ok,25998,https://lnb.com.br/noticias/nbb-caixa-2024-25-r10-score-vasco-da-gama-104-x-82-desk-manager-mogi-basquete/
+03/03/2025,Botafogo,71,68,Farma Conde/São José Basketball,21ª RODADA,2º TURNO,11:00,0,18-27 17-14 15-16 21-11,ok,26001,https://lnb.com.br/noticias/nbb-caixa-2024-25-botafogo-x-farma-conde-sao-jose/
+03/03/2025,Ceisc/União Corinthians,77,82,Flamengo,21ª RODADA,2º TURNO,19:30,0,20-21 19-18 17-25 21-18,ok,25999,https://lnb.com.br/noticias/nbb-caixa-ceisc-uniao-corinthians-77-x-82-flamengo/
+03/03/2025,UNIFACISA,77,79,KTO Minas,21ª RODADA,2º TURNO,19:30,0,29-22 13-16 14-25 21-16,ok,26000,https://lnb.com.br/noticias/no-primeiro-duelo-entre-os-irmaos-como-treinadores-kto-minas-de-leo-supera-a-unifacisa-de-pablo/
+03/03/2025,Sesi Franca,91,82,Pinheiros,21ª RODADA,2º TURNO,19:30,0,28-23 18-24 18-20 27-15,ok,26002,https://lnb.com.br/noticias/nbb-caixa-sesi-franca-x-pinheiros/
+04/03/2025,São Paulo,75,79,Fortaleza B. C. / CFO,21ª RODADA,2º TURNO,20:00,0,20-18 18-15 23-32 14-14,ok,26003,https://lnb.com.br/noticias/lei-do-ex-entra-acao-com-renan-lenz-e-fortaleza-basquete-cearense-derrota-o-sao-paulo-no-morumbis/
+05/03/2025,Bauru Basket,84,81,Pinheiros,21ª RODADA,2º TURNO,19:30,0,18-21 23-16 27-24 16-20,ok,26004,https://lnb.com.br/noticias/nbb-caixa-2024-25-bauru-basket-84-x-81-pinheiros/
+05/03/2025,Caxias do Sul Basquete,85,82,Flamengo,21ª RODADA,2º TURNO,19:30,0,15-20 22-20 21-19 27-23,ok,26005,https://lnb.com.br/noticias/nbb-caixa-2024-25-caxias-basquete-x-flamengo/
+06/03/2025,Paulistano/CORPe,84,87,Fortaleza B. C. / CFO,21ª RODADA,2º TURNO,19:30,0,12-25 20-23 26-10 26-29,ok,26006,https://lnb.com.br/noticias/nbb-caixa-2024-25-paulistano-corpe-84-x-87-fortaleza-basquete-cearense/
+07/03/2025,Corinthians,72,77,Farma Conde/São José Basketball,21ª RODADA,2º TURNO,20:00,0,12-16 16-20 23-22 21-19,ok,26007,https://lnb.com.br/noticias/nbb-caixa-2024-25-corinthians-x-farma-conde-sao-jose-basketball/
+08/03/2025,R10 Score Vasco da Gama,88,78,São Paulo,21ª RODADA,2º TURNO,17:10,,,sem_quartos,26008,https://lnb.com.br/partidas/nbb-2024-2025-r10-score-vasco-da-gama-x-sao-paulo-08032025-1710/
+11/03/2025,Fortaleza B. C. / CFO,66,74,Bauru Basket,22ª RODADA,2º TURNO,20:00,0,18-19 18-24 13-17 17-14,ok,26009,https://lnb.com.br/noticias/nbb-caixa-2024-25-fortaleza-basquete-cearense-x-bauru-basket/
+12/03/2025,Pinheiros,91,77,Desk Manager Mogi Basquete,22ª RODADA,2º TURNO,20:00,0,21-16 26-26 29-14 15-21,ok,26010,https://lnb.com.br/noticias/nbb-caixa-2024-25-pinheiros-91-x-77-desk-manager-mogi-basquete/
+13/03/2025,Caxias do Sul Basquete,76,65,São Paulo,22ª RODADA,2º TURNO,20:00,0,20-18 27-16 15-17 14-14,ok,26011,https://lnb.com.br/noticias/nbb-caixa-2024-25-caxias-do-sul-basquete-76-x-65-sao-paulo/
+13/03/2025,R10 Score Vasco da Gama,80,66,Botafogo,22ª RODADA,2º TURNO,20:00,0,18-20 23-13 19-19 20-14,ok,26012,https://lnb.com.br/noticias/nbb-caixa-2024-25-r10-score-vasco-80-x-66-botafogo/
+14/03/2025,Pato Basquete,98,80,CAIXA/Brasília Basquete,22ª RODADA,2º TURNO,19:30,0,25-15 22-24 28-19 23-22,ok,26013,https://lnb.com.br/noticias/nbb-caixa-2024-25-pato-basquete-98-x-80-caixa-brasilia/
+14/03/2025,UNIFACISA,77,74,Bauru Basket,22ª RODADA,2º TURNO,19:30,0,20-22 19-17 15-17 23-18,ok,26014,https://lnb.com.br/noticias/nbb-caixa-2024-25-unifacisa-77-x-74-bauru-basket/
+15/03/2025,Caxias do Sul Basquete,99,95,Paulistano/CORPe,22ª RODADA,2º TURNO,17:00,2,18-17 22-20 18-20 19-20 10-10 12-8,ok,26015,https://lnb.com.br/noticias/nbb-caixa-2024-25-caxias-do-sul-basquete-x-paulistano-corpe/
+15/03/2025,Corinthians,93,73,Desk Manager Mogi Basquete,22ª RODADA,2º TURNO,17:10,0,22-16 30-13 22-20 19-24,ok,26016,https://lnb.com.br/noticias/nbb-caixa-2024-25-corinthians-x-desk-manager-mogi-basquete/
+15/03/2025,Ceisc/União Corinthians,95,74,São Paulo,22ª RODADA,2º TURNO,19:00,0,28-24 24-13 27-12 16-25,ok,26017,https://lnb.com.br/noticias/nbb-caixa-2024-25-ceisc-uniao-corinthians-95-x-74-sao-paulo/
+17/03/2025,CAIXA/Brasília Basquete,94,71,Botafogo,23ª RODADA,2º TURNO,11:00,0,24-14 22-18 24-22 24-17,ok,26019,https://lnb.com.br/noticias/nbb-caixa-2024-25-caixa-brasilia-basquete-x-botafogo/
+17/03/2025,Ceisc/União Corinthians,83,78,Paulistano/CORPe,23ª RODADA,2º TURNO,19:30,0,20-16 20-27 23-18 20-17,ok,26018,https://lnb.com.br/noticias/nbb-caixa-2024-25-ceisc-uniao-corinthians-83-x-78-paulistano-corpe/
+17/03/2025,Pinheiros,89,80,Farma Conde/São José Basketball,23ª RODADA,2º TURNO,19:30,0,25-15 21-22 23-18 20-25,ok,26020,https://lnb.com.br/noticias/nbb-caixa-2024-25-pinheiros-89-x-80-farma-conde-sao-jose/
+18/03/2025,Sesi Franca,93,71,Bauru Basket,23ª RODADA,2º TURNO,20:00,0,17-22 30-15 21-18 25-16,ok,26021,https://lnb.com.br/noticias/nbb-caixa-2024-25-sesi-franca-93-x-71-bauru-basket/
+19/03/2025,KTO Minas,94,70,Flamengo,23ª RODADA,2º TURNO,19:00,0,27-23 20-15 22-21 25-11,ok,26022,https://lnb.com.br/noticias/com-grande-atuacao-e-recorde-de-arengo-kto-minas-derrota-o-flamengo-no-confronto-direto-pela-lideranca/
+26/03/2025,KTO Minas,88,70,Caxias do Sul Basquete,24ª RODADA,2º TURNO,19:00,0,28-17 22-18 18-17 20-18,ok,26023,https://lnb.com.br/noticias/nbb-caixa-2024-25-kto-minas-88-x-70-caxias-do-sul-basquete/
+26/03/2025,Paulistano/CORPe,77,94,Pato Basquete,24ª RODADA,2º TURNO,19:30,0,14-26 23-20 20-23 20-25,ok,26024,https://lnb.com.br/noticias/nbb-caixa-2024-25-paulistano-corpe-x-pato-basquete/
+26/03/2025,UNIFACISA,71,83,Sesi Franca,24ª RODADA,2º TURNO,19:30,0,11-21 15-12 12-28 33-22,ok,26025,https://lnb.com.br/noticias/nbb-caixa-2024-25-unifacisa-71-x-83-sesi-franca/
+27/03/2025,Flamengo,84,78,R10 Score Vasco da Gama,24ª RODADA,2º TURNO,20:00,0,16-19 16-22 29-15 23-22,ok,26027,https://lnb.com.br/noticias/nbb-caixa-2024-25-flamengo-84-x-78-r10-score-vasco-da-gama/
+28/03/2025,Fortaleza B. C. / CFO,74,83,Sesi Franca,24ª RODADA,2º TURNO,19:30,0,17-21 21-18 21-24 15-20,ok,26028,https://lnb.com.br/noticias/nbb-caixa-2024-25-fortaleza-b-c-cfo-74-x-83-sesi-franca/
+28/03/2025,São Paulo,65,69,Pato Basquete,24ª RODADA,2º TURNO,20:00,0,19-19 17-23 19-16 10-11,ok,26029,https://lnb.com.br/noticias/nbb-caixa-2024-25-sao-paulo-65-x-69-pato-basquete/
+29/03/2025,Botafogo,85,92,Flamengo,24ª RODADA,2º TURNO,16:00,0,26-20 21-21 15-22 23-29,ok,26030,https://lnb.com.br/noticias/nbb-caixa-2024-25-botafogo-85-x-92-flamengo/
+29/03/2025,Pinheiros,83,76,Corinthians,24ª RODADA,2º TURNO,17:10,0,22-17 13-23 18-15 30-21,ok,26031,https://lnb.com.br/noticias/nbb-caixa-2024-25-pinheiros-83-x-76-corinthians/
+29/03/2025,Bauru Basket,84,67,Caxias do Sul Basquete,24ª RODADA,2º TURNO,18:00,0,28-17 23-16 17-19 16-15,ok,26032,https://lnb.com.br/noticias/nbb-caixa-2024-25-bauru-basket-84-x-67-caxias-do-sul-basquete/
+29/03/2025,KTO Minas,92,81,Ceisc/União Corinthians,24ª RODADA,2º TURNO,18:00,0,24-23 22-17 27-20 19-21,ok,26033,https://lnb.com.br/noticias/nbb-caixa-2024-25-kto-minas-92-x-81-ceisc-uniao-corinthians/
+31/03/2025,Farma Conde/São José Basketball,84,71,Fortaleza B. C. / CFO,25ª RODADA,2º TURNO,19:30,0,20-24 16-16 26-18 22-13,ok,26034,https://lnb.com.br/noticias/nbb-caixa-2024-25-farma-conde-sao-jose-basketball-x-fortaleza-basquete-cearense/
+31/03/2025,Sesi Franca,117,57,Caxias do Sul Basquete,25ª RODADA,2º TURNO,19:30,0,31-14 33-16 28-13 25-14,ok,26035,https://lnb.com.br/noticias/nbb-caixa-2024-25-sesi-franca-x-caxias-do-sul-basquete/
+31/03/2025,Desk Manager Mogi Basquete,66,82,UNIFACISA,25ª RODADA,2º TURNO,20:00,0,17-20 20-20 13-19 16-23,ok,26036,https://lnb.com.br/noticias/nbb-caixa-2024-25-desk-manager-mogi-basquete-x-unifacisa/
+01/04/2025,CAIXA/Brasília Basquete,63,77,KTO Minas,25ª RODADA,2º TURNO,20:00,0,25-20 13-29 9-11 16-17,ok,26037,https://lnb.com.br/noticias/nbb-caixa-2024-25-caixa-brasilia-basquete-63-x-77-kto-minas/
+01/04/2025,R10 Score Vasco da Gama,78,66,Paulistano/CORPe,25ª RODADA,2º TURNO,20:30,0,14-19 24-12 20-16 20-19,ok,26038,https://lnb.com.br/noticias/nbb-caixa-2024-25-r10-score-vasco-da-gama-78-x-66-unifacisa/
+02/04/2025,Farma Conde/São José Basketball,78,66,UNIFACISA,25ª RODADA,1º TURNO,19:30,,,sem_quartos,26039,https://lnb.com.br/noticias/nbb-caixa-2024-25-farma-conde-sao-jose-basketball-x-basquete-unifacisa/
+02/04/2025,Sesi Franca,73,55,Ceisc/União Corinthians,25ª RODADA,2º TURNO,20:00,0,22-18 14-14 20-12 17-11,ok,26040,https://lnb.com.br/noticias/nbb-caixa-2024-25-sesi-franca-73-x-55-ceisc-uniao-corinthians/
+02/04/2025,Desk Manager Mogi Basquete,75,63,Fortaleza B. C. / CFO,25ª RODADA,2º TURNO,20:00,0,16-13 31-15 11-26 17-9,ok,26041,https://lnb.com.br/noticias/nbb-caixa-2024-25-desk-manager-mogi-basquete-75-x-63-fortaleza-basquete-cearense/
+03/04/2025,Pato Basquete,72,75,KTO Minas,25ª RODADA,2º TURNO,19:30,0,15-21 17-12 20-17 20-25,ok,26042,https://lnb.com.br/noticias/nbb-caixa-2024-25-pato-basquete-72-x-75-kto-minas/
+03/04/2025,Botafogo,64,85,Paulistano/CORPe,25ª RODADA,2º TURNO,20:00,0,12-16 15-28 19-20 18-21,ok,26043,https://lnb.com.br/noticias/nbb-caixa-2024-25-botafogo-64-x-85-paulistano-corpe/
+03/04/2025,Flamengo,105,86,São Paulo,25ª RODADA,2º TURNO,21:00,0,17-18 28-23 30-17 30-28,ok,26044,https://lnb.com.br/noticias/nbb-caixa-2024-25-flamengo-105-x-86-sao-paulo/
+04/04/2025,Bauru Basket,89,69,Ceisc/União Corinthians,25ª RODADA,2º TURNO,19:30,0,22-16 24-16 19-11 24-26,ok,26045,https://lnb.com.br/noticias/nbb-caixa-2024-25-bauru-basket-89-x-69-ceisc-uniao-corinthians/
+05/04/2025,CAIXA/Brasília Basquete,77,79,R10 Score Vasco da Gama,25ª RODADA,2º TURNO,11:00,0,11-20 29-20 26-19 11-20,ok,26046,https://lnb.com.br/noticias/marquinhos-mostra-casamento-perfeito-com-companheiros-para-garantir-a-vitoria-do-r10-score-vasco-da-gama-em-brasilia/
+05/04/2025,Botafogo,86,85,São Paulo,25ª RODADA,2º TURNO,16:00,0,25-19 27-25 16-22 18-19,ok,26047,https://lnb.com.br/noticias/nbb-caixa-2024-25-botafogo-86-x-85-sao-paulo/
+05/04/2025,Pato Basquete,67,76,Sesi Franca,25ª RODADA,2º TURNO,17:10,0,11-20 16-17 13-18 27-21,ok,26048,https://lnb.com.br/noticias/nbb-caixa-2024-25-pato-basquete-67-x-76-sesi-franca/
+06/04/2025,Flamengo,70,63,Paulistano/CORPe,26ª RODADA,2º TURNO,11:00,0,16-17 19-22 21-13 14-11,ok,26049,https://lnb.com.br/noticias/nbb-caixa-2024-25-flamengo-x-paulistano-corpe/
+07/04/2025,KTO Minas,76,69,R10 Score Vasco da Gama,26ª RODADA,2º TURNO,19:00,0,22-15 19-23 16-19 19-12,ok,26050,https://lnb.com.br/noticias/nbb-caixa-2024-25-kto-minas-76-x-69-r10-score-vasco/
+07/04/2025,Fortaleza B. C. / CFO,79,67,Corinthians,26ª RODADA,2º TURNO,19:00,0,15-10 22-13 25-25 17-19,ok,26051,https://lnb.com.br/noticias/nbb-caixa-2024-25-fortaleza-basquete-cearense-79-x-67-corinthians/
+07/04/2025,UNIFACISA,82,66,Pinheiros,26ª RODADA,2º TURNO,19:30,0,19-21 22-17 19-12 22-16,ok,26052,https://lnb.com.br/noticias/nbb-caixa-2024-25-unifacisa-82-x-66-pinheiros/
+08/04/2025,CAIXA/Brasília Basquete,79,88,Flamengo,26ª RODADA,2º TURNO,20:30,0,15-20 12-23 26-23 26-22,ok,26053,https://lnb.com.br/noticias/nbb-caixa-2024-25-caixa-brasilia-79-x-88-flamengo/
+09/04/2025,KTO Minas,97,59,Botafogo,26ª RODADA,2º TURNO,19:00,0,22-21 21-5 31-22 23-11,ok,26054,https://lnb.com.br/noticias/nbb-caixa-2024-25-kto-minas-97-x-59-botafogo/
+09/04/2025,Ceisc/União Corinthians,77,76,Farma Conde/São José Basketball,26ª RODADA,2º TURNO,19:30,1,27-17 16-22 13-18 15-14 6-5,ok,26055,https://lnb.com.br/noticias/nbb-caixa-2024-25-ceisc-uniao-corinthians-77-x-76-farma-conde-sao-jose-basketball/
+09/04/2025,Caxias do Sul Basquete,82,75,Desk Manager Mogi Basquete,26ª RODADA,2º TURNO,20:00,1,23-19 8-14 14-18 19-13 18-11,ok,26056,https://lnb.com.br/noticias/nbb-caixa-2024-25-caxias-do-sul-basquete-82-x-75-desk-manager-mogi-basquete/
+10/04/2025,Fortaleza B. C. / CFO,73,82,Pinheiros,26ª RODADA,2º TURNO,19:00,0,19-17 23-21 13-16 18-28,ok,26057,https://lnb.com.br/noticias/nbb-caixa-2024-25-fortaleza-basquete-cearense-x-pinheiros/
+10/04/2025,Sesi Franca,91,66,R10 Score Vasco da Gama,26ª RODADA,2º TURNO,19:00,0,18-15 21-11 20-21 32-19,ok,26059,https://lnb.com.br/noticias/nbb-caixa-2025-24-sesi-franca-91-x-66-r10-score-vasco-da-gama/
+10/04/2025,UNIFACISA,74,83,Corinthians,26ª RODADA,2º TURNO,19:30,0,19-24 12-16 15-25 28-18,ok,26058,https://lnb.com.br/noticias/nbb-caixa-2025-24-unifacisa-74-x-83-corinthians/
+11/04/2025,Ceisc/União Corinthians,96,79,Desk Manager Mogi Basquete,26ª RODADA,2º TURNO,19:30,0,28-17 23-25 21-15 24-22,ok,26060,https://lnb.com.br/noticias/nbb-caixa-2025-24-ceisc-uniao-corinthians-x-desk-manager-mogi-basquete/
+11/04/2025,Caxias do Sul Basquete,73,77,Farma Conde/São José Basketball,26ª RODADA,2º TURNO,20:00,0,19-20 20-19 15-17 19-21,ok,26061,https://lnb.com.br/noticias/nbb-caixa-2024-25-caxias-do-sul-basquete-73-x-77-farma-conde-sao-jose-basketball/
+12/04/2025,São Paulo,71,67,KTO Minas,26ª RODADA,2º TURNO,17:00,0,16-11 11-16 25-16 19-24,ok,26062,https://lnb.com.br/noticias/nbb-caixa-2025-24-sao-paulo-71-x-67-kto-minas/
+12/04/2025,Sesi Franca,80,62,Botafogo,26ª RODADA,2º TURNO,18:00,0,29-14 13-16 15-19 23-13,ok,26063,https://lnb.com.br/noticias/nbb-caixa-2025-24-sesi-franca-80-x-62-botafogo/
+13/04/2025,Bauru Basket,84,88,Flamengo,27ª RODADA,2º TURNO,18:00,0,17-21 24-30 16-19 27-18,ok,26064,https://lnb.com.br/noticias/nbb-caixa-2025-24-bauru-basket-84-x-88-flamengo/
+14/04/2025,Paulistano/CORPe,66,76,KTO Minas,27ª RODADA,2º TURNO,19:30,0,17-13 21-23 13-21 15-19,ok,26065,https://lnb.com.br/noticias/nbb-caixa-2025-24-paulistano-corpe-66-x-76-kto-minas/
+15/04/2025,Sesi Franca,97,91,Flamengo,27ª RODADA,2º TURNO,20:00,0,23-27 32-29 26-15 16-20,ok,26066,https://lnb.com.br/noticias/nbb-caixa-2024-25-sesi-franca-97-x-91-flamengo/
+16/04/2025,Desk Manager Mogi Basquete,90,76,Pato Basquete,27ª RODADA,2º TURNO,20:00,0,27-21 27-14 18-27 18-14,ok,26068,https://lnb.com.br/noticias/nbb-caixa-2024-25-desk-manager-mogi-basquete-90-x-76-pato-basquete/
+16/04/2025,Pinheiros,86,55,Ceisc/União Corinthians,27ª RODADA,2º TURNO,20:00,0,23-20 19-11 24-14 20-10,ok,26069,https://lnb.com.br/noticias/nbb-caixa-2024-25-ec-pinheiros-86-x-55-ceis-uniao-corinthians/
+16/04/2025,Corinthians,103,98,Caxias do Sul Basquete,27ª RODADA,2º TURNO,20:30,2,17-16 23-14 16-27 23-22 10-10 14-9,ok,26067,https://lnb.com.br/noticias/nbb-caixa-2024-25-corinthians-103-x-98-caxias-do-sul-basquete/
+17/04/2025,Fortaleza B. C. / CFO,81,73,UNIFACISA,27ª RODADA,2º TURNO,19:30,0,17-20 17-16 29-17 18-20,ok,26070,https://lnb.com.br/noticias/nbb-caixa-2024-25-fortaleza-basquete-cearense-81-x-73-unifacisa/
+17/04/2025,Bauru Basket,75,69,R10 Score Vasco da Gama,27ª RODADA,2º TURNO,19:30,0,28-11 18-17 13-18 16-23,ok,26071,https://lnb.com.br/noticias/nbb-caixa-2024-25-bauru-basket-75-x-69-r10-score-vasco-da-gama/
+17/04/2025,Paulistano/CORPe,81,69,CAIXA/Brasília Basquete,27ª RODADA,2º TURNO,19:30,0,27-13 21-18 15-27 18-11,ok,26072,https://lnb.com.br/noticias/nbb-caixa-2024-25-paulistano-corpe-81-x69-caixa-brasilia-basquete/
+18/04/2025,Farma Conde/São José Basketball,77,89,Pato Basquete,27ª RODADA,2º TURNO,18:00,0,23-25 23-17 16-30 15-17,ok,26073,https://lnb.com.br/noticias/nbb-caixa-2024-25-farma-conde-sao-jose-basketball-x-pato-basquete/
+18/04/2025,Corinthians,111,81,Ceisc/União Corinthians,27ª RODADA,2º TURNO,20:00,0,42-13 18-21 17-21 34-26,ok,26074,https://lnb.com.br/noticias/nbb-caixa-2024-25-corinthians-111-x-81-ceisc-uniao-corinthians/
+18/04/2025,Pinheiros,81,65,Caxias do Sul Basquete,27ª RODADA,2º TURNO,20:00,0,20-17 30-16 16-14 15-18,ok,26075,https://lnb.com.br/noticias/nbb-caixa-2024-25-pinheiros-81-x-65-caxias-do-sul-basquete/
+19/04/2025,Bauru Basket,84,85,Botafogo,27ª RODADA,2º TURNO,17:00,0,12-23 28-20 20-18 24-24,ok,26076,https://lnb.com.br/noticias/nbb-caixa-2024-25-bauru-basket-84-x-85-botafogo/
+19/04/2025,São Paulo,88,79,CAIXA/Brasília Basquete,27ª RODADA,2º TURNO,17:00,0,17-27 26-21 31-10 14-21,ok,26077,https://lnb.com.br/noticias/nbb-caixa-2024-25-sao-paulo-88-x-79-caixa-brasilia/

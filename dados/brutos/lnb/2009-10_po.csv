@@ -1,0 +1,40 @@
+data,mandante,pts_mandante,pts_visitante,visitante,rodada,etapa,hora,prorrogacoes,quartos,status_quartos,id_lnb,link
+07/04/2010,Espírito Santo,64,68,Joinville,0ª RODADA,OITAVAS,16:00,,,sem_quartos,1507,https://lnb.com.br/noticias/vila-velha-x-joinville-07042010-2/
+08/04/2010,Araraquara,82,78,São José,0ª RODADA,OITAVAS,20:00,,,sem_quartos,1508,https://lnb.com.br/noticias/araraquara-x-sao-jose-08042010-2/
+08/04/2010,Assis,70,77,Bauru,0ª RODADA,OITAVAS,20:00,,,sem_quartos,1514,https://lnb.com.br/noticias/assis-x-bauru-08042010-2/
+09/04/2010,Joinville,93,74,Espírito Santo,0ª RODADA,OITAVAS,20:00,,,sem_quartos,1511,https://lnb.com.br/noticias/joinville-x-vila-velha-09042010-2/
+09/04/2010,Paulistano,93,101,Pinheiros,0ª RODADA,OITAVAS,20:00,,,sem_quartos,1515,https://lnb.com.br/noticias/paulistano-x-pinheiros-09042010-2/
+10/04/2010,Joinville,71,60,Espírito Santo,0ª RODADA,OITAVAS,20:00,,,sem_quartos,1517,https://lnb.com.br/noticias/joinville-x-vila-velha-10042010-2/
+11/04/2010,São José,88,74,Araraquara,0ª RODADA,OITAVAS,11:00,,,sem_quartos,1510,https://lnb.com.br/noticias/sao-jose-x-araraquara-11042010-2/
+11/04/2010,Bauru,90,68,Assis,0ª RODADA,OITAVAS,11:00,,,sem_quartos,1516,https://lnb.com.br/noticias/bauru-x-assis-11042010-2/
+12/04/2010,São José,71,67,Araraquara,0ª RODADA,OITAVAS,19:00,,,sem_quartos,1521,https://lnb.com.br/noticias/sao-jose-x-araraquara-12042010-2/
+12/04/2010,Bauru,86,81,Assis,0ª RODADA,OITAVAS,20:00,,,sem_quartos,1513,https://lnb.com.br/noticias/bauru-x-assis-12042010-2/
+12/04/2010,Pinheiros,94,92,Paulistano,0ª RODADA,OITAVAS,20:00,,,sem_quartos,1527,https://lnb.com.br/noticias/pinheiros-x-paulistano-12042010-2/
+13/04/2010,Pinheiros,74,73,Paulistano,0ª RODADA,OITAVAS,16:00,,,sem_quartos,1520,https://lnb.com.br/noticias/pinheiros-x-paulistano-13042010-2/
+16/04/2010,Araraquara,70,82,São José,0ª RODADA,OITAVAS,19:00,,,sem_quartos,1519,https://lnb.com.br/noticias/araraquara-x-sao-jose-16042010-2/
+20/04/2010,Bauru,96,102,Brasília,0ª RODADA,QUARTAS,19:00,,,sem_quartos,1531,https://lnb.com.br/noticias/bauru-x-brasilia-20042010-2/
+21/04/2010,Pinheiros,76,95,Franca,0ª RODADA,QUARTAS,15:00,,,sem_quartos,1526,https://lnb.com.br/noticias/pinheiros-x-franca-21042010-2/
+21/04/2010,Joinville,72,76,Minas,0ª RODADA,QUARTAS,17:00,,,sem_quartos,1518,https://lnb.com.br/noticias/joinville-x-minas-21042010-2/
+23/04/2010,Brasília,118,78,Bauru,0ª RODADA,QUARTAS,19:00,,,sem_quartos,1524,https://lnb.com.br/noticias/brasilia-x-bauru-23042010-2/
+23/04/2010,Minas,87,77,Joinville,0ª RODADA,QUARTAS,20:00,,,sem_quartos,1529,https://lnb.com.br/noticias/minas-x-joinville-23042010-2/
+23/04/2010,São José,71,78,Flamengo,0ª RODADA,QUARTAS,21:00,,,sem_quartos,1530,https://lnb.com.br/noticias/sao-jose-x-flamengo-23042010-2/
+24/04/2010,Franca,84,75,Pinheiros,0ª RODADA,QUARTAS,11:00,,,sem_quartos,1533,https://lnb.com.br/noticias/franca-x-pinheiros-24042010-2/
+24/04/2010,Minas,94,90,Joinville,0ª RODADA,QUARTAS,19:30,,,sem_quartos,1525,https://lnb.com.br/noticias/minas-x-joinville-24042010-2/
+24/04/2010,Brasília,111,101,Bauru,0ª RODADA,QUARTAS,21:30,,,sem_quartos,1532,https://lnb.com.br/noticias/brasilia-x-bauru-24042010-2/
+25/04/2010,Franca,73,71,Pinheiros,0ª RODADA,QUARTAS,12:00,,,sem_quartos,1528,https://lnb.com.br/noticias/franca-x-pinheiros-25042010-2/
+25/04/2010,Flamengo,89,70,São José,0ª RODADA,QUARTAS,20:30,,,sem_quartos,1522,https://lnb.com.br/noticias/flamengo-x-sao-jose-25042010-2/
+26/04/2010,Flamengo,95,91,São José,0ª RODADA,QUARTAS,19:00,,,sem_quartos,1523,https://lnb.com.br/noticias/flamengo-x-sao-jose-26042010-2/
+04/05/2010,Minas,97,106,Brasília,0ª RODADA,SEMI,19:00,,,sem_quartos,1534,https://lnb.com.br/noticias/minas-x-brasilia-04052010-2/
+04/05/2010,Franca,90,82,Flamengo,0ª RODADA,SEMI,21:00,,,sem_quartos,1541,https://lnb.com.br/noticias/franca-x-flamengo-04052010-2/
+07/05/2010,Brasília,94,103,Minas,0ª RODADA,SEMI,19:00,,,sem_quartos,1536,https://lnb.com.br/noticias/brasilia-x-minas-07052010-2/
+07/05/2010,Flamengo,101,73,Franca,0ª RODADA,SEMI,21:00,,,sem_quartos,1540,https://lnb.com.br/noticias/flamengo-x-franca-07052010-2/
+08/05/2010,Brasília,102,86,Minas,0ª RODADA,SEMI,18:30,,,sem_quartos,1539,https://lnb.com.br/noticias/brasilia-x-minas-08052010-2/
+08/05/2010,Flamengo,80,73,Franca,0ª RODADA,SEMI,20:30,,,sem_quartos,1538,https://lnb.com.br/noticias/flamengo-x-franca-08052010-2/
+11/05/2010,Franca,85,86,Flamengo,0ª RODADA,SEMI,20:30,,,sem_quartos,1535,https://lnb.com.br/noticias/franca-x-flamengo-11052010-2/
+13/05/2010,Minas,78,70,Brasília,0ª RODADA,SEMI,19:00,,,sem_quartos,1537,https://lnb.com.br/noticias/minas-x-brasilia-13052010-2/
+15/05/2010,Brasília,90,77,Minas,0ª RODADA,SEMI,16:00,,,sem_quartos,1545,https://lnb.com.br/noticias/brasilia-x-minas-15052010-2/
+22/05/2010,Flamengo,88,84,Brasília,0ª RODADA,FINAL,16:00,,,sem_quartos,1543,https://lnb.com.br/noticias/flamengo-x-brasilia-22052010-2/
+28/05/2010,Brasília,93,90,Flamengo,0ª RODADA,FINAL,16:00,,,sem_quartos,1542,https://lnb.com.br/noticias/brasilia-x-flamengo-28052010-2/
+30/05/2010,Brasília,85,84,Flamengo,0ª RODADA,FINAL,12:00,,,sem_quartos,1546,https://lnb.com.br/noticias/brasilia-x-flamengo-30052010-2/
+03/06/2010,Flamengo,94,74,Brasília,0ª RODADA,FINAL,16:00,,,sem_quartos,1544,https://lnb.com.br/noticias/flamengo-x-brasilia-03062010-2/
+06/06/2010,Brasília,76,74,Flamengo,0ª RODADA,FINAL,10:00,,,sem_quartos,1547,https://lnb.com.br/noticias/brasilia-x-flamengo-06062010/

@@ -1,0 +1,43 @@
+data,mandante,pts_mandante,pts_visitante,visitante,rodada,etapa,hora,prorrogacoes,quartos,status_quartos,id_lnb,link
+13/04/2012,Limeira,77,69,Joinville,1ª RODADA,OITAVAS,19:00,,,sem_quartos,1587,https://lnb.com.br/noticias/dever-de-casa/
+14/04/2012,Tijuca,75,67,Uberlândia,1ª RODADA,OITAVAS,18:00,,,sem_quartos,1578,https://lnb.com.br/noticias/estreia-com-o-pe-direito/
+14/04/2012,L. Sorocabana,76,82,Bauru,1ª RODADA,OITAVAS,18:00,,,sem_quartos,1581,https://lnb.com.br/noticias/completos-e-com-vitoria/
+14/04/2012,Franca,91,89,Paulistano,1ª RODADA,OITAVAS,18:00,,,sem_quartos,1584,https://lnb.com.br/noticias/olho-neles/
+17/04/2012,Joinville,89,84,Limeira,2ª RODADA,OITAVAS,20:00,,,sem_quartos,1586,https://lnb.com.br/noticias/tudo-igual/
+17/04/2012,Paulistano,68,75,Franca,2ª RODADA,OITAVAS,21:00,,,sem_quartos,1583,https://lnb.com.br/noticias/responsabilidade-toda-deles/
+18/04/2012,Uberlândia,73,59,Tijuca,2ª RODADA,OITAVAS,20:00,,,sem_quartos,1577,https://lnb.com.br/noticias/recuperados-3/
+18/04/2012,Bauru,83,71,L. Sorocabana,2ª RODADA,OITAVAS,20:00,,,sem_quartos,1580,https://lnb.com.br/noticias/so-falta-uma/
+19/04/2012,Paulistano,69,77,Franca,3ª RODADA,OITAVAS,20:00,,,sem_quartos,1585,https://lnb.com.br/noticias/isso-e-franca/
+19/04/2012,Joinville,88,69,Limeira,3ª RODADA,OITAVAS,20:00,,,sem_quartos,1588,https://lnb.com.br/noticias/virada/
+20/04/2012,Uberlândia,93,77,Tijuca,3ª RODADA,OITAVAS,19:00,,,sem_quartos,1579,https://lnb.com.br/noticias/no-comando/
+20/04/2012,Bauru,84,74,L. Sorocabana,3ª RODADA,OITAVAS,21:00,,,sem_quartos,1582,https://lnb.com.br/noticias/absoluto-2/
+22/04/2012,Limeira,102,74,Joinville,4ª RODADA,OITAVAS,18:00,,,sem_quartos,1589,https://lnb.com.br/noticias/arrasador/
+23/04/2012,Tijuca,74,81,Uberlândia,4ª RODADA,OITAVAS,19:00,,,sem_quartos,1591,https://lnb.com.br/noticias/outro-carioca-pela-frente/
+24/04/2012,Joinville,86,78,Limeira,5ª RODADA,OITAVAS,21:00,,,sem_quartos,1596,https://lnb.com.br/noticias/classificacao-suada/
+27/04/2012,Joinville,96,80,Pinheiros,1ª RODADA,QUARTAS,20:00,,,sem_quartos,1604,https://lnb.com.br/noticias/passo-importante-2/
+27/04/2012,Franca,77,92,São José,1ª RODADA,QUARTAS,21:00,,,sem_quartos,1603,https://lnb.com.br/noticias/saiu-na-frente/
+28/04/2012,Uberlândia,108,110,Flamengo,1ª RODADA,QUARTAS,18:00,,,sem_quartos,1605,https://lnb.com.br/noticias/que-jogaco/
+01/05/2012,Flamengo,70,63,Uberlândia,2ª RODADA,QUARTAS,17:00,,,sem_quartos,1602,https://lnb.com.br/noticias/quase-la-2/
+01/05/2012,Pinheiros,68,74,Joinville,2ª RODADA,QUARTAS,19:00,,,sem_quartos,1599,https://lnb.com.br/noticias/e-agora/
+01/05/2012,São José,96,85,Franca,2ª RODADA,QUARTAS,21:00,,,sem_quartos,1598,https://lnb.com.br/noticias/falta-pouco/
+03/05/2012,Pinheiros,80,69,Joinville,3ª RODADA,QUARTAS,20:00,,,sem_quartos,1607,https://lnb.com.br/noticias/forca-dos-gigantes/
+03/05/2012,São José,94,80,Franca,3ª RODADA,QUARTAS,20:00,,,sem_quartos,1608,https://lnb.com.br/noticias/pela-primeira-vez/
+04/05/2012,Flamengo,60,77,Uberlândia,3ª RODADA,QUARTAS,19:00,,,sem_quartos,1609,https://lnb.com.br/noticias/muito-chao-pela-frente/
+04/05/2012,Bauru,76,80,Brasília,1ª RODADA,QUARTAS,21:00,,,sem_quartos,1606,https://lnb.com.br/noticias/foi-so-o-comeco/
+07/05/2012,Brasília,90,78,Bauru,2ª RODADA,QUARTAS,20:00,,,sem_quartos,1601,https://lnb.com.br/noticias/sem-poder-acomodar/
+08/05/2012,Joinville,71,77,Pinheiros,4ª RODADA,QUARTAS,19:00,,,sem_quartos,1612,https://lnb.com.br/noticias/eles-alcancaram/
+08/05/2012,Uberlândia,87,78,Flamengo,4ª RODADA,QUARTAS,20:00,,,sem_quartos,1619,https://lnb.com.br/noticias/e-uberlandia-tambem/
+08/05/2012,Brasília,99,91,Bauru,3ª RODADA,QUARTAS,21:00,,,sem_quartos,1611,https://lnb.com.br/noticias/alguem-duvidava/
+11/05/2012,Pinheiros,73,63,Joinville,5ª RODADA,QUARTAS,18:45,,,sem_quartos,1623,https://lnb.com.br/noticias/virada-historica-literalmente/
+11/05/2012,Flamengo,77,62,Uberlândia,5ª RODADA,QUARTAS,20:45,,,sem_quartos,1622,https://lnb.com.br/noticias/sempre-flamengo/
+15/05/2012,Flamengo,84,68,São José,1ª RODADA,SEMI,21:00,,,sem_quartos,1627,https://lnb.com.br/noticias/do-comeco-ao-fim-2/
+18/05/2012,São José,107,99,Flamengo,2ª RODADA,SEMI,19:00,,,sem_quartos,1626,https://lnb.com.br/noticias/vitoria-nota-1000/
+18/05/2012,Brasília,90,77,Pinheiros,1ª RODADA,SEMI,20:30,,,sem_quartos,1634,https://lnb.com.br/noticias/passo-importante-3/
+20/05/2012,Pinheiros,81,65,Brasília,2ª RODADA,SEMI,19:15,,,sem_quartos,1633,https://lnb.com.br/noticias/tudo-igual-2/
+20/05/2012,São José,100,91,Flamengo,3ª RODADA,SEMI,21:15,,,sem_quartos,1632,https://lnb.com.br/noticias/no-comando-2/
+22/05/2012,Pinheiros,74,76,Brasília,3ª RODADA,SEMI,21:00,,,sem_quartos,1635,https://lnb.com.br/noticias/a-um-passo-da-final/
+25/05/2012,Brasília,105,109,Pinheiros,4ª RODADA,SEMI,19:15,,,sem_quartos,1636,https://lnb.com.br/noticias/para-a-historia/
+25/05/2012,Flamengo,92,80,São José,4ª RODADA,SEMI,21:15,,,sem_quartos,1637,https://lnb.com.br/noticias/tudo-por-um-jogo/
+27/05/2012,Pinheiros,68,81,Brasília,5ª RODADA,SEMI,14:00,,,sem_quartos,1638,https://lnb.com.br/noticias/de-novo-na-final/
+27/05/2012,São José,106,90,Flamengo,5ª RODADA,SEMI,18:00,,,sem_quartos,1639,https://lnb.com.br/noticias/final-inedita/
+02/06/2012,São José,62,78,Brasília,1ª RODADA,FINAL,10:00,,,sem_quartos,1640,https://lnb.com.br/noticias/e-tri/

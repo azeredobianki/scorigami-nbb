@@ -1,0 +1,47 @@
+data,mandante,pts_mandante,pts_visitante,visitante,rodada,etapa,hora,prorrogacoes,quartos,status_quartos,id_lnb,link
+07/04/2015,Paulistano,75,76,São José,1ª RODADA,OITAVAS,19:30,0,21-22 18-19 21-15 15-20,ok,20956,https://lnb.com.br/noticias/inicio-eletrizante/
+08/04/2015,Franca,79,74,Palmeiras,1ª RODADA,OITAVAS,20:00,0,14-7 18-27 21-23 26-17,ok,20966,https://lnb.com.br/noticias/largou-bem-2/
+09/04/2015,Pinheiros,91,95,Brasília,1ª RODADA,OITAVAS,17:00,0,28-27 22-24 18-26 23-18,ok,20961,https://lnb.com.br/noticias/candangos-na-frente/
+09/04/2015,Paulistano,72,67,São José,2ª RODADA,OITAVAS,19:30,0,24-15 14-17 11-23 23-12,ok,20957,https://lnb.com.br/noticias/renasceram/
+10/04/2015,Minas,90,78,Macaé,1ª RODADA,OITAVAS,19:30,0,16-21 23-12 24-15 27-30,ok,20951,https://lnb.com.br/noticias/abriu-bem/
+10/04/2015,Franca,81,64,Palmeiras,2ª RODADA,OITAVAS,19:30,0,24-11 21-18 16-11 20-24,ok,20967,https://lnb.com.br/noticias/matou/
+11/04/2015,Pinheiros,96,90,Brasília,2ª RODADA,OITAVAS,20:30,,,sem_quartos,20962,https://lnb.com.br/noticias/tudo-igual-7/
+12/04/2015,Minas,80,81,Macaé,2ª RODADA,OITAVAS,17:00,1,7-13 8-22 26-15 30-21 9-10,ok,20952,https://lnb.com.br/noticias/so-no-final-4/
+13/04/2015,São José,85,74,Paulistano,3ª RODADA,OITAVAS,20:00,0,11-21 21-18 30-20 23-15,ok,20958,https://lnb.com.br/noticias/explode-caldeirao/
+14/04/2015,Palmeiras,80,73,Franca,3ª RODADA,OITAVAS,20:00,0,20-16 16-12 25-22 19-23,ok,20968,https://lnb.com.br/noticias/estao-vivos/
+14/04/2015,Brasília,82,76,Pinheiros,3ª RODADA,OITAVAS,21:30,0,25-19 26-17 14-19 17-21,ok,20963,https://lnb.com.br/noticias/de-novo-na-frente/
+15/04/2015,Macaé,91,62,Minas,3ª RODADA,OITAVAS,19:30,0,19-24 18-8 28-13 26-17,ok,20953,https://lnb.com.br/noticias/virada-macaense/
+15/04/2015,São José,74,65,Paulistano,4ª RODADA,OITAVAS,20:00,0,19-21 16-20 19-15 20-9,ok,20959,https://lnb.com.br/noticias/o-caldeirao-ferveu/
+16/04/2015,Brasília,93,81,Pinheiros,4ª RODADA,OITAVAS,20:00,0,27-19 24-16 24-24 18-22,ok,20964,https://lnb.com.br/noticias/festa-brasiliense/
+16/04/2015,Palmeiras,63,56,Franca,4ª RODADA,OITAVAS,20:00,0,12-8 14-21 22-10 15-17,ok,20969,https://lnb.com.br/noticias/no-palestra-nao/
+17/04/2015,Macaé,92,86,Minas,4ª RODADA,OITAVAS,19:30,0,23-21 26-17 21-24 22-24,ok,20954,https://lnb.com.br/noticias/noite_historica/
+19/04/2015,Franca,73,64,Palmeiras,5ª RODADA,OITAVAS,11:00,,,sem_quartos,20970,https://lnb.com.br/noticias/sempre-entre-os-8/
+22/04/2015,Limeira,93,76,Brasília,1ª RODADA,QUARTAS,20:00,,,sem_quartos,20979,https://lnb.com.br/noticias/primeiro_passo/
+23/04/2015,Flamengo,85,62,São José,1ª RODADA,QUARTAS,18:00,0,28-15 19-18 20-18 18-11,ok,20985,https://lnb.com.br/noticias/grande-estreia/
+23/04/2015,Mogi,84,72,Macaé,1ª RODADA,QUARTAS,20:00,0,13-17 21-20 21-18 29-17,ok,20986,https://lnb.com.br/noticias/solta-o-grito-3/
+24/04/2015,Bauru,82,55,Franca,1ª RODADA,QUARTAS,19:30,0,19-18 19-12 20-9 24-16,ok,20993,https://lnb.com.br/noticias/1_a_0/
+24/04/2015,Limeira,85,93,Brasília,2ª RODADA,QUARTAS,20:00,,,sem_quartos,20980,https://lnb.com.br/noticias/tudo_igual/
+25/04/2015,Flamengo,76,82,São José,2ª RODADA,QUARTAS,18:00,,,sem_quartos,20987,https://lnb.com.br/noticias/pura-determinacao/
+25/04/2015,Mogi,84,89,Macaé,2ª RODADA,QUARTAS,21:20,0,25-27 16-17 27-16 16-29,ok,20988,https://lnb.com.br/noticias/to-nem-ai/
+26/04/2015,Bauru,71,74,Franca,2ª RODADA,QUARTAS,19:00,,,sem_quartos,20994,https://lnb.com.br/noticias/outra-historia-4/
+27/04/2015,Brasília,83,98,Limeira,3ª RODADA,QUARTAS,20:30,0,13-22 25-19 21-23 24-34,ok,20981,https://lnb.com.br/noticias/2-a-1/
+28/04/2015,São José,68,86,Flamengo,3ª RODADA,QUARTAS,20:00,0,18-25 11-22 22-20 17-19,ok,20989,https://lnb.com.br/noticias/atuacao-imponente/
+29/04/2015,Brasília,76,89,Limeira,4ª RODADA,QUARTAS,19:30,0,15-19 26-20 19-27 16-23,ok,20982,https://lnb.com.br/noticias/semifinalista-inedito/
+29/04/2015,Macaé,78,69,Mogi,3ª RODADA,QUARTAS,19:30,0,25-13 16-14 15-23 22-19,ok,20990,https://lnb.com.br/noticias/o-juquinha-feveu/
+30/04/2015,São José,81,76,Flamengo,4ª RODADA,QUARTAS,19:30,0,28-23 17-17 22-19 14-17,ok,20991,https://lnb.com.br/noticias/vamos-pro-jogo-5/
+30/04/2015,Franca,67,75,Bauru,3ª RODADA,QUARTAS,20:00,0,18-14 9-25 28-17 12-19,ok,20995,https://lnb.com.br/noticias/mao-na-vaga/
+01/05/2015,Macaé,73,91,Mogi,4ª RODADA,QUARTAS,19:30,0,21-16 12-28 24-32 16-15,ok,20992,https://lnb.com.br/noticias/so_no_jogo_5/
+02/05/2015,Franca,78,67,Bauru,4ª RODADA,QUARTAS,17:00,0,17-15 16-12 25-23 20-17,ok,20996,https://lnb.com.br/noticias/raca-e-determinacao/
+04/05/2015,Mogi,91,84,Macaé,5ª RODADA,QUARTAS,20:00,,12-10 20-14 26-30 30-20,soma_diferente,21003,https://lnb.com.br/noticias/semifinal-ai-vou-eu/
+05/05/2015,Bauru,78,72,Franca,5ª RODADA,QUARTAS,19:00,0,17-21 21-15 23-16 17-20,ok,21005,https://lnb.com.br/noticias/chegaram-la/
+05/05/2015,Flamengo,98,64,São José,5ª RODADA,QUARTAS,21:00,0,21-18 22-17 29-10 26-19,ok,21004,https://lnb.com.br/noticias/com_autoridade/
+09/05/2015,Limeira,78,85,Flamengo,1ª RODADA,SEMI,16:00,,,sem_quartos,21011,https://lnb.com.br/noticias/poder_de_decisao/
+10/05/2015,Bauru,73,81,Mogi,1ª RODADA,SEMI,19:30,0,17-21 21-22 21-11 14-27,ok,21006,https://lnb.com.br/noticias/chamou-e-levou/
+11/05/2015,Limeira,73,92,Flamengo,2ª RODADA,SEMI,19:00,0,15-27 21-16 13-17 24-32,ok,21012,https://lnb.com.br/noticias/a-um-passo-da-final-2/
+12/05/2015,Bauru,84,81,Mogi,2ª RODADA,SEMI,21:00,0,19-13 22-17 23-22 20-29,ok,21007,https://lnb.com.br/noticias/quanta-emocao-3/
+14/05/2015,Flamengo,76,67,Limeira,3ª RODADA,SEMI,20:30,0,21-21 14-19 19-20 22-7,ok,21013,https://lnb.com.br/noticias/estrela-de-idolo/
+15/05/2015,Mogi,85,78,Bauru,3ª RODADA,SEMI,19:30,0,15-19 22-15 27-25 21-19,ok,21008,https://lnb.com.br/noticias/passo_importante_/
+17/05/2015,Mogi,91,98,Bauru,4ª RODADA,SEMI,13:00,2,12-11 15-20 23-26 19-12 12-12 10-17,ok,21009,https://lnb.com.br/noticias/jogo-epico/
+20/05/2015,Bauru,77,65,Mogi,5ª RODADA,SEMI,19:30,0,15-17 19-11 16-15 27-22,ok,21010,https://lnb.com.br/noticias/bauru-na-final/
+26/05/2015,Flamengo,91,69,Bauru,1ª RODADA,FINAL,21:30,0,28-18 19-10 23-15 21-26,ok,21017,https://lnb.com.br/noticias/avassalador_/
+30/05/2015,Bauru,67,77,Flamengo,2ª RODADA,FINAL,10:00,0,11-25 14-15 14-22 28-15,ok,21018,https://lnb.com.br/noticias/tri-e-tetra/
