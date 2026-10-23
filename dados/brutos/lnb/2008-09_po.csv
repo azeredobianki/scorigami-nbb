@@ -1,28 +1,28 @@
-data,mandante,pts_mandante,pts_visitante,visitante,rodada,etapa,hora,prorrogacoes,quartos,status_quartos,id_lnb,link
-15/05/2009,Limeira,87,77,Joinville,1ª RODADA,QUARTAS,21:30,,,sem_quartos,1854,https://lnb.com.br/noticias/limeira-x-joinville-15052009/
-16/05/2009,Pinheiros,87,92,Flamengo,1ª RODADA,QUARTAS,18:00,,,sem_quartos,1851,https://lnb.com.br/noticias/pinheiros-x-flamengo-16052009/
-17/05/2009,Bauru,79,83,Minas,1ª RODADA,QUARTAS,11:00,,,sem_quartos,1853,https://lnb.com.br/noticias/bauru-x-minas-17052009/
-17/05/2009,Franca,76,78,Brasília,1ª RODADA,QUARTAS,12:00,,,sem_quartos,1852,https://lnb.com.br/noticias/franca-x-brasilia-17052009/
-18/05/2009,Flamengo,92,85,Pinheiros,2ª RODADA,QUARTAS,19:00,,,sem_quartos,1855,https://lnb.com.br/noticias/flamengo-x-pinheiros-18052009/
-18/05/2009,Joinville,85,75,Limeira,2ª RODADA,QUARTAS,20:00,,,sem_quartos,1858,https://lnb.com.br/noticias/joinville-x-limeira-18052009/
-19/05/2009,Flamengo,87,84,Pinheiros,3ª RODADA,QUARTAS,19:00,,,sem_quartos,1859,https://lnb.com.br/noticias/flamengo-x-pinheiros-19052009/
-19/05/2009,Brasília,96,105,Franca,2ª RODADA,QUARTAS,20:00,,,sem_quartos,1856,https://lnb.com.br/noticias/brasilia-x-franca-19052009/
-19/05/2009,Minas,74,47,Bauru,2ª RODADA,QUARTAS,20:00,,,sem_quartos,1857,https://lnb.com.br/noticias/minas-x-bauru-19052009/
-19/05/2009,Joinville,77,63,Limeira,3ª RODADA,QUARTAS,20:00,,,sem_quartos,1862,https://lnb.com.br/noticias/joinville-x-limeira-19052009/
-20/05/2009,Minas,75,74,Bauru,3ª RODADA,QUARTAS,19:00,,,sem_quartos,1861,https://lnb.com.br/noticias/minas-x-bauru-20052009/
-20/05/2009,Brasília,76,66,Franca,3ª RODADA,QUARTAS,20:00,,,sem_quartos,1860,https://lnb.com.br/noticias/brasilia-x-franca-20052009/
-21/05/2009,Limeira,89,95,Joinville,4ª RODADA,QUARTAS,21:50,,,sem_quartos,1866,https://lnb.com.br/noticias/limeira-x-joinville-21052009/
-22/05/2009,Franca,74,73,Brasília,4ª RODADA,QUARTAS,20:00,,,sem_quartos,1864,https://lnb.com.br/noticias/franca-x-brasilia-22052009/
-24/05/2009,Brasília,64,59,Franca,5ª RODADA,QUARTAS,13:00,,,sem_quartos,1868,https://lnb.com.br/noticias/brasilia-x-franca-24052009/
-26/05/2009,Joinville,86,88,Flamengo,1ª RODADA,SEMI,19:00,,,sem_quartos,1871,https://lnb.com.br/noticias/joinville-x-flamengo-26052009/
-27/05/2009,Minas,91,78,Brasília,1ª RODADA,SEMI,19:00,,,sem_quartos,1872,https://lnb.com.br/noticias/minas-x-brasilia-27052009/
-29/05/2009,Flamengo,92,86,Joinville,2ª RODADA,SEMI,21:30,,,sem_quartos,1873,https://lnb.com.br/noticias/flamengo-x-joinville-29052009/
-30/05/2009,Brasília,103,76,Minas,2ª RODADA,SEMI,12:00,,,sem_quartos,1874,https://lnb.com.br/noticias/brasilia-x-minas-30052009/
-30/05/2009,Flamengo,109,94,Joinville,3ª RODADA,SEMI,21:30,,,sem_quartos,1875,https://lnb.com.br/noticias/flamengo-x-joinville-30052009/
-31/05/2009,Brasília,89,79,Minas,3ª RODADA,SEMI,12:00,,,sem_quartos,1876,https://lnb.com.br/noticias/brasilia-x-minas-31052009/
-02/06/2009,Minas,90,101,Brasília,4ª RODADA,SEMI,19:00,,,sem_quartos,1878,https://lnb.com.br/noticias/minas-x-brasilia-02062009/
-11/06/2009,Brasília,74,81,Flamengo,1ª RODADA,FINAL,12:00,,,sem_quartos,1881,https://lnb.com.br/noticias/brasilia-x-flamengo-11062009/
-13/06/2009,Flamengo,71,81,Brasília,2ª RODADA,FINAL,12:00,,,sem_quartos,1882,https://lnb.com.br/noticias/flamengo-x-brasilia-13062009/
-14/06/2009,Flamengo,99,78,Brasília,3ª RODADA,FINAL,13:00,,,sem_quartos,1883,https://lnb.com.br/noticias/flamengo-x-brasilia-14062009/
-21/06/2009,Brasília,82,78,Flamengo,4ª RODADA,FINAL,12:00,,,sem_quartos,1884,https://lnb.com.br/noticias/brasilia-x-flamengo-21062009/
-28/06/2009,Flamengo,76,68,Brasília,5ª RODADA,FINAL,10:00,,,sem_quartos,1885,https://lnb.com.br/noticias/flamengo-x-brasilia-28062009/
+data,mandante,pts_mandante,pts_visitante,visitante,rodada,etapa,hora,prorrogacoes,quartos,status_quartos,fonte_prorrogacao,id_lnb,link
+15/05/2009,Limeira,87,77,Joinville,1ª RODADA,QUARTAS,21:30,0,,sem_quartos,minutos LNB,1854,https://lnb.com.br/noticias/limeira-x-joinville-15052009/
+16/05/2009,Pinheiros,87,92,Flamengo,1ª RODADA,QUARTAS,18:00,0,,sem_quartos,minutos LNB,1851,https://lnb.com.br/noticias/pinheiros-x-flamengo-16052009/
+17/05/2009,Bauru,79,83,Minas,1ª RODADA,QUARTAS,11:00,0,,sem_quartos,minutos LNB,1853,https://lnb.com.br/noticias/bauru-x-minas-17052009/
+17/05/2009,Franca,76,78,Brasília,1ª RODADA,QUARTAS,12:00,0,,sem_quartos,minutos LNB,1852,https://lnb.com.br/noticias/franca-x-brasilia-17052009/
+18/05/2009,Flamengo,92,85,Pinheiros,2ª RODADA,QUARTAS,19:00,0,,sem_quartos,minutos LNB,1855,https://lnb.com.br/noticias/flamengo-x-pinheiros-18052009/
+18/05/2009,Joinville,85,75,Limeira,2ª RODADA,QUARTAS,20:00,0,,sem_quartos,minutos LNB,1858,https://lnb.com.br/noticias/joinville-x-limeira-18052009/
+19/05/2009,Flamengo,87,84,Pinheiros,3ª RODADA,QUARTAS,19:00,0,,sem_quartos,minutos LNB,1859,https://lnb.com.br/noticias/flamengo-x-pinheiros-19052009/
+19/05/2009,Brasília,96,105,Franca,2ª RODADA,QUARTAS,20:00,2,,sem_quartos,minutos LNB,1856,https://lnb.com.br/noticias/brasilia-x-franca-19052009/
+19/05/2009,Minas,74,47,Bauru,2ª RODADA,QUARTAS,20:00,0,,sem_quartos,minutos LNB,1857,https://lnb.com.br/noticias/minas-x-bauru-19052009/
+19/05/2009,Joinville,77,63,Limeira,3ª RODADA,QUARTAS,20:00,,,sem_quartos,,1862,https://lnb.com.br/noticias/joinville-x-limeira-19052009/
+20/05/2009,Minas,75,74,Bauru,3ª RODADA,QUARTAS,19:00,0,,sem_quartos,minutos LNB,1861,https://lnb.com.br/noticias/minas-x-bauru-20052009/
+20/05/2009,Brasília,76,66,Franca,3ª RODADA,QUARTAS,20:00,,,sem_quartos,,1860,https://lnb.com.br/noticias/brasilia-x-franca-20052009/
+21/05/2009,Limeira,89,95,Joinville,4ª RODADA,QUARTAS,21:50,0,,sem_quartos,minutos LNB,1866,https://lnb.com.br/noticias/limeira-x-joinville-21052009/
+22/05/2009,Franca,74,73,Brasília,4ª RODADA,QUARTAS,20:00,,,sem_quartos,,1864,https://lnb.com.br/noticias/franca-x-brasilia-22052009/
+24/05/2009,Brasília,64,59,Franca,5ª RODADA,QUARTAS,13:00,0,,sem_quartos,minutos LNB,1868,https://lnb.com.br/noticias/brasilia-x-franca-24052009/
+26/05/2009,Joinville,86,88,Flamengo,1ª RODADA,SEMI,19:00,0,,sem_quartos,minutos LNB,1871,https://lnb.com.br/noticias/joinville-x-flamengo-26052009/
+27/05/2009,Minas,91,78,Brasília,1ª RODADA,SEMI,19:00,0,,sem_quartos,minutos LNB,1872,https://lnb.com.br/noticias/minas-x-brasilia-27052009/
+29/05/2009,Flamengo,92,86,Joinville,2ª RODADA,SEMI,21:30,0,,sem_quartos,minutos LNB,1873,https://lnb.com.br/noticias/flamengo-x-joinville-29052009/
+30/05/2009,Brasília,103,76,Minas,2ª RODADA,SEMI,12:00,0,,sem_quartos,minutos LNB,1874,https://lnb.com.br/noticias/brasilia-x-minas-30052009/
+30/05/2009,Flamengo,109,94,Joinville,3ª RODADA,SEMI,21:30,0,,sem_quartos,minutos LNB,1875,https://lnb.com.br/noticias/flamengo-x-joinville-30052009/
+31/05/2009,Brasília,89,79,Minas,3ª RODADA,SEMI,12:00,0,,sem_quartos,minutos LNB,1876,https://lnb.com.br/noticias/brasilia-x-minas-31052009/
+02/06/2009,Minas,90,101,Brasília,4ª RODADA,SEMI,19:00,0,,sem_quartos,minutos LNB,1878,https://lnb.com.br/noticias/minas-x-brasilia-02062009/
+11/06/2009,Brasília,74,81,Flamengo,1ª RODADA,FINAL,12:00,0,,sem_quartos,minutos LNB,1881,https://lnb.com.br/noticias/brasilia-x-flamengo-11062009/
+13/06/2009,Flamengo,71,81,Brasília,2ª RODADA,FINAL,12:00,0,,sem_quartos,minutos LNB,1882,https://lnb.com.br/noticias/flamengo-x-brasilia-13062009/
+14/06/2009,Flamengo,99,78,Brasília,3ª RODADA,FINAL,13:00,0,,sem_quartos,minutos LNB,1883,https://lnb.com.br/noticias/flamengo-x-brasilia-14062009/
+21/06/2009,Brasília,82,78,Flamengo,4ª RODADA,FINAL,12:00,1,,sem_quartos,minutos LNB,1884,https://lnb.com.br/noticias/brasilia-x-flamengo-21062009/
+28/06/2009,Flamengo,76,68,Brasília,5ª RODADA,FINAL,10:00,0,,sem_quartos,minutos LNB,1885,https://lnb.com.br/noticias/flamengo-x-brasilia-28062009/

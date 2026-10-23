@@ -30,6 +30,6 @@ O site fica na Cloudflare, em [scorigaminbb.azeredo.app](https://scorigaminbb.az
 
 ## Regras
 
-- Vale o placar final, com prorrogação. A prorrogação é conhecida a partir de 2012-13.
+- Vale o placar final, com prorrogação. A prorrogação vem dos quartos e do box score da LNB e do BetExplorer; menos de 100 jogos ficam sem essa informação.
 - Vitórias por W.O. (20 × 0) ficam de fora.
 - Nomes de patrocínio são unidos na franquia (mapa em `scripts/build_data.py`).

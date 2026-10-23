@@ -6,48 +6,58 @@ Critério: mesmo mandante, mesmo visitante (pela franquia) e datas a até 2 dias
 
 ## Resumo por temporada
 
-| Temporada | LNB regular | LNB playoffs | BetExplorer | Iguais | Data diferente | Placar diferente | Mando invertido | Só LNB | Só BetExplorer | Prorrogações | Sem dado de quartos |
+| Temporada | LNB regular | LNB playoffs | BetExplorer | Iguais | Data diferente | Placar diferente | Mando invertido | Só LNB | Só BetExplorer | Prorrogações | Prorrogação desconhecida |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 2008-09 | 210 | 27 | 237 | 237 | 0 | 0 | 0 | 0 | 0 | 0 | 237 |
-| 2009-10 | 182 | 39 | 196 | 189 | 2 | 5 | 0 | 25 | 0 | 0 | 221 |
-| 2010-11 | 210 | 44 | 254 | 249 | 2 | 3 | 0 | 0 | 0 | 0 | 254 |
-| 2011-12 | 210 | 42 | 252 | 240 | 0 | 12 | 0 | 0 | 0 | 0 | 252 |
-| 2012-13 | 306 | 44 | 350 | 349 | 0 | 0 | 1 | 0 | 0 | 3 | 255 |
-| 2013-14 | 272 | 44 | 316 | 316 | 0 | 0 | 0 | 0 | 0 | 13 | 15 |
-| 2014-15 | 239 | 46 | 285 | 285 | 0 | 0 | 0 | 0 | 0 | 11 | 71 |
-| 2015-16 | 210 | 45 | 255 | 254 | 0 | 1 | 0 | 0 | 0 | 11 | 57 |
-| 2016-17 | 210 | 50 | 260 | 260 | 0 | 0 | 0 | 0 | 0 | 2 | 218 |
-| 2017-18 | 210 | 43 | 253 | 253 | 0 | 0 | 0 | 0 | 0 | 12 | 40 |
-| 2018-19 | 182 | 36 | 218 | 218 | 0 | 0 | 0 | 0 | 0 | 6 | 53 |
-| 2019-20 | 207 | 0 | 207 | 207 | 0 | 0 | 0 | 0 | 0 | 14 | 4 |
-| 2020-21 | 240 | 28 | 268 | 268 | 0 | 0 | 0 | 0 | 0 | 14 | 16 |
-| 2021-22 | 272 | 34 | 306 | 306 | 0 | 0 | 0 | 0 | 0 | 19 | 9 |
-| 2022-23 | 272 | 41 | 313 | 313 | 0 | 0 | 0 | 0 | 0 | 13 | 4 |
-| 2023-24 | 342 | 45 | 387 | 387 | 0 | 0 | 0 | 0 | 0 | 22 | 23 |
-| 2024-25 | 306 | 59 | 365 | 365 | 0 | 0 | 0 | 0 | 0 | 16 | 24 |
-| 2025-26 | 380 | 59 | 439 | 439 | 0 | 0 | 0 | 0 | 0 | 21 | 14 |
+| 2008-09 | 210 | 27 | 237 | 237 | 0 | 0 | 0 | 0 | 0 | 14 | 37 |
+| 2009-10 | 182 | 39 | 196 | 189 | 2 | 5 | 0 | 25 | 0 | 14 | 8 |
+| 2010-11 | 210 | 44 | 254 | 249 | 2 | 3 | 0 | 0 | 0 | 12 | 43 |
+| 2011-12 | 210 | 42 | 252 | 240 | 0 | 12 | 0 | 0 | 0 | 15 | 1 |
+| 2012-13 | 306 | 44 | 350 | 349 | 0 | 0 | 1 | 0 | 0 | 19 | 1 |
+| 2013-14 | 272 | 44 | 316 | 316 | 0 | 0 | 0 | 0 | 0 | 14 | 0 |
+| 2014-15 | 239 | 46 | 285 | 285 | 0 | 0 | 0 | 0 | 0 | 13 | 0 |
+| 2015-16 | 210 | 45 | 255 | 254 | 0 | 1 | 0 | 0 | 0 | 13 | 1 |
+| 2016-17 | 210 | 50 | 260 | 260 | 0 | 0 | 0 | 0 | 0 | 20 | 0 |
+| 2017-18 | 210 | 43 | 253 | 253 | 0 | 0 | 0 | 0 | 0 | 13 | 0 |
+| 2018-19 | 182 | 36 | 218 | 218 | 0 | 0 | 0 | 0 | 0 | 7 | 0 |
+| 2019-20 | 207 | 0 | 207 | 207 | 0 | 0 | 0 | 0 | 0 | 14 | 0 |
+| 2020-21 | 240 | 28 | 268 | 268 | 0 | 0 | 0 | 0 | 0 | 15 | 2 |
+| 2021-22 | 272 | 34 | 306 | 306 | 0 | 0 | 0 | 0 | 0 | 19 | 2 |
+| 2022-23 | 272 | 41 | 313 | 313 | 0 | 0 | 0 | 0 | 0 | 13 | 0 |
+| 2023-24 | 342 | 45 | 387 | 387 | 0 | 0 | 0 | 0 | 0 | 22 | 0 |
+| 2024-25 | 306 | 59 | 365 | 365 | 0 | 0 | 0 | 0 | 0 | 17 | 0 |
+| 2025-26 | 380 | 59 | 439 | 439 | 0 | 0 | 0 | 0 | 0 | 21 | 2 |
 | 2026-27 | 16 | 0 | 16 | 16 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 
 Total: 5202 jogos na LNB, 5177 no BetExplorer, 5151 iguais, 4 com data diferente, 21 com placar diferente, 1 com mando invertido, 25 só na LNB, 0 só no BetExplorer.
 
+## Jogos faltando
+
+A tabela da LNB tem todos os jogos de cada temporada, com duas exceções que não têm placar em nenhuma fonte:
+
+- 2014-15: Flamengo x Pinheiros (7ª rodada, 26/11/2014) aparece no BetExplorer sem placar e não está na LNB. Cada um desses times tem 29 jogos, contra 30 dos demais.
+- 2019-20: a temporada parou em março de 2020 por causa da pandemia (207 de 240 jogos, sem playoffs).
+
+O BetExplorer não tem nenhum jogo com placar que falte na LNB.
+
 ## Prorrogações
 
-A tabela da LNB não marca prorrogação. Para cada jogo foi lida a página da partida na LNB e contados os períodos: mais de 4 períodos é prorrogação. O resultado só é aceito quando a soma dos períodos bate com o placar final.
+A tabela da LNB não marca prorrogação. Foram usadas três fontes, nesta ordem:
 
-- Jogos com placar por quarto válido: 3435 de 5202. Desses, 177 tiveram prorrogação (o recorde é Cerrado 122x126 Fortaleza, 09/01/2022, com 4 prorrogações).
-- De 2008-09 a 2011-12 a LNB não publica placar por quarto (a página só traz o placar final e a súmula é um PDF escaneado), e o BetExplorer também não tem parciais desses anos. Nesses jogos, e nos demais sem dado, o campo `ot` fica `null` (desconhecido).
-- Em 2012-13 e 2016-17 a maior parte das páginas não tem quartos preenchidos.
-- 30 páginas de partida retornam erro 500 na LNB mesmo após novas tentativas.
+1. **Placar por quarto da LNB** (3435 jogos): mais de 4 períodos é prorrogação. Só vale quando a soma dos períodos bate com o placar final (períodos 0-0 são ignorados porque são dado vazio).
+2. **Minutos do box score da LNB** (778 jogos, a maioria de 2008-09 a 2011-12): cada time soma 200 minutos num jogo normal e mais 25 a cada prorrogação. Só vale quando os dois times dão o mesmo número de prorrogações, com margem de 2 minutos. Testado contra 555 jogos com quartos conhecidos, acertou 554 (o único erro era um quarto 0-0 falso na LNB, já corrigido).
+3. **Página da partida no BetExplorer** (892 jogos): parciais por quarto e a marca "After Extra Time". Testado contra 283 jogos com quartos conhecidos, acertou todos. Essa fonte só diz se houve prorrogação, não quantas (aparece "1+" no CSV).
 
-Jogos em que a soma dos quartos não bate com o placar final:
-- 09/11/2013 Flamengo 84x82 Brasília: quartos 18-12 22-16 19-19 27-35. O BetExplorer confirma o placar da tabela, então a tabela foi mantida e `ot` ficou `null`.
-- 04/05/2015 Mogi 91x84 Macaé: quartos 12-10 20-14 26-30 30-20. O BetExplorer confirma o placar da tabela, então a tabela foi mantida e `ot` ficou `null`.
+Resultado: 5105 de 5202 jogos com prorrogação conhecida, 275 com prorrogação. Ficam 97 sem informação (`ot` = null), quase todos de 2008-09 e 2010-11, em que a LNB não tem box score completo e o BetExplorer não tem parciais. A súmula desses jogos existe, mas é um PDF escaneado.
+
+Jogos em que a soma dos quartos da LNB não bate com o placar final (o BetExplorer confirma o placar da tabela, então a tabela foi mantida):
+- 09/11/2013 Flamengo 84x82 Brasília: quartos 18-12 22-16 19-19 27-35.
+- 04/05/2015 Mogi 91x84 Macaé: quartos 12-10 20-14 26-30 30-20.
 
 ## Correções aplicadas
 
 - 21/03/2013 Suzano x Bauru: a tabela da LNB dá 87x82, mas o placar por quarto da própria LNB (18-20, 25-20, 26-25, 13-22) e o BetExplorer dão 82x87 para o Bauru. Corrigido para 82x87.
 
-Todas as outras divergências ficaram com o placar da LNB. Nas de placar diferente em que a Wikipédia (páginas das temporadas em português) tem o jogo, ela confirma a LNB em todos os casos com resposta única.
+Todas as outras divergências ficaram com o placar da LNB. Nas divergências de placar em que a Wikipédia (páginas das temporadas em português) tem o jogo, ela confirma a LNB em todos os casos com resposta única.
 
 ## Diferenças por temporada
 

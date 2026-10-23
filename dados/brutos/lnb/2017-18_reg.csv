@@ -1,211 +1,211 @@
-data,mandante,pts_mandante,pts_visitante,visitante,rodada,etapa,hora,prorrogacoes,quartos,status_quartos,id_lnb,link
-04/11/2017,Bauru,72,71,Paulistano,,1º TURNO,14:00,0,17-17 16-19 19-20 20-15,ok,22261,https://lnb.com.br/noticias/deubauru/
-06/11/2017,Sesi Franca,73,77,Campo Mourão,,1º TURNO,20:10,0,24-17 14-13 17-20 18-27,ok,22263,https://lnb.com.br/noticias/campo-valente/
-07/11/2017,Minas,82,81,Vasco da Gama,,1º TURNO,19:30,0,20-11 15-20 27-24 20-26,ok,22264,https://lnb.com.br/noticias/hoje-nao/
-07/11/2017,L. Sorocabana,91,76,Basq. Cearense,,1º TURNO,20:00,0,18-12 14-18 25-21 34-25,ok,22269,https://lnb.com.br/noticias/cavalaria-acionada/
-08/11/2017,Bauru,82,80,Campo Mourão,,1º TURNO,20:00,0,19-14 18-22 28-19 17-25,ok,22267,https://lnb.com.br/noticias/no-sufoco-7/
-09/11/2017,L. Sorocabana,80,75,Vitória,,1º TURNO,20:00,0,24-18 21-22 8-18 27-17,ok,22265,https://lnb.com.br/noticias/empolgou/
-09/11/2017,Mogi,80,62,Basq. Cearense,,1º TURNO,20:00,0,19-10 18-18 18-17 25-17,ok,22266,https://lnb.com.br/noticias/inicio-quente/
-10/11/2017,Sesi Franca,97,73,Paulistano,,1º TURNO,20:10,0,25-17 30-16 21-16 21-24,ok,22270,https://lnb.com.br/noticias/nova-historia-4/
-11/11/2017,Mogi,80,75,Vitória,,1º TURNO,14:00,0,24-15 26-23 18-16 12-21,ok,22271,https://lnb.com.br/noticias/teve-emocao/
-14/11/2017,Paulistano,72,67,Flamengo,,1º TURNO,19:30,0,21-15 9-14 26-13 16-25,ok,22272,https://lnb.com.br/noticias/saborespecial/
-14/11/2017,Vasco da Gama,71,82,Pinheiros,,1º TURNO,20:00,0,11-22 26-17 17-21 17-22,ok,22274,https://lnb.com.br/noticias/inicio-positivo/
-14/11/2017,Campo Mourão,69,77,Minas,,1º TURNO,20:15,0,14-13 19-14 23-20 13-30,ok,22275,https://lnb.com.br/noticias/sai-da-frente-6/
-15/11/2017,Joinville / AABJ,66,59,Sesi Franca,,1º TURNO,13:00,0,9-17 7-19 29-13 21-10,ok,22276,https://lnb.com.br/noticias/incrivel-joinville/
-15/11/2017,Caxias do Sul,70,69,Bauru,,1º TURNO,15:00,0,23-17 14-19 19-17 14-16,ok,22277,https://lnb.com.br/noticias/dia-dos-caues/
-16/11/2017,Paulistano,93,86,Minas,,1º TURNO,20:00,1,20-19 22-9 16-24 19-25 16-9,ok,22278,https://lnb.com.br/noticias/e-do-cap-2/
-16/11/2017,Vasco da Gama,76,68,L. Sorocabana,,1º TURNO,20:00,,,sem_quartos,22279,https://lnb.com.br/noticias/sai-zica-6/
-16/11/2017,Botafogo,73,81,Pinheiros,,1º TURNO,20:00,0,16-20 12-23 14-20 31-18,ok,22280,https://lnb.com.br/noticias/no-controle-7/
-16/11/2017,Campo Mourão,82,89,Flamengo,,1º TURNO,20:15,,,sem_quartos,22281,https://lnb.com.br/noticias/solta-o-grito_/
-17/11/2017,Joinville / AABJ,71,97,Bauru,,1º TURNO,20:00,0,19-26 20-22 19-25 13-24,ok,22282,https://lnb.com.br/noticias/cuspiu-fogo/
-17/11/2017,Caxias do Sul,80,86,Sesi Franca,,1º TURNO,20:05,1,17-19 24-14 23-23 7-15 9-15,ok,22283,https://lnb.com.br/noticias/pura-superacao/
-18/11/2017,Botafogo,70,64,L. Sorocabana,,1º TURNO,11:00,0,20-14 17-17 12-20 21-13,ok,22284,https://lnb.com.br/noticias/fogo-aceso-2/
-18/11/2017,Vasco da Gama,75,82,Mogi,,1º TURNO,14:00,,,sem_quartos,22285,https://lnb.com.br/noticias/poe-na-conta-5/
-19/11/2017,Pinheiros,92,79,Basq. Cearense,,1º TURNO,19:00,,,sem_quartos,22262,https://lnb.com.br/noticias/100-pinheiros/
-21/11/2017,Botafogo,65,70,Mogi,,1º TURNO,19:30,0,16-22 14-16 16-20 19-12,ok,22273,https://lnb.com.br/noticias/vai-contando-2/
-22/11/2017,Campo Mourão,63,84,Caxias do Sul,,1º TURNO,19:30,0,15-23 19-25 15-17 14-19,ok,22286,https://lnb.com.br/noticias/forca-do-grupo-5/
-25/11/2017,Minas,74,56,Botafogo,,1º TURNO,14:00,0,22-10 14-22 17-16 21-8,ok,22287,https://lnb.com.br/noticias/minas-e-g-4/
-28/11/2017,Minas,86,84,Caxias do Sul,,1º TURNO,19:30,1,22-20 22-13 17-22 16-22 9-7,ok,22288,https://lnb.com.br/noticias/decisivoepouco/
-29/11/2017,Vitória,86,76,Botafogo,,1º TURNO,21:00,0,19-14 18-21 26-18 23-23,ok,22289,https://lnb.com.br/noticias/a-primeira-9/
-30/11/2017,Flamengo,79,69,Caxias do Sul,,1º TURNO,19:30,0,22-19 17-11 20-17 20-22,ok,22290,https://lnb.com.br/noticias/para-a-nacao/
-30/11/2017,L. Sorocabana,63,68,Campo Mourão,,1º TURNO,20:00,0,19-24 17-11 10-16 17-17,ok,22291,https://lnb.com.br/noticias/deu-campo/
-01/12/2017,Basq. Cearense,61,47,Botafogo,,1º TURNO,20:15,0,16-7 12-12 19-14 14-14,ok,22292,https://lnb.com.br/noticias/sai-fora/
-02/12/2017,Sesi Franca,87,83,Bauru,,1º TURNO,14:00,0,9-23 18-11 26-22 34-27,ok,22293,https://lnb.com.br/noticias/viradaheroica/
-02/12/2017,Mogi,72,69,Campo Mourão,,1º TURNO,17:00,0,17-15 22-15 13-18 20-21,ok,22295,https://lnb.com.br/noticias/fez-a-quina/
-02/12/2017,Flamengo,86,75,Joinville / AABJ,,1º TURNO,18:00,,,sem_quartos,22294,https://lnb.com.br/noticias/terceiraseguida/
-04/12/2017,Minas,69,52,Joinville / AABJ,,1º TURNO,19:00,,,sem_quartos,22296,https://lnb.com.br/noticias/a-vontade-3/
-04/12/2017,Caxias do Sul,82,66,L. Sorocabana,,1º TURNO,19:00,0,20-17 21-14 24-14 17-21,ok,22298,https://lnb.com.br/noticias/reacendeu-2/
-04/12/2017,Pinheiros,80,51,Campo Mourão,,1º TURNO,19:30,0,24-11 26-15 12-7 18-18,ok,22297,https://lnb.com.br/noticias/anota-a-placa/
-05/12/2017,Basq. Cearense,85,76,Vasco da Gama,,1º TURNO,19:30,,,sem_quartos,22299,https://lnb.com.br/noticias/aquela-vitoria/
-06/12/2017,Pinheiros,81,65,Paulistano,,1º TURNO,19:30,0,22-16 13-19 21-12 25-18,ok,22300,https://lnb.com.br/noticias/sai-da-frente-7/
-06/12/2017,Joinville / AABJ,77,75,L. Sorocabana,,1º TURNO,20:00,0,19-16 12-18 26-22 20-19,ok,22301,https://lnb.com.br/noticias/que-sufoco-6/
-07/12/2017,Caxias do Sul,66,65,Mogi,,1º TURNO,19:00,0,18-18 7-19 16-15 25-13,ok,22303,https://lnb.com.br/noticias/aqui-nao_-2/
-07/12/2017,Vitória,77,75,Vasco da Gama,,1º TURNO,21:00,,,sem_quartos,22302,https://lnb.com.br/noticias/v-de-vitoria_/
-09/12/2017,Paulistano,96,84,Basq. Cearense,,1º TURNO,14:00,0,32-13 23-24 17-23 24-24,ok,22304,https://lnb.com.br/noticias/altonivel/
-09/12/2017,Joinville / AABJ,61,67,Mogi,,1º TURNO,18:00,0,20-19 8-23 14-13 19-12,ok,22306,https://lnb.com.br/noticias/rumo-certo-2/
-09/12/2017,Caxias do Sul,71,86,Pinheiros,,1º TURNO,19:00,0,15-14 8-17 20-27 28-28,ok,22305,https://lnb.com.br/noticias/6-e-contando/
-11/12/2017,Joinville / AABJ,82,90,Pinheiros,,1º TURNO,19:00,0,26-14 22-26 14-23 20-27,ok,22308,https://lnb.com.br/noticias/ware-time/
-11/12/2017,Campo Mourão,60,66,Basq. Cearense,,1º TURNO,20:15,0,16-18 11-16 17-14 16-18,ok,22309,https://lnb.com.br/noticias/segurou-e-levou-2/
-11/12/2017,Paulistano,84,66,Vitória,,1º TURNO,21:00,0,17-12 20-17 18-20 29-17,ok,22307,https://lnb.com.br/noticias/ta-subindo/
-12/12/2017,Mogi,72,71,Sesi Franca,,1º TURNO,20:00,0,18-18 22-20 8-16 24-17,ok,22310,https://lnb.com.br/noticias/deixa-com-ele/
-12/12/2017,L. Sorocabana,81,89,Bauru,,1º TURNO,20:00,0,23-13 21-27 22-28 15-21,ok,22311,https://lnb.com.br/noticias/de-volta-aos-trilhos_/
-13/12/2017,Campo Mourão,65,72,Vitória,,1º TURNO,20:00,0,16-18 12-23 17-17 20-14,ok,22312,https://lnb.com.br/noticias/okories-day/
-14/12/2017,Pinheiros,77,93,Bauru,,1º TURNO,20:00,0,29-20 14-25 16-27 18-21,ok,22313,https://lnb.com.br/noticias/desbancou-o-invicto/
-14/12/2017,L. Sorocabana,79,87,Sesi Franca,,1º TURNO,20:00,0,19-22 19-17 21-21 20-27,ok,22314,https://lnb.com.br/noticias/vitoria-importante-4/
-15/12/2017,Minas,76,83,Flamengo,,1º TURNO,19:45,0,16-14 16-27 17-22 27-20,ok,22317,https://lnb.com.br/noticias/sai-fora_/
-16/12/2017,Mogi,72,69,Bauru,,1º TURNO,14:00,0,19-13 14-16 18-16 21-24,ok,22315,https://lnb.com.br/noticias/dupladecisiva/
-16/12/2017,Pinheiros,80,77,Vitória,,1º TURNO,19:30,0,19-16 21-20 27-22 13-19,ok,22268,https://lnb.com.br/noticias/sim-ele-chuta/
-17/12/2017,L. Sorocabana,75,78,Paulistano,,1º TURNO,18:00,,,sem_quartos,22316,https://lnb.com.br/noticias/emocao-de-sobra-8/
-19/12/2017,Vasco da Gama,72,68,Botafogo,,1º TURNO,19:30,,,sem_quartos,22318,https://lnb.com.br/noticias/poder-decisao/
-20/12/2017,Pinheiros,66,73,Mogi,,1º TURNO,19:30,0,15-23 15-15 16-13 20-22,ok,22319,https://lnb.com.br/noticias/o-topo-e-meu_/
-20/12/2017,Basq. Cearense,67,76,Caxias do Sul,,1º TURNO,20:30,0,15-17 15-10 14-28 23-21,ok,22320,https://lnb.com.br/noticias/forca-do-sul/
-20/12/2017,Vitória,88,68,Joinville / AABJ,,1º TURNO,20:30,0,18-17 25-11 25-27 20-13,ok,22321,https://lnb.com.br/noticias/chama-os-gringos/
-21/12/2017,Vasco da Gama,84,59,Campo Mourão,,1º TURNO,20:00,0,16-14 23-21 20-13 25-11,ok,22322,https://lnb.com.br/noticias/pra-ganhar-moral-6/
-21/12/2017,Botafogo,74,93,Paulistano,,1º TURNO,20:00,0,27-21 14-25 11-26 22-21,ok,22323,https://lnb.com.br/noticias/no-momento/
-21/12/2017,Bauru,71,97,Flamengo,,1º TURNO,20:00,,,sem_quartos,22324,https://lnb.com.br/noticias/foi-gigante/
-21/12/2017,Sesi Franca,75,55,Minas,,1º TURNO,20:10,0,22-14 16-15 16-12 21-14,ok,22325,https://lnb.com.br/noticias/avassalador_-2/
-22/12/2017,L. Sorocabana,75,77,Pinheiros,,1º TURNO,20:00,0,16-20 17-18 24-24 18-15,ok,22328,https://lnb.com.br/noticias/na-base-da-superacao/
-22/12/2017,Basq. Cearense,80,66,Joinville / AABJ,,1º TURNO,20:30,0,15-19 26-13 17-20 22-14,ok,22326,https://lnb.com.br/noticias/monstro-e-pouco/
-22/12/2017,Vitória,70,69,Caxias do Sul,,1º TURNO,20:30,,,sem_quartos,22327,https://lnb.com.br/noticias/como-um-leao-2/
-23/12/2017,Botafogo,67,64,Campo Mourão,,1º TURNO,11:00,0,15-21 16-9 20-16 16-18,ok,22329,https://lnb.com.br/noticias/dupla-emocao-2/
-23/12/2017,Vasco da Gama,71,77,Paulistano,,1º TURNO,11:00,,,sem_quartos,22331,https://lnb.com.br/noticias/verdadeira-batalha-3/
-23/12/2017,Sesi Franca,100,82,Flamengo,,1º TURNO,14:00,0,36-13 17-19 22-19 25-31,ok,22330,https://lnb.com.br/noticias/nota-100/
-23/12/2017,Bauru,89,70,Minas,,1º TURNO,18:00,0,25-20 16-10 17-22 31-18,ok,22332,https://lnb.com.br/noticias/deu-show/
-27/12/2017,Vitória,89,68,Basq. Cearense,,1º TURNO,19:30,0,22-10 26-23 18-19 23-16,ok,22333,https://lnb.com.br/noticias/festa-baiana-2/
-28/12/2017,Caxias do Sul,72,63,Joinville / AABJ,,1º TURNO,20:05,0,16-11 15-14 16-18 25-20,ok,22334,https://lnb.com.br/noticias/donodojogo/
-29/12/2017,Pinheiros,77,90,Sesi Franca,,1º TURNO,19:30,0,21-24 21-12 9-35 26-19,ok,22335,https://lnb.com.br/noticias/melhor-impossivel-6/
-30/12/2017,Flamengo,89,81,Vasco da Gama,,1º TURNO,14:00,,,sem_quartos,22336,https://lnb.com.br/noticias/edoflamengo/
-03/01/2018,Mogi,80,84,Paulistano,,1º TURNO,20:00,,,sem_quartos,22337,https://lnb.com.br/noticias/que-comece-2018/
-04/01/2018,Botafogo,60,77,Bauru,,1º TURNO,20:00,0,18-16 19-19 8-27 15-15,ok,22338,https://lnb.com.br/noticias/chamou-o-jogo/
-05/01/2018,Minas,71,61,L. Sorocabana,,1º TURNO,19:00,0,19-9 12-22 22-16 18-14,ok,22339,https://lnb.com.br/noticias/de-volta-aos-trilhos__/
-06/01/2018,Sesi Franca,68,55,Vitória,,1º TURNO,14:00,,,sem_quartos,22340,https://lnb.com.br/noticias/festa-completa-5/
-07/01/2018,Minas,65,82,Mogi,,1º TURNO,11:00,0,23-25 14-20 17-12 11-25,ok,22341,https://lnb.com.br/noticias/vitoria-de-lider/
-07/01/2018,Flamengo,72,68,Pinheiros,,1º TURNO,18:00,0,22-14 20-16 8-23 22-15,ok,22342,https://lnb.com.br/noticias/novovicelider/
-08/01/2018,Paulistano,92,67,Campo Mourão,,1º TURNO,19:30,0,30-11 17-14 18-15 27-27,ok,22343,https://lnb.com.br/noticias/agora-sao-7/
-08/01/2018,Joinville / AABJ,74,94,Vasco da Gama,,1º TURNO,20:00,,,sem_quartos,22344,https://lnb.com.br/noticias/virada-cruzmaltina/
-08/01/2018,Bauru,77,66,Vitória,,1º TURNO,20:00,,,sem_quartos,22345,https://lnb.com.br/noticias/festa-em-casa/
-08/01/2018,Sesi Franca,79,59,Basq. Cearense,,1º TURNO,20:10,0,12-18 26-15 25-14 16-12,ok,22346,https://lnb.com.br/noticias/soalegria/
-09/01/2018,Flamengo,77,71,Mogi,,1º TURNO,21:00,0,17-25 20-11 24-16 16-19,ok,22347,https://lnb.com.br/noticias/mengao-e-lider/
-10/01/2018,Minas,80,75,Pinheiros,,1º TURNO,19:00,0,23-13 17-20 19-11 21-31,ok,22348,https://lnb.com.br/noticias/minas-storm/
-10/01/2018,Joinville / AABJ,68,63,Botafogo,,1º TURNO,20:00,0,24-22 14-13 8-14 22-14,ok,22349,https://lnb.com.br/noticias/hoje-nao_/
-10/01/2018,Bauru,87,82,Basq. Cearense,,1º TURNO,20:00,0,23-23 25-15 19-13 20-31,ok,22350,https://lnb.com.br/noticias/sai-da-frente-8/
-10/01/2018,Caxias do Sul,81,69,Vasco da Gama,,1º TURNO,20:05,0,19-25 15-17 18-14 29-13,ok,22351,https://lnb.com.br/noticias/que-virada-6/
-11/01/2018,Flamengo,82,67,L. Sorocabana,,1º TURNO,20:00,0,19-16 14-16 25-21 24-14,ok,22352,https://lnb.com.br/noticias/o-cara-3/
-12/01/2018,Caxias do Sul,73,63,Botafogo,,1º TURNO,20:05,0,15-17 20-15 24-16 14-15,ok,22353,https://lnb.com.br/noticias/casaforte/
-13/01/2018,Vasco da Gama,67,81,Sesi Franca,,1º TURNO,13:30,0,14-19 14-27 24-16 15-19,ok,22354,https://lnb.com.br/noticias/dificilsegurar/
-14/01/2018,Paulistano,75,64,Joinville / AABJ,,1º TURNO,11:00,0,25-15 13-16 23-15 14-18,ok,22356,https://lnb.com.br/noticias/imparavel-4/
-14/01/2018,Basq. Cearense,75,92,Flamengo,,1º TURNO,12:00,0,25-24 7-17 23-25 20-26,ok,22355,https://lnb.com.br/noticias/belo-presente/
-14/01/2018,Vitória,82,57,Minas,,1º TURNO,20:00,0,15-11 22-9 22-24 23-13,ok,22357,https://lnb.com.br/noticias/hora-de-rugir/
-15/01/2018,Botafogo,63,67,Sesi Franca,,1º TURNO,20:00,0,15-13 13-15 20-19 15-20,ok,22358,https://lnb.com.br/noticias/oitava-e-contando/
-16/01/2018,Vitória,68,76,Flamengo,,1º TURNO,19:30,0,17-24 25-16 15-20 11-16,ok,22360,https://lnb.com.br/noticias/parapoucos/
-16/01/2018,Paulistano,88,70,Caxias do Sul,,1º TURNO,19:30,0,18-18 21-18 29-10 20-24,ok,22361,https://lnb.com.br/noticias/botecerteiro/
-16/01/2018,Campo Mourão,72,75,Joinville / AABJ,,1º TURNO,20:15,0,18-27 21-15 14-13 19-20,ok,22362,https://lnb.com.br/noticias/deu-joinville/
-16/01/2018,Basq. Cearense,66,58,Minas,,1º TURNO,20:30,0,14-11 19-16 16-18 17-13,ok,22359,https://lnb.com.br/noticias/vitoria-do-mestre/
-17/01/2018,Mogi,82,73,L. Sorocabana,,1º TURNO,20:00,0,21-18 24-11 20-26 17-18,ok,22363,https://lnb.com.br/noticias/final-feliz-2/
-17/01/2018,Vasco da Gama,86,87,Bauru,,1º TURNO,20:00,,,sem_quartos,22364,https://lnb.com.br/noticias/quanta-emocao-7/
-18/01/2018,Vitória,79,76,Pinheiros,,2º TURNO,20:00,0,18-21 18-22 23-16 20-17,ok,22366,https://lnb.com.br/noticias/positivo-leao/
-19/01/2018,Flamengo,107,54,Botafogo,,1º TURNO,20:00,0,27-10 34-15 25-13 21-16,ok,22365,https://lnb.com.br/noticias/noitemagica/
-20/01/2018,Basq. Cearense,66,64,Pinheiros,,2º TURNO,14:00,0,20-10 15-8 19-18 12-28,ok,22367,https://lnb.com.br/noticias/com-emocao-3/
-20/01/2018,Paulistano,88,79,Bauru,,2º TURNO,14:00,0,23-16 18-26 27-18 20-19,ok,22369,https://lnb.com.br/noticias/garoto-endiabrado/
-20/01/2018,Campo Mourão,60,88,Sesi Franca,,2º TURNO,16:15,0,14-32 12-17 13-20 21-19,ok,22368,https://lnb.com.br/noticias/desde-o-inicio-3/
-22/01/2018,Paulistano,88,74,Sesi Franca,,2º TURNO,19:30,0,22-17 23-19 22-17 21-21,ok,22370,https://lnb.com.br/noticias/ninguem-tira-5/
-22/01/2018,Mogi,84,70,Botafogo,,2º TURNO,20:00,0,29-10 17-25 22-16 16-19,ok,22382,https://lnb.com.br/noticias/dever-de-casa-3/
-22/01/2018,Campo Mourão,59,97,Bauru,,2º TURNO,20:15,0,23-18 11-19 13-33 12-27,ok,22372,https://lnb.com.br/noticias/pegou-fogo-5/
-23/01/2018,Vasco da Gama,70,54,Minas,,2º TURNO,19:30,0,21-8 13-16 15-16 21-14,ok,22371,https://lnb.com.br/noticias/ritmo-da-colina/
-23/01/2018,Basq. Cearense,83,64,L. Sorocabana,,2º TURNO,20:30,0,22-19 22-13 17-20 22-12,ok,22373,https://lnb.com.br/noticias/cearensetrincou/
-25/01/2018,Vitória,95,69,L. Sorocabana,,2º TURNO,20:30,0,24-16 25-16 22-10 24-27,ok,22376,https://lnb.com.br/noticias/sem-sustos_-3/
-26/01/2018,Joinville / AABJ,70,76,Caxias do Sul,,2º TURNO,20:00,0,22-23 14-21 19-15 15-17,ok,22379,https://lnb.com.br/noticias/forca-dogrupo/
-27/01/2018,Vasco da Gama,75,89,Flamengo,,2º TURNO,14:00,,,sem_quartos,22380,https://lnb.com.br/noticias/flabsoluto/
-29/01/2018,Minas,74,81,Campo Mourão,,2º TURNO,19:00,0,26-20 14-15 10-16 24-30,ok,22381,https://lnb.com.br/noticias/campo-vivo/
-30/01/2018,Sesi Franca,82,74,Caxias do Sul,,2º TURNO,19:30,0,26-22 25-21 11-10 20-21,ok,22393,https://lnb.com.br/noticias/alegria-completa/
-30/01/2018,L. Sorocabana,75,80,Vasco da Gama,,2º TURNO,20:00,1,15-20 15-8 18-20 16-16 11-16,ok,22383,https://lnb.com.br/noticias/fezmagica/
-31/01/2018,Bauru,88,41,Joinville / AABJ,,2º TURNO,19:00,0,20-10 29-11 21-9 18-11,ok,22392,https://lnb.com.br/noticias/avalanche-bauruense/
-31/01/2018,Basq. Cearense,78,77,Vitória,,2º TURNO,20:30,,,sem_quartos,22385,https://lnb.com.br/noticias/e-minha-3/
-01/02/2018,Minas,80,88,Paulistano,,2º TURNO,19:00,,,sem_quartos,22388,https://lnb.com.br/noticias/e-contando/
-01/02/2018,Pinheiros,80,77,Botafogo,,2º TURNO,19:30,0,22-16 21-17 22-19 15-25,ok,22389,https://lnb.com.br/noticias/de-volta-aos-trilhos-12/
-01/02/2018,Mogi,89,80,Vasco da Gama,,2º TURNO,20:00,,,sem_quartos,22391,https://lnb.com.br/noticias/ele-ferveu/
-01/02/2018,Flamengo,92,69,Campo Mourão,,2º TURNO,20:30,0,22-12 26-16 23-20 21-21,ok,22390,https://lnb.com.br/noticias/noite-de-festa-2/
-02/02/2018,Bauru,73,85,Caxias do Sul,,2º TURNO,20:00,0,24-22 16-21 16-17 17-25,ok,22386,https://lnb.com.br/noticias/feito-expressivo/
-02/02/2018,Sesi Franca,72,56,Joinville / AABJ,,2º TURNO,20:10,0,12-5 17-19 18-14 25-18,ok,22387,https://lnb.com.br/noticias/so-vitorias/
-03/02/2018,Flamengo,71,72,Paulistano,,2º TURNO,14:00,0,15-12 16-22 15-27 25-11,ok,22384,https://lnb.com.br/noticias/novolider/
-03/02/2018,Pinheiros,72,76,Vasco da Gama,,2º TURNO,17:00,,,sem_quartos,22394,https://lnb.com.br/noticias/saiqueeminha/
-03/02/2018,L. Sorocabana,68,75,Botafogo,,2º TURNO,18:00,0,21-19 12-23 21-20 14-13,ok,22395,https://lnb.com.br/noticias/fogo-aceso-3/
-05/02/2018,Campo Mourão,69,97,Mogi,,2º TURNO,20:15,0,17-29 19-28 18-16 15-24,ok,22396,https://lnb.com.br/noticias/menino-de-ouro/
-06/02/2018,Bauru,60,81,Sesi Franca,,2º TURNO,19:30,0,15-15 14-25 17-21 14-20,ok,22400,https://lnb.com.br/noticias/ditou-o-ritmo/
-06/02/2018,Joinville / AABJ,81,91,Flamengo,,2º TURNO,20:00,,,sem_quartos,22397,https://lnb.com.br/noticias/pouco-a-pouco-2/
-06/02/2018,Vasco da Gama,85,89,Vitória,,2º TURNO,20:00,,,sem_quartos,22398,https://lnb.com.br/noticias/superacao-baiana/
-06/02/2018,Botafogo,70,68,Basq. Cearense,,2º TURNO,20:00,0,16-14 16-21 18-19 20-14,ok,22399,https://lnb.com.br/noticias/nova-gloria/
-06/02/2018,Caxias do Sul,71,91,Minas,,2º TURNO,20:05,0,11-30 20-18 23-20 17-23,ok,22401,https://lnb.com.br/noticias/adeus-jejum-2/
-07/02/2018,Paulistano,84,59,L. Sorocabana,,2º TURNO,19:30,0,21-16 22-9 23-19 18-15,ok,22402,https://lnb.com.br/noticias/vitoria-de-lider-2/
-07/02/2018,Campo Mourão,60,64,Pinheiros,,2º TURNO,20:15,0,22-15 14-12 14-21 10-16,ok,22403,https://lnb.com.br/noticias/bote-certeiro-4/
-08/02/2018,Joinville / AABJ,66,73,Minas,,2º TURNO,20:00,1,9-22 11-13 21-14 21-13 4-11,ok,22404,https://lnb.com.br/noticias/e-minha_/
-08/02/2018,Botafogo,94,74,Vitória,,2º TURNO,20:00,0,18-23 29-8 20-24 27-19,ok,22405,https://lnb.com.br/noticias/trinca-especial/
-08/02/2018,Vasco da Gama,96,92,Basq. Cearense,,2º TURNO,20:00,,,sem_quartos,22406,https://lnb.com.br/noticias/pra-ganhar-moral_/
-08/02/2018,Caxias do Sul,75,98,Flamengo,,2º TURNO,20:05,0,11-23 17-32 19-18 28-25,ok,22407,https://lnb.com.br/noticias/onfire/
-09/02/2018,Paulistano,84,67,Mogi,,2º TURNO,19:30,0,21-17 26-13 24-21 13-16,ok,22408,https://lnb.com.br/noticias/cade-o-freio/
-12/02/2018,Paulistano,73,72,Pinheiros,,2º TURNO,18:00,0,17-16 22-15 20-22 14-19,ok,22378,https://lnb.com.br/noticias/emocao-e-folia/
-14/02/2018,Pinheiros,90,75,Caxias do Sul,,2º TURNO,19:30,0,25-15 21-19 25-17 19-24,ok,22409,https://lnb.com.br/noticias/desde-o-inicio-4/
-14/02/2018,L. Sorocabana,51,64,Joinville / AABJ,,2º TURNO,20:00,0,11-10 8-15 6-12 26-27,ok,22410,https://lnb.com.br/noticias/passo-importante-5/
-15/02/2018,Minas,66,81,Bauru,,2º TURNO,19:00,0,15-29 14-8 18-20 19-24,ok,22411,https://lnb.com.br/noticias/por-cima-3/
-15/02/2018,Vitória,88,79,Campo Mourão,,2º TURNO,20:30,0,25-22 12-25 27-20 24-12,ok,22412,https://lnb.com.br/noticias/aqui-nao_-3/
-15/02/2018,Basq. Cearense,60,81,Paulistano,,2º TURNO,20:30,0,11-26 13-19 12-23 24-13,ok,22413,https://lnb.com.br/noticias/com-autoridade-6/
-15/02/2018,Flamengo,86,66,Sesi Franca,,2º TURNO,21:15,0,18-6 25-14 21-18 22-28,ok,22414,https://lnb.com.br/noticias/show-do-mengao/
-16/02/2018,Pinheiros,108,59,Joinville / AABJ,,2º TURNO,19:30,0,30-18 30-16 21-20 27-5,ok,22415,https://lnb.com.br/noticias/teverecorde/
-16/02/2018,Botafogo,87,94,Vasco da Gama,,2º TURNO,20:00,,,sem_quartos,22416,https://lnb.com.br/noticias/festa-cruzmaltina/
-16/02/2018,Mogi,76,75,Caxias do Sul,,2º TURNO,20:00,0,25-14 14-19 23-13 14-29,ok,22417,https://lnb.com.br/noticias/vocefalouemocao/
-17/02/2018,Flamengo,75,61,Bauru,,2º TURNO,14:00,0,16-12 14-20 23-17 22-12,ok,22418,https://lnb.com.br/noticias/cartada-final/
-17/02/2018,Basq. Cearense,77,69,Campo Mourão,,2º TURNO,19:00,1,20-12 15-25 13-15 16-12 13-5,ok,22419,https://lnb.com.br/noticias/mr-rebote/
-17/02/2018,Vitória,68,90,Paulistano,,2º TURNO,20:00,0,18-25 21-20 17-27 12-18,ok,22420,https://lnb.com.br/noticias/quem-para-o-cap/
-18/02/2018,Minas,65,84,Sesi Franca,,2º TURNO,11:00,0,15-19 17-18 17-25 16-22,ok,22421,https://lnb.com.br/noticias/sem-vacilar/
-18/02/2018,Mogi,77,67,Joinville / AABJ,,2º TURNO,19:00,0,20-18 21-18 20-16 16-15,ok,22422,https://lnb.com.br/noticias/dever-de-casa-4/
-19/02/2018,L. Sorocabana,71,74,Caxias do Sul,,2º TURNO,20:00,0,19-19 16-17 20-19 16-19,ok,22423,https://lnb.com.br/noticias/sufoco-total/
-20/02/2018,Botafogo,70,76,Minas,,2º TURNO,19:30,0,15-17 20-24 16-21 19-14,ok,22375,https://lnb.com.br/noticias/tudo-azul_/
-23/02/2018,Campo Mourão,72,76,L. Sorocabana,,2º TURNO,20:15,0,14-19 16-20 19-24 23-13,ok,22424,https://lnb.com.br/noticias/vivos/
-24/02/2018,Basq. Cearense,82,80,Mogi,,2º TURNO,14:00,0,17-18 22-28 19-14 24-20,ok,22377,https://lnb.com.br/noticias/capitao-clutch/
-26/02/2018,Vitória,77,72,Mogi,,2º TURNO,19:30,0,19-22 24-13 14-20 20-17,ok,22374,https://lnb.com.br/noticias/deu-leao/
-27/02/2018,Caxias do Sul,67,60,Basq. Cearense,,2º TURNO,19:30,0,20-8 11-13 16-24 20-15,ok,22427,https://lnb.com.br/noticias/para-vibrar/
-27/02/2018,Campo Mourão,71,60,Botafogo,,2º TURNO,20:15,0,15-14 20-12 16-22 20-12,ok,22425,https://lnb.com.br/noticias/adeus-lanterna/
-28/02/2018,Joinville / AABJ,52,68,Vitória,,2º TURNO,20:00,0,16-18 14-16 8-16 14-18,ok,22426,https://lnb.com.br/noticias/e-do-leao/
-28/02/2018,Bauru,95,73,L. Sorocabana,,2º TURNO,20:00,,,sem_quartos,22429,https://lnb.com.br/noticias/dominante-9/
-01/03/2018,Paulistano,112,64,Botafogo,,2º TURNO,19:30,0,20-13 37-11 24-25 31-15,ok,22428,https://lnb.com.br/noticias/caraca-moleque/
-01/03/2018,Campo Mourão,79,89,Vasco da Gama,,2º TURNO,20:15,0,22-22 16-26 16-15 25-26,ok,22431,https://lnb.com.br/noticias/embalo-cruzmaltino-2/
-02/03/2018,Joinville / AABJ,73,59,Basq. Cearense,,2º TURNO,20:00,0,19-14 20-12 17-14 17-19,ok,22432,https://lnb.com.br/noticias/demonstracao-de-forca_/
-02/03/2018,Bauru,85,84,Pinheiros,,2º TURNO,20:00,1,20-21 23-23 21-22 13-11 8-7,ok,22438,https://lnb.com.br/noticias/foi-emocionante/
-02/03/2018,Caxias do Sul,79,78,Vitória,,2º TURNO,20:05,0,20-24 20-14 18-20 21-20,ok,22433,https://lnb.com.br/noticias/emocao-nao-faltou/
-02/03/2018,Sesi Franca,74,67,L. Sorocabana,,2º TURNO,20:10,0,14-16 16-12 24-18 20-21,ok,22436,https://lnb.com.br/noticias/no-sufoco-8/
-03/03/2018,Paulistano,102,59,Vasco da Gama,,2º TURNO,14:00,0,26-16 31-15 21-15 24-13,ok,22437,https://lnb.com.br/noticias/cap-e-show/
-03/03/2018,Flamengo,96,84,Minas,,2º TURNO,20:00,0,26-17 23-19 21-32 26-16,ok,22435,https://lnb.com.br/noticias/bolanele/
-04/03/2018,Sesi Franca,87,79,Pinheiros,,2º TURNO,11:00,0,23-22 22-18 24-15 18-24,ok,22430,https://lnb.com.br/noticias/cadavezmaisperto/
-05/03/2018,Vitória,82,77,Bauru,,2º TURNO,19:30,,,sem_quartos,22452,https://lnb.com.br/noticias/rugiu-alto-2/
-06/03/2018,L. Sorocabana,63,70,Flamengo,,2º TURNO,19:00,0,12-18 29-18 10-19 12-15,ok,22440,https://lnb.com.br/noticias/dura-vitoria/
-06/03/2018,Botafogo,88,77,Joinville / AABJ,,2º TURNO,20:00,0,23-26 22-16 19-23 24-12,ok,22441,https://lnb.com.br/noticias/e-do-fogao/
-06/03/2018,Vasco da Gama,70,87,Caxias do Sul,,2º TURNO,20:00,0,17-18 18-24 17-20 18-25,ok,22442,https://lnb.com.br/noticias/engatou-a-4a-3/
-08/03/2018,Pinheiros,67,78,Flamengo,,2º TURNO,19:30,0,23-13 4-18 20-23 20-24,ok,22443,https://lnb.com.br/noticias/trio-decisivo/
-08/03/2018,Vasco da Gama,83,56,Joinville / AABJ,,2º TURNO,20:00,0,23-16 11-21 31-11 18-8,ok,22444,https://lnb.com.br/noticias/com-autoridade-7/
-08/03/2018,Botafogo,76,67,Caxias do Sul,,2º TURNO,20:00,0,22-12 23-6 22-20 9-29,ok,22445,https://lnb.com.br/noticias/botoufogo/
-08/03/2018,Sesi Franca,75,73,Mogi,,2º TURNO,20:10,,,sem_quartos,22439,https://lnb.com.br/noticias/sobrou-emocao/
-08/03/2018,Campo Mourão,66,111,Paulistano,,2º TURNO,20:15,0,21-25 13-33 17-28 15-25,ok,22446,https://lnb.com.br/noticias/destruidor-de-novo/
-10/03/2018,Mogi,72,75,Flamengo,,2º TURNO,14:00,0,15-15 17-17 22-23 18-20,ok,22449,https://lnb.com.br/noticias/clima-de-playoffs/
-10/03/2018,Pinheiros,62,64,Minas,,2º TURNO,18:00,0,12-17 20-19 20-18 10-10,ok,22450,https://lnb.com.br/noticias/esquentouabriga/
-11/03/2018,Basq. Cearense,75,73,Sesi Franca,,2º TURNO,11:00,0,11-17 19-22 20-14 25-20,ok,22451,https://lnb.com.br/noticias/como-um-carcara/
-12/03/2018,Botafogo,84,90,Flamengo,,2º TURNO,19:00,0,18-20 28-23 17-27 21-20,ok,22454,https://lnb.com.br/noticias/o-classico-e-do-mengao/
-12/03/2018,Mogi,76,39,Minas,,2º TURNO,20:00,0,16-14 15-8 21-11 24-6,ok,22453,https://lnb.com.br/noticias/dominante-10/
-13/03/2018,Vitória,85,92,Sesi Franca,,2º TURNO,19:30,0,21-23 17-24 10-24 37-21,ok,22448,https://lnb.com.br/noticias/franca-e-g-4/
-14/03/2018,L. Sorocabana,54,75,Minas,,2º TURNO,20:00,,,sem_quartos,22455,https://lnb.com.br/noticias/volta-por-cima-6/
-15/03/2018,Bauru,75,76,Mogi,,2º TURNO,20:00,0,15-20 16-25 24-13 20-18,ok,22434,https://lnb.com.br/noticias/quartas-ai-vou-eu-2/
-21/03/2018,Basq. Cearense,81,80,Bauru,,2º TURNO,19:30,0,15-23 25-15 16-23 25-19,ok,22447,https://lnb.com.br/noticias/noite-iluminada/
-24/03/2018,Sesi Franca,93,61,Vasco da Gama,,2º TURNO,14:00,0,24-8 20-18 17-6 32-29,ok,22457,https://lnb.com.br/noticias/129106/
-25/03/2018,Flamengo,87,85,Basq. Cearense,,2º TURNO,11:00,0,19-21 27-20 17-22 24-22,ok,22458,https://lnb.com.br/noticias/ta-na-briga/
-25/03/2018,Minas,80,78,Vitória,,2º TURNO,11:00,1,16-17 10-17 20-16 21-17 13-11,ok,22459,https://lnb.com.br/noticias/faltapouco-2/
-25/03/2018,Caxias do Sul,75,66,Campo Mourão,,2º TURNO,11:00,0,18-15 18-12 20-16 19-23,ok,22460,https://lnb.com.br/noticias/entre-os-8/
-25/03/2018,Joinville / AABJ,66,86,Paulistano,,2º TURNO,11:00,0,19-21 12-18 21-23 14-24,ok,22461,https://lnb.com.br/noticias/com-recordes/
-25/03/2018,Bauru,103,78,Botafogo,,2º TURNO,11:00,0,27-20 21-21 32-21 23-16,ok,22462,https://lnb.com.br/noticias/rumo-certo-3/
-27/03/2018,Sesi Franca,104,67,Botafogo,,2º TURNO,19:30,0,21-17 30-12 23-14 30-24,ok,22464,https://lnb.com.br/noticias/fechou-bonito/
-27/03/2018,Bauru,83,88,Vasco da Gama,,2º TURNO,19:30,0,25-14 15-26 18-23 25-25,ok,22465,https://lnb.com.br/noticias/ganhou-moral/
-27/03/2018,Minas,75,63,Basq. Cearense,,2º TURNO,19:30,0,17-21 13-14 32-14 13-14,ok,22466,https://lnb.com.br/noticias/agora-e-torcer-2/
-27/03/2018,Flamengo,89,75,Vitória,,2º TURNO,19:30,0,23-12 24-14 13-23 29-26,ok,22467,https://lnb.com.br/noticias/mengaoelider/
-27/03/2018,Joinville / AABJ,83,81,Campo Mourão,,2º TURNO,19:30,1,19-18 20-20 18-21 19-17 7-5,ok,22468,https://lnb.com.br/noticias/com-muita-emocao-2/
-27/03/2018,Caxias do Sul,81,80,Paulistano,,2º TURNO,19:30,0,21-18 22-22 15-21 23-19,ok,22469,https://lnb.com.br/noticias/quefacanha/
-27/03/2018,Pinheiros,80,69,L. Sorocabana,,2º TURNO,19:30,0,17-21 21-13 21-17 21-18,ok,22470,https://lnb.com.br/noticias/grande-passo-4/
-29/03/2018,Mogi,69,84,Pinheiros,,2º TURNO,20:00,,,sem_quartos,22463,https://lnb.com.br/noticias/missao-cumprida-2/
-30/03/2018,L. Sorocabana,69,74,Mogi,,2º TURNO,19:00,0,17-19 22-15 20-23 10-17,ok,22456,https://lnb.com.br/noticias/encerramento/
+data,mandante,pts_mandante,pts_visitante,visitante,rodada,etapa,hora,prorrogacoes,quartos,status_quartos,fonte_prorrogacao,id_lnb,link
+04/11/2017,Bauru,72,71,Paulistano,,1º TURNO,14:00,0,17-17 16-19 19-20 20-15,ok,quartos LNB,22261,https://lnb.com.br/noticias/deubauru/
+06/11/2017,Sesi Franca,73,77,Campo Mourão,,1º TURNO,20:10,0,24-17 14-13 17-20 18-27,ok,quartos LNB,22263,https://lnb.com.br/noticias/campo-valente/
+07/11/2017,Minas,82,81,Vasco da Gama,,1º TURNO,19:30,0,20-11 15-20 27-24 20-26,ok,quartos LNB,22264,https://lnb.com.br/noticias/hoje-nao/
+07/11/2017,L. Sorocabana,91,76,Basq. Cearense,,1º TURNO,20:00,0,18-12 14-18 25-21 34-25,ok,quartos LNB,22269,https://lnb.com.br/noticias/cavalaria-acionada/
+08/11/2017,Bauru,82,80,Campo Mourão,,1º TURNO,20:00,0,19-14 18-22 28-19 17-25,ok,quartos LNB,22267,https://lnb.com.br/noticias/no-sufoco-7/
+09/11/2017,L. Sorocabana,80,75,Vitória,,1º TURNO,20:00,0,24-18 21-22 8-18 27-17,ok,quartos LNB,22265,https://lnb.com.br/noticias/empolgou/
+09/11/2017,Mogi,80,62,Basq. Cearense,,1º TURNO,20:00,0,19-10 18-18 18-17 25-17,ok,quartos LNB,22266,https://lnb.com.br/noticias/inicio-quente/
+10/11/2017,Sesi Franca,97,73,Paulistano,,1º TURNO,20:10,0,25-17 30-16 21-16 21-24,ok,quartos LNB,22270,https://lnb.com.br/noticias/nova-historia-4/
+11/11/2017,Mogi,80,75,Vitória,,1º TURNO,14:00,0,24-15 26-23 18-16 12-21,ok,quartos LNB,22271,https://lnb.com.br/noticias/teve-emocao/
+14/11/2017,Paulistano,72,67,Flamengo,,1º TURNO,19:30,0,21-15 9-14 26-13 16-25,ok,quartos LNB,22272,https://lnb.com.br/noticias/saborespecial/
+14/11/2017,Vasco da Gama,71,82,Pinheiros,,1º TURNO,20:00,0,11-22 26-17 17-21 17-22,ok,quartos LNB,22274,https://lnb.com.br/noticias/inicio-positivo/
+14/11/2017,Campo Mourão,69,77,Minas,,1º TURNO,20:15,0,14-13 19-14 23-20 13-30,ok,quartos LNB,22275,https://lnb.com.br/noticias/sai-da-frente-6/
+15/11/2017,Joinville / AABJ,66,59,Sesi Franca,,1º TURNO,13:00,0,9-17 7-19 29-13 21-10,ok,quartos LNB,22276,https://lnb.com.br/noticias/incrivel-joinville/
+15/11/2017,Caxias do Sul,70,69,Bauru,,1º TURNO,15:00,0,23-17 14-19 19-17 14-16,ok,quartos LNB,22277,https://lnb.com.br/noticias/dia-dos-caues/
+16/11/2017,Paulistano,93,86,Minas,,1º TURNO,20:00,1,20-19 22-9 16-24 19-25 16-9,ok,quartos LNB,22278,https://lnb.com.br/noticias/e-do-cap-2/
+16/11/2017,Vasco da Gama,76,68,L. Sorocabana,,1º TURNO,20:00,0,,sem_quartos,BetExplorer,22279,https://lnb.com.br/noticias/sai-zica-6/
+16/11/2017,Botafogo,73,81,Pinheiros,,1º TURNO,20:00,0,16-20 12-23 14-20 31-18,ok,quartos LNB,22280,https://lnb.com.br/noticias/no-controle-7/
+16/11/2017,Campo Mourão,82,89,Flamengo,,1º TURNO,20:15,0,,sem_quartos,BetExplorer,22281,https://lnb.com.br/noticias/solta-o-grito_/
+17/11/2017,Joinville / AABJ,71,97,Bauru,,1º TURNO,20:00,0,19-26 20-22 19-25 13-24,ok,quartos LNB,22282,https://lnb.com.br/noticias/cuspiu-fogo/
+17/11/2017,Caxias do Sul,80,86,Sesi Franca,,1º TURNO,20:05,1,17-19 24-14 23-23 7-15 9-15,ok,quartos LNB,22283,https://lnb.com.br/noticias/pura-superacao/
+18/11/2017,Botafogo,70,64,L. Sorocabana,,1º TURNO,11:00,0,20-14 17-17 12-20 21-13,ok,quartos LNB,22284,https://lnb.com.br/noticias/fogo-aceso-2/
+18/11/2017,Vasco da Gama,75,82,Mogi,,1º TURNO,14:00,0,,sem_quartos,BetExplorer,22285,https://lnb.com.br/noticias/poe-na-conta-5/
+19/11/2017,Pinheiros,92,79,Basq. Cearense,,1º TURNO,19:00,0,,sem_quartos,BetExplorer,22262,https://lnb.com.br/noticias/100-pinheiros/
+21/11/2017,Botafogo,65,70,Mogi,,1º TURNO,19:30,0,16-22 14-16 16-20 19-12,ok,quartos LNB,22273,https://lnb.com.br/noticias/vai-contando-2/
+22/11/2017,Campo Mourão,63,84,Caxias do Sul,,1º TURNO,19:30,0,15-23 19-25 15-17 14-19,ok,quartos LNB,22286,https://lnb.com.br/noticias/forca-do-grupo-5/
+25/11/2017,Minas,74,56,Botafogo,,1º TURNO,14:00,0,22-10 14-22 17-16 21-8,ok,quartos LNB,22287,https://lnb.com.br/noticias/minas-e-g-4/
+28/11/2017,Minas,86,84,Caxias do Sul,,1º TURNO,19:30,1,22-20 22-13 17-22 16-22 9-7,ok,quartos LNB,22288,https://lnb.com.br/noticias/decisivoepouco/
+29/11/2017,Vitória,86,76,Botafogo,,1º TURNO,21:00,0,19-14 18-21 26-18 23-23,ok,quartos LNB,22289,https://lnb.com.br/noticias/a-primeira-9/
+30/11/2017,Flamengo,79,69,Caxias do Sul,,1º TURNO,19:30,0,22-19 17-11 20-17 20-22,ok,quartos LNB,22290,https://lnb.com.br/noticias/para-a-nacao/
+30/11/2017,L. Sorocabana,63,68,Campo Mourão,,1º TURNO,20:00,0,19-24 17-11 10-16 17-17,ok,quartos LNB,22291,https://lnb.com.br/noticias/deu-campo/
+01/12/2017,Basq. Cearense,61,47,Botafogo,,1º TURNO,20:15,0,16-7 12-12 19-14 14-14,ok,quartos LNB,22292,https://lnb.com.br/noticias/sai-fora/
+02/12/2017,Sesi Franca,87,83,Bauru,,1º TURNO,14:00,0,9-23 18-11 26-22 34-27,ok,quartos LNB,22293,https://lnb.com.br/noticias/viradaheroica/
+02/12/2017,Mogi,72,69,Campo Mourão,,1º TURNO,17:00,0,17-15 22-15 13-18 20-21,ok,quartos LNB,22295,https://lnb.com.br/noticias/fez-a-quina/
+02/12/2017,Flamengo,86,75,Joinville / AABJ,,1º TURNO,18:00,0,,sem_quartos,BetExplorer,22294,https://lnb.com.br/noticias/terceiraseguida/
+04/12/2017,Minas,69,52,Joinville / AABJ,,1º TURNO,19:00,0,,sem_quartos,BetExplorer,22296,https://lnb.com.br/noticias/a-vontade-3/
+04/12/2017,Caxias do Sul,82,66,L. Sorocabana,,1º TURNO,19:00,0,20-17 21-14 24-14 17-21,ok,quartos LNB,22298,https://lnb.com.br/noticias/reacendeu-2/
+04/12/2017,Pinheiros,80,51,Campo Mourão,,1º TURNO,19:30,0,24-11 26-15 12-7 18-18,ok,quartos LNB,22297,https://lnb.com.br/noticias/anota-a-placa/
+05/12/2017,Basq. Cearense,85,76,Vasco da Gama,,1º TURNO,19:30,0,,sem_quartos,BetExplorer,22299,https://lnb.com.br/noticias/aquela-vitoria/
+06/12/2017,Pinheiros,81,65,Paulistano,,1º TURNO,19:30,0,22-16 13-19 21-12 25-18,ok,quartos LNB,22300,https://lnb.com.br/noticias/sai-da-frente-7/
+06/12/2017,Joinville / AABJ,77,75,L. Sorocabana,,1º TURNO,20:00,0,19-16 12-18 26-22 20-19,ok,quartos LNB,22301,https://lnb.com.br/noticias/que-sufoco-6/
+07/12/2017,Caxias do Sul,66,65,Mogi,,1º TURNO,19:00,0,18-18 7-19 16-15 25-13,ok,quartos LNB,22303,https://lnb.com.br/noticias/aqui-nao_-2/
+07/12/2017,Vitória,77,75,Vasco da Gama,,1º TURNO,21:00,0,,sem_quartos,BetExplorer,22302,https://lnb.com.br/noticias/v-de-vitoria_/
+09/12/2017,Paulistano,96,84,Basq. Cearense,,1º TURNO,14:00,0,32-13 23-24 17-23 24-24,ok,quartos LNB,22304,https://lnb.com.br/noticias/altonivel/
+09/12/2017,Joinville / AABJ,61,67,Mogi,,1º TURNO,18:00,0,20-19 8-23 14-13 19-12,ok,quartos LNB,22306,https://lnb.com.br/noticias/rumo-certo-2/
+09/12/2017,Caxias do Sul,71,86,Pinheiros,,1º TURNO,19:00,0,15-14 8-17 20-27 28-28,ok,quartos LNB,22305,https://lnb.com.br/noticias/6-e-contando/
+11/12/2017,Joinville / AABJ,82,90,Pinheiros,,1º TURNO,19:00,0,26-14 22-26 14-23 20-27,ok,quartos LNB,22308,https://lnb.com.br/noticias/ware-time/
+11/12/2017,Campo Mourão,60,66,Basq. Cearense,,1º TURNO,20:15,0,16-18 11-16 17-14 16-18,ok,quartos LNB,22309,https://lnb.com.br/noticias/segurou-e-levou-2/
+11/12/2017,Paulistano,84,66,Vitória,,1º TURNO,21:00,0,17-12 20-17 18-20 29-17,ok,quartos LNB,22307,https://lnb.com.br/noticias/ta-subindo/
+12/12/2017,Mogi,72,71,Sesi Franca,,1º TURNO,20:00,0,18-18 22-20 8-16 24-17,ok,quartos LNB,22310,https://lnb.com.br/noticias/deixa-com-ele/
+12/12/2017,L. Sorocabana,81,89,Bauru,,1º TURNO,20:00,0,23-13 21-27 22-28 15-21,ok,quartos LNB,22311,https://lnb.com.br/noticias/de-volta-aos-trilhos_/
+13/12/2017,Campo Mourão,65,72,Vitória,,1º TURNO,20:00,0,16-18 12-23 17-17 20-14,ok,quartos LNB,22312,https://lnb.com.br/noticias/okories-day/
+14/12/2017,Pinheiros,77,93,Bauru,,1º TURNO,20:00,0,29-20 14-25 16-27 18-21,ok,quartos LNB,22313,https://lnb.com.br/noticias/desbancou-o-invicto/
+14/12/2017,L. Sorocabana,79,87,Sesi Franca,,1º TURNO,20:00,0,19-22 19-17 21-21 20-27,ok,quartos LNB,22314,https://lnb.com.br/noticias/vitoria-importante-4/
+15/12/2017,Minas,76,83,Flamengo,,1º TURNO,19:45,0,16-14 16-27 17-22 27-20,ok,quartos LNB,22317,https://lnb.com.br/noticias/sai-fora_/
+16/12/2017,Mogi,72,69,Bauru,,1º TURNO,14:00,0,19-13 14-16 18-16 21-24,ok,quartos LNB,22315,https://lnb.com.br/noticias/dupladecisiva/
+16/12/2017,Pinheiros,80,77,Vitória,,1º TURNO,19:30,0,19-16 21-20 27-22 13-19,ok,quartos LNB,22268,https://lnb.com.br/noticias/sim-ele-chuta/
+17/12/2017,L. Sorocabana,75,78,Paulistano,,1º TURNO,18:00,0,,sem_quartos,BetExplorer,22316,https://lnb.com.br/noticias/emocao-de-sobra-8/
+19/12/2017,Vasco da Gama,72,68,Botafogo,,1º TURNO,19:30,0,,sem_quartos,BetExplorer,22318,https://lnb.com.br/noticias/poder-decisao/
+20/12/2017,Pinheiros,66,73,Mogi,,1º TURNO,19:30,0,15-23 15-15 16-13 20-22,ok,quartos LNB,22319,https://lnb.com.br/noticias/o-topo-e-meu_/
+20/12/2017,Basq. Cearense,67,76,Caxias do Sul,,1º TURNO,20:30,0,15-17 15-10 14-28 23-21,ok,quartos LNB,22320,https://lnb.com.br/noticias/forca-do-sul/
+20/12/2017,Vitória,88,68,Joinville / AABJ,,1º TURNO,20:30,0,18-17 25-11 25-27 20-13,ok,quartos LNB,22321,https://lnb.com.br/noticias/chama-os-gringos/
+21/12/2017,Vasco da Gama,84,59,Campo Mourão,,1º TURNO,20:00,0,16-14 23-21 20-13 25-11,ok,quartos LNB,22322,https://lnb.com.br/noticias/pra-ganhar-moral-6/
+21/12/2017,Botafogo,74,93,Paulistano,,1º TURNO,20:00,0,27-21 14-25 11-26 22-21,ok,quartos LNB,22323,https://lnb.com.br/noticias/no-momento/
+21/12/2017,Bauru,71,97,Flamengo,,1º TURNO,20:00,0,,sem_quartos,BetExplorer,22324,https://lnb.com.br/noticias/foi-gigante/
+21/12/2017,Sesi Franca,75,55,Minas,,1º TURNO,20:10,0,22-14 16-15 16-12 21-14,ok,quartos LNB,22325,https://lnb.com.br/noticias/avassalador_-2/
+22/12/2017,L. Sorocabana,75,77,Pinheiros,,1º TURNO,20:00,0,16-20 17-18 24-24 18-15,ok,quartos LNB,22328,https://lnb.com.br/noticias/na-base-da-superacao/
+22/12/2017,Basq. Cearense,80,66,Joinville / AABJ,,1º TURNO,20:30,0,15-19 26-13 17-20 22-14,ok,quartos LNB,22326,https://lnb.com.br/noticias/monstro-e-pouco/
+22/12/2017,Vitória,70,69,Caxias do Sul,,1º TURNO,20:30,0,,sem_quartos,BetExplorer,22327,https://lnb.com.br/noticias/como-um-leao-2/
+23/12/2017,Botafogo,67,64,Campo Mourão,,1º TURNO,11:00,0,15-21 16-9 20-16 16-18,ok,quartos LNB,22329,https://lnb.com.br/noticias/dupla-emocao-2/
+23/12/2017,Vasco da Gama,71,77,Paulistano,,1º TURNO,11:00,0,,sem_quartos,BetExplorer,22331,https://lnb.com.br/noticias/verdadeira-batalha-3/
+23/12/2017,Sesi Franca,100,82,Flamengo,,1º TURNO,14:00,0,36-13 17-19 22-19 25-31,ok,quartos LNB,22330,https://lnb.com.br/noticias/nota-100/
+23/12/2017,Bauru,89,70,Minas,,1º TURNO,18:00,0,25-20 16-10 17-22 31-18,ok,quartos LNB,22332,https://lnb.com.br/noticias/deu-show/
+27/12/2017,Vitória,89,68,Basq. Cearense,,1º TURNO,19:30,0,22-10 26-23 18-19 23-16,ok,quartos LNB,22333,https://lnb.com.br/noticias/festa-baiana-2/
+28/12/2017,Caxias do Sul,72,63,Joinville / AABJ,,1º TURNO,20:05,0,16-11 15-14 16-18 25-20,ok,quartos LNB,22334,https://lnb.com.br/noticias/donodojogo/
+29/12/2017,Pinheiros,77,90,Sesi Franca,,1º TURNO,19:30,0,21-24 21-12 9-35 26-19,ok,quartos LNB,22335,https://lnb.com.br/noticias/melhor-impossivel-6/
+30/12/2017,Flamengo,89,81,Vasco da Gama,,1º TURNO,14:00,0,,sem_quartos,BetExplorer,22336,https://lnb.com.br/noticias/edoflamengo/
+03/01/2018,Mogi,80,84,Paulistano,,1º TURNO,20:00,0,,sem_quartos,BetExplorer,22337,https://lnb.com.br/noticias/que-comece-2018/
+04/01/2018,Botafogo,60,77,Bauru,,1º TURNO,20:00,0,18-16 19-19 8-27 15-15,ok,quartos LNB,22338,https://lnb.com.br/noticias/chamou-o-jogo/
+05/01/2018,Minas,71,61,L. Sorocabana,,1º TURNO,19:00,0,19-9 12-22 22-16 18-14,ok,quartos LNB,22339,https://lnb.com.br/noticias/de-volta-aos-trilhos__/
+06/01/2018,Sesi Franca,68,55,Vitória,,1º TURNO,14:00,0,,sem_quartos,BetExplorer,22340,https://lnb.com.br/noticias/festa-completa-5/
+07/01/2018,Minas,65,82,Mogi,,1º TURNO,11:00,0,23-25 14-20 17-12 11-25,ok,quartos LNB,22341,https://lnb.com.br/noticias/vitoria-de-lider/
+07/01/2018,Flamengo,72,68,Pinheiros,,1º TURNO,18:00,0,22-14 20-16 8-23 22-15,ok,quartos LNB,22342,https://lnb.com.br/noticias/novovicelider/
+08/01/2018,Paulistano,92,67,Campo Mourão,,1º TURNO,19:30,0,30-11 17-14 18-15 27-27,ok,quartos LNB,22343,https://lnb.com.br/noticias/agora-sao-7/
+08/01/2018,Joinville / AABJ,74,94,Vasco da Gama,,1º TURNO,20:00,0,,sem_quartos,BetExplorer,22344,https://lnb.com.br/noticias/virada-cruzmaltina/
+08/01/2018,Bauru,77,66,Vitória,,1º TURNO,20:00,0,,sem_quartos,BetExplorer,22345,https://lnb.com.br/noticias/festa-em-casa/
+08/01/2018,Sesi Franca,79,59,Basq. Cearense,,1º TURNO,20:10,0,12-18 26-15 25-14 16-12,ok,quartos LNB,22346,https://lnb.com.br/noticias/soalegria/
+09/01/2018,Flamengo,77,71,Mogi,,1º TURNO,21:00,0,17-25 20-11 24-16 16-19,ok,quartos LNB,22347,https://lnb.com.br/noticias/mengao-e-lider/
+10/01/2018,Minas,80,75,Pinheiros,,1º TURNO,19:00,0,23-13 17-20 19-11 21-31,ok,quartos LNB,22348,https://lnb.com.br/noticias/minas-storm/
+10/01/2018,Joinville / AABJ,68,63,Botafogo,,1º TURNO,20:00,0,24-22 14-13 8-14 22-14,ok,quartos LNB,22349,https://lnb.com.br/noticias/hoje-nao_/
+10/01/2018,Bauru,87,82,Basq. Cearense,,1º TURNO,20:00,0,23-23 25-15 19-13 20-31,ok,quartos LNB,22350,https://lnb.com.br/noticias/sai-da-frente-8/
+10/01/2018,Caxias do Sul,81,69,Vasco da Gama,,1º TURNO,20:05,0,19-25 15-17 18-14 29-13,ok,quartos LNB,22351,https://lnb.com.br/noticias/que-virada-6/
+11/01/2018,Flamengo,82,67,L. Sorocabana,,1º TURNO,20:00,0,19-16 14-16 25-21 24-14,ok,quartos LNB,22352,https://lnb.com.br/noticias/o-cara-3/
+12/01/2018,Caxias do Sul,73,63,Botafogo,,1º TURNO,20:05,0,15-17 20-15 24-16 14-15,ok,quartos LNB,22353,https://lnb.com.br/noticias/casaforte/
+13/01/2018,Vasco da Gama,67,81,Sesi Franca,,1º TURNO,13:30,0,14-19 14-27 24-16 15-19,ok,quartos LNB,22354,https://lnb.com.br/noticias/dificilsegurar/
+14/01/2018,Paulistano,75,64,Joinville / AABJ,,1º TURNO,11:00,0,25-15 13-16 23-15 14-18,ok,quartos LNB,22356,https://lnb.com.br/noticias/imparavel-4/
+14/01/2018,Basq. Cearense,75,92,Flamengo,,1º TURNO,12:00,0,25-24 7-17 23-25 20-26,ok,quartos LNB,22355,https://lnb.com.br/noticias/belo-presente/
+14/01/2018,Vitória,82,57,Minas,,1º TURNO,20:00,0,15-11 22-9 22-24 23-13,ok,quartos LNB,22357,https://lnb.com.br/noticias/hora-de-rugir/
+15/01/2018,Botafogo,63,67,Sesi Franca,,1º TURNO,20:00,0,15-13 13-15 20-19 15-20,ok,quartos LNB,22358,https://lnb.com.br/noticias/oitava-e-contando/
+16/01/2018,Vitória,68,76,Flamengo,,1º TURNO,19:30,0,17-24 25-16 15-20 11-16,ok,quartos LNB,22360,https://lnb.com.br/noticias/parapoucos/
+16/01/2018,Paulistano,88,70,Caxias do Sul,,1º TURNO,19:30,0,18-18 21-18 29-10 20-24,ok,quartos LNB,22361,https://lnb.com.br/noticias/botecerteiro/
+16/01/2018,Campo Mourão,72,75,Joinville / AABJ,,1º TURNO,20:15,0,18-27 21-15 14-13 19-20,ok,quartos LNB,22362,https://lnb.com.br/noticias/deu-joinville/
+16/01/2018,Basq. Cearense,66,58,Minas,,1º TURNO,20:30,0,14-11 19-16 16-18 17-13,ok,quartos LNB,22359,https://lnb.com.br/noticias/vitoria-do-mestre/
+17/01/2018,Mogi,82,73,L. Sorocabana,,1º TURNO,20:00,0,21-18 24-11 20-26 17-18,ok,quartos LNB,22363,https://lnb.com.br/noticias/final-feliz-2/
+17/01/2018,Vasco da Gama,86,87,Bauru,,1º TURNO,20:00,0,,sem_quartos,BetExplorer,22364,https://lnb.com.br/noticias/quanta-emocao-7/
+18/01/2018,Vitória,79,76,Pinheiros,,2º TURNO,20:00,0,18-21 18-22 23-16 20-17,ok,quartos LNB,22366,https://lnb.com.br/noticias/positivo-leao/
+19/01/2018,Flamengo,107,54,Botafogo,,1º TURNO,20:00,0,27-10 34-15 25-13 21-16,ok,quartos LNB,22365,https://lnb.com.br/noticias/noitemagica/
+20/01/2018,Basq. Cearense,66,64,Pinheiros,,2º TURNO,14:00,0,20-10 15-8 19-18 12-28,ok,quartos LNB,22367,https://lnb.com.br/noticias/com-emocao-3/
+20/01/2018,Paulistano,88,79,Bauru,,2º TURNO,14:00,0,23-16 18-26 27-18 20-19,ok,quartos LNB,22369,https://lnb.com.br/noticias/garoto-endiabrado/
+20/01/2018,Campo Mourão,60,88,Sesi Franca,,2º TURNO,16:15,0,14-32 12-17 13-20 21-19,ok,quartos LNB,22368,https://lnb.com.br/noticias/desde-o-inicio-3/
+22/01/2018,Paulistano,88,74,Sesi Franca,,2º TURNO,19:30,0,22-17 23-19 22-17 21-21,ok,quartos LNB,22370,https://lnb.com.br/noticias/ninguem-tira-5/
+22/01/2018,Mogi,84,70,Botafogo,,2º TURNO,20:00,0,29-10 17-25 22-16 16-19,ok,quartos LNB,22382,https://lnb.com.br/noticias/dever-de-casa-3/
+22/01/2018,Campo Mourão,59,97,Bauru,,2º TURNO,20:15,0,23-18 11-19 13-33 12-27,ok,quartos LNB,22372,https://lnb.com.br/noticias/pegou-fogo-5/
+23/01/2018,Vasco da Gama,70,54,Minas,,2º TURNO,19:30,0,21-8 13-16 15-16 21-14,ok,quartos LNB,22371,https://lnb.com.br/noticias/ritmo-da-colina/
+23/01/2018,Basq. Cearense,83,64,L. Sorocabana,,2º TURNO,20:30,0,22-19 22-13 17-20 22-12,ok,quartos LNB,22373,https://lnb.com.br/noticias/cearensetrincou/
+25/01/2018,Vitória,95,69,L. Sorocabana,,2º TURNO,20:30,0,24-16 25-16 22-10 24-27,ok,quartos LNB,22376,https://lnb.com.br/noticias/sem-sustos_-3/
+26/01/2018,Joinville / AABJ,70,76,Caxias do Sul,,2º TURNO,20:00,0,22-23 14-21 19-15 15-17,ok,quartos LNB,22379,https://lnb.com.br/noticias/forca-dogrupo/
+27/01/2018,Vasco da Gama,75,89,Flamengo,,2º TURNO,14:00,0,,sem_quartos,BetExplorer,22380,https://lnb.com.br/noticias/flabsoluto/
+29/01/2018,Minas,74,81,Campo Mourão,,2º TURNO,19:00,0,26-20 14-15 10-16 24-30,ok,quartos LNB,22381,https://lnb.com.br/noticias/campo-vivo/
+30/01/2018,Sesi Franca,82,74,Caxias do Sul,,2º TURNO,19:30,0,26-22 25-21 11-10 20-21,ok,quartos LNB,22393,https://lnb.com.br/noticias/alegria-completa/
+30/01/2018,L. Sorocabana,75,80,Vasco da Gama,,2º TURNO,20:00,1,15-20 15-8 18-20 16-16 11-16,ok,quartos LNB,22383,https://lnb.com.br/noticias/fezmagica/
+31/01/2018,Bauru,88,41,Joinville / AABJ,,2º TURNO,19:00,0,20-10 29-11 21-9 18-11,ok,quartos LNB,22392,https://lnb.com.br/noticias/avalanche-bauruense/
+31/01/2018,Basq. Cearense,78,77,Vitória,,2º TURNO,20:30,0,,sem_quartos,BetExplorer,22385,https://lnb.com.br/noticias/e-minha-3/
+01/02/2018,Minas,80,88,Paulistano,,2º TURNO,19:00,0,,sem_quartos,BetExplorer,22388,https://lnb.com.br/noticias/e-contando/
+01/02/2018,Pinheiros,80,77,Botafogo,,2º TURNO,19:30,0,22-16 21-17 22-19 15-25,ok,quartos LNB,22389,https://lnb.com.br/noticias/de-volta-aos-trilhos-12/
+01/02/2018,Mogi,89,80,Vasco da Gama,,2º TURNO,20:00,0,,sem_quartos,BetExplorer,22391,https://lnb.com.br/noticias/ele-ferveu/
+01/02/2018,Flamengo,92,69,Campo Mourão,,2º TURNO,20:30,0,22-12 26-16 23-20 21-21,ok,quartos LNB,22390,https://lnb.com.br/noticias/noite-de-festa-2/
+02/02/2018,Bauru,73,85,Caxias do Sul,,2º TURNO,20:00,0,24-22 16-21 16-17 17-25,ok,quartos LNB,22386,https://lnb.com.br/noticias/feito-expressivo/
+02/02/2018,Sesi Franca,72,56,Joinville / AABJ,,2º TURNO,20:10,0,12-5 17-19 18-14 25-18,ok,quartos LNB,22387,https://lnb.com.br/noticias/so-vitorias/
+03/02/2018,Flamengo,71,72,Paulistano,,2º TURNO,14:00,0,15-12 16-22 15-27 25-11,ok,quartos LNB,22384,https://lnb.com.br/noticias/novolider/
+03/02/2018,Pinheiros,72,76,Vasco da Gama,,2º TURNO,17:00,0,,sem_quartos,BetExplorer,22394,https://lnb.com.br/noticias/saiqueeminha/
+03/02/2018,L. Sorocabana,68,75,Botafogo,,2º TURNO,18:00,0,21-19 12-23 21-20 14-13,ok,quartos LNB,22395,https://lnb.com.br/noticias/fogo-aceso-3/
+05/02/2018,Campo Mourão,69,97,Mogi,,2º TURNO,20:15,0,17-29 19-28 18-16 15-24,ok,quartos LNB,22396,https://lnb.com.br/noticias/menino-de-ouro/
+06/02/2018,Bauru,60,81,Sesi Franca,,2º TURNO,19:30,0,15-15 14-25 17-21 14-20,ok,quartos LNB,22400,https://lnb.com.br/noticias/ditou-o-ritmo/
+06/02/2018,Joinville / AABJ,81,91,Flamengo,,2º TURNO,20:00,0,,sem_quartos,BetExplorer,22397,https://lnb.com.br/noticias/pouco-a-pouco-2/
+06/02/2018,Vasco da Gama,85,89,Vitória,,2º TURNO,20:00,0,,sem_quartos,BetExplorer,22398,https://lnb.com.br/noticias/superacao-baiana/
+06/02/2018,Botafogo,70,68,Basq. Cearense,,2º TURNO,20:00,0,16-14 16-21 18-19 20-14,ok,quartos LNB,22399,https://lnb.com.br/noticias/nova-gloria/
+06/02/2018,Caxias do Sul,71,91,Minas,,2º TURNO,20:05,0,11-30 20-18 23-20 17-23,ok,quartos LNB,22401,https://lnb.com.br/noticias/adeus-jejum-2/
+07/02/2018,Paulistano,84,59,L. Sorocabana,,2º TURNO,19:30,0,21-16 22-9 23-19 18-15,ok,quartos LNB,22402,https://lnb.com.br/noticias/vitoria-de-lider-2/
+07/02/2018,Campo Mourão,60,64,Pinheiros,,2º TURNO,20:15,0,22-15 14-12 14-21 10-16,ok,quartos LNB,22403,https://lnb.com.br/noticias/bote-certeiro-4/
+08/02/2018,Joinville / AABJ,66,73,Minas,,2º TURNO,20:00,1,9-22 11-13 21-14 21-13 4-11,ok,quartos LNB,22404,https://lnb.com.br/noticias/e-minha_/
+08/02/2018,Botafogo,94,74,Vitória,,2º TURNO,20:00,0,18-23 29-8 20-24 27-19,ok,quartos LNB,22405,https://lnb.com.br/noticias/trinca-especial/
+08/02/2018,Vasco da Gama,96,92,Basq. Cearense,,2º TURNO,20:00,0,,sem_quartos,BetExplorer,22406,https://lnb.com.br/noticias/pra-ganhar-moral_/
+08/02/2018,Caxias do Sul,75,98,Flamengo,,2º TURNO,20:05,0,11-23 17-32 19-18 28-25,ok,quartos LNB,22407,https://lnb.com.br/noticias/onfire/
+09/02/2018,Paulistano,84,67,Mogi,,2º TURNO,19:30,0,21-17 26-13 24-21 13-16,ok,quartos LNB,22408,https://lnb.com.br/noticias/cade-o-freio/
+12/02/2018,Paulistano,73,72,Pinheiros,,2º TURNO,18:00,0,17-16 22-15 20-22 14-19,ok,quartos LNB,22378,https://lnb.com.br/noticias/emocao-e-folia/
+14/02/2018,Pinheiros,90,75,Caxias do Sul,,2º TURNO,19:30,0,25-15 21-19 25-17 19-24,ok,quartos LNB,22409,https://lnb.com.br/noticias/desde-o-inicio-4/
+14/02/2018,L. Sorocabana,51,64,Joinville / AABJ,,2º TURNO,20:00,0,11-10 8-15 6-12 26-27,ok,quartos LNB,22410,https://lnb.com.br/noticias/passo-importante-5/
+15/02/2018,Minas,66,81,Bauru,,2º TURNO,19:00,0,15-29 14-8 18-20 19-24,ok,quartos LNB,22411,https://lnb.com.br/noticias/por-cima-3/
+15/02/2018,Vitória,88,79,Campo Mourão,,2º TURNO,20:30,0,25-22 12-25 27-20 24-12,ok,quartos LNB,22412,https://lnb.com.br/noticias/aqui-nao_-3/
+15/02/2018,Basq. Cearense,60,81,Paulistano,,2º TURNO,20:30,0,11-26 13-19 12-23 24-13,ok,quartos LNB,22413,https://lnb.com.br/noticias/com-autoridade-6/
+15/02/2018,Flamengo,86,66,Sesi Franca,,2º TURNO,21:15,0,18-6 25-14 21-18 22-28,ok,quartos LNB,22414,https://lnb.com.br/noticias/show-do-mengao/
+16/02/2018,Pinheiros,108,59,Joinville / AABJ,,2º TURNO,19:30,0,30-18 30-16 21-20 27-5,ok,quartos LNB,22415,https://lnb.com.br/noticias/teverecorde/
+16/02/2018,Botafogo,87,94,Vasco da Gama,,2º TURNO,20:00,0,,sem_quartos,BetExplorer,22416,https://lnb.com.br/noticias/festa-cruzmaltina/
+16/02/2018,Mogi,76,75,Caxias do Sul,,2º TURNO,20:00,0,25-14 14-19 23-13 14-29,ok,quartos LNB,22417,https://lnb.com.br/noticias/vocefalouemocao/
+17/02/2018,Flamengo,75,61,Bauru,,2º TURNO,14:00,0,16-12 14-20 23-17 22-12,ok,quartos LNB,22418,https://lnb.com.br/noticias/cartada-final/
+17/02/2018,Basq. Cearense,77,69,Campo Mourão,,2º TURNO,19:00,1,20-12 15-25 13-15 16-12 13-5,ok,quartos LNB,22419,https://lnb.com.br/noticias/mr-rebote/
+17/02/2018,Vitória,68,90,Paulistano,,2º TURNO,20:00,0,18-25 21-20 17-27 12-18,ok,quartos LNB,22420,https://lnb.com.br/noticias/quem-para-o-cap/
+18/02/2018,Minas,65,84,Sesi Franca,,2º TURNO,11:00,0,15-19 17-18 17-25 16-22,ok,quartos LNB,22421,https://lnb.com.br/noticias/sem-vacilar/
+18/02/2018,Mogi,77,67,Joinville / AABJ,,2º TURNO,19:00,0,20-18 21-18 20-16 16-15,ok,quartos LNB,22422,https://lnb.com.br/noticias/dever-de-casa-4/
+19/02/2018,L. Sorocabana,71,74,Caxias do Sul,,2º TURNO,20:00,0,19-19 16-17 20-19 16-19,ok,quartos LNB,22423,https://lnb.com.br/noticias/sufoco-total/
+20/02/2018,Botafogo,70,76,Minas,,2º TURNO,19:30,0,15-17 20-24 16-21 19-14,ok,quartos LNB,22375,https://lnb.com.br/noticias/tudo-azul_/
+23/02/2018,Campo Mourão,72,76,L. Sorocabana,,2º TURNO,20:15,0,14-19 16-20 19-24 23-13,ok,quartos LNB,22424,https://lnb.com.br/noticias/vivos/
+24/02/2018,Basq. Cearense,82,80,Mogi,,2º TURNO,14:00,0,17-18 22-28 19-14 24-20,ok,quartos LNB,22377,https://lnb.com.br/noticias/capitao-clutch/
+26/02/2018,Vitória,77,72,Mogi,,2º TURNO,19:30,0,19-22 24-13 14-20 20-17,ok,quartos LNB,22374,https://lnb.com.br/noticias/deu-leao/
+27/02/2018,Caxias do Sul,67,60,Basq. Cearense,,2º TURNO,19:30,0,20-8 11-13 16-24 20-15,ok,quartos LNB,22427,https://lnb.com.br/noticias/para-vibrar/
+27/02/2018,Campo Mourão,71,60,Botafogo,,2º TURNO,20:15,0,15-14 20-12 16-22 20-12,ok,quartos LNB,22425,https://lnb.com.br/noticias/adeus-lanterna/
+28/02/2018,Joinville / AABJ,52,68,Vitória,,2º TURNO,20:00,0,16-18 14-16 8-16 14-18,ok,quartos LNB,22426,https://lnb.com.br/noticias/e-do-leao/
+28/02/2018,Bauru,95,73,L. Sorocabana,,2º TURNO,20:00,0,,sem_quartos,BetExplorer,22429,https://lnb.com.br/noticias/dominante-9/
+01/03/2018,Paulistano,112,64,Botafogo,,2º TURNO,19:30,0,20-13 37-11 24-25 31-15,ok,quartos LNB,22428,https://lnb.com.br/noticias/caraca-moleque/
+01/03/2018,Campo Mourão,79,89,Vasco da Gama,,2º TURNO,20:15,0,22-22 16-26 16-15 25-26,ok,quartos LNB,22431,https://lnb.com.br/noticias/embalo-cruzmaltino-2/
+02/03/2018,Joinville / AABJ,73,59,Basq. Cearense,,2º TURNO,20:00,0,19-14 20-12 17-14 17-19,ok,quartos LNB,22432,https://lnb.com.br/noticias/demonstracao-de-forca_/
+02/03/2018,Bauru,85,84,Pinheiros,,2º TURNO,20:00,1,20-21 23-23 21-22 13-11 8-7,ok,quartos LNB,22438,https://lnb.com.br/noticias/foi-emocionante/
+02/03/2018,Caxias do Sul,79,78,Vitória,,2º TURNO,20:05,0,20-24 20-14 18-20 21-20,ok,quartos LNB,22433,https://lnb.com.br/noticias/emocao-nao-faltou/
+02/03/2018,Sesi Franca,74,67,L. Sorocabana,,2º TURNO,20:10,0,14-16 16-12 24-18 20-21,ok,quartos LNB,22436,https://lnb.com.br/noticias/no-sufoco-8/
+03/03/2018,Paulistano,102,59,Vasco da Gama,,2º TURNO,14:00,0,26-16 31-15 21-15 24-13,ok,quartos LNB,22437,https://lnb.com.br/noticias/cap-e-show/
+03/03/2018,Flamengo,96,84,Minas,,2º TURNO,20:00,0,26-17 23-19 21-32 26-16,ok,quartos LNB,22435,https://lnb.com.br/noticias/bolanele/
+04/03/2018,Sesi Franca,87,79,Pinheiros,,2º TURNO,11:00,0,23-22 22-18 24-15 18-24,ok,quartos LNB,22430,https://lnb.com.br/noticias/cadavezmaisperto/
+05/03/2018,Vitória,82,77,Bauru,,2º TURNO,19:30,0,,sem_quartos,BetExplorer,22452,https://lnb.com.br/noticias/rugiu-alto-2/
+06/03/2018,L. Sorocabana,63,70,Flamengo,,2º TURNO,19:00,0,12-18 29-18 10-19 12-15,ok,quartos LNB,22440,https://lnb.com.br/noticias/dura-vitoria/
+06/03/2018,Botafogo,88,77,Joinville / AABJ,,2º TURNO,20:00,0,23-26 22-16 19-23 24-12,ok,quartos LNB,22441,https://lnb.com.br/noticias/e-do-fogao/
+06/03/2018,Vasco da Gama,70,87,Caxias do Sul,,2º TURNO,20:00,0,17-18 18-24 17-20 18-25,ok,quartos LNB,22442,https://lnb.com.br/noticias/engatou-a-4a-3/
+08/03/2018,Pinheiros,67,78,Flamengo,,2º TURNO,19:30,0,23-13 4-18 20-23 20-24,ok,quartos LNB,22443,https://lnb.com.br/noticias/trio-decisivo/
+08/03/2018,Vasco da Gama,83,56,Joinville / AABJ,,2º TURNO,20:00,0,23-16 11-21 31-11 18-8,ok,quartos LNB,22444,https://lnb.com.br/noticias/com-autoridade-7/
+08/03/2018,Botafogo,76,67,Caxias do Sul,,2º TURNO,20:00,0,22-12 23-6 22-20 9-29,ok,quartos LNB,22445,https://lnb.com.br/noticias/botoufogo/
+08/03/2018,Sesi Franca,75,73,Mogi,,2º TURNO,20:10,0,,sem_quartos,BetExplorer,22439,https://lnb.com.br/noticias/sobrou-emocao/
+08/03/2018,Campo Mourão,66,111,Paulistano,,2º TURNO,20:15,0,21-25 13-33 17-28 15-25,ok,quartos LNB,22446,https://lnb.com.br/noticias/destruidor-de-novo/
+10/03/2018,Mogi,72,75,Flamengo,,2º TURNO,14:00,0,15-15 17-17 22-23 18-20,ok,quartos LNB,22449,https://lnb.com.br/noticias/clima-de-playoffs/
+10/03/2018,Pinheiros,62,64,Minas,,2º TURNO,18:00,0,12-17 20-19 20-18 10-10,ok,quartos LNB,22450,https://lnb.com.br/noticias/esquentouabriga/
+11/03/2018,Basq. Cearense,75,73,Sesi Franca,,2º TURNO,11:00,0,11-17 19-22 20-14 25-20,ok,quartos LNB,22451,https://lnb.com.br/noticias/como-um-carcara/
+12/03/2018,Botafogo,84,90,Flamengo,,2º TURNO,19:00,0,18-20 28-23 17-27 21-20,ok,quartos LNB,22454,https://lnb.com.br/noticias/o-classico-e-do-mengao/
+12/03/2018,Mogi,76,39,Minas,,2º TURNO,20:00,0,16-14 15-8 21-11 24-6,ok,quartos LNB,22453,https://lnb.com.br/noticias/dominante-10/
+13/03/2018,Vitória,85,92,Sesi Franca,,2º TURNO,19:30,0,21-23 17-24 10-24 37-21,ok,quartos LNB,22448,https://lnb.com.br/noticias/franca-e-g-4/
+14/03/2018,L. Sorocabana,54,75,Minas,,2º TURNO,20:00,0,,sem_quartos,BetExplorer,22455,https://lnb.com.br/noticias/volta-por-cima-6/
+15/03/2018,Bauru,75,76,Mogi,,2º TURNO,20:00,0,15-20 16-25 24-13 20-18,ok,quartos LNB,22434,https://lnb.com.br/noticias/quartas-ai-vou-eu-2/
+21/03/2018,Basq. Cearense,81,80,Bauru,,2º TURNO,19:30,0,15-23 25-15 16-23 25-19,ok,quartos LNB,22447,https://lnb.com.br/noticias/noite-iluminada/
+24/03/2018,Sesi Franca,93,61,Vasco da Gama,,2º TURNO,14:00,0,24-8 20-18 17-6 32-29,ok,quartos LNB,22457,https://lnb.com.br/noticias/129106/
+25/03/2018,Flamengo,87,85,Basq. Cearense,,2º TURNO,11:00,0,19-21 27-20 17-22 24-22,ok,quartos LNB,22458,https://lnb.com.br/noticias/ta-na-briga/
+25/03/2018,Minas,80,78,Vitória,,2º TURNO,11:00,1,16-17 10-17 20-16 21-17 13-11,ok,quartos LNB,22459,https://lnb.com.br/noticias/faltapouco-2/
+25/03/2018,Caxias do Sul,75,66,Campo Mourão,,2º TURNO,11:00,0,18-15 18-12 20-16 19-23,ok,quartos LNB,22460,https://lnb.com.br/noticias/entre-os-8/
+25/03/2018,Joinville / AABJ,66,86,Paulistano,,2º TURNO,11:00,0,19-21 12-18 21-23 14-24,ok,quartos LNB,22461,https://lnb.com.br/noticias/com-recordes/
+25/03/2018,Bauru,103,78,Botafogo,,2º TURNO,11:00,0,27-20 21-21 32-21 23-16,ok,quartos LNB,22462,https://lnb.com.br/noticias/rumo-certo-3/
+27/03/2018,Sesi Franca,104,67,Botafogo,,2º TURNO,19:30,0,21-17 30-12 23-14 30-24,ok,quartos LNB,22464,https://lnb.com.br/noticias/fechou-bonito/
+27/03/2018,Bauru,83,88,Vasco da Gama,,2º TURNO,19:30,0,25-14 15-26 18-23 25-25,ok,quartos LNB,22465,https://lnb.com.br/noticias/ganhou-moral/
+27/03/2018,Minas,75,63,Basq. Cearense,,2º TURNO,19:30,0,17-21 13-14 32-14 13-14,ok,quartos LNB,22466,https://lnb.com.br/noticias/agora-e-torcer-2/
+27/03/2018,Flamengo,89,75,Vitória,,2º TURNO,19:30,0,23-12 24-14 13-23 29-26,ok,quartos LNB,22467,https://lnb.com.br/noticias/mengaoelider/
+27/03/2018,Joinville / AABJ,83,81,Campo Mourão,,2º TURNO,19:30,1,19-18 20-20 18-21 19-17 7-5,ok,quartos LNB,22468,https://lnb.com.br/noticias/com-muita-emocao-2/
+27/03/2018,Caxias do Sul,81,80,Paulistano,,2º TURNO,19:30,0,21-18 22-22 15-21 23-19,ok,quartos LNB,22469,https://lnb.com.br/noticias/quefacanha/
+27/03/2018,Pinheiros,80,69,L. Sorocabana,,2º TURNO,19:30,0,17-21 21-13 21-17 21-18,ok,quartos LNB,22470,https://lnb.com.br/noticias/grande-passo-4/
+29/03/2018,Mogi,69,84,Pinheiros,,2º TURNO,20:00,0,,sem_quartos,BetExplorer,22463,https://lnb.com.br/noticias/missao-cumprida-2/
+30/03/2018,L. Sorocabana,69,74,Mogi,,2º TURNO,19:00,0,17-19 22-15 20-23 10-17,ok,quartos LNB,22456,https://lnb.com.br/noticias/encerramento/

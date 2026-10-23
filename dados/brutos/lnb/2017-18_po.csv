@@ -1,44 +1,44 @@
-data,mandante,pts_mandante,pts_visitante,visitante,rodada,etapa,hora,prorrogacoes,quartos,status_quartos,id_lnb,link
-31/03/2018,Botafogo,90,95,Caxias do Sul,,OITAVAS,14:00,1,24-21 10-18 21-16 20-20 15-20,ok,22665,https://lnb.com.br/noticias/bem-vindo-aos-playoffs/
-01/04/2018,Minas,80,65,Vitória,,OITAVAS,14:00,0,23-15 18-27 20-14 19-9,ok,22674,https://lnb.com.br/noticias/minas-storm_/
-02/04/2018,Vasco da Gama,84,93,Bauru,,OITAVAS,20:00,,,sem_quartos,22668,https://lnb.com.br/noticias/vitoria-braba/
-03/04/2018,Basq. Cearense,73,82,Pinheiros,,OITAVAS,19:00,0,23-21 15-13 24-28 11-20,ok,22671,https://lnb.com.br/noticias/tomaram-conta/
-03/04/2018,Caxias do Sul,79,52,Botafogo,,OITAVAS,21:00,0,21-8 20-11 15-17 23-16,ok,22666,https://lnb.com.br/noticias/licao-de-casa-4/
-04/04/2018,Vitória,71,63,Minas,,OITAVAS,19:30,0,17-10 15-20 21-18 18-15,ok,22675,https://lnb.com.br/noticias/tudo-igual-13/
-05/04/2018,Caxias do Sul,80,64,Botafogo,,OITAVAS,19:00,0,15-21 28-11 17-18 20-14,ok,22667,https://lnb.com.br/noticias/classificacao-inedita/
-05/04/2018,Bauru,89,92,Vasco da Gama,,OITAVAS,21:00,0,16-20 26-22 24-26 23-24,ok,22669,https://lnb.com.br/noticias/chamouojogo/
-06/04/2018,Pinheiros,60,64,Basq. Cearense,,OITAVAS,19:00,,,sem_quartos,22672,https://lnb.com.br/noticias/tudo-igual_/
-06/04/2018,Vitória,74,65,Minas,,OITAVAS,21:00,,,sem_quartos,22676,https://lnb.com.br/noticias/hora-de-rugir-2/
-07/04/2018,Bauru,83,79,Vasco da Gama,,OITAVAS,14:00,0,20-21 18-23 19-9 26-26,ok,22670,https://lnb.com.br/noticias/superacao-do-dragao/
-08/04/2018,Pinheiros,62,75,Basq. Cearense,,OITAVAS,19:30,,,sem_quartos,22673,https://lnb.com.br/noticias/virou-com-estilo/
-09/04/2018,Minas,75,64,Vitória,,OITAVAS,19:30,0,11-12 16-21 22-14 26-17,ok,22680,https://lnb.com.br/noticias/e-jogo5/
-10/04/2018,Vasco da Gama,103,104,Bauru,,OITAVAS,19:30,,,sem_quartos,22678,https://lnb.com.br/noticias/podeacreditar/
-11/04/2018,Basq. Cearense,64,63,Pinheiros,,OITAVAS,19:30,,,sem_quartos,22679,https://lnb.com.br/noticias/solta-o-grito-carcara/
-12/04/2018,Vitória,111,117,Minas,,OITAVAS,20:00,3,20-17 13-17 20-25 25-19 7-7 17-17 9-15,ok,22681,https://lnb.com.br/noticias/batalha-epica-2/
-14/04/2018,Caxias do Sul,60,63,Mogi,,QUARTAS,14:00,,,sem_quartos,22691,https://lnb.com.br/noticias/sanguefrio-2/
-15/04/2018,Minas,70,84,Flamengo,,QUARTAS,14:00,0,19-25 15-20 17-27 19-12,ok,22682,https://lnb.com.br/noticias/1-a-0-fla/
-16/04/2018,Bauru,81,76,Sesi Franca,,QUARTAS,19:00,0,20-15 22-19 22-18 17-24,ok,22688,https://lnb.com.br/noticias/nunca-duvide-do-dragao/
-16/04/2018,Basq. Cearense,72,67,Paulistano,,QUARTAS,21:00,0,20-15 15-15 18-15 19-22,ok,22685,https://lnb.com.br/noticias/carcara-guerreiro/
-17/04/2018,Flamengo,101,74,Minas,,QUARTAS,20:30,0,23-20 30-15 30-17 18-22,ok,22683,https://lnb.com.br/noticias/avalanche-rubro-negra/
-18/04/2018,Mogi,69,57,Caxias do Sul,,QUARTAS,19:30,0,17-13 14-14 21-13 17-17,ok,22692,https://lnb.com.br/noticias/comautoridade/
-19/04/2018,Flamengo,97,92,Minas,,QUARTAS,19:30,1,15-28 18-17 25-22 25-16 14-9,ok,22684,https://lnb.com.br/noticias/flamengo-na-semi/
-19/04/2018,Sesi Franca,77,83,Bauru,,QUARTAS,21:00,0,15-22 16-25 19-19 27-17,ok,22689,https://lnb.com.br/noticias/que-isso-dragao/
-20/04/2018,Paulistano,93,89,Basq. Cearense,,QUARTAS,19:00,0,18-19 22-21 36-22 17-27,ok,22686,https://lnb.com.br/noticias/tudoigual_/
-20/04/2018,Mogi,54,65,Caxias do Sul,,QUARTAS,21:00,0,12-19 15-18 14-17 13-11,ok,22693,https://lnb.com.br/noticias/caxias-vivo/
-21/04/2018,Sesi Franca,61,69,Bauru,,QUARTAS,14:00,0,12-12 16-13 9-24 24-20,ok,22690,https://lnb.com.br/noticias/3-x-0-bauru/
-22/04/2018,Paulistano,79,68,Basq. Cearense,,QUARTAS,11:00,0,17-27 20-6 22-21 20-14,ok,22687,https://lnb.com.br/noticias/cap-na-frente/
-23/04/2018,Caxias do Sul,70,80,Mogi,,QUARTAS,20:00,0,23-16 16-20 10-20 21-24,ok,22698,https://lnb.com.br/noticias/mogi-na-semi/
-25/04/2018,Basq. Cearense,57,98,Paulistano,,QUARTAS,19:30,0,9-18 8-29 24-24 16-27,ok,22695,https://lnb.com.br/noticias/pode-vir-semi/
-28/04/2018,Mogi,79,62,Flamengo,,SEMI,14:00,0,20-15 20-21 20-13 19-13,ok,22699,https://lnb.com.br/noticias/gigante-mogi/
-30/04/2018,Bauru,72,78,Paulistano,,SEMI,20:00,0,22-22 14-21 15-16 21-19,ok,22702,https://lnb.com.br/noticias/disputa-intensa/
-04/05/2018,Flamengo,74,88,Mogi,,SEMI,20:00,0,17-21 16-24 14-19 27-24,ok,22700,https://lnb.com.br/noticias/jogo-perfeito/
-05/05/2018,Paulistano,59,70,Bauru,,SEMI,14:00,0,14-18 19-16 17-20 9-16,ok,22703,https://lnb.com.br/noticias/dragao-vivo/
-07/05/2018,Flamengo,71,64,Mogi,,SEMI,20:00,0,18-17 20-18 19-15 14-14,ok,22701,https://lnb.com.br/noticias/flamengo-vivo/
-08/05/2018,Paulistano,95,64,Bauru,,SEMI,19:30,0,30-8 19-20 26-23 20-13,ok,22704,https://lnb.com.br/noticias/que-isso-paulistano/
-11/05/2018,Bauru,82,75,Paulistano,,SEMI,20:00,0,18-16 18-16 21-24 25-19,ok,22706,https://lnb.com.br/noticias/131597/
-12/05/2018,Mogi,89,72,Flamengo,,SEMI,14:00,0,17-15 19-22 26-14 27-21,ok,22705,https://lnb.com.br/noticias/mogi-na-final/
-14/05/2018,Paulistano,80,77,Bauru,,SEMI,19:30,0,14-10 24-13 21-23 21-31,ok,22708,https://lnb.com.br/noticias/e-final-paulistano/
-19/05/2018,Mogi,82,99,Paulistano,,FINAL,14:00,0,14-30 19-22 32-24 17-23,ok,22714,https://lnb.com.br/noticias/grande-inicio/
-24/05/2018,Paulistano,70,84,Mogi,,FINAL,19:30,0,10-21 17-17 28-34 15-12,ok,22715,https://lnb.com.br/noticias/tudo-igual-15/
-26/05/2018,Paulistano,88,84,Mogi,,FINAL,12:35,0,21-12 25-25 21-18 21-29,ok,22719,https://lnb.com.br/noticias/2-x-1-cap/
-02/06/2018,Mogi,76,82,Paulistano,,FINAL,14:00,0,23-23 24-31 11-13 18-15,ok,22717,https://lnb.com.br/noticias/paulistano-campeao/
+data,mandante,pts_mandante,pts_visitante,visitante,rodada,etapa,hora,prorrogacoes,quartos,status_quartos,fonte_prorrogacao,id_lnb,link
+31/03/2018,Botafogo,90,95,Caxias do Sul,,OITAVAS,14:00,1,24-21 10-18 21-16 20-20 15-20,ok,quartos LNB,22665,https://lnb.com.br/noticias/bem-vindo-aos-playoffs/
+01/04/2018,Minas,80,65,Vitória,,OITAVAS,14:00,0,23-15 18-27 20-14 19-9,ok,quartos LNB,22674,https://lnb.com.br/noticias/minas-storm_/
+02/04/2018,Vasco da Gama,84,93,Bauru,,OITAVAS,20:00,0,,sem_quartos,BetExplorer,22668,https://lnb.com.br/noticias/vitoria-braba/
+03/04/2018,Basq. Cearense,73,82,Pinheiros,,OITAVAS,19:00,0,23-21 15-13 24-28 11-20,ok,quartos LNB,22671,https://lnb.com.br/noticias/tomaram-conta/
+03/04/2018,Caxias do Sul,79,52,Botafogo,,OITAVAS,21:00,0,21-8 20-11 15-17 23-16,ok,quartos LNB,22666,https://lnb.com.br/noticias/licao-de-casa-4/
+04/04/2018,Vitória,71,63,Minas,,OITAVAS,19:30,0,17-10 15-20 21-18 18-15,ok,quartos LNB,22675,https://lnb.com.br/noticias/tudo-igual-13/
+05/04/2018,Caxias do Sul,80,64,Botafogo,,OITAVAS,19:00,0,15-21 28-11 17-18 20-14,ok,quartos LNB,22667,https://lnb.com.br/noticias/classificacao-inedita/
+05/04/2018,Bauru,89,92,Vasco da Gama,,OITAVAS,21:00,0,16-20 26-22 24-26 23-24,ok,quartos LNB,22669,https://lnb.com.br/noticias/chamouojogo/
+06/04/2018,Pinheiros,60,64,Basq. Cearense,,OITAVAS,19:00,0,,sem_quartos,BetExplorer,22672,https://lnb.com.br/noticias/tudo-igual_/
+06/04/2018,Vitória,74,65,Minas,,OITAVAS,21:00,0,,sem_quartos,BetExplorer,22676,https://lnb.com.br/noticias/hora-de-rugir-2/
+07/04/2018,Bauru,83,79,Vasco da Gama,,OITAVAS,14:00,0,20-21 18-23 19-9 26-26,ok,quartos LNB,22670,https://lnb.com.br/noticias/superacao-do-dragao/
+08/04/2018,Pinheiros,62,75,Basq. Cearense,,OITAVAS,19:30,0,,sem_quartos,BetExplorer,22673,https://lnb.com.br/noticias/virou-com-estilo/
+09/04/2018,Minas,75,64,Vitória,,OITAVAS,19:30,0,11-12 16-21 22-14 26-17,ok,quartos LNB,22680,https://lnb.com.br/noticias/e-jogo5/
+10/04/2018,Vasco da Gama,103,104,Bauru,,OITAVAS,19:30,1+,,sem_quartos,BetExplorer,22678,https://lnb.com.br/noticias/podeacreditar/
+11/04/2018,Basq. Cearense,64,63,Pinheiros,,OITAVAS,19:30,0,,sem_quartos,BetExplorer,22679,https://lnb.com.br/noticias/solta-o-grito-carcara/
+12/04/2018,Vitória,111,117,Minas,,OITAVAS,20:00,3,20-17 13-17 20-25 25-19 7-7 17-17 9-15,ok,quartos LNB,22681,https://lnb.com.br/noticias/batalha-epica-2/
+14/04/2018,Caxias do Sul,60,63,Mogi,,QUARTAS,14:00,0,,sem_quartos,BetExplorer,22691,https://lnb.com.br/noticias/sanguefrio-2/
+15/04/2018,Minas,70,84,Flamengo,,QUARTAS,14:00,0,19-25 15-20 17-27 19-12,ok,quartos LNB,22682,https://lnb.com.br/noticias/1-a-0-fla/
+16/04/2018,Bauru,81,76,Sesi Franca,,QUARTAS,19:00,0,20-15 22-19 22-18 17-24,ok,quartos LNB,22688,https://lnb.com.br/noticias/nunca-duvide-do-dragao/
+16/04/2018,Basq. Cearense,72,67,Paulistano,,QUARTAS,21:00,0,20-15 15-15 18-15 19-22,ok,quartos LNB,22685,https://lnb.com.br/noticias/carcara-guerreiro/
+17/04/2018,Flamengo,101,74,Minas,,QUARTAS,20:30,0,23-20 30-15 30-17 18-22,ok,quartos LNB,22683,https://lnb.com.br/noticias/avalanche-rubro-negra/
+18/04/2018,Mogi,69,57,Caxias do Sul,,QUARTAS,19:30,0,17-13 14-14 21-13 17-17,ok,quartos LNB,22692,https://lnb.com.br/noticias/comautoridade/
+19/04/2018,Flamengo,97,92,Minas,,QUARTAS,19:30,1,15-28 18-17 25-22 25-16 14-9,ok,quartos LNB,22684,https://lnb.com.br/noticias/flamengo-na-semi/
+19/04/2018,Sesi Franca,77,83,Bauru,,QUARTAS,21:00,0,15-22 16-25 19-19 27-17,ok,quartos LNB,22689,https://lnb.com.br/noticias/que-isso-dragao/
+20/04/2018,Paulistano,93,89,Basq. Cearense,,QUARTAS,19:00,0,18-19 22-21 36-22 17-27,ok,quartos LNB,22686,https://lnb.com.br/noticias/tudoigual_/
+20/04/2018,Mogi,54,65,Caxias do Sul,,QUARTAS,21:00,0,12-19 15-18 14-17 13-11,ok,quartos LNB,22693,https://lnb.com.br/noticias/caxias-vivo/
+21/04/2018,Sesi Franca,61,69,Bauru,,QUARTAS,14:00,0,12-12 16-13 9-24 24-20,ok,quartos LNB,22690,https://lnb.com.br/noticias/3-x-0-bauru/
+22/04/2018,Paulistano,79,68,Basq. Cearense,,QUARTAS,11:00,0,17-27 20-6 22-21 20-14,ok,quartos LNB,22687,https://lnb.com.br/noticias/cap-na-frente/
+23/04/2018,Caxias do Sul,70,80,Mogi,,QUARTAS,20:00,0,23-16 16-20 10-20 21-24,ok,quartos LNB,22698,https://lnb.com.br/noticias/mogi-na-semi/
+25/04/2018,Basq. Cearense,57,98,Paulistano,,QUARTAS,19:30,0,9-18 8-29 24-24 16-27,ok,quartos LNB,22695,https://lnb.com.br/noticias/pode-vir-semi/
+28/04/2018,Mogi,79,62,Flamengo,,SEMI,14:00,0,20-15 20-21 20-13 19-13,ok,quartos LNB,22699,https://lnb.com.br/noticias/gigante-mogi/
+30/04/2018,Bauru,72,78,Paulistano,,SEMI,20:00,0,22-22 14-21 15-16 21-19,ok,quartos LNB,22702,https://lnb.com.br/noticias/disputa-intensa/
+04/05/2018,Flamengo,74,88,Mogi,,SEMI,20:00,0,17-21 16-24 14-19 27-24,ok,quartos LNB,22700,https://lnb.com.br/noticias/jogo-perfeito/
+05/05/2018,Paulistano,59,70,Bauru,,SEMI,14:00,0,14-18 19-16 17-20 9-16,ok,quartos LNB,22703,https://lnb.com.br/noticias/dragao-vivo/
+07/05/2018,Flamengo,71,64,Mogi,,SEMI,20:00,0,18-17 20-18 19-15 14-14,ok,quartos LNB,22701,https://lnb.com.br/noticias/flamengo-vivo/
+08/05/2018,Paulistano,95,64,Bauru,,SEMI,19:30,0,30-8 19-20 26-23 20-13,ok,quartos LNB,22704,https://lnb.com.br/noticias/que-isso-paulistano/
+11/05/2018,Bauru,82,75,Paulistano,,SEMI,20:00,0,18-16 18-16 21-24 25-19,ok,quartos LNB,22706,https://lnb.com.br/noticias/131597/
+12/05/2018,Mogi,89,72,Flamengo,,SEMI,14:00,0,17-15 19-22 26-14 27-21,ok,quartos LNB,22705,https://lnb.com.br/noticias/mogi-na-final/
+14/05/2018,Paulistano,80,77,Bauru,,SEMI,19:30,0,14-10 24-13 21-23 21-31,ok,quartos LNB,22708,https://lnb.com.br/noticias/e-final-paulistano/
+19/05/2018,Mogi,82,99,Paulistano,,FINAL,14:00,0,14-30 19-22 32-24 17-23,ok,quartos LNB,22714,https://lnb.com.br/noticias/grande-inicio/
+24/05/2018,Paulistano,70,84,Mogi,,FINAL,19:30,0,10-21 17-17 28-34 15-12,ok,quartos LNB,22715,https://lnb.com.br/noticias/tudo-igual-15/
+26/05/2018,Paulistano,88,84,Mogi,,FINAL,12:35,0,21-12 25-25 21-18 21-29,ok,quartos LNB,22719,https://lnb.com.br/noticias/2-x-1-cap/
+02/06/2018,Mogi,76,82,Paulistano,,FINAL,14:00,0,23-23 24-31 11-13 18-15,ok,quartos LNB,22717,https://lnb.com.br/noticias/paulistano-campeao/

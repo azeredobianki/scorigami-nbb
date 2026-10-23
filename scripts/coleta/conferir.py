@@ -105,14 +105,14 @@ for s in seasons:
         if j in usedB: continue
         res['só no BetExplorer'] += 1
         notes.append(f"- Só no BetExplorer: {b['date']:%d/%m/%Y} {b['h']} {b['hs']}x{b['as_']} {b['a']} ({b['ph']}, {b['label']})")
-    ot = collections.Counter(l['raw']['status_quartos'] if l['raw']['status_quartos'] != 'ok' else ('prorrogação' if l['raw']['prorrogacoes'] not in ('', '0') else 'sem prorrogação') for l in L)
+    ot = collections.Counter('sem informação' if l['raw']['prorrogacoes'] == '' else ('prorrogação' if l['raw']['prorrogacoes'] != '0' else 'sem prorrogação') for l in L)
     summary.append((s, sum(1 for l in L if l['ph'] == 'reg'), sum(1 for l in L if l['ph'] == 'po'), len(B), res, ot))
     details.append((s, notes))
 lines += ['## Resumo por temporada', '',
-          '| Temporada | LNB regular | LNB playoffs | BetExplorer | Iguais | Data diferente | Placar diferente | Mando invertido | Só LNB | Só BetExplorer | Prorrogações | Sem dado de quartos |',
+          '| Temporada | LNB regular | LNB playoffs | BetExplorer | Iguais | Data diferente | Placar diferente | Mando invertido | Só LNB | Só BetExplorer | Prorrogações | Prorrogação desconhecida |',
           '|---|---|---|---|---|---|---|---|---|---|---|---|']
 for s, nr, np_, nb, res, ot in summary:
-    lines.append(f"| {s} | {nr} | {np_} | {nb} | {res['iguais']} | {res['data diferente']} | {res['placar diferente']} | {res['mando invertido']} | {res['só na LNB']} | {res['só no BetExplorer']} | {ot['prorrogação']} | {ot['sem_quartos'] + ot['soma_diferente']} |")
+    lines.append(f"| {s} | {nr} | {np_} | {nb} | {res['iguais']} | {res['data diferente']} | {res['placar diferente']} | {res['mando invertido']} | {res['só na LNB']} | {res['só no BetExplorer']} | {ot['prorrogação']} | {ot['sem informação']} |")
 tot = collections.Counter()
 for *_, res, ot in summary: tot.update(res)
 lines += ['', f"Total: {sum(x[1]+x[2] for x in summary)} jogos na LNB, {sum(x[3] for x in summary)} no BetExplorer, {tot['iguais']} iguais, {tot['data diferente']} com data diferente, "

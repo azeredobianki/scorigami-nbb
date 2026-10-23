@@ -1,51 +1,51 @@
-data,mandante,pts_mandante,pts_visitante,visitante,rodada,etapa,hora,prorrogacoes,quartos,status_quartos,id_lnb,link
-04/04/2017,Vasco da Gama,74,83,Pinheiros,1ª RODADA,OITAVAS,19:30,,,sem_quartos,22198,https://lnb.com.br/partidas/nbb-20162017-vasco-da-gama-x-pinheiros-04042017-1930/
-05/04/2017,Macaé Basquete,70,80,Bauru,1ª RODADA,OITAVAS,19:00,,,sem_quartos,22189,https://lnb.com.br/partidas/nbb-20162017-macae-basquete-x-bauru-05042017-1900/
-06/04/2017,Basq. Cearense,87,84,Paulistano,1ª RODADA,OITAVAS,20:30,,,sem_quartos,22192,https://lnb.com.br/partidas/nbb-20162017-basq-cearense-x-paulistano-06042017-2030/
-07/04/2017,Campo Mourão,63,85,Vitória,1ª RODADA,OITAVAS,19:30,,,sem_quartos,22195,https://lnb.com.br/partidas/nbb-20162017-campo-mourao-x-vitoria-07042017-1930/
-07/04/2017,Pinheiros,80,85,Vasco da Gama,2ª RODADA,OITAVAS,21:30,,,sem_quartos,22199,https://lnb.com.br/partidas/nbb-20162017-pinheiros-x-vasco-da-gama-07042017-2130/
-08/04/2017,Bauru,91,79,Macaé Basquete,2ª RODADA,OITAVAS,14:00,,,sem_quartos,22190,https://lnb.com.br/partidas/nbb-20162017-bauru-x-macae-basquete-08042017-1400/
-09/04/2017,Pinheiros,81,78,Vasco da Gama,3ª RODADA,OITAVAS,16:00,,,sem_quartos,22200,https://lnb.com.br/partidas/nbb-20162017-pinheiros-x-vasco-da-gama-09042017-1600/
-09/04/2017,Paulistano,83,75,Basq. Cearense,2ª RODADA,OITAVAS,19:00,,,sem_quartos,22193,https://lnb.com.br/partidas/nbb-20162017-paulistano-x-basq-cearense-09042017-1900/
-10/04/2017,Bauru,93,83,Macaé Basquete,3ª RODADA,OITAVAS,20:15,,,sem_quartos,22191,https://lnb.com.br/partidas/nbb-20162017-bauru-x-macae-basquete-10042017-2015/
-11/04/2017,Paulistano,81,85,Basq. Cearense,3ª RODADA,OITAVAS,19:00,,,sem_quartos,22194,https://lnb.com.br/partidas/nbb-20162017-paulistano-x-basq-cearense-11042017-1900/
-11/04/2017,Vitória,82,80,Campo Mourão,2ª RODADA,OITAVAS,21:00,,,sem_quartos,22196,https://lnb.com.br/partidas/nbb-20162017-vitoria-x-campo-mourao-11042017-2100/
-13/04/2017,Vitória,72,81,Campo Mourão,3ª RODADA,OITAVAS,20:00,,,sem_quartos,22197,https://lnb.com.br/partidas/nbb-20162017-vitoria-x-campo-mourao-13042017-2000/
-15/04/2017,Basq. Cearense,67,82,Paulistano,4ª RODADA,OITAVAS,14:00,,,sem_quartos,22203,https://lnb.com.br/partidas/nbb-20162017-basq-cearense-x-paulistano-15042017-1400/
-15/04/2017,Vasco da Gama,79,73,Pinheiros,4ª RODADA,OITAVAS,19:00,,,sem_quartos,22207,https://lnb.com.br/partidas/nbb-20162017-vasco-da-gama-x-pinheiros-15042017-1900/
-16/04/2017,Campo Mourão,68,66,Vitória,4ª RODADA,OITAVAS,11:00,,,sem_quartos,22205,https://lnb.com.br/partidas/nbb-20162017-campo-mourao-x-vitoria-16042017-1100/
-17/04/2017,Pinheiros,93,82,Vasco da Gama,5ª RODADA,OITAVAS,19:30,,,sem_quartos,22208,https://lnb.com.br/partidas/nbb-20162017-pinheiros-x-vasco-da-gama-17042017-1930/
-18/04/2017,Paulistano,76,72,Basq. Cearense,5ª RODADA,OITAVAS,19:30,,,sem_quartos,22204,https://lnb.com.br/partidas/nbb-20162017-paulistano-x-basq-cearense-18042017-1930/
-18/04/2017,Vitória,73,60,Campo Mourão,5ª RODADA,OITAVAS,21:30,,,sem_quartos,22206,https://lnb.com.br/partidas/nbb-20162017-vitoria-x-campo-mourao-18042017-2130/
-20/04/2017,Bauru,87,88,Brasília,1ª RODADA,QUARTAS,20:00,,,sem_quartos,22212,https://lnb.com.br/partidas/nbb-20162017-bauru-x-brasilia-20042017-2000/
-21/04/2017,Pinheiros,85,96,Flamengo,1ª RODADA,QUARTAS,21:00,,,sem_quartos,22209,https://lnb.com.br/partidas/nbb-20162017-pinheiros-x-flamengo-21042017-2100/
-22/04/2017,Paulistano,80,65,Franca,1ª RODADA,QUARTAS,14:00,,,sem_quartos,22218,https://lnb.com.br/partidas/nbb-20162017-paulistano-x-sesi-franca-22042017-1400/
-22/04/2017,Vitória,83,89,Mogi,1ª RODADA,QUARTAS,19:00,,,sem_quartos,22215,https://lnb.com.br/partidas/nbb-20162017-vitoria-x-mogi-22042017-1900/
-23/04/2017,Brasília,73,77,Bauru,2ª RODADA,QUARTAS,18:00,,,sem_quartos,22213,https://lnb.com.br/partidas/nbb-20162017-brasilia-x-bauru-23042017-1800/
-24/04/2017,Flamengo,83,73,Pinheiros,2ª RODADA,QUARTAS,19:30,,,sem_quartos,22210,https://lnb.com.br/partidas/nbb-20162017-flamengo-x-pinheiros-24042017-1930/
-25/04/2017,Franca,92,79,Paulistano,2ª RODADA,QUARTAS,19:30,,,sem_quartos,22219,https://lnb.com.br/partidas/nbb-20162017-sesi-franca-x-paulistano-25042017-1930/
-25/04/2017,Brasília,76,85,Bauru,3ª RODADA,QUARTAS,21:30,,,sem_quartos,22214,https://lnb.com.br/partidas/nbb-20162017-brasilia-x-bauru-25042017-2130/
-26/04/2017,Flamengo,79,90,Pinheiros,3ª RODADA,QUARTAS,19:30,,,sem_quartos,22211,https://lnb.com.br/partidas/nbb-20162017-flamengo-x-pinheiros-26042017-1930/
-27/04/2017,Mogi,83,87,Vitória,2ª RODADA,QUARTAS,20:00,,,sem_quartos,22216,https://lnb.com.br/partidas/nbb-20162017-mogi-x-vitoria-27042017-2000/
-28/04/2017,Franca,66,69,Paulistano,3ª RODADA,QUARTAS,19:30,,,sem_quartos,22220,https://lnb.com.br/partidas/nbb-20162017-sesi-franca-x-paulistano-28042017-1930/
-29/04/2017,Mogi,88,69,Vitória,3ª RODADA,QUARTAS,14:00,,,sem_quartos,22217,https://lnb.com.br/partidas/nbb-20162017-mogi-x-vitoria-29042017-1400/
-30/04/2017,Bauru,80,78,Brasília,4ª RODADA,QUARTAS,18:30,,,sem_quartos,22221,https://lnb.com.br/partidas/nbb-20162017-bauru-x-brasilia-30042017-1830/
-01/05/2017,Pinheiros,102,98,Flamengo,4ª RODADA,QUARTAS,19:00,,,sem_quartos,22223,https://lnb.com.br/partidas/nbb-20162017-pinheiros-x-flamengo-01052017-1900/
-02/05/2017,Paulistano,87,105,Franca,4ª RODADA,QUARTAS,19:30,,,sem_quartos,22222,https://lnb.com.br/partidas/nbb-20162017-paulistano-x-sesi-franca-02052017-1930/
-02/05/2017,Vitória,82,80,Mogi,4ª RODADA,QUARTAS,21:30,,,sem_quartos,22224,https://lnb.com.br/partidas/nbb-20162017-vitoria-x-mogi-02052017-2130/
-05/05/2017,Flamengo,75,78,Pinheiros,5ª RODADA,QUARTAS,19:30,,,sem_quartos,22229,https://lnb.com.br/noticias/foco-total_/
-06/05/2017,Mogi,85,95,Vitória,5ª RODADA,QUARTAS,14:00,,,sem_quartos,22231,https://lnb.com.br/noticias/foco-total_/
-06/05/2017,Franca,67,80,Paulistano,5ª RODADA,QUARTAS,18:00,,,sem_quartos,22230,https://lnb.com.br/noticias/foco-total_/
-08/05/2017,Pinheiros,98,86,Bauru,1ª RODADA,SEMI,19:30,,,sem_quartos,22233,https://lnb.com.br/partidas/nbb-20162017-pinheiros-x-bauru-08052017-1930/
-09/05/2017,Vitória,84,93,Paulistano,1ª RODADA,SEMI,19:30,,,sem_quartos,22236,https://lnb.com.br/partidas/nbb-20162017-vitoria-x-paulistano-09052017-1930/
-12/05/2017,Paulistano,82,72,Vitória,2ª RODADA,SEMI,19:30,,,sem_quartos,22237,https://lnb.com.br/partidas/nbb-20162017-paulistano-x-vitoria-12052017-1930/
-13/05/2017,Bauru,83,89,Pinheiros,2ª RODADA,SEMI,14:00,,,sem_quartos,22234,https://lnb.com.br/partidas/nbb-20162017-bauru-x-pinheiros-13052017-1400/
-14/05/2017,Paulistano,70,67,Vitória,3ª RODADA,SEMI,11:00,,,sem_quartos,22238,https://lnb.com.br/partidas/nbb-20162017-paulistano-x-vitoria-14052017-1100/
-15/05/2017,Bauru,94,77,Pinheiros,3ª RODADA,SEMI,19:30,,,sem_quartos,22235,https://lnb.com.br/partidas/nbb-20162017-bauru-x-pinheiros-15052017-1930/
-20/05/2017,Pinheiros,72,76,Bauru,4ª RODADA,SEMI,14:00,,,sem_quartos,22239,https://lnb.com.br/partidas/nbb-20162017-pinheiros-x-bauru-20052017-1400/
-23/05/2017,Bauru,66,60,Pinheiros,5ª RODADA,SEMI,19:30,,,sem_quartos,22240,https://lnb.com.br/partidas/nbb-20162017-bauru-x-pinheiros-23052017-1930/
-27/05/2017,Paulistano,82,78,Bauru,1ª RODADA,FINAL,14:00,,,sem_quartos,22241,https://lnb.com.br/partidas/nbb-20162017-paulistano-x-bauru-27052017-1400/
-02/06/2017,Bauru,74,78,Paulistano,2ª RODADA,FINAL,19:30,,,sem_quartos,22242,https://lnb.com.br/partidas/nbb-20162017-bauru-x-paulistano-02062017-1930/
-04/06/2017,Bauru,90,79,Paulistano,3ª RODADA,FINAL,14:35,,,sem_quartos,22243,https://lnb.com.br/partidas/nbb-20162017-bauru-x-paulistano-04062017-1435/
-10/06/2017,Paulistano,64,81,Bauru,4ª RODADA,FINAL,14:00,,,sem_quartos,22244,https://lnb.com.br/partidas/nbb-20162017-paulistano-x-bauru-10062017-1400/
-17/06/2017,Bauru,92,73,Paulistano,5ª RODADA,FINAL,14:30,,,sem_quartos,22245,https://lnb.com.br/partidas/nbb-20162017-bauru-x-paulistano-17062017-1430/
+data,mandante,pts_mandante,pts_visitante,visitante,rodada,etapa,hora,prorrogacoes,quartos,status_quartos,fonte_prorrogacao,id_lnb,link
+04/04/2017,Vasco da Gama,74,83,Pinheiros,1ª RODADA,OITAVAS,19:30,0,,sem_quartos,BetExplorer,22198,https://lnb.com.br/partidas/nbb-20162017-vasco-da-gama-x-pinheiros-04042017-1930/
+05/04/2017,Macaé Basquete,70,80,Bauru,1ª RODADA,OITAVAS,19:00,0,,sem_quartos,BetExplorer,22189,https://lnb.com.br/partidas/nbb-20162017-macae-basquete-x-bauru-05042017-1900/
+06/04/2017,Basq. Cearense,87,84,Paulistano,1ª RODADA,OITAVAS,20:30,1+,,sem_quartos,BetExplorer,22192,https://lnb.com.br/partidas/nbb-20162017-basq-cearense-x-paulistano-06042017-2030/
+07/04/2017,Campo Mourão,63,85,Vitória,1ª RODADA,OITAVAS,19:30,0,,sem_quartos,BetExplorer,22195,https://lnb.com.br/partidas/nbb-20162017-campo-mourao-x-vitoria-07042017-1930/
+07/04/2017,Pinheiros,80,85,Vasco da Gama,2ª RODADA,OITAVAS,21:30,0,,sem_quartos,BetExplorer,22199,https://lnb.com.br/partidas/nbb-20162017-pinheiros-x-vasco-da-gama-07042017-2130/
+08/04/2017,Bauru,91,79,Macaé Basquete,2ª RODADA,OITAVAS,14:00,0,,sem_quartos,BetExplorer,22190,https://lnb.com.br/partidas/nbb-20162017-bauru-x-macae-basquete-08042017-1400/
+09/04/2017,Pinheiros,81,78,Vasco da Gama,3ª RODADA,OITAVAS,16:00,0,,sem_quartos,BetExplorer,22200,https://lnb.com.br/partidas/nbb-20162017-pinheiros-x-vasco-da-gama-09042017-1600/
+09/04/2017,Paulistano,83,75,Basq. Cearense,2ª RODADA,OITAVAS,19:00,0,,sem_quartos,BetExplorer,22193,https://lnb.com.br/partidas/nbb-20162017-paulistano-x-basq-cearense-09042017-1900/
+10/04/2017,Bauru,93,83,Macaé Basquete,3ª RODADA,OITAVAS,20:15,0,,sem_quartos,BetExplorer,22191,https://lnb.com.br/partidas/nbb-20162017-bauru-x-macae-basquete-10042017-2015/
+11/04/2017,Paulistano,81,85,Basq. Cearense,3ª RODADA,OITAVAS,19:00,0,,sem_quartos,BetExplorer,22194,https://lnb.com.br/partidas/nbb-20162017-paulistano-x-basq-cearense-11042017-1900/
+11/04/2017,Vitória,82,80,Campo Mourão,2ª RODADA,OITAVAS,21:00,0,,sem_quartos,BetExplorer,22196,https://lnb.com.br/partidas/nbb-20162017-vitoria-x-campo-mourao-11042017-2100/
+13/04/2017,Vitória,72,81,Campo Mourão,3ª RODADA,OITAVAS,20:00,0,,sem_quartos,BetExplorer,22197,https://lnb.com.br/partidas/nbb-20162017-vitoria-x-campo-mourao-13042017-2000/
+15/04/2017,Basq. Cearense,67,82,Paulistano,4ª RODADA,OITAVAS,14:00,0,,sem_quartos,BetExplorer,22203,https://lnb.com.br/partidas/nbb-20162017-basq-cearense-x-paulistano-15042017-1400/
+15/04/2017,Vasco da Gama,79,73,Pinheiros,4ª RODADA,OITAVAS,19:00,0,,sem_quartos,BetExplorer,22207,https://lnb.com.br/partidas/nbb-20162017-vasco-da-gama-x-pinheiros-15042017-1900/
+16/04/2017,Campo Mourão,68,66,Vitória,4ª RODADA,OITAVAS,11:00,0,,sem_quartos,BetExplorer,22205,https://lnb.com.br/partidas/nbb-20162017-campo-mourao-x-vitoria-16042017-1100/
+17/04/2017,Pinheiros,93,82,Vasco da Gama,5ª RODADA,OITAVAS,19:30,0,,sem_quartos,BetExplorer,22208,https://lnb.com.br/partidas/nbb-20162017-pinheiros-x-vasco-da-gama-17042017-1930/
+18/04/2017,Paulistano,76,72,Basq. Cearense,5ª RODADA,OITAVAS,19:30,0,,sem_quartos,BetExplorer,22204,https://lnb.com.br/partidas/nbb-20162017-paulistano-x-basq-cearense-18042017-1930/
+18/04/2017,Vitória,73,60,Campo Mourão,5ª RODADA,OITAVAS,21:30,0,,sem_quartos,BetExplorer,22206,https://lnb.com.br/partidas/nbb-20162017-vitoria-x-campo-mourao-18042017-2130/
+20/04/2017,Bauru,87,88,Brasília,1ª RODADA,QUARTAS,20:00,1+,,sem_quartos,BetExplorer,22212,https://lnb.com.br/partidas/nbb-20162017-bauru-x-brasilia-20042017-2000/
+21/04/2017,Pinheiros,85,96,Flamengo,1ª RODADA,QUARTAS,21:00,0,,sem_quartos,BetExplorer,22209,https://lnb.com.br/partidas/nbb-20162017-pinheiros-x-flamengo-21042017-2100/
+22/04/2017,Paulistano,80,65,Franca,1ª RODADA,QUARTAS,14:00,0,,sem_quartos,BetExplorer,22218,https://lnb.com.br/partidas/nbb-20162017-paulistano-x-sesi-franca-22042017-1400/
+22/04/2017,Vitória,83,89,Mogi,1ª RODADA,QUARTAS,19:00,0,,sem_quartos,BetExplorer,22215,https://lnb.com.br/partidas/nbb-20162017-vitoria-x-mogi-22042017-1900/
+23/04/2017,Brasília,73,77,Bauru,2ª RODADA,QUARTAS,18:00,0,,sem_quartos,BetExplorer,22213,https://lnb.com.br/partidas/nbb-20162017-brasilia-x-bauru-23042017-1800/
+24/04/2017,Flamengo,83,73,Pinheiros,2ª RODADA,QUARTAS,19:30,0,,sem_quartos,BetExplorer,22210,https://lnb.com.br/partidas/nbb-20162017-flamengo-x-pinheiros-24042017-1930/
+25/04/2017,Franca,92,79,Paulistano,2ª RODADA,QUARTAS,19:30,0,,sem_quartos,BetExplorer,22219,https://lnb.com.br/partidas/nbb-20162017-sesi-franca-x-paulistano-25042017-1930/
+25/04/2017,Brasília,76,85,Bauru,3ª RODADA,QUARTAS,21:30,0,,sem_quartos,BetExplorer,22214,https://lnb.com.br/partidas/nbb-20162017-brasilia-x-bauru-25042017-2130/
+26/04/2017,Flamengo,79,90,Pinheiros,3ª RODADA,QUARTAS,19:30,0,,sem_quartos,BetExplorer,22211,https://lnb.com.br/partidas/nbb-20162017-flamengo-x-pinheiros-26042017-1930/
+27/04/2017,Mogi,83,87,Vitória,2ª RODADA,QUARTAS,20:00,0,,sem_quartos,BetExplorer,22216,https://lnb.com.br/partidas/nbb-20162017-mogi-x-vitoria-27042017-2000/
+28/04/2017,Franca,66,69,Paulistano,3ª RODADA,QUARTAS,19:30,0,,sem_quartos,BetExplorer,22220,https://lnb.com.br/partidas/nbb-20162017-sesi-franca-x-paulistano-28042017-1930/
+29/04/2017,Mogi,88,69,Vitória,3ª RODADA,QUARTAS,14:00,0,,sem_quartos,BetExplorer,22217,https://lnb.com.br/partidas/nbb-20162017-mogi-x-vitoria-29042017-1400/
+30/04/2017,Bauru,80,78,Brasília,4ª RODADA,QUARTAS,18:30,0,,sem_quartos,BetExplorer,22221,https://lnb.com.br/partidas/nbb-20162017-bauru-x-brasilia-30042017-1830/
+01/05/2017,Pinheiros,102,98,Flamengo,4ª RODADA,QUARTAS,19:00,0,,sem_quartos,BetExplorer,22223,https://lnb.com.br/partidas/nbb-20162017-pinheiros-x-flamengo-01052017-1900/
+02/05/2017,Paulistano,87,105,Franca,4ª RODADA,QUARTAS,19:30,0,,sem_quartos,BetExplorer,22222,https://lnb.com.br/partidas/nbb-20162017-paulistano-x-sesi-franca-02052017-1930/
+02/05/2017,Vitória,82,80,Mogi,4ª RODADA,QUARTAS,21:30,1+,,sem_quartos,BetExplorer,22224,https://lnb.com.br/partidas/nbb-20162017-vitoria-x-mogi-02052017-2130/
+05/05/2017,Flamengo,75,78,Pinheiros,5ª RODADA,QUARTAS,19:30,0,,sem_quartos,BetExplorer,22229,https://lnb.com.br/noticias/foco-total_/
+06/05/2017,Mogi,85,95,Vitória,5ª RODADA,QUARTAS,14:00,0,,sem_quartos,BetExplorer,22231,https://lnb.com.br/noticias/foco-total_/
+06/05/2017,Franca,67,80,Paulistano,5ª RODADA,QUARTAS,18:00,0,,sem_quartos,BetExplorer,22230,https://lnb.com.br/noticias/foco-total_/
+08/05/2017,Pinheiros,98,86,Bauru,1ª RODADA,SEMI,19:30,0,,sem_quartos,BetExplorer,22233,https://lnb.com.br/partidas/nbb-20162017-pinheiros-x-bauru-08052017-1930/
+09/05/2017,Vitória,84,93,Paulistano,1ª RODADA,SEMI,19:30,0,,sem_quartos,BetExplorer,22236,https://lnb.com.br/partidas/nbb-20162017-vitoria-x-paulistano-09052017-1930/
+12/05/2017,Paulistano,82,72,Vitória,2ª RODADA,SEMI,19:30,0,,sem_quartos,BetExplorer,22237,https://lnb.com.br/partidas/nbb-20162017-paulistano-x-vitoria-12052017-1930/
+13/05/2017,Bauru,83,89,Pinheiros,2ª RODADA,SEMI,14:00,0,,sem_quartos,BetExplorer,22234,https://lnb.com.br/partidas/nbb-20162017-bauru-x-pinheiros-13052017-1400/
+14/05/2017,Paulistano,70,67,Vitória,3ª RODADA,SEMI,11:00,0,,sem_quartos,BetExplorer,22238,https://lnb.com.br/partidas/nbb-20162017-paulistano-x-vitoria-14052017-1100/
+15/05/2017,Bauru,94,77,Pinheiros,3ª RODADA,SEMI,19:30,0,,sem_quartos,BetExplorer,22235,https://lnb.com.br/partidas/nbb-20162017-bauru-x-pinheiros-15052017-1930/
+20/05/2017,Pinheiros,72,76,Bauru,4ª RODADA,SEMI,14:00,0,,sem_quartos,BetExplorer,22239,https://lnb.com.br/partidas/nbb-20162017-pinheiros-x-bauru-20052017-1400/
+23/05/2017,Bauru,66,60,Pinheiros,5ª RODADA,SEMI,19:30,0,,sem_quartos,BetExplorer,22240,https://lnb.com.br/partidas/nbb-20162017-bauru-x-pinheiros-23052017-1930/
+27/05/2017,Paulistano,82,78,Bauru,1ª RODADA,FINAL,14:00,0,,sem_quartos,BetExplorer,22241,https://lnb.com.br/partidas/nbb-20162017-paulistano-x-bauru-27052017-1400/
+02/06/2017,Bauru,74,78,Paulistano,2ª RODADA,FINAL,19:30,0,,sem_quartos,BetExplorer,22242,https://lnb.com.br/partidas/nbb-20162017-bauru-x-paulistano-02062017-1930/
+04/06/2017,Bauru,90,79,Paulistano,3ª RODADA,FINAL,14:35,0,,sem_quartos,BetExplorer,22243,https://lnb.com.br/partidas/nbb-20162017-bauru-x-paulistano-04062017-1435/
+10/06/2017,Paulistano,64,81,Bauru,4ª RODADA,FINAL,14:00,0,,sem_quartos,BetExplorer,22244,https://lnb.com.br/partidas/nbb-20162017-paulistano-x-bauru-10062017-1400/
+17/06/2017,Bauru,92,73,Paulistano,5ª RODADA,FINAL,14:30,0,,sem_quartos,BetExplorer,22245,https://lnb.com.br/partidas/nbb-20162017-bauru-x-paulistano-17062017-1430/

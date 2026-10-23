@@ -31,9 +31,12 @@ contagem de jogos e placar jogo a jogo, e listar cada diferença.
 - Segunda fonte: BetExplorer (RealGM e Proballers bloqueiam com 403; a API da Wikipédia limita, mas as páginas
   das temporadas em português serviram de terceira fonte nas divergências).
 - Relatório: `dados/conferencia/relatorio-por-temporada.md`.
-- Prorrogação: conhecida em 3.435 jogos (177 com prorrogação). Sem dado (`ot` = null) em 1.767 jogos, incluindo
-  todos de 2008-09 a 2011-12, em que a LNB não publica placar por quarto.
+- Prorrogação: conhecida em 5.105 jogos (275 com prorrogação), por três fontes em ordem: quartos da LNB,
+  minutos do box score da LNB (200 por time + 25 por prorrogação) e página da partida no BetExplorer. Ficam 97
+  sem informação (`ot` = null), quase todos de 2008-09 e 2010-11. Coluna `fonte_prorrogacao` nos CSVs.
 - Scripts em `scripts/coleta/`: `parse_tabela.py` (tabela da LNB), `fetch_games.py` + `quarters.py` (quartos),
-  `betexplorer.py`, `montar.py` (gera os CSVs), `conferir.py` + `franquias.py` (relatório). O
+  `betexplorer.py`, `fetch_box.py` + `minutos.py` + `ot_minutos.py` (minutos), `bx_match.py` +
+  `fetch_bx_match.py` + `bx_ot.py` (partidas do BetExplorer), `montar.py` (gera os CSVs; uso: `montar.py
+  tabela_completa.json quartos.jsonl saida/ box_minutos.jsonl partidas.jsonl`), `conferir.py` + `franquias.py` (relatório). O
   `scripts/build_data.py` agora lê os CSVs com cabeçalho e preenche `ot`.
 - A pasta `dados/brutos/amostra-lnb/` é a amostra antiga e pode ser apagada.

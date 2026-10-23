@@ -1,46 +1,46 @@
-data,mandante,pts_mandante,pts_visitante,visitante,rodada,etapa,hora,prorrogacoes,quartos,status_quartos,id_lnb,link
-02/04/2016,Franca,87,85,Rio Claro,1ª RODADA,OITAVAS,14:10,,,sem_quartos,21629,https://lnb.com.br/noticias/vitoria-epica/
-03/04/2016,Caxias do Sul,101,78,Brasília,1ª RODADA,OITAVAS,13:00,0,26-18 20-11 22-26 33-23,ok,21639,https://lnb.com.br/noticias/o-vascao-tem-dono/
-04/04/2016,Minas,83,79,Pinheiros,1ª RODADA,OITAVAS,19:00,0,17-16 23-18 16-30 27-15,ok,21634,https://lnb.com.br/noticias/heroico-minas/
-04/04/2016,Vitória,72,74,Mogi,1ª RODADA,OITAVAS,21:00,1,26-12 17-25 8-16 13-11 8-10,ok,21644,https://lnb.com.br/noticias/quanta-emocao-4/
-05/04/2016,Rio Claro,89,79,Franca,2ª RODADA,OITAVAS,19:00,0,15-20 23-12 26-23 25-24,ok,21630,https://lnb.com.br/noticias/tudo_igual_/
-06/04/2016,Brasília,95,67,Caxias do Sul,2ª RODADA,OITAVAS,20:00,0,25-17 19-16 30-18 21-16,ok,21640,https://lnb.com.br/noticias/devidamente-empatado/
-07/04/2016,Mogi,81,67,Vitória,2ª RODADA,OITAVAS,19:00,0,20-17 23-19 16-24 22-7,ok,21645,https://lnb.com.br/noticias/na_hora_certa_/
-07/04/2016,Pinheiros,70,77,Minas,2ª RODADA,OITAVAS,21:00,0,18-21 14-21 22-12 16-23,ok,21635,https://lnb.com.br/noticias/vantagem-ampliada-2/
-08/04/2016,Rio Claro,81,62,Franca,3ª RODADA,OITAVAS,20:00,0,14-13 30-12 22-15 15-22,ok,21631,https://lnb.com.br/noticias/ainda-mais-perto/
-08/04/2016,Brasília,93,73,Caxias do Sul,3ª RODADA,OITAVAS,22:10,0,22-21 23-23 19-12 29-17,ok,21641,https://lnb.com.br/noticias/a-um-passo-das-quartas/
-09/04/2016,Mogi,81,58,Vitória,3ª RODADA,OITAVAS,14:10,0,16-14 22-6 27-9 16-29,ok,21646,https://lnb.com.br/noticias/incontestavel-6/
-09/04/2016,Pinheiros,70,67,Minas,3ª RODADA,OITAVAS,19:15,0,21-10 11-16 14-22 24-19,ok,21636,https://lnb.com.br/noticias/vivo_na_briga_/
-11/04/2016,Franca,88,60,Rio Claro,4ª RODADA,OITAVAS,19:00,0,18-16 21-7 30-23 19-14,ok,21632,https://lnb.com.br/noticias/que-venha-o-jogo-5/
-11/04/2016,Caxias do Sul,80,86,Brasília,4ª RODADA,OITAVAS,20:05,0,19-27 19-19 25-14 17-26,ok,21642,https://lnb.com.br/noticias/quartasdefinalaivoueu/
-12/04/2016,Minas,67,85,Pinheiros,4ª RODADA,OITAVAS,19:00,0,16-23 24-21 14-23 13-18,ok,21637,https://lnb.com.br/noticias/pressao-que-nada/
-13/04/2016,Rio Claro,74,64,Franca,5ª RODADA,OITAVAS,20:00,0,14-16 12-18 26-19 22-11,ok,21633,https://lnb.com.br/noticias/faz-a-festa-rio-claro/
-15/04/2016,Pinheiros,74,66,Minas,5ª RODADA,OITAVAS,20:00,0,27-15 19-21 15-14 13-16,ok,21638,https://lnb.com.br/noticias/e-o-time-da-virada/
-16/04/2016,Mogi,67,64,Basq. Cearense,1ª RODADA,QUARTAS,14:10,0,14-18 21-19 16-14 16-13,ok,21663,https://lnb.com.br/noticias/espetacular_/
-16/04/2016,Brasília,88,83,Paulistano,1ª RODADA,QUARTAS,20:00,0,12-24 16-16 28-21 32-22,ok,21657,https://lnb.com.br/noticias/no_coracao/
-18/04/2016,Rio Claro,79,88,Flamengo,1ª RODADA,QUARTAS,19:00,0,13-27 19-16 26-22 21-23,ok,21651,https://lnb.com.br/noticias/mengao-na-frente/
-18/04/2016,Pinheiros,85,95,Bauru,1ª RODADA,QUARTAS,21:00,0,23-29 25-17 15-25 22-24,ok,21668,https://lnb.com.br/noticias/chuva-ou-tempestade/
-19/04/2016,Basq. Cearense,76,55,Mogi,2ª RODADA,QUARTAS,20:30,0,20-10 14-11 19-13 23-21,ok,21664,https://lnb.com.br/noticias/de_ponta_a_ponta_/
-20/04/2016,Paulistano,99,78,Brasília,2ª RODADA,QUARTAS,19:30,,,sem_quartos,21658,https://lnb.com.br/noticias/tudo-igual-9/
-21/04/2016,Basq. Cearense,63,64,Mogi,3ª RODADA,QUARTAS,16:30,0,15-13 10-15 23-7 15-29,ok,21665,https://lnb.com.br/noticias/inacreditavel-4/
-21/04/2016,Flamengo,93,73,Rio Claro,2ª RODADA,QUARTAS,19:00,0,24-20 16-14 27-18 26-21,ok,21652,https://lnb.com.br/noticias/a-um-passo-da-semi-2/
-22/04/2016,Bauru,109,83,Pinheiros,2ª RODADA,QUARTAS,19:00,,,sem_quartos,21669,https://lnb.com.br/noticias/show-em-dose-dupla/
-22/04/2016,Paulistano,88,100,Brasília,3ª RODADA,QUARTAS,21:00,,,sem_quartos,21659,https://lnb.com.br/noticias/divisor-de-aguas-2/
-23/04/2016,Flamengo,93,82,Rio Claro,3ª RODADA,QUARTAS,14:10,0,11-16 29-14 34-27 19-25,ok,21653,https://lnb.com.br/noticias/sempre-flamengo-2/
-24/04/2016,Bauru,88,92,Pinheiros,3ª RODADA,QUARTAS,12:30,0,27-30 24-19 18-24 19-19,ok,21670,https://lnb.com.br/noticias/desistir_jamais_/
-24/04/2016,Mogi,95,80,Basq. Cearense,4ª RODADA,QUARTAS,19:00,,,sem_quartos,21666,https://lnb.com.br/noticias/ta-virando-rotina/
-25/04/2016,Brasília,83,78,Paulistano,4ª RODADA,QUARTAS,21:00,,,sem_quartos,21660,https://lnb.com.br/noticias/velha-nova-sensacao/
-27/04/2016,Pinheiros,86,89,Bauru,4ª RODADA,QUARTAS,19:00,0,30-26 18-14 22-25 16-24,ok,21671,https://lnb.com.br/noticias/e-semi-bauru/
-30/04/2016,Mogi,86,81,Flamengo,1ª RODADA,SEMI,14:10,0,20-18 19-16 27-17 20-30,ok,21673,https://lnb.com.br/noticias/quanta_emocao_/
-03/05/2016,Brasília,72,89,Bauru,1ª RODADA,SEMI,21:15,0,14-17 16-24 23-27 19-21,ok,21678,https://lnb.com.br/noticias/so_deu_bauru_/
-06/05/2016,Flamengo,81,71,Mogi,2ª RODADA,SEMI,21:00,0,10-11 28-17 21-31 22-12,ok,21674,https://lnb.com.br/noticias/isso-aqui-e-flamengo/
-07/05/2016,Bauru,100,80,Brasília,2ª RODADA,SEMI,14:10,0,26-17 19-23 27-12 28-28,ok,21679,https://lnb.com.br/noticias/passo-largo/
-09/05/2016,Flamengo,77,83,Mogi,3ª RODADA,SEMI,21:00,0,13-24 18-13 31-24 15-22,ok,21675,https://lnb.com.br/noticias/mogigante/
-10/05/2016,Bauru,85,79,Brasília,3ª RODADA,SEMI,21:15,0,22-14 20-26 23-14 20-25,ok,21680,https://lnb.com.br/noticias/panela-em-chamas/
-14/05/2016,Mogi,91,93,Flamengo,4ª RODADA,SEMI,14:10,0,20-23 25-31 25-24 21-15,ok,21676,https://lnb.com.br/noticias/resistencia-rubro-negra/
-17/05/2016,Flamengo,79,75,Mogi,5ª RODADA,SEMI,21:00,1,0-0 23-23 13-21 26-17 17-14,ok,21677,https://lnb.com.br/noticias/e-final-mengao/
-21/05/2016,Bauru,77,83,Flamengo,1ª RODADA,FINAL,14:10,0,19-14 20-24 23-22 15-23,ok,21689,https://lnb.com.br/noticias/com-o-pe-na-porta/
-26/05/2016,Flamengo,80,85,Bauru,2ª RODADA,FINAL,17:00,0,15-15 11-16 23-16 31-38,ok,21690,https://lnb.com.br/noticias/longe-de-acabar-2/
-28/05/2016,Flamengo,89,84,Bauru,3ª RODADA,FINAL,14:10,0,26-20 20-21 28-16 15-27,ok,21691,https://lnb.com.br/noticias/segurouelevou/
-04/06/2016,Bauru,94,81,Flamengo,4ª RODADA,FINAL,14:10,0,28-13 23-17 26-25 17-26,ok,21692,https://lnb.com.br/noticias/partiu-jogo-5/
-11/06/2016,Flamengo,100,66,Bauru,5ª RODADA,FINAL,14:10,0,21-17 18-15 32-17 29-17,ok,21693,https://lnb.com.br/noticias/flamengo-e-penta/
+data,mandante,pts_mandante,pts_visitante,visitante,rodada,etapa,hora,prorrogacoes,quartos,status_quartos,fonte_prorrogacao,id_lnb,link
+02/04/2016,Franca,87,85,Rio Claro,1ª RODADA,OITAVAS,14:10,1+,,sem_quartos,BetExplorer,21629,https://lnb.com.br/noticias/vitoria-epica/
+03/04/2016,Caxias do Sul,101,78,Brasília,1ª RODADA,OITAVAS,13:00,0,26-18 20-11 22-26 33-23,ok,quartos LNB,21639,https://lnb.com.br/noticias/o-vascao-tem-dono/
+04/04/2016,Minas,83,79,Pinheiros,1ª RODADA,OITAVAS,19:00,0,17-16 23-18 16-30 27-15,ok,quartos LNB,21634,https://lnb.com.br/noticias/heroico-minas/
+04/04/2016,Vitória,72,74,Mogi,1ª RODADA,OITAVAS,21:00,1,26-12 17-25 8-16 13-11 8-10,ok,quartos LNB,21644,https://lnb.com.br/noticias/quanta-emocao-4/
+05/04/2016,Rio Claro,89,79,Franca,2ª RODADA,OITAVAS,19:00,0,15-20 23-12 26-23 25-24,ok,quartos LNB,21630,https://lnb.com.br/noticias/tudo_igual_/
+06/04/2016,Brasília,95,67,Caxias do Sul,2ª RODADA,OITAVAS,20:00,0,25-17 19-16 30-18 21-16,ok,quartos LNB,21640,https://lnb.com.br/noticias/devidamente-empatado/
+07/04/2016,Mogi,81,67,Vitória,2ª RODADA,OITAVAS,19:00,0,20-17 23-19 16-24 22-7,ok,quartos LNB,21645,https://lnb.com.br/noticias/na_hora_certa_/
+07/04/2016,Pinheiros,70,77,Minas,2ª RODADA,OITAVAS,21:00,0,18-21 14-21 22-12 16-23,ok,quartos LNB,21635,https://lnb.com.br/noticias/vantagem-ampliada-2/
+08/04/2016,Rio Claro,81,62,Franca,3ª RODADA,OITAVAS,20:00,0,14-13 30-12 22-15 15-22,ok,quartos LNB,21631,https://lnb.com.br/noticias/ainda-mais-perto/
+08/04/2016,Brasília,93,73,Caxias do Sul,3ª RODADA,OITAVAS,22:10,0,22-21 23-23 19-12 29-17,ok,quartos LNB,21641,https://lnb.com.br/noticias/a-um-passo-das-quartas/
+09/04/2016,Mogi,81,58,Vitória,3ª RODADA,OITAVAS,14:10,0,16-14 22-6 27-9 16-29,ok,quartos LNB,21646,https://lnb.com.br/noticias/incontestavel-6/
+09/04/2016,Pinheiros,70,67,Minas,3ª RODADA,OITAVAS,19:15,0,21-10 11-16 14-22 24-19,ok,quartos LNB,21636,https://lnb.com.br/noticias/vivo_na_briga_/
+11/04/2016,Franca,88,60,Rio Claro,4ª RODADA,OITAVAS,19:00,0,18-16 21-7 30-23 19-14,ok,quartos LNB,21632,https://lnb.com.br/noticias/que-venha-o-jogo-5/
+11/04/2016,Caxias do Sul,80,86,Brasília,4ª RODADA,OITAVAS,20:05,0,19-27 19-19 25-14 17-26,ok,quartos LNB,21642,https://lnb.com.br/noticias/quartasdefinalaivoueu/
+12/04/2016,Minas,67,85,Pinheiros,4ª RODADA,OITAVAS,19:00,0,16-23 24-21 14-23 13-18,ok,quartos LNB,21637,https://lnb.com.br/noticias/pressao-que-nada/
+13/04/2016,Rio Claro,74,64,Franca,5ª RODADA,OITAVAS,20:00,0,14-16 12-18 26-19 22-11,ok,quartos LNB,21633,https://lnb.com.br/noticias/faz-a-festa-rio-claro/
+15/04/2016,Pinheiros,74,66,Minas,5ª RODADA,OITAVAS,20:00,0,27-15 19-21 15-14 13-16,ok,quartos LNB,21638,https://lnb.com.br/noticias/e-o-time-da-virada/
+16/04/2016,Mogi,67,64,Basq. Cearense,1ª RODADA,QUARTAS,14:10,0,14-18 21-19 16-14 16-13,ok,quartos LNB,21663,https://lnb.com.br/noticias/espetacular_/
+16/04/2016,Brasília,88,83,Paulistano,1ª RODADA,QUARTAS,20:00,0,12-24 16-16 28-21 32-22,ok,quartos LNB,21657,https://lnb.com.br/noticias/no_coracao/
+18/04/2016,Rio Claro,79,88,Flamengo,1ª RODADA,QUARTAS,19:00,0,13-27 19-16 26-22 21-23,ok,quartos LNB,21651,https://lnb.com.br/noticias/mengao-na-frente/
+18/04/2016,Pinheiros,85,95,Bauru,1ª RODADA,QUARTAS,21:00,0,23-29 25-17 15-25 22-24,ok,quartos LNB,21668,https://lnb.com.br/noticias/chuva-ou-tempestade/
+19/04/2016,Basq. Cearense,76,55,Mogi,2ª RODADA,QUARTAS,20:30,0,20-10 14-11 19-13 23-21,ok,quartos LNB,21664,https://lnb.com.br/noticias/de_ponta_a_ponta_/
+20/04/2016,Paulistano,99,78,Brasília,2ª RODADA,QUARTAS,19:30,0,,sem_quartos,BetExplorer,21658,https://lnb.com.br/noticias/tudo-igual-9/
+21/04/2016,Basq. Cearense,63,64,Mogi,3ª RODADA,QUARTAS,16:30,0,15-13 10-15 23-7 15-29,ok,quartos LNB,21665,https://lnb.com.br/noticias/inacreditavel-4/
+21/04/2016,Flamengo,93,73,Rio Claro,2ª RODADA,QUARTAS,19:00,0,24-20 16-14 27-18 26-21,ok,quartos LNB,21652,https://lnb.com.br/noticias/a-um-passo-da-semi-2/
+22/04/2016,Bauru,109,83,Pinheiros,2ª RODADA,QUARTAS,19:00,0,,sem_quartos,BetExplorer,21669,https://lnb.com.br/noticias/show-em-dose-dupla/
+22/04/2016,Paulistano,88,100,Brasília,3ª RODADA,QUARTAS,21:00,0,,sem_quartos,BetExplorer,21659,https://lnb.com.br/noticias/divisor-de-aguas-2/
+23/04/2016,Flamengo,93,82,Rio Claro,3ª RODADA,QUARTAS,14:10,0,11-16 29-14 34-27 19-25,ok,quartos LNB,21653,https://lnb.com.br/noticias/sempre-flamengo-2/
+24/04/2016,Bauru,88,92,Pinheiros,3ª RODADA,QUARTAS,12:30,0,27-30 24-19 18-24 19-19,ok,quartos LNB,21670,https://lnb.com.br/noticias/desistir_jamais_/
+24/04/2016,Mogi,95,80,Basq. Cearense,4ª RODADA,QUARTAS,19:00,0,,sem_quartos,BetExplorer,21666,https://lnb.com.br/noticias/ta-virando-rotina/
+25/04/2016,Brasília,83,78,Paulistano,4ª RODADA,QUARTAS,21:00,0,,sem_quartos,BetExplorer,21660,https://lnb.com.br/noticias/velha-nova-sensacao/
+27/04/2016,Pinheiros,86,89,Bauru,4ª RODADA,QUARTAS,19:00,0,30-26 18-14 22-25 16-24,ok,quartos LNB,21671,https://lnb.com.br/noticias/e-semi-bauru/
+30/04/2016,Mogi,86,81,Flamengo,1ª RODADA,SEMI,14:10,0,20-18 19-16 27-17 20-30,ok,quartos LNB,21673,https://lnb.com.br/noticias/quanta_emocao_/
+03/05/2016,Brasília,72,89,Bauru,1ª RODADA,SEMI,21:15,0,14-17 16-24 23-27 19-21,ok,quartos LNB,21678,https://lnb.com.br/noticias/so_deu_bauru_/
+06/05/2016,Flamengo,81,71,Mogi,2ª RODADA,SEMI,21:00,0,10-11 28-17 21-31 22-12,ok,quartos LNB,21674,https://lnb.com.br/noticias/isso-aqui-e-flamengo/
+07/05/2016,Bauru,100,80,Brasília,2ª RODADA,SEMI,14:10,0,26-17 19-23 27-12 28-28,ok,quartos LNB,21679,https://lnb.com.br/noticias/passo-largo/
+09/05/2016,Flamengo,77,83,Mogi,3ª RODADA,SEMI,21:00,0,13-24 18-13 31-24 15-22,ok,quartos LNB,21675,https://lnb.com.br/noticias/mogigante/
+10/05/2016,Bauru,85,79,Brasília,3ª RODADA,SEMI,21:15,0,22-14 20-26 23-14 20-25,ok,quartos LNB,21680,https://lnb.com.br/noticias/panela-em-chamas/
+14/05/2016,Mogi,91,93,Flamengo,4ª RODADA,SEMI,14:10,0,20-23 25-31 25-24 21-15,ok,quartos LNB,21676,https://lnb.com.br/noticias/resistencia-rubro-negra/
+17/05/2016,Flamengo,79,75,Mogi,5ª RODADA,SEMI,21:00,0,23-23 13-21 26-17 17-14,ok,quartos LNB,21677,https://lnb.com.br/noticias/e-final-mengao/
+21/05/2016,Bauru,77,83,Flamengo,1ª RODADA,FINAL,14:10,0,19-14 20-24 23-22 15-23,ok,quartos LNB,21689,https://lnb.com.br/noticias/com-o-pe-na-porta/
+26/05/2016,Flamengo,80,85,Bauru,2ª RODADA,FINAL,17:00,0,15-15 11-16 23-16 31-38,ok,quartos LNB,21690,https://lnb.com.br/noticias/longe-de-acabar-2/
+28/05/2016,Flamengo,89,84,Bauru,3ª RODADA,FINAL,14:10,0,26-20 20-21 28-16 15-27,ok,quartos LNB,21691,https://lnb.com.br/noticias/segurouelevou/
+04/06/2016,Bauru,94,81,Flamengo,4ª RODADA,FINAL,14:10,0,28-13 23-17 26-25 17-26,ok,quartos LNB,21692,https://lnb.com.br/noticias/partiu-jogo-5/
+11/06/2016,Flamengo,100,66,Bauru,5ª RODADA,FINAL,14:10,0,21-17 18-15 32-17 29-17,ok,quartos LNB,21693,https://lnb.com.br/noticias/flamengo-e-penta/

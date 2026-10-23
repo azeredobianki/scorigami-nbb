@@ -3,8 +3,10 @@
 Uso: python3 -I scripts/build_data.py dados/brutos/lnb site/games.json
 
 Cada CSV se chama <temporada>_<fase>.csv (fase = reg ou po), tem cabeçalho e as colunas
-data,mandante,pts_mandante,pts_visitante,visitante,rodada,etapa,hora,prorrogacoes,quartos,status_quartos,id_lnb,link
-"prorrogacoes" é o número de períodos extras (0, 1, 2...) ou vazio quando a LNB não tem placar por quarto.
+data,mandante,pts_mandante,pts_visitante,visitante,rodada,etapa,hora,prorrogacoes,quartos,status_quartos,
+fonte_prorrogacao,id_lnb,link
+"prorrogacoes" é o número de períodos extras (0, 1, 2...; "1+" quando a fonte só diz que houve prorrogação)
+ou vazio quando nenhuma fonte informa.
 """
 import csv
 import json
@@ -67,7 +69,7 @@ def main(src, dst):
                 games.append([f"{yy}-{mm}-{dd}", season, 1 if phase == "po" else 0,
                               tid(row["mandante"].strip()), tid(row["visitante"].strip()),
                               int(row["pts_mandante"]), int(row["pts_visitante"]),
-                              None if n == "" else int(n) > 0])
+                              None if n == "" else n != "0"])
     games.sort(key=lambda g: g[0])
     out = {"teams": teams, "fields": ["date", "season", "playoff", "home", "away", "hs", "as", "ot"],
            "games": games}

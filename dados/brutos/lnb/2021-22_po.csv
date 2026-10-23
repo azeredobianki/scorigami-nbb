@@ -1,35 +1,35 @@
-data,mandante,pts_mandante,pts_visitante,visitante,rodada,etapa,hora,prorrogacoes,quartos,status_quartos,id_lnb,link
-19/04/2022,Caxias do Sul Basquete,64,73,UNIFACISA,1ª RODADA,OITAVAS,19:00,0,18-14 8-15 12-23 26-21,ok,24314,https://lnb.com.br/noticias/playoffs-caxias-do-sul-64-x-73-unifacisa/
-19/04/2022,Pato Basquete,72,63,Bauru,1ª RODADA,OITAVAS,21:00,0,25-20 10-10 16-16 21-17,ok,24311,https://lnb.com.br/noticias/pato-basquete-72-x-63-bauru-basket/
-20/04/2022,Rio Claro,67,65,Paulistano,1ª RODADA,OITAVAS,19:00,0,8-16 20-13 18-15 21-21,ok,24317,https://lnb.com.br/noticias/rio-claro-67-x-65-paulistano/
-20/04/2022,Corinthians,78,80,Pinheiros,1ª RODADA,OITAVAS,21:00,0,17-19 16-28 27-15 18-18,ok,24320,https://lnb.com.br/noticias/playoffs-2021-2022-corinthians-78-x-80-pinheiros/
-22/04/2022,UNIFACISA,81,67,Caxias do Sul Basquete,2ª RODADA,OITAVAS,19:00,0,18-9 22-22 21-15 20-21,ok,24315,https://lnb.com.br/noticias/playoffs-unifacisa-81-x-67-caxias-do-sul-basquete/
-22/04/2022,Bauru,82,71,Pato Basquete,2ª RODADA,OITAVAS,21:00,0,25-22 21-19 20-16 16-14,ok,24312,https://lnb.com.br/noticias/playoffs-2021-2022-bauru-basket-82-x-71-pato-basquete/
-23/04/2022,Pinheiros,89,78,Corinthians,2ª RODADA,OITAVAS,16:10,0,20-17 8-13 24-22 37-26,ok,24321,https://lnb.com.br/noticias/playoffs-2021-2022-pinheiros-89-x-78-corinthians/
-23/04/2022,Paulistano,90,84,Rio Claro,2ª RODADA,OITAVAS,19:00,0,25-23 14-23 26-12 25-26,ok,24318,https://lnb.com.br/noticias/playoffs-2021-2022-paulistano-xx-x-xx-rio-claro/
-24/04/2022,Bauru,88,79,Pato Basquete,3ª RODADA,OITAVAS,19:30,0,25-15 23-21 17-21 23-22,ok,24313,https://lnb.com.br/noticias/playoffs-2021-2022-bauru-basket-88-x-79-pato-basquete/
-25/04/2022,Paulistano,68,64,Rio Claro,3ª RODADA,OITAVAS,20:00,0,13-21 18-15 17-12 20-16,ok,24319,https://lnb.com.br/noticias/playoffs-2021-2022-paulistano-68-x-64-rio-claro/
-27/04/2022,123 Minas,85,65,UNIFACISA,1ª RODADA,QUARTAS,19:00,0,20-13 21-19 27-21 17-12,ok,24323,https://lnb.com.br/noticias/playoffs-2021-2022-123-minas-85-x-65-unifacisa/
-27/04/2022,Sesi Franca,95,86,Pinheiros,1ª RODADA,QUARTAS,21:00,0,20-18 23-21 22-24 30-23,ok,24327,https://lnb.com.br/noticias/playoffs-2021-2022-sesi-franca-95-x-86-pinheiros/
-28/04/2022,São Paulo,90,65,Bauru,1ª RODADA,QUARTAS,19:00,0,21-21 27-10 17-22 25-12,ok,24330,https://lnb.com.br/noticias/playoffs-2021-2022-sao-paulo-90-x-65-bauru-basket/
-28/04/2022,Flamengo,74,68,Paulistano,1ª RODADA,QUARTAS,21:00,1,31-13 11-12 12-22 7-14 13-7,ok,24333,https://lnb.com.br/noticias/playoffs-2021-2022-flamengo-74-x-68-paulistano/
-30/04/2022,Pinheiros,84,92,Sesi Franca,2ª RODADA,QUARTAS,16:10,0,12-25 16-13 17-30 39-24,ok,24328,https://lnb.com.br/noticias/playoffs-2021-2022-pinheiros-84-x-92-sesi-franca/
-30/04/2022,UNIFACISA,91,80,123 Minas,2ª RODADA,QUARTAS,18:30,0,16-20 29-21 22-20 24-19,ok,24324,https://lnb.com.br/noticias/playoffs-2021-2022-unifacisa-91-x-80-minas-tenis-clube/
-01/05/2022,Paulistano,73,80,Flamengo,2ª RODADA,QUARTAS,11:00,0,18-21 23-27 17-18 15-14,ok,24334,https://lnb.com.br/noticias/playoffs-2021-2022-paulistano-73-x-80-flamengo/
-01/05/2022,Bauru,62,85,São Paulo,2ª RODADA,QUARTAS,19:30,0,16-17 11-26 21-26 14-16,ok,24331,https://lnb.com.br/noticias/playoffs-2021-2022-bauru-62-x-85-sao-paulo/
-02/05/2022,Pinheiros,79,91,Sesi Franca,3ª RODADA,QUARTAS,19:00,0,19-31 15-26 18-20 27-14,ok,24329,https://lnb.com.br/noticias/playoffs-2021-2022-pinheiros-79-x-91-sesi-franca/
-02/05/2022,UNIFACISA,85,88,123 Minas,3ª RODADA,QUARTAS,21:00,0,22-12 22-16 27-24 14-36,ok,24325,https://lnb.com.br/noticias/playoffs-21-22-123-minas-x-unifacisa/
-03/05/2022,Bauru,71,88,São Paulo,3ª RODADA,QUARTAS,19:00,0,10-18 12-21 25-29 24-20,ok,24332,https://lnb.com.br/noticias/playoffs-2021-2022-bauru-71-x-88-sao-paulo/
-03/05/2022,Paulistano,68,87,Flamengo,3ª RODADA,QUARTAS,21:00,0,14-30 12-18 27-17 15-22,ok,24335,https://lnb.com.br/noticias/playoffs-2021-2022-paulistano-68-x-87-flamengo/
-07/05/2022,123 Minas,75,63,UNIFACISA,4ª RODADA,QUARTAS,16:10,0,15-15 16-10 19-18 25-20,ok,24336,https://lnb.com.br/noticias/playoffs-2021-2022-123-minas-75-x-63-unifacisa/
-11/05/2022,Sesi Franca,80,78,São Paulo,1ª RODADA,SEMI,20:00,0,18-14 17-21 20-24 25-19,ok,24337,https://lnb.com.br/noticias/playoffs-2021-2022-sesi-franca-80-x-78-sao-paulo/
-12/05/2022,Flamengo,76,67,123 Minas,1ª RODADA,SEMI,20:00,0,22-12 17-14 16-18 21-23,ok,24340,https://lnb.com.br/noticias/playoffs-2021-2022-flamengo-76-x-67-123-minas/
-14/05/2022,São Paulo,87,74,Sesi Franca,2ª RODADA,SEMI,14:00,0,19-17 32-11 17-20 19-26,ok,24338,https://lnb.com.br/noticias/playoffs-2021-2022-sao-paulo-87-x-74-sesi-franca/
-15/05/2022,123 Minas,63,77,Flamengo,2ª RODADA,SEMI,19:30,0,20-14 18-16 11-20 14-27,ok,24341,https://lnb.com.br/noticias/playoffs-2021-2022-123-minas-63-x-77-flamengo/
-16/05/2022,São Paulo,65,78,Sesi Franca,3ª RODADA,SEMI,20:00,0,11-25 16-18 12-18 26-17,ok,24339,https://lnb.com.br/noticias/playoffs-2021-2022-sao-paulo-65-x-78-sesi-franca/
-17/05/2022,123 Minas,80,91,Flamengo,3ª RODADA,SEMI,20:00,0,25-19 13-28 14-20 28-24,ok,24342,https://lnb.com.br/noticias/playoffs-2021-2022-123-minas-80-x-91-flamengo/
-21/05/2022,Sesi Franca,81,78,São Paulo,4ª RODADA,SEMI,16:10,0,19-13 18-19 22-20 22-26,ok,24343,https://lnb.com.br/noticias/playoffs-2021-2022-sesi-franca-81-x-78-sao-paulo/
-28/05/2022,Sesi Franca,85,79,Flamengo,1ª RODADA,FINAL,14:00,0,20-20 21-12 24-26 20-21,ok,24344,https://lnb.com.br/noticias/finais-2021-2022-jogo-1-sesi-franca-x-flamengo/
-02/06/2022,Flamengo,62,64,Sesi Franca,2ª RODADA,FINAL,19:15,0,18-16 21-18 13-17 10-13,ok,24345,https://lnb.com.br/noticias/finais-2021-2022-jogo-2-flamengo-x-sesi-franca/
-04/06/2022,Flamengo,81,75,Sesi Franca,3ª RODADA,FINAL,16:10,0,16-16 20-23 20-10 25-26,ok,24346,https://lnb.com.br/noticias/finais-2021-2022-jogo-2-flamengo-81-x-75-sesi-franca/
-09/06/2022,Sesi Franca,80,65,Flamengo,4ª RODADA,FINAL,18:30,0,28-8 21-18 19-21 12-18,ok,24347,https://lnb.com.br/noticias/finais-2021-2022-jogo-4-sesi-franca-80-x-65-flamengo/
+data,mandante,pts_mandante,pts_visitante,visitante,rodada,etapa,hora,prorrogacoes,quartos,status_quartos,fonte_prorrogacao,id_lnb,link
+19/04/2022,Caxias do Sul Basquete,64,73,UNIFACISA,1ª RODADA,OITAVAS,19:00,0,18-14 8-15 12-23 26-21,ok,quartos LNB,24314,https://lnb.com.br/noticias/playoffs-caxias-do-sul-64-x-73-unifacisa/
+19/04/2022,Pato Basquete,72,63,Bauru,1ª RODADA,OITAVAS,21:00,0,25-20 10-10 16-16 21-17,ok,quartos LNB,24311,https://lnb.com.br/noticias/pato-basquete-72-x-63-bauru-basket/
+20/04/2022,Rio Claro,67,65,Paulistano,1ª RODADA,OITAVAS,19:00,0,8-16 20-13 18-15 21-21,ok,quartos LNB,24317,https://lnb.com.br/noticias/rio-claro-67-x-65-paulistano/
+20/04/2022,Corinthians,78,80,Pinheiros,1ª RODADA,OITAVAS,21:00,0,17-19 16-28 27-15 18-18,ok,quartos LNB,24320,https://lnb.com.br/noticias/playoffs-2021-2022-corinthians-78-x-80-pinheiros/
+22/04/2022,UNIFACISA,81,67,Caxias do Sul Basquete,2ª RODADA,OITAVAS,19:00,0,18-9 22-22 21-15 20-21,ok,quartos LNB,24315,https://lnb.com.br/noticias/playoffs-unifacisa-81-x-67-caxias-do-sul-basquete/
+22/04/2022,Bauru,82,71,Pato Basquete,2ª RODADA,OITAVAS,21:00,0,25-22 21-19 20-16 16-14,ok,quartos LNB,24312,https://lnb.com.br/noticias/playoffs-2021-2022-bauru-basket-82-x-71-pato-basquete/
+23/04/2022,Pinheiros,89,78,Corinthians,2ª RODADA,OITAVAS,16:10,0,20-17 8-13 24-22 37-26,ok,quartos LNB,24321,https://lnb.com.br/noticias/playoffs-2021-2022-pinheiros-89-x-78-corinthians/
+23/04/2022,Paulistano,90,84,Rio Claro,2ª RODADA,OITAVAS,19:00,0,25-23 14-23 26-12 25-26,ok,quartos LNB,24318,https://lnb.com.br/noticias/playoffs-2021-2022-paulistano-xx-x-xx-rio-claro/
+24/04/2022,Bauru,88,79,Pato Basquete,3ª RODADA,OITAVAS,19:30,0,25-15 23-21 17-21 23-22,ok,quartos LNB,24313,https://lnb.com.br/noticias/playoffs-2021-2022-bauru-basket-88-x-79-pato-basquete/
+25/04/2022,Paulistano,68,64,Rio Claro,3ª RODADA,OITAVAS,20:00,0,13-21 18-15 17-12 20-16,ok,quartos LNB,24319,https://lnb.com.br/noticias/playoffs-2021-2022-paulistano-68-x-64-rio-claro/
+27/04/2022,123 Minas,85,65,UNIFACISA,1ª RODADA,QUARTAS,19:00,0,20-13 21-19 27-21 17-12,ok,quartos LNB,24323,https://lnb.com.br/noticias/playoffs-2021-2022-123-minas-85-x-65-unifacisa/
+27/04/2022,Sesi Franca,95,86,Pinheiros,1ª RODADA,QUARTAS,21:00,0,20-18 23-21 22-24 30-23,ok,quartos LNB,24327,https://lnb.com.br/noticias/playoffs-2021-2022-sesi-franca-95-x-86-pinheiros/
+28/04/2022,São Paulo,90,65,Bauru,1ª RODADA,QUARTAS,19:00,0,21-21 27-10 17-22 25-12,ok,quartos LNB,24330,https://lnb.com.br/noticias/playoffs-2021-2022-sao-paulo-90-x-65-bauru-basket/
+28/04/2022,Flamengo,74,68,Paulistano,1ª RODADA,QUARTAS,21:00,1,31-13 11-12 12-22 7-14 13-7,ok,quartos LNB,24333,https://lnb.com.br/noticias/playoffs-2021-2022-flamengo-74-x-68-paulistano/
+30/04/2022,Pinheiros,84,92,Sesi Franca,2ª RODADA,QUARTAS,16:10,0,12-25 16-13 17-30 39-24,ok,quartos LNB,24328,https://lnb.com.br/noticias/playoffs-2021-2022-pinheiros-84-x-92-sesi-franca/
+30/04/2022,UNIFACISA,91,80,123 Minas,2ª RODADA,QUARTAS,18:30,0,16-20 29-21 22-20 24-19,ok,quartos LNB,24324,https://lnb.com.br/noticias/playoffs-2021-2022-unifacisa-91-x-80-minas-tenis-clube/
+01/05/2022,Paulistano,73,80,Flamengo,2ª RODADA,QUARTAS,11:00,0,18-21 23-27 17-18 15-14,ok,quartos LNB,24334,https://lnb.com.br/noticias/playoffs-2021-2022-paulistano-73-x-80-flamengo/
+01/05/2022,Bauru,62,85,São Paulo,2ª RODADA,QUARTAS,19:30,0,16-17 11-26 21-26 14-16,ok,quartos LNB,24331,https://lnb.com.br/noticias/playoffs-2021-2022-bauru-62-x-85-sao-paulo/
+02/05/2022,Pinheiros,79,91,Sesi Franca,3ª RODADA,QUARTAS,19:00,0,19-31 15-26 18-20 27-14,ok,quartos LNB,24329,https://lnb.com.br/noticias/playoffs-2021-2022-pinheiros-79-x-91-sesi-franca/
+02/05/2022,UNIFACISA,85,88,123 Minas,3ª RODADA,QUARTAS,21:00,0,22-12 22-16 27-24 14-36,ok,quartos LNB,24325,https://lnb.com.br/noticias/playoffs-21-22-123-minas-x-unifacisa/
+03/05/2022,Bauru,71,88,São Paulo,3ª RODADA,QUARTAS,19:00,0,10-18 12-21 25-29 24-20,ok,quartos LNB,24332,https://lnb.com.br/noticias/playoffs-2021-2022-bauru-71-x-88-sao-paulo/
+03/05/2022,Paulistano,68,87,Flamengo,3ª RODADA,QUARTAS,21:00,0,14-30 12-18 27-17 15-22,ok,quartos LNB,24335,https://lnb.com.br/noticias/playoffs-2021-2022-paulistano-68-x-87-flamengo/
+07/05/2022,123 Minas,75,63,UNIFACISA,4ª RODADA,QUARTAS,16:10,0,15-15 16-10 19-18 25-20,ok,quartos LNB,24336,https://lnb.com.br/noticias/playoffs-2021-2022-123-minas-75-x-63-unifacisa/
+11/05/2022,Sesi Franca,80,78,São Paulo,1ª RODADA,SEMI,20:00,0,18-14 17-21 20-24 25-19,ok,quartos LNB,24337,https://lnb.com.br/noticias/playoffs-2021-2022-sesi-franca-80-x-78-sao-paulo/
+12/05/2022,Flamengo,76,67,123 Minas,1ª RODADA,SEMI,20:00,0,22-12 17-14 16-18 21-23,ok,quartos LNB,24340,https://lnb.com.br/noticias/playoffs-2021-2022-flamengo-76-x-67-123-minas/
+14/05/2022,São Paulo,87,74,Sesi Franca,2ª RODADA,SEMI,14:00,0,19-17 32-11 17-20 19-26,ok,quartos LNB,24338,https://lnb.com.br/noticias/playoffs-2021-2022-sao-paulo-87-x-74-sesi-franca/
+15/05/2022,123 Minas,63,77,Flamengo,2ª RODADA,SEMI,19:30,0,20-14 18-16 11-20 14-27,ok,quartos LNB,24341,https://lnb.com.br/noticias/playoffs-2021-2022-123-minas-63-x-77-flamengo/
+16/05/2022,São Paulo,65,78,Sesi Franca,3ª RODADA,SEMI,20:00,0,11-25 16-18 12-18 26-17,ok,quartos LNB,24339,https://lnb.com.br/noticias/playoffs-2021-2022-sao-paulo-65-x-78-sesi-franca/
+17/05/2022,123 Minas,80,91,Flamengo,3ª RODADA,SEMI,20:00,0,25-19 13-28 14-20 28-24,ok,quartos LNB,24342,https://lnb.com.br/noticias/playoffs-2021-2022-123-minas-80-x-91-flamengo/
+21/05/2022,Sesi Franca,81,78,São Paulo,4ª RODADA,SEMI,16:10,0,19-13 18-19 22-20 22-26,ok,quartos LNB,24343,https://lnb.com.br/noticias/playoffs-2021-2022-sesi-franca-81-x-78-sao-paulo/
+28/05/2022,Sesi Franca,85,79,Flamengo,1ª RODADA,FINAL,14:00,0,20-20 21-12 24-26 20-21,ok,quartos LNB,24344,https://lnb.com.br/noticias/finais-2021-2022-jogo-1-sesi-franca-x-flamengo/
+02/06/2022,Flamengo,62,64,Sesi Franca,2ª RODADA,FINAL,19:15,0,18-16 21-18 13-17 10-13,ok,quartos LNB,24345,https://lnb.com.br/noticias/finais-2021-2022-jogo-2-flamengo-x-sesi-franca/
+04/06/2022,Flamengo,81,75,Sesi Franca,3ª RODADA,FINAL,16:10,0,16-16 20-23 20-10 25-26,ok,quartos LNB,24346,https://lnb.com.br/noticias/finais-2021-2022-jogo-2-flamengo-81-x-75-sesi-franca/
+09/06/2022,Sesi Franca,80,65,Flamengo,4ª RODADA,FINAL,18:30,0,28-8 21-18 19-21 12-18,ok,quartos LNB,24347,https://lnb.com.br/noticias/finais-2021-2022-jogo-4-sesi-franca-80-x-65-flamengo/

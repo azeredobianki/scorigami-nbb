@@ -1,211 +1,211 @@
-data,mandante,pts_mandante,pts_visitante,visitante,rodada,etapa,hora,prorrogacoes,quartos,status_quartos,id_lnb,link
-05/11/2016,Bauru,97,100,Flamengo,1ª RODADA,1º TURNO,14:00,2,17-12 16-19 25-30 18-15 12-12 9-12,ok,21787,https://lnb.com.br/noticias/batalha-epica/
-07/11/2016,Pinheiros,75,79,Vitória,2ª RODADA,1º TURNO,19:30,,,sem_quartos,21788,https://lnb.com.br/partidas/nbb-20162017-pinheiros-x-vitoria-07112016-1930/
-08/11/2016,Minas,83,63,Caxias do Sul,1ª RODADA,1º TURNO,19:00,,,sem_quartos,21789,https://lnb.com.br/noticias/soberano_/
-08/11/2016,Franca,84,85,Flamengo,2ª RODADA,1º TURNO,19:30,0,15-21 15-18 23-24 31-22,ok,21790,https://lnb.com.br/noticias/triunfo-suado-2/
-08/11/2016,Bauru,84,76,Macaé Basquete,2ª RODADA,1º TURNO,20:00,0,20-22 23-14 12-13 29-27,ok,21791,https://lnb.com.br/noticias/a-primeira-7/
-09/11/2016,Pinheiros,80,74,Basq. Cearense,1ª RODADA,1º TURNO,20:00,0,21-18 17-17 22-22 20-17,ok,21793,https://lnb.com.br/noticias/poe-na-conta-3/
-10/11/2016,Minas,83,85,Vasco da Gama,2ª RODADA,1º TURNO,19:00,1,24-22 14-22 19-25 20-8 6-8,ok,21797,https://lnb.com.br/noticias/com-a-mao-direita-4/
-10/11/2016,Brasília,91,82,Caxias do Sul,2ª RODADA,1º TURNO,20:00,0,20-15 20-16 24-25 27-26,ok,21798,https://lnb.com.br/noticias/no-controle-5/
-10/11/2016,Franca,86,79,Macaé Basquete,1ª RODADA,1º TURNO,20:10,0,29-19 19-18 14-23 24-19,ok,21796,https://lnb.com.br/noticias/cabeca-nolugar/
-12/11/2016,Brasília,95,72,Vasco da Gama,1ª RODADA,1º TURNO,14:00,0,27-16 19-15 23-12 26-29,ok,21800,https://lnb.com.br/noticias/sodeubrasilia/
-12/11/2016,Campo Mourão,73,78,L. Sorocabana,2ª RODADA,1º TURNO,16:00,0,18-16 9-23 23-26 23-13,ok,21801,https://lnb.com.br/noticias/que-estreia-2/
-13/11/2016,Mogi,86,55,Paulistano,2ª RODADA,1º TURNO,19:00,0,16-12 23-8 29-10 18-25,ok,21802,https://lnb.com.br/noticias/do-inicio-ao-fim-3/
-15/11/2016,Vitória,88,77,Brasília,3ª RODADA,1º TURNO,17:00,,,sem_quartos,21804,https://lnb.com.br/noticias/grandevitoria-2/
-15/11/2016,Macaé Basquete,90,92,Pinheiros,3ª RODADA,1º TURNO,19:30,,,sem_quartos,21806,https://lnb.com.br/noticias/altatensao/
-15/11/2016,Basq. Cearense,78,71,Minas,3ª RODADA,1º TURNO,20:30,0,19-14 30-20 13-14 16-23,ok,21803,https://lnb.com.br/noticias/sobrou-3/
-16/11/2016,Paulistano,90,66,Bauru,3ª RODADA,1º TURNO,19:30,0,23-23 22-12 24-15 21-16,ok,21808,https://lnb.com.br/noticias/na-mesma-moeda/
-16/11/2016,L. Sorocabana,87,66,Franca,3ª RODADA,1º TURNO,20:00,0,23-12 17-16 13-15 34-23,ok,21807,https://lnb.com.br/noticias/embalado_/
-17/11/2016,Vasco da Gama,81,91,Campo Mourão,3ª RODADA,1º TURNO,19:30,,,sem_quartos,21810,https://lnb.com.br/noticias/melhorimpossivel-2/
-17/11/2016,Caxias do Sul,80,87,Mogi,3ª RODADA,1º TURNO,20:05,,,sem_quartos,21809,https://lnb.com.br/noticias/100_/
-17/11/2016,Basq. Cearense,72,81,Brasília,4ª RODADA,1º TURNO,20:30,0,23-19 14-22 16-24 19-16,ok,21811,https://lnb.com.br/noticias/de-volta-aos-trilhos-10/
-17/11/2016,Vitória,76,74,Minas,4ª RODADA,1º TURNO,21:00,,,sem_quartos,21812,https://lnb.com.br/noticias/time_de_guerreiros/
-17/11/2016,Flamengo,96,88,Pinheiros,4ª RODADA,1º TURNO,21:00,0,28-24 21-10 16-24 31-30,ok,21814,https://lnb.com.br/noticias/alegria-rubro-negra/
-18/11/2016,Paulistano,73,76,Franca,4ª RODADA,1º TURNO,19:30,0,15-20 21-20 15-19 22-17,ok,21816,https://lnb.com.br/noticias/naultimabola/
-18/11/2016,L. Sorocabana,70,84,Bauru,4ª RODADA,1º TURNO,20:00,0,18-19 14-17 20-24 18-24,ok,21815,https://lnb.com.br/noticias/moral-de-volta/
-19/11/2016,Vasco da Gama,94,70,Mogi,4ª RODADA,1º TURNO,14:00,0,17-17 26-17 26-8 25-28,ok,21818,https://lnb.com.br/noticias/semessa/
-19/11/2016,Caxias do Sul,69,78,Campo Mourão,4ª RODADA,1º TURNO,17:00,0,20-16 17-18 20-17 12-27,ok,21817,https://lnb.com.br/noticias/bote-certeiro/
-22/11/2016,Vasco da Gama,71,69,Basq. Cearense,5ª RODADA,1º TURNO,19:30,,,sem_quartos,21820,https://lnb.com.br/noticias/chuva-na-colina/
-22/11/2016,Caxias do Sul,69,70,Vitória,5ª RODADA,1º TURNO,20:05,0,14-16 10-14 25-20 20-20,ok,21819,https://lnb.com.br/noticias/virada-de-leao/
-23/11/2016,Pinheiros,84,69,Bauru,5ª RODADA,1º TURNO,19:30,0,21-23 14-13 23-14 26-19,ok,21822,https://lnb.com.br/noticias/potencia-pinheirense/
-24/11/2016,Paulistano,74,90,Brasília,5ª RODADA,1º TURNO,19:30,0,24-20 13-20 16-29 21-21,ok,21824,https://lnb.com.br/noticias/mais-uma-para-conta/
-24/11/2016,Vasco da Gama,60,70,Vitória,6ª RODADA,1º TURNO,19:30,0,18-17 13-19 16-19 13-15,ok,21828,https://lnb.com.br/noticias/voando-baixo-5/
-24/11/2016,L. Sorocabana,63,69,Minas,5ª RODADA,1º TURNO,20:00,0,19-15 16-20 16-16 12-18,ok,21823,https://lnb.com.br/noticias/deu-minas/
-24/11/2016,Caxias do Sul,65,74,Basq. Cearense,6ª RODADA,1º TURNO,20:05,,,sem_quartos,21827,https://lnb.com.br/noticias/encaixou-2/
-24/11/2016,Campo Mourão,69,90,Flamengo,5ª RODADA,1º TURNO,20:15,0,16-25 19-10 20-33 14-22,ok,21826,https://lnb.com.br/noticias/dupla-fantastica/
-25/11/2016,Pinheiros,95,83,Franca,6ª RODADA,1º TURNO,19:30,0,22-19 22-18 23-22 28-24,ok,21830,https://lnb.com.br/noticias/double-trouble/
-26/11/2016,L. Sorocabana,66,73,Brasília,6ª RODADA,1º TURNO,14:00,0,22-18 13-11 20-16 11-28,ok,21831,https://lnb.com.br/noticias/que-virada-2/
-26/11/2016,Campo Mourão,71,68,Macaé Basquete,6ª RODADA,1º TURNO,16:00,0,17-14 8-19 26-14 20-21,ok,21833,https://lnb.com.br/noticias/go-campo/
-26/11/2016,Paulistano,98,86,Minas,6ª RODADA,1º TURNO,18:00,,,sem_quartos,21832,https://lnb.com.br/noticias/magistral-georginho/
-29/11/2016,Bauru,82,58,Vasco da Gama,7ª RODADA,1º TURNO,20:00,0,24-12 15-20 20-16 23-10,ok,21835,https://lnb.com.br/noticias/atuacao-de-gala-3/
-29/11/2016,Franca,85,66,Caxias do Sul,7ª RODADA,1º TURNO,20:10,0,26-11 25-14 19-20 15-21,ok,21836,https://lnb.com.br/noticias/dominante-mesmo/
-30/11/2016,Brasília,96,80,Pinheiros,7ª RODADA,1º TURNO,20:00,0,22-21 31-15 20-15 23-29,ok,21838,https://lnb.com.br/noticias/sem-vacilo/
-30/11/2016,Campo Mourão,70,64,Vitória,7ª RODADA,1º TURNO,20:15,0,13-21 22-10 13-19 22-14,ok,21839,https://lnb.com.br/noticias/aqui-nao_/
-01/12/2016,Macaé Basquete,84,96,Paulistano,7ª RODADA,1º TURNO,19:30,0,21-29 19-22 18-23 26-22,ok,22052,https://lnb.com.br/noticias/em-ascensao/
-01/12/2016,Bauru,82,64,Caxias do Sul,8ª RODADA,1º TURNO,20:00,0,25-14 16-15 22-19 19-16,ok,21841,https://lnb.com.br/noticias/forca-do-dragao/
-01/12/2016,Flamengo,81,74,L. Sorocabana,7ª RODADA,1º TURNO,20:00,,,sem_quartos,22053,https://lnb.com.br/noticias/imparavel-3/
-01/12/2016,Franca,67,71,Vasco da Gama,8ª RODADA,1º TURNO,20:10,0,20-15 15-17 12-18 20-21,ok,21842,https://lnb.com.br/noticias/voltou-a-sorrir-2/
-02/12/2016,Minas,88,94,Pinheiros,8ª RODADA,1º TURNO,19:00,0,19-31 24-21 22-17 23-25,ok,21845,https://lnb.com.br/noticias/de-volta-aos-trilhos-11/
-02/12/2016,Campo Mourão,73,89,Basq. Cearense,8ª RODADA,1º TURNO,20:15,0,13-20 19-25 22-23 19-21,ok,21846,https://lnb.com.br/noticias/voltando-a-voar/
-03/12/2016,Flamengo,81,72,Paulistano,8ª RODADA,1º TURNO,14:00,0,20-13 16-13 25-24 20-22,ok,21849,https://lnb.com.br/noticias/6em6/
-03/12/2016,Macaé Basquete,68,66,L. Sorocabana,8ª RODADA,1º TURNO,18:00,0,12-14 17-17 20-14 19-21,ok,21848,https://lnb.com.br/noticias/bola-da-vitoria/
-06/12/2016,Mogi,81,77,L. Sorocabana,1ª RODADA,1º TURNO,20:00,0,17-19 22-21 22-20 20-17,ok,21795,https://lnb.com.br/noticias/sinal-verde-2/
-07/12/2016,Campo Mourão,74,92,Paulistano,1ª RODADA,1º TURNO,20:15,0,22-26 17-17 20-29 15-20,ok,21794,https://lnb.com.br/noticias/ultrapassagem-3/
-10/12/2016,Flamengo,85,66,Macaé Basquete,13ª RODADA,1º TURNO,18:00,,,sem_quartos,21885,https://lnb.com.br/partidas/nbb-20162017-flamengo-x-macae-basquete-10122016-1800/
-10/12/2016,Mogi,92,75,Basq. Cearense,7ª RODADA,1º TURNO,19:00,,,sem_quartos,21840,https://lnb.com.br/partidas/nbb-20162017-mogi-x-basq-cearense-10122016-1900/
-12/12/2016,Pinheiros,80,63,L. Sorocabana,9ª RODADA,1º TURNO,19:30,,,sem_quartos,21851,https://lnb.com.br/partidas/nbb-20162017-pinheiros-x-l-sorocabana-12122016-1930/
-13/12/2016,Minas,72,66,Campo Mourão,9ª RODADA,1º TURNO,10:00,,,sem_quartos,21853,https://lnb.com.br/partidas/nbb-20162017-minas-x-campo-mourao-13122016-1000/
-13/12/2016,Brasília,86,75,Mogi,9ª RODADA,1º TURNO,19:30,,,sem_quartos,21852,https://lnb.com.br/partidas/nbb-20162017-brasilia-x-mogi-13122016-1930/
-14/12/2016,Pinheiros,77,92,Paulistano,10ª RODADA,1º TURNO,19:30,,,sem_quartos,21856,https://lnb.com.br/partidas/nbb-20162017-pinheiros-x-paulistano-14122016-1930/
-14/12/2016,Caxias do Sul,80,104,Flamengo,9ª RODADA,1º TURNO,20:05,,,sem_quartos,21880,https://lnb.com.br/partidas/nbb-20162017-caxias-do-sul-x-flamengo-14122016-2005/
-15/12/2016,Minas,84,104,Mogi,10ª RODADA,1º TURNO,19:00,,,sem_quartos,21860,https://lnb.com.br/partidas/nbb-20162017-minas-x-mogi-15122016-1900/
-15/12/2016,Brasília,76,78,Campo Mourão,10ª RODADA,1º TURNO,20:00,,,sem_quartos,21859,https://lnb.com.br/partidas/nbb-20162017-brasilia-x-campo-mourao-15122016-2000/
-15/12/2016,Basq. Cearense,95,81,Franca,9ª RODADA,1º TURNO,20:30,,,sem_quartos,21857,https://lnb.com.br/partidas/nbb-20162017-basq-cearense-x-sesi-franca-15122016-2030/
-15/12/2016,Vitória,84,90,Bauru,9ª RODADA,1º TURNO,21:00,,,sem_quartos,21858,https://lnb.com.br/partidas/nbb-20162017-vitoria-x-bauru-15122016-2100/
-16/12/2016,Caxias do Sul,87,83,Macaé Basquete,10ª RODADA,1º TURNO,20:05,,,sem_quartos,21861,https://lnb.com.br/partidas/nbb-20162017-caxias-do-sul-x-macae-basquete-16122016-2005/
-17/12/2016,Basq. Cearense,73,79,Bauru,10ª RODADA,1º TURNO,19:00,,,sem_quartos,21863,https://lnb.com.br/partidas/nbb-20162017-basq-cearense-x-bauru-17122016-1900/
-17/12/2016,Vitória,77,86,Franca,10ª RODADA,1º TURNO,21:00,,,sem_quartos,21864,https://lnb.com.br/partidas/nbb-20162017-vitoria-x-sesi-franca-17122016-2100/
-19/12/2016,Pinheiros,76,78,Campo Mourão,11ª RODADA,1º TURNO,19:30,,,sem_quartos,21866,https://lnb.com.br/partidas/nbb-20162017-pinheiros-x-campo-mourao-19122016-1930/
-20/12/2016,Macaé Basquete,59,67,Vitória,11ª RODADA,1º TURNO,19:30,,,sem_quartos,21869,https://lnb.com.br/partidas/nbb-20162017-macae-basquete-x-vitoria-20122016-1930/
-20/12/2016,Flamengo,88,94,Basq. Cearense,11ª RODADA,1º TURNO,19:30,,,sem_quartos,21870,https://lnb.com.br/partidas/nbb-20162017-flamengo-x-basq-cearense-20122016-1930/
-20/12/2016,Paulistano,82,49,Caxias do Sul,11ª RODADA,1º TURNO,19:30,,,sem_quartos,21872,https://lnb.com.br/partidas/nbb-20162017-paulistano-x-caxias-do-sul-20122016-1930/
-20/12/2016,Bauru,75,86,Minas,11ª RODADA,1º TURNO,20:00,,,sem_quartos,21867,https://lnb.com.br/partidas/nbb-20162017-bauru-x-minas-20122016-2000/
-20/12/2016,Franca,77,70,Brasília,11ª RODADA,1º TURNO,20:10,,,sem_quartos,21868,https://lnb.com.br/partidas/nbb-20162017-sesi-franca-x-brasilia-20122016-2010/
-20/12/2016,L. Sorocabana,74,70,Vasco da Gama,11ª RODADA,1º TURNO,21:30,,,sem_quartos,21871,https://lnb.com.br/partidas/nbb-20162017-l-sorocabana-x-vasco-da-gama-20122016-2130/
-21/12/2016,Pinheiros,74,67,Mogi,12ª RODADA,1º TURNO,16:00,,,sem_quartos,21874,https://lnb.com.br/partidas/nbb-20162017-pinheiros-x-mogi-21122016-1600/
-22/12/2016,Macaé Basquete,64,53,Basq. Cearense,12ª RODADA,1º TURNO,19:30,,,sem_quartos,21877,https://lnb.com.br/partidas/nbb-20162017-macae-basquete-x-basq-cearense-22122016-1930/
-22/12/2016,Bauru,62,79,Brasília,12ª RODADA,1º TURNO,20:00,,,sem_quartos,21875,https://lnb.com.br/partidas/nbb-20162017-bauru-x-brasilia-22122016-2000/
-22/12/2016,L. Sorocabana,83,70,Caxias do Sul,12ª RODADA,1º TURNO,20:00,,,sem_quartos,21879,https://lnb.com.br/partidas/nbb-20162017-l-sorocabana-x-caxias-do-sul-22122016-2000/
-22/12/2016,Franca,75,74,Minas,12ª RODADA,1º TURNO,20:10,,,sem_quartos,21876,https://lnb.com.br/partidas/nbb-20162017-sesi-franca-x-minas-22122016-2010/
-22/12/2016,Flamengo,98,87,Vitória,12ª RODADA,1º TURNO,20:10,,,sem_quartos,21878,https://lnb.com.br/partidas/nbb-20162017-flamengo-x-vitoria-22122016-2010/
-27/12/2016,Flamengo,94,60,Caxias do Sul,24ª RODADA,1º TURNO,19:30,,,sem_quartos,21976,https://lnb.com.br/partidas/nbb-20162017-flamengo-x-caxias-do-sul-27122016-1930/
-03/01/2017,Paulistano,83,86,Vasco da Gama,12ª RODADA,1º TURNO,19:30,,,sem_quartos,21881,https://lnb.com.br/partidas/nbb-20162017-paulistano-x-vasco-da-gama-03012017-1930/
-06/01/2017,Campo Mourão,95,94,Mogi,13ª RODADA,1º TURNO,20:15,,,sem_quartos,21882,https://lnb.com.br/partidas/nbb-20162017-campo-mourao-x-mogi-06012017-2015/
-07/01/2017,Bauru,89,69,Franca,13ª RODADA,1º TURNO,14:00,,,sem_quartos,21883,https://lnb.com.br/partidas/nbb-20162017-bauru-x-sesi-franca-07012017-1400/
-07/01/2017,Caxias do Sul,78,73,Vasco da Gama,13ª RODADA,1º TURNO,17:00,,,sem_quartos,21887,https://lnb.com.br/partidas/nbb-20162017-caxias-do-sul-x-vasco-da-gama-07012017-1700/
-07/01/2017,L. Sorocabana,71,92,Paulistano,13ª RODADA,1º TURNO,18:00,,,sem_quartos,21886,https://lnb.com.br/partidas/nbb-20162017-l-sorocabana-x-paulistano-07012017-1800/
-07/01/2017,Brasília,92,79,Minas,13ª RODADA,1º TURNO,18:00,,,sem_quartos,21889,https://lnb.com.br/partidas/nbb-20162017-brasilia-x-minas-07012017-1800/
-07/01/2017,Basq. Cearense,77,82,Vitória,13ª RODADA,1º TURNO,19:00,,,sem_quartos,21888,https://lnb.com.br/partidas/nbb-20162017-basq-cearense-x-vitoria-07012017-1900/
-10/01/2017,Minas,86,78,Macaé Basquete,14ª RODADA,1º TURNO,19:00,,,sem_quartos,21892,https://lnb.com.br/partidas/nbb-20162017-minas-x-macae-basquete-10012017-1900/
-10/01/2017,Mogi,89,66,Bauru,14ª RODADA,1º TURNO,19:30,,,sem_quartos,21891,https://lnb.com.br/partidas/nbb-20162017-mogi-x-bauru-10012017-1930/
-10/01/2017,Campo Mourão,81,83,Franca,14ª RODADA,1º TURNO,20:15,,,sem_quartos,21890,https://lnb.com.br/partidas/nbb-20162017-campo-mourao-x-sesi-franca-10012017-2015/
-11/01/2017,Caxias do Sul,93,99,Pinheiros,14ª RODADA,1º TURNO,20:05,,,sem_quartos,21894,https://lnb.com.br/partidas/nbb-20162017-caxias-do-sul-x-pinheiros-11012017-2005/
-11/01/2017,Basq. Cearense,74,76,Paulistano,14ª RODADA,1º TURNO,20:30,,,sem_quartos,21895,https://lnb.com.br/partidas/nbb-20162017-basq-cearense-x-paulistano-11012017-2030/
-11/01/2017,Vitória,74,69,L. Sorocabana,14ª RODADA,1º TURNO,21:00,,,sem_quartos,21896,https://lnb.com.br/partidas/nbb-20162017-vitoria-x-l-sorocabana-11012017-2100/
-12/01/2017,Minas,60,89,Flamengo,15ª RODADA,1º TURNO,19:00,,,sem_quartos,21898,https://lnb.com.br/partidas/nbb-20162017-minas-x-flamengo-12012017-1900/
-12/01/2017,Brasília,74,72,Macaé Basquete,15ª RODADA,1º TURNO,20:00,,,sem_quartos,21897,https://lnb.com.br/partidas/nbb-20162017-brasilia-x-macae-basquete-12012017-2000/
-12/01/2017,Mogi,82,63,Franca,15ª RODADA,1º TURNO,20:00,,,sem_quartos,21900,https://lnb.com.br/partidas/nbb-20162017-mogi-x-sesi-franca-12012017-2000/
-12/01/2017,Campo Mourão,62,82,Bauru,15ª RODADA,1º TURNO,20:15,,,sem_quartos,21899,https://lnb.com.br/partidas/nbb-20162017-campo-mourao-x-bauru-12012017-2015/
-13/01/2017,Vasco da Gama,72,70,Pinheiros,15ª RODADA,1º TURNO,20:15,,,sem_quartos,21902,https://lnb.com.br/partidas/nbb-20162017-vasco-da-gama-x-pinheiros-13012017-2015/
-13/01/2017,Basq. Cearense,86,85,L. Sorocabana,15ª RODADA,1º TURNO,20:30,,,sem_quartos,21903,https://lnb.com.br/partidas/nbb-20162017-basq-cearense-x-l-sorocabana-13012017-2030/
-13/01/2017,Vitória,85,73,Paulistano,15ª RODADA,1º TURNO,21:00,,,sem_quartos,21904,https://lnb.com.br/partidas/nbb-20162017-vitoria-x-paulistano-13012017-2100/
-14/01/2017,Brasília,95,83,Flamengo,14ª RODADA,1º TURNO,14:00,,,sem_quartos,21905,https://lnb.com.br/partidas/nbb-20162017-brasilia-x-flamengo-14012017-1400/
-16/01/2017,Macaé Basquete,58,69,Vasco da Gama,9ª RODADA,1º TURNO,19:30,,,sem_quartos,21854,https://lnb.com.br/partidas/nbb-20162017-macae-basquete-x-vasco-da-gama-16012017-1930/
-17/01/2017,Mogi,57,83,Flamengo,6ª RODADA,1º TURNO,19:30,,,sem_quartos,21834,https://lnb.com.br/partidas/nbb-20162017-mogi-x-flamengo-17012017-1930/
-19/01/2017,Mogi,69,75,Macaé Basquete,5ª RODADA,1º TURNO,20:00,,,sem_quartos,21825,https://lnb.com.br/partidas/nbb-20162017-mogi-x-macae-basquete-19012017-2000/
-19/01/2017,Vasco da Gama,85,76,Brasília,17ª RODADA,1º TURNO,20:15,,,sem_quartos,21920,https://lnb.com.br/partidas/nbb-20162017-vasco-da-gama-x-brasilia-19012017-2015/
-21/01/2017,Flamengo,80,83,Franca,17ª RODADA,1º TURNO,14:00,,,sem_quartos,21906,https://lnb.com.br/partidas/nbb-20162017-flamengo-x-sesi-franca-21012017-1400/
-22/01/2017,Mogi,75,72,Vitória,8ª RODADA,1º TURNO,19:00,,,sem_quartos,21847,https://lnb.com.br/partidas/nbb-20162017-mogi-x-vitoria-22012017-1900/
-23/01/2017,Macaé Basquete,75,78,Franca,16ª RODADA,1º TURNO,19:30,,,sem_quartos,21907,https://lnb.com.br/partidas/nbb-20162017-macae-basquete-x-sesi-franca-23012017-1930/
-24/01/2017,Flamengo,63,72,Bauru,16ª RODADA,1º TURNO,19:30,,,sem_quartos,21908,https://lnb.com.br/partidas/nbb-20162017-flamengo-x-bauru-24012017-1930/
-25/01/2017,Paulistano,78,85,Campo Mourão,16ª RODADA,1º TURNO,19:30,,,sem_quartos,21911,https://lnb.com.br/partidas/nbb-20162017-paulistano-x-campo-mourao-25012017-1930/
-25/01/2017,L. Sorocabana,60,90,Mogi,16ª RODADA,1º TURNO,20:00,,,sem_quartos,21912,https://lnb.com.br/partidas/nbb-20162017-l-sorocabana-x-mogi-25012017-2000/
-25/01/2017,Basq. Cearense,74,77,Pinheiros,16ª RODADA,1º TURNO,20:30,,,sem_quartos,21910,https://lnb.com.br/partidas/nbb-20162017-basq-cearense-x-pinheiros-25012017-2030/
-26/01/2017,Macaé Basquete,67,87,Bauru,17ª RODADA,1º TURNO,19:30,,,sem_quartos,21915,https://lnb.com.br/partidas/nbb-20162017-macae-basquete-x-bauru-26012017-1930/
-26/01/2017,Caxias do Sul,76,81,Brasília,16ª RODADA,1º TURNO,20:05,,,sem_quartos,21914,https://lnb.com.br/partidas/nbb-20162017-caxias-do-sul-x-brasilia-26012017-2005/
-26/01/2017,Vasco da Gama,75,87,Minas,16ª RODADA,1º TURNO,20:15,,,sem_quartos,21913,https://lnb.com.br/partidas/nbb-20162017-vasco-da-gama-x-minas-26012017-2015/
-27/01/2017,Paulistano,77,78,Mogi,17ª RODADA,1º TURNO,19:30,,,sem_quartos,21919,https://lnb.com.br/partidas/nbb-20162017-paulistano-x-mogi-27012017-1930/
-27/01/2017,L. Sorocabana,64,74,Campo Mourão,17ª RODADA,1º TURNO,20:00,,,sem_quartos,21918,https://lnb.com.br/partidas/nbb-20162017-l-sorocabana-x-campo-mourao-27012017-2000/
-27/01/2017,Vitória,67,72,Pinheiros,17ª RODADA,1º TURNO,21:00,,,sem_quartos,21917,https://lnb.com.br/partidas/nbb-20162017-vitoria-x-pinheiros-27012017-2100/
-28/01/2017,Vasco da Gama,78,77,Flamengo,10ª RODADA,1º TURNO,14:00,,,sem_quartos,21862,https://lnb.com.br/partidas/nbb-20162017-vasco-da-gama-x-flamengo-28012017-1400/
-28/01/2017,Caxias do Sul,66,52,Minas,17ª RODADA,1º TURNO,17:00,,,sem_quartos,21921,https://lnb.com.br/partidas/nbb-20162017-caxias-do-sul-x-minas-28012017-1700/
-31/01/2017,Pinheiros,97,90,Macaé Basquete,18ª RODADA,1º TURNO,19:30,,,sem_quartos,21923,https://lnb.com.br/partidas/nbb-20162017-pinheiros-x-macae-basquete-31012017-1930/
-31/01/2017,Bauru,78,68,Paulistano,18ª RODADA,1º TURNO,20:00,,,sem_quartos,21925,https://lnb.com.br/partidas/nbb-20162017-bauru-x-paulistano-31012017-2000/
-31/01/2017,Franca,90,68,L. Sorocabana,18ª RODADA,1º TURNO,20:10,,,sem_quartos,21924,https://lnb.com.br/partidas/nbb-20162017-sesi-franca-x-l-sorocabana-31012017-2010/
-01/02/2017,Minas,62,66,Basq. Cearense,18ª RODADA,1º TURNO,19:00,,,sem_quartos,21926,https://lnb.com.br/partidas/nbb-20162017-minas-x-basq-cearense-01022017-1900/
-01/02/2017,Brasília,70,78,Vitória,18ª RODADA,1º TURNO,20:00,,,sem_quartos,21927,https://lnb.com.br/partidas/nbb-20162017-brasilia-x-vitoria-01022017-2000/
-02/02/2017,Pinheiros,77,84,Flamengo,19ª RODADA,1º TURNO,19:30,,,sem_quartos,21931,https://lnb.com.br/partidas/nbb-20162017-pinheiros-x-flamengo-02022017-1930/
-02/02/2017,Mogi,73,64,Caxias do Sul,18ª RODADA,1º TURNO,20:00,,,sem_quartos,21928,https://lnb.com.br/partidas/nbb-20162017-mogi-x-caxias-do-sul-02022017-2000/
-02/02/2017,Bauru,87,55,L. Sorocabana,19ª RODADA,1º TURNO,20:00,,,sem_quartos,21932,https://lnb.com.br/partidas/nbb-20162017-bauru-x-l-sorocabana-02022017-2000/
-02/02/2017,Franca,78,71,Paulistano,19ª RODADA,1º TURNO,20:10,,,sem_quartos,21933,https://lnb.com.br/partidas/nbb-20162017-sesi-franca-x-paulistano-02022017-2010/
-03/02/2017,Minas,78,82,Vitória,19ª RODADA,1º TURNO,19:00,,,sem_quartos,21935,https://lnb.com.br/partidas/nbb-20162017-minas-x-vitoria-03022017-1900/
-03/02/2017,Brasília,88,52,Basq. Cearense,19ª RODADA,1º TURNO,20:00,,,sem_quartos,21934,https://lnb.com.br/partidas/nbb-20162017-brasilia-x-basq-cearense-03022017-2000/
-04/02/2017,Mogi,80,73,Vasco da Gama,19ª RODADA,1º TURNO,14:00,,,sem_quartos,21937,https://lnb.com.br/partidas/nbb-20162017-mogi-x-vasco-da-gama-04022017-1400/
-04/02/2017,Campo Mourão,83,74,Caxias do Sul,19ª RODADA,1º TURNO,16:00,,,sem_quartos,21936,https://lnb.com.br/partidas/nbb-20162017-campo-mourao-x-caxias-do-sul-04022017-1600/
-07/02/2017,Vasco da Gama,77,76,Macaé Basquete,24ª RODADA,1º TURNO,20:15,,,sem_quartos,21977,https://lnb.com.br/partidas/nbb-20162017-vasco-da-gama-x-macae-basquete-07022017-2015/
-11/02/2017,Campo Mourão,77,82,Vasco da Gama,18ª RODADA,1º TURNO,14:00,,,sem_quartos,21929,https://lnb.com.br/partidas/nbb-20162017-campo-mourao-x-vasco-da-gama-11022017-1400/
-14/02/2017,Minas,68,61,L. Sorocabana,20ª RODADA,1º TURNO,19:00,,,sem_quartos,21942,https://lnb.com.br/partidas/nbb-20162017-minas-x-l-sorocabana-14022017-1900/
-14/02/2017,Macaé Basquete,78,91,Campo Mourão,20ª RODADA,1º TURNO,19:30,,,sem_quartos,21938,https://lnb.com.br/partidas/nbb-20162017-macae-basquete-x-campo-mourao-14022017-1930/
-14/02/2017,Flamengo,96,87,Mogi,20ª RODADA,1º TURNO,19:30,,,sem_quartos,21939,https://lnb.com.br/partidas/nbb-20162017-flamengo-x-mogi-14022017-1930/
-14/02/2017,Bauru,74,64,Pinheiros,20ª RODADA,1º TURNO,20:00,,,sem_quartos,21941,https://lnb.com.br/partidas/nbb-20162017-bauru-x-pinheiros-14022017-2000/
-14/02/2017,Brasília,85,76,Paulistano,20ª RODADA,1º TURNO,20:00,,,sem_quartos,21943,https://lnb.com.br/partidas/nbb-20162017-brasilia-x-paulistano-14022017-2000/
-16/02/2017,Minas,85,96,Paulistano,21ª RODADA,1º TURNO,19:00,,,sem_quartos,21951,https://lnb.com.br/partidas/nbb-20162017-minas-x-paulistano-16022017-1900/
-16/02/2017,Macaé Basquete,69,90,Mogi,21ª RODADA,1º TURNO,19:30,,,sem_quartos,21946,https://lnb.com.br/partidas/nbb-20162017-macae-basquete-x-mogi-16022017-1930/
-16/02/2017,Flamengo,79,69,Campo Mourão,21ª RODADA,1º TURNO,20:00,,,sem_quartos,21947,https://lnb.com.br/partidas/nbb-20162017-flamengo-x-campo-mourao-16022017-2000/
-16/02/2017,Brasília,79,77,L. Sorocabana,21ª RODADA,1º TURNO,20:00,,,sem_quartos,21950,https://lnb.com.br/partidas/nbb-20162017-brasilia-x-l-sorocabana-16022017-2000/
-16/02/2017,Franca,99,78,Pinheiros,21ª RODADA,1º TURNO,20:10,,,sem_quartos,21949,https://lnb.com.br/partidas/nbb-20162017-sesi-franca-x-pinheiros-16022017-2010/
-16/02/2017,Basq. Cearense,88,78,Caxias do Sul,20ª RODADA,1º TURNO,20:30,,,sem_quartos,21944,https://lnb.com.br/partidas/nbb-20162017-basq-cearense-x-caxias-do-sul-16022017-2030/
-16/02/2017,Vitória,73,64,Vasco da Gama,20ª RODADA,1º TURNO,21:00,,,sem_quartos,21945,https://lnb.com.br/partidas/nbb-20162017-vitoria-x-vasco-da-gama-16022017-2100/
-18/02/2017,Basq. Cearense,89,80,Vasco da Gama,21ª RODADA,1º TURNO,14:00,,,sem_quartos,21953,https://lnb.com.br/partidas/nbb-20162017-basq-cearense-x-vasco-da-gama-18022017-1400/
-18/02/2017,Vitória,76,67,Caxias do Sul,21ª RODADA,1º TURNO,21:00,,,sem_quartos,21952,https://lnb.com.br/partidas/nbb-20162017-vitoria-x-caxias-do-sul-18022017-2100/
-21/02/2017,Vasco da Gama,64,90,Bauru,22ª RODADA,1º TURNO,19:30,,,sem_quartos,21954,https://lnb.com.br/partidas/nbb-20162017-vasco-da-gama-x-bauru-21022017-1930/
-21/02/2017,Paulistano,85,65,Macaé Basquete,22ª RODADA,1º TURNO,19:30,,,sem_quartos,21956,https://lnb.com.br/partidas/nbb-20162017-paulistano-x-macae-basquete-21022017-1930/
-21/02/2017,L. Sorocabana,58,90,Flamengo,22ª RODADA,1º TURNO,20:00,,,sem_quartos,21957,https://lnb.com.br/partidas/nbb-20162017-l-sorocabana-x-flamengo-21022017-2000/
-21/02/2017,Caxias do Sul,95,100,Franca,22ª RODADA,1º TURNO,20:05,,,sem_quartos,21955,https://lnb.com.br/partidas/nbb-20162017-caxias-do-sul-x-sesi-franca-21022017-2005/
-22/02/2017,Pinheiros,86,78,Brasília,22ª RODADA,1º TURNO,19:30,,,sem_quartos,21959,https://lnb.com.br/partidas/nbb-20162017-pinheiros-x-brasilia-22022017-1930/
-22/02/2017,Basq. Cearense,77,85,Mogi,22ª RODADA,1º TURNO,19:30,,,sem_quartos,21961,https://lnb.com.br/partidas/nbb-20162017-basq-cearense-x-mogi-22022017-1930/
-22/02/2017,Vitória,86,79,Campo Mourão,22ª RODADA,1º TURNO,20:00,,,sem_quartos,21960,https://lnb.com.br/partidas/nbb-20162017-vitoria-x-campo-mourao-22022017-2000/
-23/02/2017,Paulistano,103,96,Flamengo,23ª RODADA,1º TURNO,19:30,,,sem_quartos,21964,https://lnb.com.br/partidas/nbb-20162017-paulistano-x-flamengo-23022017-1930/
-23/02/2017,L. Sorocabana,73,77,Macaé Basquete,23ª RODADA,1º TURNO,20:00,,,sem_quartos,21963,https://lnb.com.br/partidas/nbb-20162017-l-sorocabana-x-macae-basquete-23022017-2000/
-23/02/2017,Caxias do Sul,76,74,Bauru,23ª RODADA,1º TURNO,20:05,,,sem_quartos,21969,https://lnb.com.br/partidas/nbb-20162017-caxias-do-sul-x-bauru-23022017-2005/
-23/02/2017,Vasco da Gama,79,77,Franca,23ª RODADA,1º TURNO,20:15,,,sem_quartos,21962,https://lnb.com.br/partidas/nbb-20162017-vasco-da-gama-x-sesi-franca-23022017-2015/
-24/02/2017,Pinheiros,95,92,Minas,23ª RODADA,1º TURNO,19:30,,,sem_quartos,21966,https://lnb.com.br/partidas/nbb-20162017-pinheiros-x-minas-24022017-1930/
-24/02/2017,Basq. Cearense,75,81,Campo Mourão,23ª RODADA,1º TURNO,19:30,,,sem_quartos,21967,https://lnb.com.br/partidas/nbb-20162017-basq-cearense-x-campo-mourao-24022017-1930/
-25/02/2017,Vitória,60,63,Mogi,23ª RODADA,1º TURNO,14:00,,,sem_quartos,21968,https://lnb.com.br/partidas/nbb-20162017-vitoria-x-mogi-25022017-1400/
-04/03/2017,Franca,92,85,Bauru,26ª RODADA,1º TURNO,14:00,,,sem_quartos,21986,https://lnb.com.br/partidas/nbb-20162017-sesi-franca-x-bauru-04032017-1400/
-07/03/2017,Mogi,84,58,Brasília,24ª RODADA,1º TURNO,19:30,,,sem_quartos,21970,https://lnb.com.br/partidas/nbb-20162017-mogi-x-brasilia-07032017-1930/
-07/03/2017,Bauru,83,71,Vitória,24ª RODADA,1º TURNO,20:00,,,sem_quartos,21973,https://lnb.com.br/partidas/nbb-20162017-bauru-x-vitoria-07032017-2000/
-07/03/2017,Franca,78,82,Basq. Cearense,24ª RODADA,1º TURNO,20:10,,,sem_quartos,21972,https://lnb.com.br/partidas/nbb-20162017-sesi-franca-x-basq-cearense-07032017-2010/
-07/03/2017,Campo Mourão,114,105,Minas,24ª RODADA,1º TURNO,20:15,,,sem_quartos,21971,https://lnb.com.br/partidas/nbb-20162017-campo-mourao-x-minas-07032017-2015/
-08/03/2017,L. Sorocabana,64,63,Pinheiros,24ª RODADA,1º TURNO,20:00,,,sem_quartos,21975,https://lnb.com.br/partidas/nbb-20162017-l-sorocabana-x-pinheiros-08032017-2000/
-09/03/2017,Bauru,78,72,Basq. Cearense,25ª RODADA,1º TURNO,20:00,,,sem_quartos,21978,https://lnb.com.br/partidas/nbb-20162017-bauru-x-basq-cearense-09032017-2000/
-09/03/2017,Mogi,87,64,Minas,25ª RODADA,1º TURNO,20:00,,,sem_quartos,21981,https://lnb.com.br/partidas/nbb-20162017-mogi-x-minas-09032017-2000/
-09/03/2017,Franca,81,74,Vitória,25ª RODADA,1º TURNO,20:10,,,sem_quartos,21979,https://lnb.com.br/partidas/nbb-20162017-sesi-franca-x-vitoria-09032017-2010/
-09/03/2017,Campo Mourão,80,90,Brasília,25ª RODADA,1º TURNO,20:15,,,sem_quartos,21980,https://lnb.com.br/partidas/nbb-20162017-campo-mourao-x-brasilia-09032017-2015/
-10/03/2017,Paulistano,67,74,Pinheiros,25ª RODADA,1º TURNO,19:30,,,sem_quartos,21983,https://lnb.com.br/partidas/nbb-20162017-paulistano-x-pinheiros-10032017-1930/
-11/03/2017,Flamengo,94,86,Vasco da Gama,25ª RODADA,1º TURNO,14:00,,,sem_quartos,21985,https://lnb.com.br/partidas/nbb-20162017-flamengo-x-vasco-da-gama-11032017-1400/
-11/03/2017,Macaé Basquete,73,67,Caxias do Sul,25ª RODADA,1º TURNO,18:00,,,sem_quartos,21984,https://lnb.com.br/partidas/nbb-20162017-macae-basquete-x-caxias-do-sul-11032017-1800/
-13/03/2017,Minas,62,74,Brasília,26ª RODADA,1º TURNO,19:00,0,15-13 14-24 10-23 23-14,ok,21987,https://lnb.com.br/noticias/lobo-feroz/
-13/03/2017,Paulistano,92,57,L. Sorocabana,26ª RODADA,1º TURNO,19:30,,,sem_quartos,21989,https://lnb.com.br/partidas/nbb-20162017-paulistano-x-l-sorocabana-13032017-1930/
-13/03/2017,Mogi,74,71,Campo Mourão,26ª RODADA,1º TURNO,20:00,,,sem_quartos,21988,https://lnb.com.br/partidas/nbb-20162017-mogi-x-campo-mourao-13032017-2000/
-14/03/2017,Macaé Basquete,80,82,Flamengo,26ª RODADA,1º TURNO,19:30,,,sem_quartos,21991,https://lnb.com.br/partidas/nbb-20162017-macae-basquete-x-flamengo-14032017-1930/
-14/03/2017,Vitória,82,68,Basq. Cearense,26ª RODADA,1º TURNO,19:30,,,sem_quartos,21993,https://lnb.com.br/partidas/nbb-20162017-vitoria-x-basq-cearense-14032017-1930/
-14/03/2017,Vasco da Gama,57,76,Caxias do Sul,26ª RODADA,1º TURNO,20:15,,,sem_quartos,21992,https://lnb.com.br/partidas/nbb-20162017-vasco-da-gama-x-caxias-do-sul-14032017-2015/
-22/03/2017,Vasco da Gama,89,66,L. Sorocabana,27ª RODADA,1º TURNO,11:00,,,sem_quartos,21998,https://lnb.com.br/partidas/nbb-20162017-vasco-da-gama-x-l-sorocabana-22032017-1100/
-22/03/2017,Basq. Cearense,81,94,Flamengo,27ª RODADA,1º TURNO,19:30,,,sem_quartos,21995,https://lnb.com.br/partidas/nbb-20162017-basq-cearense-x-flamengo-22032017-1930/
-22/03/2017,Vitória,84,90,Macaé Basquete,27ª RODADA,1º TURNO,20:00,,,sem_quartos,21994,https://lnb.com.br/partidas/nbb-20162017-vitoria-x-macae-basquete-22032017-2000/
-22/03/2017,Caxias do Sul,80,82,Paulistano,27ª RODADA,1º TURNO,20:05,,,sem_quartos,21999,https://lnb.com.br/partidas/nbb-20162017-caxias-do-sul-x-paulistano-22032017-2005/
-22/03/2017,Campo Mourão,81,83,Pinheiros,27ª RODADA,1º TURNO,20:15,,,sem_quartos,21997,https://lnb.com.br/partidas/nbb-20162017-campo-mourao-x-pinheiros-22032017-2015/
-23/03/2017,Minas,77,89,Bauru,27ª RODADA,1º TURNO,19:00,,,sem_quartos,22000,https://lnb.com.br/partidas/nbb-20162017-minas-x-bauru-23032017-1900/
-23/03/2017,Brasília,88,92,Franca,27ª RODADA,1º TURNO,20:00,,,sem_quartos,22001,https://lnb.com.br/partidas/nbb-20162017-brasilia-x-sesi-franca-23032017-2000/
-24/03/2017,Basq. Cearense,77,71,Macaé Basquete,28ª RODADA,1º TURNO,19:30,,,sem_quartos,22002,https://lnb.com.br/partidas/nbb-20162017-basq-cearense-x-macae-basquete-24032017-1930/
-24/03/2017,Vitória,87,93,Flamengo,28ª RODADA,1º TURNO,20:00,,,sem_quartos,22003,https://lnb.com.br/partidas/nbb-20162017-vitoria-x-flamengo-24032017-2000/
-24/03/2017,Mogi,90,78,Pinheiros,28ª RODADA,1º TURNO,20:00,,,sem_quartos,22005,https://lnb.com.br/partidas/nbb-20162017-mogi-x-pinheiros-24032017-2000/
-24/03/2017,Caxias do Sul,59,67,L. Sorocabana,28ª RODADA,1º TURNO,20:05,,,sem_quartos,22006,https://lnb.com.br/partidas/nbb-20162017-caxias-do-sul-x-l-sorocabana-24032017-2005/
-24/03/2017,Vasco da Gama,67,82,Paulistano,28ª RODADA,1º TURNO,20:15,,,sem_quartos,22007,https://lnb.com.br/partidas/nbb-20162017-vasco-da-gama-x-paulistano-24032017-2015/
-25/03/2017,Brasília,92,89,Bauru,28ª RODADA,2º TURNO,14:00,,,sem_quartos,22008,https://lnb.com.br/partidas/nbb-20162017-brasilia-x-bauru-25032017-1400/
-25/03/2017,Minas,80,84,Franca,28ª RODADA,1º TURNO,17:00,,,sem_quartos,22009,https://lnb.com.br/partidas/nbb-20162017-minas-x-sesi-franca-25032017-1700/
-29/03/2017,Macaé Basquete,87,74,Brasília,30ª RODADA,1º TURNO,19:30,,,sem_quartos,22022,https://lnb.com.br/partidas/nbb-20162017-macae-basquete-x-brasilia-29032017-1930/
-29/03/2017,Flamengo,108,74,Minas,30ª RODADA,1º TURNO,20:00,,,sem_quartos,22023,https://lnb.com.br/partidas/nbb-20162017-flamengo-x-minas-29032017-2000/
-30/03/2017,Pinheiros,95,69,Caxias do Sul,29ª RODADA,1º TURNO,19:30,,,sem_quartos,22011,https://lnb.com.br/partidas/nbb-20162017-pinheiros-x-caxias-do-sul-30032017-1930/
-30/03/2017,Paulistano,79,67,Basq. Cearense,29ª RODADA,1º TURNO,19:30,,,sem_quartos,22012,https://lnb.com.br/partidas/nbb-20162017-paulistano-x-basq-cearense-30032017-1930/
-30/03/2017,Bauru,80,87,Mogi,29ª RODADA,1º TURNO,19:30,,,sem_quartos,22017,https://lnb.com.br/partidas/nbb-20162017-bauru-x-mogi-30032017-1930/
-30/03/2017,L. Sorocabana,62,69,Vitória,29ª RODADA,1º TURNO,20:00,,,sem_quartos,22013,https://lnb.com.br/partidas/nbb-20162017-l-sorocabana-x-vitoria-30032017-2000/
-30/03/2017,Franca,61,42,Campo Mourão,29ª RODADA,1º TURNO,20:10,,,sem_quartos,22016,https://lnb.com.br/partidas/nbb-20162017-sesi-franca-x-campo-mourao-30032017-2010/
-01/04/2017,Flamengo,71,77,Brasília,29ª RODADA,1º TURNO,14:00,,,sem_quartos,22014,https://lnb.com.br/partidas/nbb-20162017-flamengo-x-brasilia-01042017-1400/
-01/04/2017,Macaé Basquete,99,65,Minas,29ª RODADA,1º TURNO,14:00,,,sem_quartos,22015,https://lnb.com.br/partidas/nbb-20162017-macae-basquete-x-minas-01042017-1400/
-01/04/2017,Pinheiros,72,81,Vasco da Gama,30ª RODADA,1º TURNO,14:00,,,sem_quartos,22019,https://lnb.com.br/partidas/nbb-20162017-pinheiros-x-vasco-da-gama-01042017-1400/
-01/04/2017,L. Sorocabana,63,65,Basq. Cearense,30ª RODADA,1º TURNO,14:00,,,sem_quartos,22020,https://lnb.com.br/partidas/nbb-20162017-l-sorocabana-x-basq-cearense-01042017-1400/
-01/04/2017,Paulistano,83,66,Vitória,30ª RODADA,1º TURNO,14:00,,,sem_quartos,22021,https://lnb.com.br/partidas/nbb-20162017-paulistano-x-vitoria-01042017-1400/
-01/04/2017,Bauru,83,54,Campo Mourão,30ª RODADA,1º TURNO,14:00,,,sem_quartos,22024,https://lnb.com.br/partidas/nbb-20162017-bauru-x-campo-mourao-01042017-1400/
-01/04/2017,Franca,82,78,Mogi,30ª RODADA,1º TURNO,14:00,,,sem_quartos,22025,https://lnb.com.br/partidas/nbb-20162017-sesi-franca-x-mogi-01042017-1400/
+data,mandante,pts_mandante,pts_visitante,visitante,rodada,etapa,hora,prorrogacoes,quartos,status_quartos,fonte_prorrogacao,id_lnb,link
+05/11/2016,Bauru,97,100,Flamengo,1ª RODADA,1º TURNO,14:00,2,17-12 16-19 25-30 18-15 12-12 9-12,ok,quartos LNB,21787,https://lnb.com.br/noticias/batalha-epica/
+07/11/2016,Pinheiros,75,79,Vitória,2ª RODADA,1º TURNO,19:30,0,,sem_quartos,BetExplorer,21788,https://lnb.com.br/partidas/nbb-20162017-pinheiros-x-vitoria-07112016-1930/
+08/11/2016,Minas,83,63,Caxias do Sul,1ª RODADA,1º TURNO,19:00,0,,sem_quartos,BetExplorer,21789,https://lnb.com.br/noticias/soberano_/
+08/11/2016,Franca,84,85,Flamengo,2ª RODADA,1º TURNO,19:30,0,15-21 15-18 23-24 31-22,ok,quartos LNB,21790,https://lnb.com.br/noticias/triunfo-suado-2/
+08/11/2016,Bauru,84,76,Macaé Basquete,2ª RODADA,1º TURNO,20:00,0,20-22 23-14 12-13 29-27,ok,quartos LNB,21791,https://lnb.com.br/noticias/a-primeira-7/
+09/11/2016,Pinheiros,80,74,Basq. Cearense,1ª RODADA,1º TURNO,20:00,0,21-18 17-17 22-22 20-17,ok,quartos LNB,21793,https://lnb.com.br/noticias/poe-na-conta-3/
+10/11/2016,Minas,83,85,Vasco da Gama,2ª RODADA,1º TURNO,19:00,1,24-22 14-22 19-25 20-8 6-8,ok,quartos LNB,21797,https://lnb.com.br/noticias/com-a-mao-direita-4/
+10/11/2016,Brasília,91,82,Caxias do Sul,2ª RODADA,1º TURNO,20:00,0,20-15 20-16 24-25 27-26,ok,quartos LNB,21798,https://lnb.com.br/noticias/no-controle-5/
+10/11/2016,Franca,86,79,Macaé Basquete,1ª RODADA,1º TURNO,20:10,0,29-19 19-18 14-23 24-19,ok,quartos LNB,21796,https://lnb.com.br/noticias/cabeca-nolugar/
+12/11/2016,Brasília,95,72,Vasco da Gama,1ª RODADA,1º TURNO,14:00,0,27-16 19-15 23-12 26-29,ok,quartos LNB,21800,https://lnb.com.br/noticias/sodeubrasilia/
+12/11/2016,Campo Mourão,73,78,L. Sorocabana,2ª RODADA,1º TURNO,16:00,0,18-16 9-23 23-26 23-13,ok,quartos LNB,21801,https://lnb.com.br/noticias/que-estreia-2/
+13/11/2016,Mogi,86,55,Paulistano,2ª RODADA,1º TURNO,19:00,0,16-12 23-8 29-10 18-25,ok,quartos LNB,21802,https://lnb.com.br/noticias/do-inicio-ao-fim-3/
+15/11/2016,Vitória,88,77,Brasília,3ª RODADA,1º TURNO,17:00,0,,sem_quartos,BetExplorer,21804,https://lnb.com.br/noticias/grandevitoria-2/
+15/11/2016,Macaé Basquete,90,92,Pinheiros,3ª RODADA,1º TURNO,19:30,1+,,sem_quartos,BetExplorer,21806,https://lnb.com.br/noticias/altatensao/
+15/11/2016,Basq. Cearense,78,71,Minas,3ª RODADA,1º TURNO,20:30,0,19-14 30-20 13-14 16-23,ok,quartos LNB,21803,https://lnb.com.br/noticias/sobrou-3/
+16/11/2016,Paulistano,90,66,Bauru,3ª RODADA,1º TURNO,19:30,0,23-23 22-12 24-15 21-16,ok,quartos LNB,21808,https://lnb.com.br/noticias/na-mesma-moeda/
+16/11/2016,L. Sorocabana,87,66,Franca,3ª RODADA,1º TURNO,20:00,0,23-12 17-16 13-15 34-23,ok,quartos LNB,21807,https://lnb.com.br/noticias/embalado_/
+17/11/2016,Vasco da Gama,81,91,Campo Mourão,3ª RODADA,1º TURNO,19:30,0,,sem_quartos,BetExplorer,21810,https://lnb.com.br/noticias/melhorimpossivel-2/
+17/11/2016,Caxias do Sul,80,87,Mogi,3ª RODADA,1º TURNO,20:05,0,,sem_quartos,BetExplorer,21809,https://lnb.com.br/noticias/100_/
+17/11/2016,Basq. Cearense,72,81,Brasília,4ª RODADA,1º TURNO,20:30,0,23-19 14-22 16-24 19-16,ok,quartos LNB,21811,https://lnb.com.br/noticias/de-volta-aos-trilhos-10/
+17/11/2016,Vitória,76,74,Minas,4ª RODADA,1º TURNO,21:00,0,,sem_quartos,BetExplorer,21812,https://lnb.com.br/noticias/time_de_guerreiros/
+17/11/2016,Flamengo,96,88,Pinheiros,4ª RODADA,1º TURNO,21:00,0,28-24 21-10 16-24 31-30,ok,quartos LNB,21814,https://lnb.com.br/noticias/alegria-rubro-negra/
+18/11/2016,Paulistano,73,76,Franca,4ª RODADA,1º TURNO,19:30,0,15-20 21-20 15-19 22-17,ok,quartos LNB,21816,https://lnb.com.br/noticias/naultimabola/
+18/11/2016,L. Sorocabana,70,84,Bauru,4ª RODADA,1º TURNO,20:00,0,18-19 14-17 20-24 18-24,ok,quartos LNB,21815,https://lnb.com.br/noticias/moral-de-volta/
+19/11/2016,Vasco da Gama,94,70,Mogi,4ª RODADA,1º TURNO,14:00,0,17-17 26-17 26-8 25-28,ok,quartos LNB,21818,https://lnb.com.br/noticias/semessa/
+19/11/2016,Caxias do Sul,69,78,Campo Mourão,4ª RODADA,1º TURNO,17:00,0,20-16 17-18 20-17 12-27,ok,quartos LNB,21817,https://lnb.com.br/noticias/bote-certeiro/
+22/11/2016,Vasco da Gama,71,69,Basq. Cearense,5ª RODADA,1º TURNO,19:30,0,,sem_quartos,BetExplorer,21820,https://lnb.com.br/noticias/chuva-na-colina/
+22/11/2016,Caxias do Sul,69,70,Vitória,5ª RODADA,1º TURNO,20:05,0,14-16 10-14 25-20 20-20,ok,quartos LNB,21819,https://lnb.com.br/noticias/virada-de-leao/
+23/11/2016,Pinheiros,84,69,Bauru,5ª RODADA,1º TURNO,19:30,0,21-23 14-13 23-14 26-19,ok,quartos LNB,21822,https://lnb.com.br/noticias/potencia-pinheirense/
+24/11/2016,Paulistano,74,90,Brasília,5ª RODADA,1º TURNO,19:30,0,24-20 13-20 16-29 21-21,ok,quartos LNB,21824,https://lnb.com.br/noticias/mais-uma-para-conta/
+24/11/2016,Vasco da Gama,60,70,Vitória,6ª RODADA,1º TURNO,19:30,0,18-17 13-19 16-19 13-15,ok,quartos LNB,21828,https://lnb.com.br/noticias/voando-baixo-5/
+24/11/2016,L. Sorocabana,63,69,Minas,5ª RODADA,1º TURNO,20:00,0,19-15 16-20 16-16 12-18,ok,quartos LNB,21823,https://lnb.com.br/noticias/deu-minas/
+24/11/2016,Caxias do Sul,65,74,Basq. Cearense,6ª RODADA,1º TURNO,20:05,0,,sem_quartos,BetExplorer,21827,https://lnb.com.br/noticias/encaixou-2/
+24/11/2016,Campo Mourão,69,90,Flamengo,5ª RODADA,1º TURNO,20:15,0,16-25 19-10 20-33 14-22,ok,quartos LNB,21826,https://lnb.com.br/noticias/dupla-fantastica/
+25/11/2016,Pinheiros,95,83,Franca,6ª RODADA,1º TURNO,19:30,0,22-19 22-18 23-22 28-24,ok,quartos LNB,21830,https://lnb.com.br/noticias/double-trouble/
+26/11/2016,L. Sorocabana,66,73,Brasília,6ª RODADA,1º TURNO,14:00,0,22-18 13-11 20-16 11-28,ok,quartos LNB,21831,https://lnb.com.br/noticias/que-virada-2/
+26/11/2016,Campo Mourão,71,68,Macaé Basquete,6ª RODADA,1º TURNO,16:00,0,17-14 8-19 26-14 20-21,ok,quartos LNB,21833,https://lnb.com.br/noticias/go-campo/
+26/11/2016,Paulistano,98,86,Minas,6ª RODADA,1º TURNO,18:00,0,,sem_quartos,BetExplorer,21832,https://lnb.com.br/noticias/magistral-georginho/
+29/11/2016,Bauru,82,58,Vasco da Gama,7ª RODADA,1º TURNO,20:00,0,24-12 15-20 20-16 23-10,ok,quartos LNB,21835,https://lnb.com.br/noticias/atuacao-de-gala-3/
+29/11/2016,Franca,85,66,Caxias do Sul,7ª RODADA,1º TURNO,20:10,0,26-11 25-14 19-20 15-21,ok,quartos LNB,21836,https://lnb.com.br/noticias/dominante-mesmo/
+30/11/2016,Brasília,96,80,Pinheiros,7ª RODADA,1º TURNO,20:00,0,22-21 31-15 20-15 23-29,ok,quartos LNB,21838,https://lnb.com.br/noticias/sem-vacilo/
+30/11/2016,Campo Mourão,70,64,Vitória,7ª RODADA,1º TURNO,20:15,0,13-21 22-10 13-19 22-14,ok,quartos LNB,21839,https://lnb.com.br/noticias/aqui-nao_/
+01/12/2016,Macaé Basquete,84,96,Paulistano,7ª RODADA,1º TURNO,19:30,0,21-29 19-22 18-23 26-22,ok,quartos LNB,22052,https://lnb.com.br/noticias/em-ascensao/
+01/12/2016,Bauru,82,64,Caxias do Sul,8ª RODADA,1º TURNO,20:00,0,25-14 16-15 22-19 19-16,ok,quartos LNB,21841,https://lnb.com.br/noticias/forca-do-dragao/
+01/12/2016,Flamengo,81,74,L. Sorocabana,7ª RODADA,1º TURNO,20:00,0,,sem_quartos,BetExplorer,22053,https://lnb.com.br/noticias/imparavel-3/
+01/12/2016,Franca,67,71,Vasco da Gama,8ª RODADA,1º TURNO,20:10,0,20-15 15-17 12-18 20-21,ok,quartos LNB,21842,https://lnb.com.br/noticias/voltou-a-sorrir-2/
+02/12/2016,Minas,88,94,Pinheiros,8ª RODADA,1º TURNO,19:00,0,19-31 24-21 22-17 23-25,ok,quartos LNB,21845,https://lnb.com.br/noticias/de-volta-aos-trilhos-11/
+02/12/2016,Campo Mourão,73,89,Basq. Cearense,8ª RODADA,1º TURNO,20:15,0,13-20 19-25 22-23 19-21,ok,quartos LNB,21846,https://lnb.com.br/noticias/voltando-a-voar/
+03/12/2016,Flamengo,81,72,Paulistano,8ª RODADA,1º TURNO,14:00,0,20-13 16-13 25-24 20-22,ok,quartos LNB,21849,https://lnb.com.br/noticias/6em6/
+03/12/2016,Macaé Basquete,68,66,L. Sorocabana,8ª RODADA,1º TURNO,18:00,0,12-14 17-17 20-14 19-21,ok,quartos LNB,21848,https://lnb.com.br/noticias/bola-da-vitoria/
+06/12/2016,Mogi,81,77,L. Sorocabana,1ª RODADA,1º TURNO,20:00,0,17-19 22-21 22-20 20-17,ok,quartos LNB,21795,https://lnb.com.br/noticias/sinal-verde-2/
+07/12/2016,Campo Mourão,74,92,Paulistano,1ª RODADA,1º TURNO,20:15,0,22-26 17-17 20-29 15-20,ok,quartos LNB,21794,https://lnb.com.br/noticias/ultrapassagem-3/
+10/12/2016,Flamengo,85,66,Macaé Basquete,13ª RODADA,1º TURNO,18:00,0,,sem_quartos,BetExplorer,21885,https://lnb.com.br/partidas/nbb-20162017-flamengo-x-macae-basquete-10122016-1800/
+10/12/2016,Mogi,92,75,Basq. Cearense,7ª RODADA,1º TURNO,19:00,0,,sem_quartos,BetExplorer,21840,https://lnb.com.br/partidas/nbb-20162017-mogi-x-basq-cearense-10122016-1900/
+12/12/2016,Pinheiros,80,63,L. Sorocabana,9ª RODADA,1º TURNO,19:30,0,,sem_quartos,BetExplorer,21851,https://lnb.com.br/partidas/nbb-20162017-pinheiros-x-l-sorocabana-12122016-1930/
+13/12/2016,Minas,72,66,Campo Mourão,9ª RODADA,1º TURNO,10:00,0,,sem_quartos,BetExplorer,21853,https://lnb.com.br/partidas/nbb-20162017-minas-x-campo-mourao-13122016-1000/
+13/12/2016,Brasília,86,75,Mogi,9ª RODADA,1º TURNO,19:30,0,,sem_quartos,BetExplorer,21852,https://lnb.com.br/partidas/nbb-20162017-brasilia-x-mogi-13122016-1930/
+14/12/2016,Pinheiros,77,92,Paulistano,10ª RODADA,1º TURNO,19:30,0,,sem_quartos,BetExplorer,21856,https://lnb.com.br/partidas/nbb-20162017-pinheiros-x-paulistano-14122016-1930/
+14/12/2016,Caxias do Sul,80,104,Flamengo,9ª RODADA,1º TURNO,20:05,0,,sem_quartos,BetExplorer,21880,https://lnb.com.br/partidas/nbb-20162017-caxias-do-sul-x-flamengo-14122016-2005/
+15/12/2016,Minas,84,104,Mogi,10ª RODADA,1º TURNO,19:00,0,,sem_quartos,BetExplorer,21860,https://lnb.com.br/partidas/nbb-20162017-minas-x-mogi-15122016-1900/
+15/12/2016,Brasília,76,78,Campo Mourão,10ª RODADA,1º TURNO,20:00,0,,sem_quartos,BetExplorer,21859,https://lnb.com.br/partidas/nbb-20162017-brasilia-x-campo-mourao-15122016-2000/
+15/12/2016,Basq. Cearense,95,81,Franca,9ª RODADA,1º TURNO,20:30,0,,sem_quartos,BetExplorer,21857,https://lnb.com.br/partidas/nbb-20162017-basq-cearense-x-sesi-franca-15122016-2030/
+15/12/2016,Vitória,84,90,Bauru,9ª RODADA,1º TURNO,21:00,0,,sem_quartos,BetExplorer,21858,https://lnb.com.br/partidas/nbb-20162017-vitoria-x-bauru-15122016-2100/
+16/12/2016,Caxias do Sul,87,83,Macaé Basquete,10ª RODADA,1º TURNO,20:05,0,,sem_quartos,BetExplorer,21861,https://lnb.com.br/partidas/nbb-20162017-caxias-do-sul-x-macae-basquete-16122016-2005/
+17/12/2016,Basq. Cearense,73,79,Bauru,10ª RODADA,1º TURNO,19:00,0,,sem_quartos,BetExplorer,21863,https://lnb.com.br/partidas/nbb-20162017-basq-cearense-x-bauru-17122016-1900/
+17/12/2016,Vitória,77,86,Franca,10ª RODADA,1º TURNO,21:00,0,,sem_quartos,BetExplorer,21864,https://lnb.com.br/partidas/nbb-20162017-vitoria-x-sesi-franca-17122016-2100/
+19/12/2016,Pinheiros,76,78,Campo Mourão,11ª RODADA,1º TURNO,19:30,0,,sem_quartos,BetExplorer,21866,https://lnb.com.br/partidas/nbb-20162017-pinheiros-x-campo-mourao-19122016-1930/
+20/12/2016,Macaé Basquete,59,67,Vitória,11ª RODADA,1º TURNO,19:30,0,,sem_quartos,BetExplorer,21869,https://lnb.com.br/partidas/nbb-20162017-macae-basquete-x-vitoria-20122016-1930/
+20/12/2016,Flamengo,88,94,Basq. Cearense,11ª RODADA,1º TURNO,19:30,1+,,sem_quartos,BetExplorer,21870,https://lnb.com.br/partidas/nbb-20162017-flamengo-x-basq-cearense-20122016-1930/
+20/12/2016,Paulistano,82,49,Caxias do Sul,11ª RODADA,1º TURNO,19:30,0,,sem_quartos,BetExplorer,21872,https://lnb.com.br/partidas/nbb-20162017-paulistano-x-caxias-do-sul-20122016-1930/
+20/12/2016,Bauru,75,86,Minas,11ª RODADA,1º TURNO,20:00,0,,sem_quartos,BetExplorer,21867,https://lnb.com.br/partidas/nbb-20162017-bauru-x-minas-20122016-2000/
+20/12/2016,Franca,77,70,Brasília,11ª RODADA,1º TURNO,20:10,0,,sem_quartos,BetExplorer,21868,https://lnb.com.br/partidas/nbb-20162017-sesi-franca-x-brasilia-20122016-2010/
+20/12/2016,L. Sorocabana,74,70,Vasco da Gama,11ª RODADA,1º TURNO,21:30,0,,sem_quartos,BetExplorer,21871,https://lnb.com.br/partidas/nbb-20162017-l-sorocabana-x-vasco-da-gama-20122016-2130/
+21/12/2016,Pinheiros,74,67,Mogi,12ª RODADA,1º TURNO,16:00,0,,sem_quartos,BetExplorer,21874,https://lnb.com.br/partidas/nbb-20162017-pinheiros-x-mogi-21122016-1600/
+22/12/2016,Macaé Basquete,64,53,Basq. Cearense,12ª RODADA,1º TURNO,19:30,0,,sem_quartos,BetExplorer,21877,https://lnb.com.br/partidas/nbb-20162017-macae-basquete-x-basq-cearense-22122016-1930/
+22/12/2016,Bauru,62,79,Brasília,12ª RODADA,1º TURNO,20:00,0,,sem_quartos,BetExplorer,21875,https://lnb.com.br/partidas/nbb-20162017-bauru-x-brasilia-22122016-2000/
+22/12/2016,L. Sorocabana,83,70,Caxias do Sul,12ª RODADA,1º TURNO,20:00,0,,sem_quartos,BetExplorer,21879,https://lnb.com.br/partidas/nbb-20162017-l-sorocabana-x-caxias-do-sul-22122016-2000/
+22/12/2016,Franca,75,74,Minas,12ª RODADA,1º TURNO,20:10,0,,sem_quartos,BetExplorer,21876,https://lnb.com.br/partidas/nbb-20162017-sesi-franca-x-minas-22122016-2010/
+22/12/2016,Flamengo,98,87,Vitória,12ª RODADA,1º TURNO,20:10,0,,sem_quartos,BetExplorer,21878,https://lnb.com.br/partidas/nbb-20162017-flamengo-x-vitoria-22122016-2010/
+27/12/2016,Flamengo,94,60,Caxias do Sul,24ª RODADA,1º TURNO,19:30,0,,sem_quartos,BetExplorer,21976,https://lnb.com.br/partidas/nbb-20162017-flamengo-x-caxias-do-sul-27122016-1930/
+03/01/2017,Paulistano,83,86,Vasco da Gama,12ª RODADA,1º TURNO,19:30,0,,sem_quartos,BetExplorer,21881,https://lnb.com.br/partidas/nbb-20162017-paulistano-x-vasco-da-gama-03012017-1930/
+06/01/2017,Campo Mourão,95,94,Mogi,13ª RODADA,1º TURNO,20:15,0,,sem_quartos,BetExplorer,21882,https://lnb.com.br/partidas/nbb-20162017-campo-mourao-x-mogi-06012017-2015/
+07/01/2017,Bauru,89,69,Franca,13ª RODADA,1º TURNO,14:00,0,,sem_quartos,BetExplorer,21883,https://lnb.com.br/partidas/nbb-20162017-bauru-x-sesi-franca-07012017-1400/
+07/01/2017,Caxias do Sul,78,73,Vasco da Gama,13ª RODADA,1º TURNO,17:00,0,,sem_quartos,BetExplorer,21887,https://lnb.com.br/partidas/nbb-20162017-caxias-do-sul-x-vasco-da-gama-07012017-1700/
+07/01/2017,L. Sorocabana,71,92,Paulistano,13ª RODADA,1º TURNO,18:00,0,,sem_quartos,BetExplorer,21886,https://lnb.com.br/partidas/nbb-20162017-l-sorocabana-x-paulistano-07012017-1800/
+07/01/2017,Brasília,92,79,Minas,13ª RODADA,1º TURNO,18:00,0,,sem_quartos,BetExplorer,21889,https://lnb.com.br/partidas/nbb-20162017-brasilia-x-minas-07012017-1800/
+07/01/2017,Basq. Cearense,77,82,Vitória,13ª RODADA,1º TURNO,19:00,0,,sem_quartos,BetExplorer,21888,https://lnb.com.br/partidas/nbb-20162017-basq-cearense-x-vitoria-07012017-1900/
+10/01/2017,Minas,86,78,Macaé Basquete,14ª RODADA,1º TURNO,19:00,0,,sem_quartos,BetExplorer,21892,https://lnb.com.br/partidas/nbb-20162017-minas-x-macae-basquete-10012017-1900/
+10/01/2017,Mogi,89,66,Bauru,14ª RODADA,1º TURNO,19:30,0,,sem_quartos,BetExplorer,21891,https://lnb.com.br/partidas/nbb-20162017-mogi-x-bauru-10012017-1930/
+10/01/2017,Campo Mourão,81,83,Franca,14ª RODADA,1º TURNO,20:15,0,,sem_quartos,BetExplorer,21890,https://lnb.com.br/partidas/nbb-20162017-campo-mourao-x-sesi-franca-10012017-2015/
+11/01/2017,Caxias do Sul,93,99,Pinheiros,14ª RODADA,1º TURNO,20:05,0,,sem_quartos,BetExplorer,21894,https://lnb.com.br/partidas/nbb-20162017-caxias-do-sul-x-pinheiros-11012017-2005/
+11/01/2017,Basq. Cearense,74,76,Paulistano,14ª RODADA,1º TURNO,20:30,0,,sem_quartos,BetExplorer,21895,https://lnb.com.br/partidas/nbb-20162017-basq-cearense-x-paulistano-11012017-2030/
+11/01/2017,Vitória,74,69,L. Sorocabana,14ª RODADA,1º TURNO,21:00,0,,sem_quartos,BetExplorer,21896,https://lnb.com.br/partidas/nbb-20162017-vitoria-x-l-sorocabana-11012017-2100/
+12/01/2017,Minas,60,89,Flamengo,15ª RODADA,1º TURNO,19:00,0,,sem_quartos,BetExplorer,21898,https://lnb.com.br/partidas/nbb-20162017-minas-x-flamengo-12012017-1900/
+12/01/2017,Brasília,74,72,Macaé Basquete,15ª RODADA,1º TURNO,20:00,0,,sem_quartos,BetExplorer,21897,https://lnb.com.br/partidas/nbb-20162017-brasilia-x-macae-basquete-12012017-2000/
+12/01/2017,Mogi,82,63,Franca,15ª RODADA,1º TURNO,20:00,0,,sem_quartos,BetExplorer,21900,https://lnb.com.br/partidas/nbb-20162017-mogi-x-sesi-franca-12012017-2000/
+12/01/2017,Campo Mourão,62,82,Bauru,15ª RODADA,1º TURNO,20:15,0,,sem_quartos,BetExplorer,21899,https://lnb.com.br/partidas/nbb-20162017-campo-mourao-x-bauru-12012017-2015/
+13/01/2017,Vasco da Gama,72,70,Pinheiros,15ª RODADA,1º TURNO,20:15,0,,sem_quartos,BetExplorer,21902,https://lnb.com.br/partidas/nbb-20162017-vasco-da-gama-x-pinheiros-13012017-2015/
+13/01/2017,Basq. Cearense,86,85,L. Sorocabana,15ª RODADA,1º TURNO,20:30,1+,,sem_quartos,BetExplorer,21903,https://lnb.com.br/partidas/nbb-20162017-basq-cearense-x-l-sorocabana-13012017-2030/
+13/01/2017,Vitória,85,73,Paulistano,15ª RODADA,1º TURNO,21:00,0,,sem_quartos,BetExplorer,21904,https://lnb.com.br/partidas/nbb-20162017-vitoria-x-paulistano-13012017-2100/
+14/01/2017,Brasília,95,83,Flamengo,14ª RODADA,1º TURNO,14:00,0,,sem_quartos,BetExplorer,21905,https://lnb.com.br/partidas/nbb-20162017-brasilia-x-flamengo-14012017-1400/
+16/01/2017,Macaé Basquete,58,69,Vasco da Gama,9ª RODADA,1º TURNO,19:30,0,,sem_quartos,BetExplorer,21854,https://lnb.com.br/partidas/nbb-20162017-macae-basquete-x-vasco-da-gama-16012017-1930/
+17/01/2017,Mogi,57,83,Flamengo,6ª RODADA,1º TURNO,19:30,0,,sem_quartos,BetExplorer,21834,https://lnb.com.br/partidas/nbb-20162017-mogi-x-flamengo-17012017-1930/
+19/01/2017,Mogi,69,75,Macaé Basquete,5ª RODADA,1º TURNO,20:00,1+,,sem_quartos,BetExplorer,21825,https://lnb.com.br/partidas/nbb-20162017-mogi-x-macae-basquete-19012017-2000/
+19/01/2017,Vasco da Gama,85,76,Brasília,17ª RODADA,1º TURNO,20:15,0,,sem_quartos,BetExplorer,21920,https://lnb.com.br/partidas/nbb-20162017-vasco-da-gama-x-brasilia-19012017-2015/
+21/01/2017,Flamengo,80,83,Franca,17ª RODADA,1º TURNO,14:00,1+,,sem_quartos,BetExplorer,21906,https://lnb.com.br/partidas/nbb-20162017-flamengo-x-sesi-franca-21012017-1400/
+22/01/2017,Mogi,75,72,Vitória,8ª RODADA,1º TURNO,19:00,0,,sem_quartos,BetExplorer,21847,https://lnb.com.br/partidas/nbb-20162017-mogi-x-vitoria-22012017-1900/
+23/01/2017,Macaé Basquete,75,78,Franca,16ª RODADA,1º TURNO,19:30,0,,sem_quartos,BetExplorer,21907,https://lnb.com.br/partidas/nbb-20162017-macae-basquete-x-sesi-franca-23012017-1930/
+24/01/2017,Flamengo,63,72,Bauru,16ª RODADA,1º TURNO,19:30,0,,sem_quartos,BetExplorer,21908,https://lnb.com.br/partidas/nbb-20162017-flamengo-x-bauru-24012017-1930/
+25/01/2017,Paulistano,78,85,Campo Mourão,16ª RODADA,1º TURNO,19:30,0,,sem_quartos,BetExplorer,21911,https://lnb.com.br/partidas/nbb-20162017-paulistano-x-campo-mourao-25012017-1930/
+25/01/2017,L. Sorocabana,60,90,Mogi,16ª RODADA,1º TURNO,20:00,0,,sem_quartos,BetExplorer,21912,https://lnb.com.br/partidas/nbb-20162017-l-sorocabana-x-mogi-25012017-2000/
+25/01/2017,Basq. Cearense,74,77,Pinheiros,16ª RODADA,1º TURNO,20:30,0,,sem_quartos,BetExplorer,21910,https://lnb.com.br/partidas/nbb-20162017-basq-cearense-x-pinheiros-25012017-2030/
+26/01/2017,Macaé Basquete,67,87,Bauru,17ª RODADA,1º TURNO,19:30,0,,sem_quartos,BetExplorer,21915,https://lnb.com.br/partidas/nbb-20162017-macae-basquete-x-bauru-26012017-1930/
+26/01/2017,Caxias do Sul,76,81,Brasília,16ª RODADA,1º TURNO,20:05,0,,sem_quartos,BetExplorer,21914,https://lnb.com.br/partidas/nbb-20162017-caxias-do-sul-x-brasilia-26012017-2005/
+26/01/2017,Vasco da Gama,75,87,Minas,16ª RODADA,1º TURNO,20:15,0,,sem_quartos,BetExplorer,21913,https://lnb.com.br/partidas/nbb-20162017-vasco-da-gama-x-minas-26012017-2015/
+27/01/2017,Paulistano,77,78,Mogi,17ª RODADA,1º TURNO,19:30,1+,,sem_quartos,BetExplorer,21919,https://lnb.com.br/partidas/nbb-20162017-paulistano-x-mogi-27012017-1930/
+27/01/2017,L. Sorocabana,64,74,Campo Mourão,17ª RODADA,1º TURNO,20:00,0,,sem_quartos,BetExplorer,21918,https://lnb.com.br/partidas/nbb-20162017-l-sorocabana-x-campo-mourao-27012017-2000/
+27/01/2017,Vitória,67,72,Pinheiros,17ª RODADA,1º TURNO,21:00,0,,sem_quartos,BetExplorer,21917,https://lnb.com.br/partidas/nbb-20162017-vitoria-x-pinheiros-27012017-2100/
+28/01/2017,Vasco da Gama,78,77,Flamengo,10ª RODADA,1º TURNO,14:00,0,,sem_quartos,BetExplorer,21862,https://lnb.com.br/partidas/nbb-20162017-vasco-da-gama-x-flamengo-28012017-1400/
+28/01/2017,Caxias do Sul,66,52,Minas,17ª RODADA,1º TURNO,17:00,0,,sem_quartos,BetExplorer,21921,https://lnb.com.br/partidas/nbb-20162017-caxias-do-sul-x-minas-28012017-1700/
+31/01/2017,Pinheiros,97,90,Macaé Basquete,18ª RODADA,1º TURNO,19:30,0,,sem_quartos,BetExplorer,21923,https://lnb.com.br/partidas/nbb-20162017-pinheiros-x-macae-basquete-31012017-1930/
+31/01/2017,Bauru,78,68,Paulistano,18ª RODADA,1º TURNO,20:00,0,,sem_quartos,BetExplorer,21925,https://lnb.com.br/partidas/nbb-20162017-bauru-x-paulistano-31012017-2000/
+31/01/2017,Franca,90,68,L. Sorocabana,18ª RODADA,1º TURNO,20:10,0,,sem_quartos,BetExplorer,21924,https://lnb.com.br/partidas/nbb-20162017-sesi-franca-x-l-sorocabana-31012017-2010/
+01/02/2017,Minas,62,66,Basq. Cearense,18ª RODADA,1º TURNO,19:00,0,,sem_quartos,BetExplorer,21926,https://lnb.com.br/partidas/nbb-20162017-minas-x-basq-cearense-01022017-1900/
+01/02/2017,Brasília,70,78,Vitória,18ª RODADA,1º TURNO,20:00,0,,sem_quartos,BetExplorer,21927,https://lnb.com.br/partidas/nbb-20162017-brasilia-x-vitoria-01022017-2000/
+02/02/2017,Pinheiros,77,84,Flamengo,19ª RODADA,1º TURNO,19:30,1+,,sem_quartos,BetExplorer,21931,https://lnb.com.br/partidas/nbb-20162017-pinheiros-x-flamengo-02022017-1930/
+02/02/2017,Mogi,73,64,Caxias do Sul,18ª RODADA,1º TURNO,20:00,0,,sem_quartos,BetExplorer,21928,https://lnb.com.br/partidas/nbb-20162017-mogi-x-caxias-do-sul-02022017-2000/
+02/02/2017,Bauru,87,55,L. Sorocabana,19ª RODADA,1º TURNO,20:00,0,,sem_quartos,BetExplorer,21932,https://lnb.com.br/partidas/nbb-20162017-bauru-x-l-sorocabana-02022017-2000/
+02/02/2017,Franca,78,71,Paulistano,19ª RODADA,1º TURNO,20:10,0,,sem_quartos,BetExplorer,21933,https://lnb.com.br/partidas/nbb-20162017-sesi-franca-x-paulistano-02022017-2010/
+03/02/2017,Minas,78,82,Vitória,19ª RODADA,1º TURNO,19:00,0,,sem_quartos,BetExplorer,21935,https://lnb.com.br/partidas/nbb-20162017-minas-x-vitoria-03022017-1900/
+03/02/2017,Brasília,88,52,Basq. Cearense,19ª RODADA,1º TURNO,20:00,0,,sem_quartos,BetExplorer,21934,https://lnb.com.br/partidas/nbb-20162017-brasilia-x-basq-cearense-03022017-2000/
+04/02/2017,Mogi,80,73,Vasco da Gama,19ª RODADA,1º TURNO,14:00,0,,sem_quartos,BetExplorer,21937,https://lnb.com.br/partidas/nbb-20162017-mogi-x-vasco-da-gama-04022017-1400/
+04/02/2017,Campo Mourão,83,74,Caxias do Sul,19ª RODADA,1º TURNO,16:00,0,,sem_quartos,BetExplorer,21936,https://lnb.com.br/partidas/nbb-20162017-campo-mourao-x-caxias-do-sul-04022017-1600/
+07/02/2017,Vasco da Gama,77,76,Macaé Basquete,24ª RODADA,1º TURNO,20:15,0,,sem_quartos,BetExplorer,21977,https://lnb.com.br/partidas/nbb-20162017-vasco-da-gama-x-macae-basquete-07022017-2015/
+11/02/2017,Campo Mourão,77,82,Vasco da Gama,18ª RODADA,1º TURNO,14:00,0,,sem_quartos,BetExplorer,21929,https://lnb.com.br/partidas/nbb-20162017-campo-mourao-x-vasco-da-gama-11022017-1400/
+14/02/2017,Minas,68,61,L. Sorocabana,20ª RODADA,1º TURNO,19:00,0,,sem_quartos,BetExplorer,21942,https://lnb.com.br/partidas/nbb-20162017-minas-x-l-sorocabana-14022017-1900/
+14/02/2017,Macaé Basquete,78,91,Campo Mourão,20ª RODADA,1º TURNO,19:30,0,,sem_quartos,BetExplorer,21938,https://lnb.com.br/partidas/nbb-20162017-macae-basquete-x-campo-mourao-14022017-1930/
+14/02/2017,Flamengo,96,87,Mogi,20ª RODADA,1º TURNO,19:30,0,,sem_quartos,BetExplorer,21939,https://lnb.com.br/partidas/nbb-20162017-flamengo-x-mogi-14022017-1930/
+14/02/2017,Bauru,74,64,Pinheiros,20ª RODADA,1º TURNO,20:00,0,,sem_quartos,BetExplorer,21941,https://lnb.com.br/partidas/nbb-20162017-bauru-x-pinheiros-14022017-2000/
+14/02/2017,Brasília,85,76,Paulistano,20ª RODADA,1º TURNO,20:00,0,,sem_quartos,BetExplorer,21943,https://lnb.com.br/partidas/nbb-20162017-brasilia-x-paulistano-14022017-2000/
+16/02/2017,Minas,85,96,Paulistano,21ª RODADA,1º TURNO,19:00,0,,sem_quartos,BetExplorer,21951,https://lnb.com.br/partidas/nbb-20162017-minas-x-paulistano-16022017-1900/
+16/02/2017,Macaé Basquete,69,90,Mogi,21ª RODADA,1º TURNO,19:30,0,,sem_quartos,BetExplorer,21946,https://lnb.com.br/partidas/nbb-20162017-macae-basquete-x-mogi-16022017-1930/
+16/02/2017,Flamengo,79,69,Campo Mourão,21ª RODADA,1º TURNO,20:00,0,,sem_quartos,BetExplorer,21947,https://lnb.com.br/partidas/nbb-20162017-flamengo-x-campo-mourao-16022017-2000/
+16/02/2017,Brasília,79,77,L. Sorocabana,21ª RODADA,1º TURNO,20:00,0,,sem_quartos,BetExplorer,21950,https://lnb.com.br/partidas/nbb-20162017-brasilia-x-l-sorocabana-16022017-2000/
+16/02/2017,Franca,99,78,Pinheiros,21ª RODADA,1º TURNO,20:10,0,,sem_quartos,BetExplorer,21949,https://lnb.com.br/partidas/nbb-20162017-sesi-franca-x-pinheiros-16022017-2010/
+16/02/2017,Basq. Cearense,88,78,Caxias do Sul,20ª RODADA,1º TURNO,20:30,0,,sem_quartos,BetExplorer,21944,https://lnb.com.br/partidas/nbb-20162017-basq-cearense-x-caxias-do-sul-16022017-2030/
+16/02/2017,Vitória,73,64,Vasco da Gama,20ª RODADA,1º TURNO,21:00,0,,sem_quartos,BetExplorer,21945,https://lnb.com.br/partidas/nbb-20162017-vitoria-x-vasco-da-gama-16022017-2100/
+18/02/2017,Basq. Cearense,89,80,Vasco da Gama,21ª RODADA,1º TURNO,14:00,1+,,sem_quartos,BetExplorer,21953,https://lnb.com.br/partidas/nbb-20162017-basq-cearense-x-vasco-da-gama-18022017-1400/
+18/02/2017,Vitória,76,67,Caxias do Sul,21ª RODADA,1º TURNO,21:00,0,,sem_quartos,BetExplorer,21952,https://lnb.com.br/partidas/nbb-20162017-vitoria-x-caxias-do-sul-18022017-2100/
+21/02/2017,Vasco da Gama,64,90,Bauru,22ª RODADA,1º TURNO,19:30,0,,sem_quartos,BetExplorer,21954,https://lnb.com.br/partidas/nbb-20162017-vasco-da-gama-x-bauru-21022017-1930/
+21/02/2017,Paulistano,85,65,Macaé Basquete,22ª RODADA,1º TURNO,19:30,0,,sem_quartos,BetExplorer,21956,https://lnb.com.br/partidas/nbb-20162017-paulistano-x-macae-basquete-21022017-1930/
+21/02/2017,L. Sorocabana,58,90,Flamengo,22ª RODADA,1º TURNO,20:00,0,,sem_quartos,BetExplorer,21957,https://lnb.com.br/partidas/nbb-20162017-l-sorocabana-x-flamengo-21022017-2000/
+21/02/2017,Caxias do Sul,95,100,Franca,22ª RODADA,1º TURNO,20:05,1+,,sem_quartos,BetExplorer,21955,https://lnb.com.br/partidas/nbb-20162017-caxias-do-sul-x-sesi-franca-21022017-2005/
+22/02/2017,Pinheiros,86,78,Brasília,22ª RODADA,1º TURNO,19:30,0,,sem_quartos,BetExplorer,21959,https://lnb.com.br/partidas/nbb-20162017-pinheiros-x-brasilia-22022017-1930/
+22/02/2017,Basq. Cearense,77,85,Mogi,22ª RODADA,1º TURNO,19:30,1+,,sem_quartos,BetExplorer,21961,https://lnb.com.br/partidas/nbb-20162017-basq-cearense-x-mogi-22022017-1930/
+22/02/2017,Vitória,86,79,Campo Mourão,22ª RODADA,1º TURNO,20:00,0,,sem_quartos,BetExplorer,21960,https://lnb.com.br/partidas/nbb-20162017-vitoria-x-campo-mourao-22022017-2000/
+23/02/2017,Paulistano,103,96,Flamengo,23ª RODADA,1º TURNO,19:30,0,,sem_quartos,BetExplorer,21964,https://lnb.com.br/partidas/nbb-20162017-paulistano-x-flamengo-23022017-1930/
+23/02/2017,L. Sorocabana,73,77,Macaé Basquete,23ª RODADA,1º TURNO,20:00,1+,,sem_quartos,BetExplorer,21963,https://lnb.com.br/partidas/nbb-20162017-l-sorocabana-x-macae-basquete-23022017-2000/
+23/02/2017,Caxias do Sul,76,74,Bauru,23ª RODADA,1º TURNO,20:05,0,,sem_quartos,BetExplorer,21969,https://lnb.com.br/partidas/nbb-20162017-caxias-do-sul-x-bauru-23022017-2005/
+23/02/2017,Vasco da Gama,79,77,Franca,23ª RODADA,1º TURNO,20:15,0,,sem_quartos,BetExplorer,21962,https://lnb.com.br/partidas/nbb-20162017-vasco-da-gama-x-sesi-franca-23022017-2015/
+24/02/2017,Pinheiros,95,92,Minas,23ª RODADA,1º TURNO,19:30,0,,sem_quartos,BetExplorer,21966,https://lnb.com.br/partidas/nbb-20162017-pinheiros-x-minas-24022017-1930/
+24/02/2017,Basq. Cearense,75,81,Campo Mourão,23ª RODADA,1º TURNO,19:30,0,,sem_quartos,BetExplorer,21967,https://lnb.com.br/partidas/nbb-20162017-basq-cearense-x-campo-mourao-24022017-1930/
+25/02/2017,Vitória,60,63,Mogi,23ª RODADA,1º TURNO,14:00,0,,sem_quartos,BetExplorer,21968,https://lnb.com.br/partidas/nbb-20162017-vitoria-x-mogi-25022017-1400/
+04/03/2017,Franca,92,85,Bauru,26ª RODADA,1º TURNO,14:00,1+,,sem_quartos,BetExplorer,21986,https://lnb.com.br/partidas/nbb-20162017-sesi-franca-x-bauru-04032017-1400/
+07/03/2017,Mogi,84,58,Brasília,24ª RODADA,1º TURNO,19:30,0,,sem_quartos,BetExplorer,21970,https://lnb.com.br/partidas/nbb-20162017-mogi-x-brasilia-07032017-1930/
+07/03/2017,Bauru,83,71,Vitória,24ª RODADA,1º TURNO,20:00,0,,sem_quartos,BetExplorer,21973,https://lnb.com.br/partidas/nbb-20162017-bauru-x-vitoria-07032017-2000/
+07/03/2017,Franca,78,82,Basq. Cearense,24ª RODADA,1º TURNO,20:10,0,,sem_quartos,BetExplorer,21972,https://lnb.com.br/partidas/nbb-20162017-sesi-franca-x-basq-cearense-07032017-2010/
+07/03/2017,Campo Mourão,114,105,Minas,24ª RODADA,1º TURNO,20:15,1+,,sem_quartos,BetExplorer,21971,https://lnb.com.br/partidas/nbb-20162017-campo-mourao-x-minas-07032017-2015/
+08/03/2017,L. Sorocabana,64,63,Pinheiros,24ª RODADA,1º TURNO,20:00,0,,sem_quartos,BetExplorer,21975,https://lnb.com.br/partidas/nbb-20162017-l-sorocabana-x-pinheiros-08032017-2000/
+09/03/2017,Bauru,78,72,Basq. Cearense,25ª RODADA,1º TURNO,20:00,0,,sem_quartos,BetExplorer,21978,https://lnb.com.br/partidas/nbb-20162017-bauru-x-basq-cearense-09032017-2000/
+09/03/2017,Mogi,87,64,Minas,25ª RODADA,1º TURNO,20:00,0,,sem_quartos,BetExplorer,21981,https://lnb.com.br/partidas/nbb-20162017-mogi-x-minas-09032017-2000/
+09/03/2017,Franca,81,74,Vitória,25ª RODADA,1º TURNO,20:10,0,,sem_quartos,BetExplorer,21979,https://lnb.com.br/partidas/nbb-20162017-sesi-franca-x-vitoria-09032017-2010/
+09/03/2017,Campo Mourão,80,90,Brasília,25ª RODADA,1º TURNO,20:15,0,,sem_quartos,BetExplorer,21980,https://lnb.com.br/partidas/nbb-20162017-campo-mourao-x-brasilia-09032017-2015/
+10/03/2017,Paulistano,67,74,Pinheiros,25ª RODADA,1º TURNO,19:30,0,,sem_quartos,BetExplorer,21983,https://lnb.com.br/partidas/nbb-20162017-paulistano-x-pinheiros-10032017-1930/
+11/03/2017,Flamengo,94,86,Vasco da Gama,25ª RODADA,1º TURNO,14:00,0,,sem_quartos,BetExplorer,21985,https://lnb.com.br/partidas/nbb-20162017-flamengo-x-vasco-da-gama-11032017-1400/
+11/03/2017,Macaé Basquete,73,67,Caxias do Sul,25ª RODADA,1º TURNO,18:00,0,,sem_quartos,BetExplorer,21984,https://lnb.com.br/partidas/nbb-20162017-macae-basquete-x-caxias-do-sul-11032017-1800/
+13/03/2017,Minas,62,74,Brasília,26ª RODADA,1º TURNO,19:00,0,15-13 14-24 10-23 23-14,ok,quartos LNB,21987,https://lnb.com.br/noticias/lobo-feroz/
+13/03/2017,Paulistano,92,57,L. Sorocabana,26ª RODADA,1º TURNO,19:30,0,,sem_quartos,BetExplorer,21989,https://lnb.com.br/partidas/nbb-20162017-paulistano-x-l-sorocabana-13032017-1930/
+13/03/2017,Mogi,74,71,Campo Mourão,26ª RODADA,1º TURNO,20:00,0,,sem_quartos,BetExplorer,21988,https://lnb.com.br/partidas/nbb-20162017-mogi-x-campo-mourao-13032017-2000/
+14/03/2017,Macaé Basquete,80,82,Flamengo,26ª RODADA,1º TURNO,19:30,0,,sem_quartos,BetExplorer,21991,https://lnb.com.br/partidas/nbb-20162017-macae-basquete-x-flamengo-14032017-1930/
+14/03/2017,Vitória,82,68,Basq. Cearense,26ª RODADA,1º TURNO,19:30,0,,sem_quartos,BetExplorer,21993,https://lnb.com.br/partidas/nbb-20162017-vitoria-x-basq-cearense-14032017-1930/
+14/03/2017,Vasco da Gama,57,76,Caxias do Sul,26ª RODADA,1º TURNO,20:15,0,,sem_quartos,BetExplorer,21992,https://lnb.com.br/partidas/nbb-20162017-vasco-da-gama-x-caxias-do-sul-14032017-2015/
+22/03/2017,Vasco da Gama,89,66,L. Sorocabana,27ª RODADA,1º TURNO,11:00,0,,sem_quartos,BetExplorer,21998,https://lnb.com.br/partidas/nbb-20162017-vasco-da-gama-x-l-sorocabana-22032017-1100/
+22/03/2017,Basq. Cearense,81,94,Flamengo,27ª RODADA,1º TURNO,19:30,0,,sem_quartos,BetExplorer,21995,https://lnb.com.br/partidas/nbb-20162017-basq-cearense-x-flamengo-22032017-1930/
+22/03/2017,Vitória,84,90,Macaé Basquete,27ª RODADA,1º TURNO,20:00,0,,sem_quartos,BetExplorer,21994,https://lnb.com.br/partidas/nbb-20162017-vitoria-x-macae-basquete-22032017-2000/
+22/03/2017,Caxias do Sul,80,82,Paulistano,27ª RODADA,1º TURNO,20:05,0,,sem_quartos,BetExplorer,21999,https://lnb.com.br/partidas/nbb-20162017-caxias-do-sul-x-paulistano-22032017-2005/
+22/03/2017,Campo Mourão,81,83,Pinheiros,27ª RODADA,1º TURNO,20:15,0,,sem_quartos,BetExplorer,21997,https://lnb.com.br/partidas/nbb-20162017-campo-mourao-x-pinheiros-22032017-2015/
+23/03/2017,Minas,77,89,Bauru,27ª RODADA,1º TURNO,19:00,0,,sem_quartos,BetExplorer,22000,https://lnb.com.br/partidas/nbb-20162017-minas-x-bauru-23032017-1900/
+23/03/2017,Brasília,88,92,Franca,27ª RODADA,1º TURNO,20:00,0,,sem_quartos,BetExplorer,22001,https://lnb.com.br/partidas/nbb-20162017-brasilia-x-sesi-franca-23032017-2000/
+24/03/2017,Basq. Cearense,77,71,Macaé Basquete,28ª RODADA,1º TURNO,19:30,0,,sem_quartos,BetExplorer,22002,https://lnb.com.br/partidas/nbb-20162017-basq-cearense-x-macae-basquete-24032017-1930/
+24/03/2017,Vitória,87,93,Flamengo,28ª RODADA,1º TURNO,20:00,1+,,sem_quartos,BetExplorer,22003,https://lnb.com.br/partidas/nbb-20162017-vitoria-x-flamengo-24032017-2000/
+24/03/2017,Mogi,90,78,Pinheiros,28ª RODADA,1º TURNO,20:00,0,,sem_quartos,BetExplorer,22005,https://lnb.com.br/partidas/nbb-20162017-mogi-x-pinheiros-24032017-2000/
+24/03/2017,Caxias do Sul,59,67,L. Sorocabana,28ª RODADA,1º TURNO,20:05,0,,sem_quartos,BetExplorer,22006,https://lnb.com.br/partidas/nbb-20162017-caxias-do-sul-x-l-sorocabana-24032017-2005/
+24/03/2017,Vasco da Gama,67,82,Paulistano,28ª RODADA,1º TURNO,20:15,0,,sem_quartos,BetExplorer,22007,https://lnb.com.br/partidas/nbb-20162017-vasco-da-gama-x-paulistano-24032017-2015/
+25/03/2017,Brasília,92,89,Bauru,28ª RODADA,2º TURNO,14:00,0,,sem_quartos,BetExplorer,22008,https://lnb.com.br/partidas/nbb-20162017-brasilia-x-bauru-25032017-1400/
+25/03/2017,Minas,80,84,Franca,28ª RODADA,1º TURNO,17:00,0,,sem_quartos,BetExplorer,22009,https://lnb.com.br/partidas/nbb-20162017-minas-x-sesi-franca-25032017-1700/
+29/03/2017,Macaé Basquete,87,74,Brasília,30ª RODADA,1º TURNO,19:30,0,,sem_quartos,BetExplorer,22022,https://lnb.com.br/partidas/nbb-20162017-macae-basquete-x-brasilia-29032017-1930/
+29/03/2017,Flamengo,108,74,Minas,30ª RODADA,1º TURNO,20:00,0,,sem_quartos,BetExplorer,22023,https://lnb.com.br/partidas/nbb-20162017-flamengo-x-minas-29032017-2000/
+30/03/2017,Pinheiros,95,69,Caxias do Sul,29ª RODADA,1º TURNO,19:30,0,,sem_quartos,BetExplorer,22011,https://lnb.com.br/partidas/nbb-20162017-pinheiros-x-caxias-do-sul-30032017-1930/
+30/03/2017,Paulistano,79,67,Basq. Cearense,29ª RODADA,1º TURNO,19:30,0,,sem_quartos,BetExplorer,22012,https://lnb.com.br/partidas/nbb-20162017-paulistano-x-basq-cearense-30032017-1930/
+30/03/2017,Bauru,80,87,Mogi,29ª RODADA,1º TURNO,19:30,1+,,sem_quartos,BetExplorer,22017,https://lnb.com.br/partidas/nbb-20162017-bauru-x-mogi-30032017-1930/
+30/03/2017,L. Sorocabana,62,69,Vitória,29ª RODADA,1º TURNO,20:00,0,,sem_quartos,BetExplorer,22013,https://lnb.com.br/partidas/nbb-20162017-l-sorocabana-x-vitoria-30032017-2000/
+30/03/2017,Franca,61,42,Campo Mourão,29ª RODADA,1º TURNO,20:10,0,,sem_quartos,BetExplorer,22016,https://lnb.com.br/partidas/nbb-20162017-sesi-franca-x-campo-mourao-30032017-2010/
+01/04/2017,Flamengo,71,77,Brasília,29ª RODADA,1º TURNO,14:00,0,,sem_quartos,BetExplorer,22014,https://lnb.com.br/partidas/nbb-20162017-flamengo-x-brasilia-01042017-1400/
+01/04/2017,Macaé Basquete,99,65,Minas,29ª RODADA,1º TURNO,14:00,0,,sem_quartos,BetExplorer,22015,https://lnb.com.br/partidas/nbb-20162017-macae-basquete-x-minas-01042017-1400/
+01/04/2017,Pinheiros,72,81,Vasco da Gama,30ª RODADA,1º TURNO,14:00,0,,sem_quartos,BetExplorer,22019,https://lnb.com.br/partidas/nbb-20162017-pinheiros-x-vasco-da-gama-01042017-1400/
+01/04/2017,L. Sorocabana,63,65,Basq. Cearense,30ª RODADA,1º TURNO,14:00,0,,sem_quartos,BetExplorer,22020,https://lnb.com.br/partidas/nbb-20162017-l-sorocabana-x-basq-cearense-01042017-1400/
+01/04/2017,Paulistano,83,66,Vitória,30ª RODADA,1º TURNO,14:00,0,,sem_quartos,BetExplorer,22021,https://lnb.com.br/partidas/nbb-20162017-paulistano-x-vitoria-01042017-1400/
+01/04/2017,Bauru,83,54,Campo Mourão,30ª RODADA,1º TURNO,14:00,0,,sem_quartos,BetExplorer,22024,https://lnb.com.br/partidas/nbb-20162017-bauru-x-campo-mourao-01042017-1400/
+01/04/2017,Franca,82,78,Mogi,30ª RODADA,1º TURNO,14:00,0,,sem_quartos,BetExplorer,22025,https://lnb.com.br/partidas/nbb-20162017-sesi-franca-x-mogi-01042017-1400/

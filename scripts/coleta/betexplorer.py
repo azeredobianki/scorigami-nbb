@@ -17,9 +17,9 @@ def parse(h, stage):
     for tr in re.findall(r'<tr>(.*?)</tr>', t, re.S):
         th = re.search(r'<th class="h-text-left"[^>]*>([^<]*)<', tr)
         if th: label = html.unescape(th.group(1)).strip(); continue
-        m = re.search(r'class="in-match"><span>(?:<strong>)?([^<]*)(?:</strong>)?</span> - <span>(?:<strong>)?([^<]*)(?:</strong>)?</span></a></td><td class="h-text-center">(?:<a[^>]*>)?([^<]*)<', tr)
+        m = re.search(r'href="([^"]+)" class="in-match"><span>(?:<strong>)?([^<]*)(?:</strong>)?</span> - <span>(?:<strong>)?([^<]*)(?:</strong>)?</span></a></td><td class="h-text-center">(?:<a[^>]*>)?([^<]*)<', tr)
         d = re.search(r'h-text-no-wrap">([^<]*)<', tr)
-        if m: rows.append(dict(stage=stage, label=label, home=html.unescape(m.group(1)), away=html.unescape(m.group(2)), score=m.group(3).strip(), date=d.group(1) if d else ''))
+        if m: rows.append(dict(stage=stage, label=label, home=html.unescape(m.group(2)), away=html.unescape(m.group(3)), score=m.group(4).strip(), date=d.group(1) if d else '', url='https://www.betexplorer.com' + m.group(1)))
     return rows
 out = {}
 for y in range(2008, 2027):

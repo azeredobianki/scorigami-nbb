@@ -1,45 +1,45 @@
-data,mandante,pts_mandante,pts_visitante,visitante,rodada,etapa,hora,prorrogacoes,quartos,status_quartos,id_lnb,link
-06/04/2014,Uberlândia,61,68,Franca,1ª RODADA,OITAVAS,18:00,0,12-23 21-18 13-15 15-12,ok,3938,https://lnb.com.br/noticias/cenario-invertido/
-07/04/2014,São José,78,77,Palmeiras,1ª RODADA,OITAVAS,19:00,1,18-17 20-11 13-16 16-23 11-10,ok,3937,https://lnb.com.br/noticias/grandepasso/
-08/04/2014,Uberlândia,69,67,Franca,2ª RODADA,OITAVAS,19:15,0,13-17 12-14 24-18 20-18,ok,3942,https://lnb.com.br/noticias/igualado/
-09/04/2014,Pinheiros,85,82,Mogi,1ª RODADA,OITAVAS,19:00,0,16-19 25-14 25-26 19-23,ok,3936,https://lnb.com.br/noticias/largou-na-frente/
-09/04/2014,Bauru,79,56,Basq. Cearense,1ª RODADA,OITAVAS,20:00,0,19-13 22-12 17-14 21-17,ok,3939,https://lnb.com.br/noticias/aqui-nao-4/
-09/04/2014,São José,80,70,Palmeiras,2ª RODADA,OITAVAS,20:00,,,sem_quartos,3941,https://lnb.com.br/noticias/chegando-la-3/
-11/04/2014,Pinheiros,77,90,Mogi,2ª RODADA,OITAVAS,19:00,0,13-20 20-19 20-24 24-27,ok,3940,https://lnb.com.br/noticias/tudoigual-2/
-11/04/2014,Bauru,97,78,Basq. Cearense,2ª RODADA,OITAVAS,21:30,0,24-21 18-18 27-18 28-21,ok,3943,https://lnb.com.br/noticias/decolou-2/
-12/04/2014,Franca,61,92,Uberlândia,3ª RODADA,OITAVAS,16:00,0,19-20 11-21 15-17 16-34,ok,3946,https://lnb.com.br/noticias/lideranca-retomada/
-13/04/2014,Palmeiras,85,68,São José,3ª RODADA,OITAVAS,18:00,0,21-13 23-19 19-17 22-19,ok,3945,https://lnb.com.br/noticias/aqui-e-palmeiras/
-14/04/2014,Basq. Cearense,78,79,Bauru,3ª RODADA,OITAVAS,19:00,0,25-15 16-24 20-18 17-22,ok,3947,https://lnb.com.br/noticias/classificados-6/
-14/04/2014,Franca,82,74,Uberlândia,4ª RODADA,OITAVAS,20:00,0,20-15 17-20 18-19 27-20,ok,3950,https://lnb.com.br/noticias/vamos-ao-jogo-5/
-15/04/2014,Mogi,85,81,Pinheiros,3ª RODADA,OITAVAS,19:30,0,16-20 18-23 20-15 31-23,ok,3944,https://lnb.com.br/noticias/jogando-junto/
-15/04/2014,Palmeiras,83,69,São José,4ª RODADA,OITAVAS,20:00,0,19-11 15-14 26-24 23-20,ok,3949,https://lnb.com.br/noticias/voaram/
-17/04/2014,Mogi,86,68,Pinheiros,4ª RODADA,OITAVAS,20:00,0,22-20 19-19 20-15 25-14,ok,3948,https://lnb.com.br/noticias/estao-entre-os-8/
-18/04/2014,Uberlândia,71,76,Franca,5ª RODADA,OITAVAS,19:00,0,26-19 12-15 28-21 5-21,ok,3954,https://lnb.com.br/noticias/virou-e-classificou/
-19/04/2014,São José,64,60,Palmeiras,5ª RODADA,OITAVAS,16:00,0,15-14 16-16 19-15 14-15,ok,3953,https://lnb.com.br/noticias/aguia-eo/
-25/04/2014,Limeira,97,82,Mogi,1ª RODADA,QUARTAS,20:00,0,23-12 22-26 21-22 31-22,ok,3972,https://lnb.com.br/noticias/nocomando/
-26/04/2014,Brasília,82,87,São José,1ª RODADA,QUARTAS,11:00,0,18-18 23-14 17-22 24-33,ok,3977,https://lnb.com.br/noticias/jogaram-muito/
-26/04/2014,Flamengo,70,74,Bauru,1ª RODADA,QUARTAS,21:30,0,21-10 14-20 21-19 14-25,ok,3962,https://lnb.com.br/noticias/ate-o-fim-3/
-27/04/2014,Limeira,83,72,Mogi,2ª RODADA,QUARTAS,15:00,0,27-16 28-26 12-19 16-11,ok,3973,https://lnb.com.br/noticias/passoimportante/
-27/04/2014,Paulistano,82,72,Franca,1ª RODADA,QUARTAS,18:00,0,14-19 22-19 19-12 27-22,ok,3967,https://lnb.com.br/noticias/here-we-go/
-28/04/2014,Brasília,82,95,São José,2ª RODADA,QUARTAS,19:00,0,23-15 15-25 21-26 23-29,ok,3978,https://lnb.com.br/noticias/inacreditavel/
-28/04/2014,Flamengo,86,69,Bauru,2ª RODADA,QUARTAS,20:00,0,21-16 28-16 20-19 17-18,ok,3963,https://lnb.com.br/noticias/na-batida-dele/
-29/04/2014,Paulistano,67,87,Franca,2ª RODADA,QUARTAS,21:00,0,24-19 12-17 16-26 15-25,ok,3968,https://lnb.com.br/noticias/tudo-igual-4/
-02/05/2014,São José,72,70,Brasília,3ª RODADA,QUARTAS,20:00,0,22-23 18-14 11-17 21-16,ok,3979,https://lnb.com.br/noticias/dapraacreditar/
-02/05/2014,Mogi,88,81,Limeira,3ª RODADA,QUARTAS,21:00,0,21-16 25-14 20-26 22-25,ok,3974,https://lnb.com.br/noticias/aqui-e-outra-historia/
-03/05/2014,Bauru,73,92,Flamengo,3ª RODADA,QUARTAS,16:00,0,19-25 22-20 14-28 18-19,ok,3964,https://lnb.com.br/noticias/virou-com-propriedade/
-04/05/2014,Franca,71,81,Paulistano,3ª RODADA,QUARTAS,11:00,0,26-26 21-22 9-14 15-19,ok,3969,https://lnb.com.br/noticias/quanta-frieza/
-05/05/2014,Bauru,81,84,Flamengo,4ª RODADA,QUARTAS,19:00,0,20-16 19-21 19-26 23-21,ok,3965,https://lnb.com.br/noticias/na-semi/
-05/05/2014,Mogi,72,60,Limeira,4ª RODADA,QUARTAS,21:00,0,16-14 17-15 17-14 22-17,ok,3975,https://lnb.com.br/noticias/eles-acreditaram/
-06/05/2014,Franca,97,87,Paulistano,4ª RODADA,QUARTAS,19:00,0,23-18 23-18 19-25 32-26,ok,3970,https://lnb.com.br/noticias/vamos-ao-desempate/
-09/05/2014,Paulistano,86,77,Franca,5ª RODADA,QUARTAS,19:00,0,27-19 18-13 20-23 21-22,ok,3971,https://lnb.com.br/noticias/voo-inedito/
-09/05/2014,Limeira,70,75,Mogi,5ª RODADA,QUARTAS,21:00,0,19-16 16-17 17-18 18-24,ok,3976,https://lnb.com.br/noticias/fez-historia-3/
-12/05/2014,Flamengo,88,82,Mogi,1ª RODADA,SEMI,19:00,0,20-19 21-16 27-22 20-25,ok,3988,https://lnb.com.br/noticias/rubro-negros-em-vantagem/
-13/05/2014,Paulistano,88,71,São José,1ª RODADA,SEMI,19:30,0,16-22 29-19 29-22 14-8,ok,3993,https://lnb.com.br/noticias/decisivo-2/
-14/05/2014,Flamengo,65,69,Mogi,2ª RODADA,SEMI,20:00,0,19-16 16-14 16-20 14-19,ok,3989,https://lnb.com.br/noticias/sangue-frio/
-15/05/2014,Paulistano,78,83,São José,2ª RODADA,SEMI,19:30,0,17-25 18-15 24-30 19-13,ok,3994,https://lnb.com.br/noticias/diferente/
-17/05/2014,Mogi,78,80,Flamengo,3ª RODADA,SEMI,20:30,0,18-19 19-21 14-15 27-25,ok,3990,https://lnb.com.br/noticias/o-heroi-foi-ele/
-18/05/2014,São José,74,80,Paulistano,3ª RODADA,SEMI,16:00,0,16-9 23-22 21-19 14-30,ok,3995,https://lnb.com.br/noticias/que-moral-2/
-19/05/2014,Mogi,71,79,Flamengo,4ª RODADA,SEMI,19:00,0,13-18 21-14 16-29 21-18,ok,3991,https://lnb.com.br/noticias/we-got-this/
-20/05/2014,São José,96,68,Paulistano,4ª RODADA,SEMI,21:00,0,28-23 25-12 26-13 17-20,ok,3996,https://lnb.com.br/noticias/nao-deu-chance/
-23/05/2014,Paulistano,81,68,São José,5ª RODADA,SEMI,21:00,0,13-19 27-11 21-14 20-24,ok,3997,https://lnb.com.br/noticias/finalinedita/
-31/05/2014,Flamengo,78,73,Paulistano,1ª RODADA,FINAL,10:10,0,22-17 16-23 21-17 19-16,ok,3998,https://lnb.com.br/noticias/tricampeao/
+data,mandante,pts_mandante,pts_visitante,visitante,rodada,etapa,hora,prorrogacoes,quartos,status_quartos,fonte_prorrogacao,id_lnb,link
+06/04/2014,Uberlândia,61,68,Franca,1ª RODADA,OITAVAS,18:00,0,12-23 21-18 13-15 15-12,ok,quartos LNB,3938,https://lnb.com.br/noticias/cenario-invertido/
+07/04/2014,São José,78,77,Palmeiras,1ª RODADA,OITAVAS,19:00,1,18-17 20-11 13-16 16-23 11-10,ok,quartos LNB,3937,https://lnb.com.br/noticias/grandepasso/
+08/04/2014,Uberlândia,69,67,Franca,2ª RODADA,OITAVAS,19:15,0,13-17 12-14 24-18 20-18,ok,quartos LNB,3942,https://lnb.com.br/noticias/igualado/
+09/04/2014,Pinheiros,85,82,Mogi,1ª RODADA,OITAVAS,19:00,0,16-19 25-14 25-26 19-23,ok,quartos LNB,3936,https://lnb.com.br/noticias/largou-na-frente/
+09/04/2014,Bauru,79,56,Basq. Cearense,1ª RODADA,OITAVAS,20:00,0,19-13 22-12 17-14 21-17,ok,quartos LNB,3939,https://lnb.com.br/noticias/aqui-nao-4/
+09/04/2014,São José,80,70,Palmeiras,2ª RODADA,OITAVAS,20:00,0,,sem_quartos,BetExplorer,3941,https://lnb.com.br/noticias/chegando-la-3/
+11/04/2014,Pinheiros,77,90,Mogi,2ª RODADA,OITAVAS,19:00,0,13-20 20-19 20-24 24-27,ok,quartos LNB,3940,https://lnb.com.br/noticias/tudoigual-2/
+11/04/2014,Bauru,97,78,Basq. Cearense,2ª RODADA,OITAVAS,21:30,0,24-21 18-18 27-18 28-21,ok,quartos LNB,3943,https://lnb.com.br/noticias/decolou-2/
+12/04/2014,Franca,61,92,Uberlândia,3ª RODADA,OITAVAS,16:00,0,19-20 11-21 15-17 16-34,ok,quartos LNB,3946,https://lnb.com.br/noticias/lideranca-retomada/
+13/04/2014,Palmeiras,85,68,São José,3ª RODADA,OITAVAS,18:00,0,21-13 23-19 19-17 22-19,ok,quartos LNB,3945,https://lnb.com.br/noticias/aqui-e-palmeiras/
+14/04/2014,Basq. Cearense,78,79,Bauru,3ª RODADA,OITAVAS,19:00,0,25-15 16-24 20-18 17-22,ok,quartos LNB,3947,https://lnb.com.br/noticias/classificados-6/
+14/04/2014,Franca,82,74,Uberlândia,4ª RODADA,OITAVAS,20:00,0,20-15 17-20 18-19 27-20,ok,quartos LNB,3950,https://lnb.com.br/noticias/vamos-ao-jogo-5/
+15/04/2014,Mogi,85,81,Pinheiros,3ª RODADA,OITAVAS,19:30,0,16-20 18-23 20-15 31-23,ok,quartos LNB,3944,https://lnb.com.br/noticias/jogando-junto/
+15/04/2014,Palmeiras,83,69,São José,4ª RODADA,OITAVAS,20:00,0,19-11 15-14 26-24 23-20,ok,quartos LNB,3949,https://lnb.com.br/noticias/voaram/
+17/04/2014,Mogi,86,68,Pinheiros,4ª RODADA,OITAVAS,20:00,0,22-20 19-19 20-15 25-14,ok,quartos LNB,3948,https://lnb.com.br/noticias/estao-entre-os-8/
+18/04/2014,Uberlândia,71,76,Franca,5ª RODADA,OITAVAS,19:00,0,26-19 12-15 28-21 5-21,ok,quartos LNB,3954,https://lnb.com.br/noticias/virou-e-classificou/
+19/04/2014,São José,64,60,Palmeiras,5ª RODADA,OITAVAS,16:00,0,15-14 16-16 19-15 14-15,ok,quartos LNB,3953,https://lnb.com.br/noticias/aguia-eo/
+25/04/2014,Limeira,97,82,Mogi,1ª RODADA,QUARTAS,20:00,0,23-12 22-26 21-22 31-22,ok,quartos LNB,3972,https://lnb.com.br/noticias/nocomando/
+26/04/2014,Brasília,82,87,São José,1ª RODADA,QUARTAS,11:00,0,18-18 23-14 17-22 24-33,ok,quartos LNB,3977,https://lnb.com.br/noticias/jogaram-muito/
+26/04/2014,Flamengo,70,74,Bauru,1ª RODADA,QUARTAS,21:30,0,21-10 14-20 21-19 14-25,ok,quartos LNB,3962,https://lnb.com.br/noticias/ate-o-fim-3/
+27/04/2014,Limeira,83,72,Mogi,2ª RODADA,QUARTAS,15:00,0,27-16 28-26 12-19 16-11,ok,quartos LNB,3973,https://lnb.com.br/noticias/passoimportante/
+27/04/2014,Paulistano,82,72,Franca,1ª RODADA,QUARTAS,18:00,0,14-19 22-19 19-12 27-22,ok,quartos LNB,3967,https://lnb.com.br/noticias/here-we-go/
+28/04/2014,Brasília,82,95,São José,2ª RODADA,QUARTAS,19:00,0,23-15 15-25 21-26 23-29,ok,quartos LNB,3978,https://lnb.com.br/noticias/inacreditavel/
+28/04/2014,Flamengo,86,69,Bauru,2ª RODADA,QUARTAS,20:00,0,21-16 28-16 20-19 17-18,ok,quartos LNB,3963,https://lnb.com.br/noticias/na-batida-dele/
+29/04/2014,Paulistano,67,87,Franca,2ª RODADA,QUARTAS,21:00,0,24-19 12-17 16-26 15-25,ok,quartos LNB,3968,https://lnb.com.br/noticias/tudo-igual-4/
+02/05/2014,São José,72,70,Brasília,3ª RODADA,QUARTAS,20:00,0,22-23 18-14 11-17 21-16,ok,quartos LNB,3979,https://lnb.com.br/noticias/dapraacreditar/
+02/05/2014,Mogi,88,81,Limeira,3ª RODADA,QUARTAS,21:00,0,21-16 25-14 20-26 22-25,ok,quartos LNB,3974,https://lnb.com.br/noticias/aqui-e-outra-historia/
+03/05/2014,Bauru,73,92,Flamengo,3ª RODADA,QUARTAS,16:00,0,19-25 22-20 14-28 18-19,ok,quartos LNB,3964,https://lnb.com.br/noticias/virou-com-propriedade/
+04/05/2014,Franca,71,81,Paulistano,3ª RODADA,QUARTAS,11:00,0,26-26 21-22 9-14 15-19,ok,quartos LNB,3969,https://lnb.com.br/noticias/quanta-frieza/
+05/05/2014,Bauru,81,84,Flamengo,4ª RODADA,QUARTAS,19:00,0,20-16 19-21 19-26 23-21,ok,quartos LNB,3965,https://lnb.com.br/noticias/na-semi/
+05/05/2014,Mogi,72,60,Limeira,4ª RODADA,QUARTAS,21:00,0,16-14 17-15 17-14 22-17,ok,quartos LNB,3975,https://lnb.com.br/noticias/eles-acreditaram/
+06/05/2014,Franca,97,87,Paulistano,4ª RODADA,QUARTAS,19:00,0,23-18 23-18 19-25 32-26,ok,quartos LNB,3970,https://lnb.com.br/noticias/vamos-ao-desempate/
+09/05/2014,Paulistano,86,77,Franca,5ª RODADA,QUARTAS,19:00,0,27-19 18-13 20-23 21-22,ok,quartos LNB,3971,https://lnb.com.br/noticias/voo-inedito/
+09/05/2014,Limeira,70,75,Mogi,5ª RODADA,QUARTAS,21:00,0,19-16 16-17 17-18 18-24,ok,quartos LNB,3976,https://lnb.com.br/noticias/fez-historia-3/
+12/05/2014,Flamengo,88,82,Mogi,1ª RODADA,SEMI,19:00,0,20-19 21-16 27-22 20-25,ok,quartos LNB,3988,https://lnb.com.br/noticias/rubro-negros-em-vantagem/
+13/05/2014,Paulistano,88,71,São José,1ª RODADA,SEMI,19:30,0,16-22 29-19 29-22 14-8,ok,quartos LNB,3993,https://lnb.com.br/noticias/decisivo-2/
+14/05/2014,Flamengo,65,69,Mogi,2ª RODADA,SEMI,20:00,0,19-16 16-14 16-20 14-19,ok,quartos LNB,3989,https://lnb.com.br/noticias/sangue-frio/
+15/05/2014,Paulistano,78,83,São José,2ª RODADA,SEMI,19:30,0,17-25 18-15 24-30 19-13,ok,quartos LNB,3994,https://lnb.com.br/noticias/diferente/
+17/05/2014,Mogi,78,80,Flamengo,3ª RODADA,SEMI,20:30,0,18-19 19-21 14-15 27-25,ok,quartos LNB,3990,https://lnb.com.br/noticias/o-heroi-foi-ele/
+18/05/2014,São José,74,80,Paulistano,3ª RODADA,SEMI,16:00,0,16-9 23-22 21-19 14-30,ok,quartos LNB,3995,https://lnb.com.br/noticias/que-moral-2/
+19/05/2014,Mogi,71,79,Flamengo,4ª RODADA,SEMI,19:00,0,13-18 21-14 16-29 21-18,ok,quartos LNB,3991,https://lnb.com.br/noticias/we-got-this/
+20/05/2014,São José,96,68,Paulistano,4ª RODADA,SEMI,21:00,0,28-23 25-12 26-13 17-20,ok,quartos LNB,3996,https://lnb.com.br/noticias/nao-deu-chance/
+23/05/2014,Paulistano,81,68,São José,5ª RODADA,SEMI,21:00,0,13-19 27-11 21-14 20-24,ok,quartos LNB,3997,https://lnb.com.br/noticias/finalinedita/
+31/05/2014,Flamengo,78,73,Paulistano,1ª RODADA,FINAL,10:10,0,22-17 16-23 21-17 19-16,ok,quartos LNB,3998,https://lnb.com.br/noticias/tricampeao/

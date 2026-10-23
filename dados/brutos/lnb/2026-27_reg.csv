@@ -1,17 +1,17 @@
-data,mandante,pts_mandante,pts_visitante,visitante,rodada,etapa,hora,prorrogacoes,quartos,status_quartos,id_lnb,link
-17/10/2026,Mogi Basquete,84,73,Corinthians,1ª RODADA,1º TURNO,16:00,0,18-17 26-21 18-24 22-11,ok,27110,https://lnb.com.br/noticias/nbb-caixa-2026-27-mogi-basquete-84-x-73-corinthians/
-17/10/2026,Caxias do Sul Basquete,61,72,Itatiaiuçu Cruzeiro Basquete,1ª RODADA,1º TURNO,18:00,0,20-21 19-12 9-19 13-20,ok,27111,https://lnb.com.br/noticias/nbb-caixa-2026-27-caxias-do-sul-61-x-72-itatiaiucu-cruzeiro/
-17/10/2026,UNIFACISA,96,70,Basket Osasco,1ª RODADA,1º TURNO,18:30,0,21-20 20-21 26-17 29-12,ok,27112,https://lnb.com.br/noticias/nbb-caixa-2026-27-unifacisa-96-x-70-basket-osasco/
-18/10/2026,Flamengo,81,82,Bauru Basket,2ª RODADA,1º TURNO,11:00,0,19-20 17-23 22-18 23-21,ok,27113,https://lnb.com.br/noticias/nbb-caixa-2026-27-flamengo-81-x-82-bauru-basket/
-19/10/2026,Sesi Franca,90,59,São José Basketball,2ª RODADA,1º TURNO,19:30,0,17-15 25-17 23-12 25-15,ok,27114,https://lnb.com.br/noticias/nbb-caixa-2026-27-sesi-franca-90-x-59-sao-jose/
-19/10/2026,Ceisc/União Corinthians,83,74,Itatiaiuçu Cruzeiro Basquete,2ª RODADA,1º TURNO,19:30,0,20-22 14-18 29-13 20-21,ok,27115,https://lnb.com.br/noticias/nbb-caixa-2026-27-ceisc-uniao-corinthians-83-x-74-itatiaiucu-cruzeiro-basquete/
-19/10/2026,UNIFACISA,81,65,Pinheiros,2ª RODADA,1º TURNO,19:30,0,19-19 23-11 19-15 20-20,ok,27116,https://lnb.com.br/noticias/nbb-caixa-2026-27-unifacisa-81-x-65-pinheiros/
-20/10/2026,Flamengo,81,71,Botafogo,2ª RODADA,1º TURNO,18:00,0,22-14 27-22 20-21 12-14,ok,27119,https://lnb.com.br/noticias/nbb-caixa-2026-27-flamengo-81-x-71-botafogo/
-20/10/2026,Caxias do Sul Basquete,66,78,Minas Storm,2ª RODADA,1º TURNO,19:30,0,20-25 13-18 10-18 23-17,ok,27117,https://lnb.com.br/noticias/nbb-caixa-2026-27-caxias-do-sul-66-x-78-minas-storm/
-20/10/2026,Basquete Cearense,69,93,Basket Osasco,2ª RODADA,1º TURNO,19:30,0,17-32 23-22 13-18 16-21,ok,27118,https://lnb.com.br/noticias/nbb-caixa-2026-27-basquete-cearense-69-x-93-basket-osasco/
-21/10/2026,Bauru Basket,83,68,São José Basketball,2ª RODADA,1º TURNO,19:30,0,23-22 11-20 25-17 24-9,ok,27120,https://lnb.com.br/noticias/nbb-caixa-2026-27-bauru-basket-83-x-67-sao-jose/
-21/10/2026,Sesi Franca,90,74,Mogi Basquete,2ª RODADA,1º TURNO,19:30,0,24-18 24-31 19-9 23-16,ok,27121,https://lnb.com.br/noticias/nbb-caixa-2026-27-sesi-franca-90-x-74-mogi-basquete/
-21/10/2026,Pato Basquete,74,80,Paulistano,2ª RODADA,1º TURNO,19:30,0,10-13 18-20 13-30 33-17,ok,27122,https://lnb.com.br/noticias/nbb-caixa-2026-27-pato-basquete-74-x-80-paulistano/
-22/10/2026,Ceisc/União Corinthians,71,88,Minas Storm,2ª RODADA,1º TURNO,19:30,0,15-15 21-20 13-36 22-17,ok,27123,https://lnb.com.br/noticias/nbb-caixa-2026-27-ceisc-uniao-corinthians-71-x-88-minas-storm/
-22/10/2026,Basquete Cearense,63,98,Pinheiros,2ª RODADA,1º TURNO,19:30,0,15-24 17-22 18-26 13-26,ok,27124,https://lnb.com.br/noticias/nbb-caixa-2026-27-basquete-cearense-63-x-98-pinheiros/
-22/10/2026,CAIXA/Brasília Basquete,104,92,Corinthians,2ª RODADA,1º TURNO,20:15,0,29-28 17-17 31-27 27-20,ok,27125,https://lnb.com.br/noticias/nbb-caixa-2026-27-caixa-brasilia-104-x-92-corinthians/
+data,mandante,pts_mandante,pts_visitante,visitante,rodada,etapa,hora,prorrogacoes,quartos,status_quartos,fonte_prorrogacao,id_lnb,link
+17/10/2026,Mogi Basquete,84,73,Corinthians,1ª RODADA,1º TURNO,16:00,0,18-17 26-21 18-24 22-11,ok,quartos LNB,27110,https://lnb.com.br/noticias/nbb-caixa-2026-27-mogi-basquete-84-x-73-corinthians/
+17/10/2026,Caxias do Sul Basquete,61,72,Itatiaiuçu Cruzeiro Basquete,1ª RODADA,1º TURNO,18:00,0,20-21 19-12 9-19 13-20,ok,quartos LNB,27111,https://lnb.com.br/noticias/nbb-caixa-2026-27-caxias-do-sul-61-x-72-itatiaiucu-cruzeiro/
+17/10/2026,UNIFACISA,96,70,Basket Osasco,1ª RODADA,1º TURNO,18:30,0,21-20 20-21 26-17 29-12,ok,quartos LNB,27112,https://lnb.com.br/noticias/nbb-caixa-2026-27-unifacisa-96-x-70-basket-osasco/
+18/10/2026,Flamengo,81,82,Bauru Basket,2ª RODADA,1º TURNO,11:00,0,19-20 17-23 22-18 23-21,ok,quartos LNB,27113,https://lnb.com.br/noticias/nbb-caixa-2026-27-flamengo-81-x-82-bauru-basket/
+19/10/2026,Sesi Franca,90,59,São José Basketball,2ª RODADA,1º TURNO,19:30,0,17-15 25-17 23-12 25-15,ok,quartos LNB,27114,https://lnb.com.br/noticias/nbb-caixa-2026-27-sesi-franca-90-x-59-sao-jose/
+19/10/2026,Ceisc/União Corinthians,83,74,Itatiaiuçu Cruzeiro Basquete,2ª RODADA,1º TURNO,19:30,0,20-22 14-18 29-13 20-21,ok,quartos LNB,27115,https://lnb.com.br/noticias/nbb-caixa-2026-27-ceisc-uniao-corinthians-83-x-74-itatiaiucu-cruzeiro-basquete/
+19/10/2026,UNIFACISA,81,65,Pinheiros,2ª RODADA,1º TURNO,19:30,0,19-19 23-11 19-15 20-20,ok,quartos LNB,27116,https://lnb.com.br/noticias/nbb-caixa-2026-27-unifacisa-81-x-65-pinheiros/
+20/10/2026,Flamengo,81,71,Botafogo,2ª RODADA,1º TURNO,18:00,0,22-14 27-22 20-21 12-14,ok,quartos LNB,27119,https://lnb.com.br/noticias/nbb-caixa-2026-27-flamengo-81-x-71-botafogo/
+20/10/2026,Caxias do Sul Basquete,66,78,Minas Storm,2ª RODADA,1º TURNO,19:30,0,20-25 13-18 10-18 23-17,ok,quartos LNB,27117,https://lnb.com.br/noticias/nbb-caixa-2026-27-caxias-do-sul-66-x-78-minas-storm/
+20/10/2026,Basquete Cearense,69,93,Basket Osasco,2ª RODADA,1º TURNO,19:30,0,17-32 23-22 13-18 16-21,ok,quartos LNB,27118,https://lnb.com.br/noticias/nbb-caixa-2026-27-basquete-cearense-69-x-93-basket-osasco/
+21/10/2026,Bauru Basket,83,68,São José Basketball,2ª RODADA,1º TURNO,19:30,0,23-22 11-20 25-17 24-9,ok,quartos LNB,27120,https://lnb.com.br/noticias/nbb-caixa-2026-27-bauru-basket-83-x-67-sao-jose/
+21/10/2026,Sesi Franca,90,74,Mogi Basquete,2ª RODADA,1º TURNO,19:30,0,24-18 24-31 19-9 23-16,ok,quartos LNB,27121,https://lnb.com.br/noticias/nbb-caixa-2026-27-sesi-franca-90-x-74-mogi-basquete/
+21/10/2026,Pato Basquete,74,80,Paulistano,2ª RODADA,1º TURNO,19:30,0,10-13 18-20 13-30 33-17,ok,quartos LNB,27122,https://lnb.com.br/noticias/nbb-caixa-2026-27-pato-basquete-74-x-80-paulistano/
+22/10/2026,Ceisc/União Corinthians,71,88,Minas Storm,2ª RODADA,1º TURNO,19:30,0,15-15 21-20 13-36 22-17,ok,quartos LNB,27123,https://lnb.com.br/noticias/nbb-caixa-2026-27-ceisc-uniao-corinthians-71-x-88-minas-storm/
+22/10/2026,Basquete Cearense,63,98,Pinheiros,2ª RODADA,1º TURNO,19:30,0,15-24 17-22 18-26 13-26,ok,quartos LNB,27124,https://lnb.com.br/noticias/nbb-caixa-2026-27-basquete-cearense-63-x-98-pinheiros/
+22/10/2026,CAIXA/Brasília Basquete,104,92,Corinthians,2ª RODADA,1º TURNO,20:15,0,29-28 17-17 31-27 27-20,ok,quartos LNB,27125,https://lnb.com.br/noticias/nbb-caixa-2026-27-caixa-brasilia-104-x-92-corinthians/

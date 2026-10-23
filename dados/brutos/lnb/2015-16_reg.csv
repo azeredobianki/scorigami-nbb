@@ -1,211 +1,211 @@
-data,mandante,pts_mandante,pts_visitante,visitante,rodada,etapa,hora,prorrogacoes,quartos,status_quartos,id_lnb,link
-02/11/2015,Bauru,77,73,Flamengo,1ª RODADA,1º TURNO,19:00,0,19-21 17-13 26-17 15-22,ok,21156,https://lnb.com.br/noticias/no-panela-e-diferente/
-03/11/2015,Franca,77,73,Macaé,1ª RODADA,1º TURNO,20:00,0,24-25 23-19 16-14 14-15,ok,21157,https://lnb.com.br/noticias/tinha-que-ser-ele/
-03/11/2015,Rio Claro,82,67,L. Sorocabana,1ª RODADA,1º TURNO,20:00,0,16-14 22-13 23-19 21-21,ok,21158,https://lnb.com.br/noticias/com_a_mao_direita/
-04/11/2015,Pinheiros,75,63,Minas,1ª RODADA,1º TURNO,19:30,0,27-15 16-16 21-15 11-17,ok,21161,https://lnb.com.br/noticias/na-pegada-6/
-04/11/2015,Caxias do Sul,82,91,Brasília,1ª RODADA,1º TURNO,20:05,0,23-19 14-23 17-29 28-20,ok,21162,https://lnb.com.br/noticias/noite-de-garcom/
-04/11/2015,Basq. Cearense,83,76,Mogi,1ª RODADA,1º TURNO,20:30,0,20-20 18-14 22-16 23-26,ok,21160,https://lnb.com.br/noticias/saiunafrente/
-04/11/2015,Vitória,60,68,São José,1ª RODADA,1º TURNO,21:00,,,sem_quartos,21368,https://lnb.com.br/noticias/jogo-duro_/
-05/11/2015,Bauru,88,64,Macaé,2ª RODADA,1º TURNO,20:00,,,sem_quartos,21163,https://lnb.com.br/noticias/ampla-artilharia/
-05/11/2015,Franca,65,89,Flamengo,2ª RODADA,1º TURNO,20:00,,,sem_quartos,21164,https://lnb.com.br/noticias/a_primeira_/
-05/11/2015,Rio Claro,67,74,Paulistano,2ª RODADA,1º TURNO,20:00,0,11-13 16-21 17-23 23-17,ok,21165,https://lnb.com.br/noticias/no-sufoco-4/
-06/11/2015,Pinheiros,68,93,Brasília,2ª RODADA,1º TURNO,19:30,0,16-29 13-21 20-12 19-31,ok,21168,https://lnb.com.br/noticias/comeco-quente/
-06/11/2015,Caxias do Sul,48,75,Minas,2ª RODADA,1º TURNO,20:05,,,sem_quartos,21169,https://lnb.com.br/noticias/poe_na_conta/
-06/11/2015,Basq. Cearense,80,91,São José,2ª RODADA,1º TURNO,20:30,0,18-19 12-25 36-23 14-24,ok,21167,https://lnb.com.br/noticias/suada-vitoria/
-06/11/2015,Vitória,64,83,Mogi,2ª RODADA,1º TURNO,21:00,0,17-23 16-24 19-13 12-23,ok,21369,https://lnb.com.br/noticias/jogou-junto/
-10/11/2015,Minas,75,85,Franca,3ª RODADA,1º TURNO,19:30,0,18-23 17-22 24-19 16-21,ok,21170,https://lnb.com.br/noticias/sai-que-e-minha_/
-10/11/2015,Mogi,83,52,Caxias do Sul,3ª RODADA,1º TURNO,20:00,0,22-14 25-13 12-9 24-16,ok,21172,https://lnb.com.br/noticias/forca-do-hugao/
-10/11/2015,São José,74,95,Pinheiros,3ª RODADA,1º TURNO,20:00,,,sem_quartos,21173,https://lnb.com.br/noticias/com_personalidade_/
-11/11/2015,Paulistano,108,101,Basq. Cearense,3ª RODADA,1º TURNO,19:30,0,21-16 19-22 34-29 34-34,ok,21174,https://lnb.com.br/noticias/na-hora-decisiva/
-11/11/2015,Macaé,84,80,Rio Claro,3ª RODADA,1º TURNO,20:00,0,10-26 25-16 25-20 24-18,ok,21176,https://lnb.com.br/noticias/quevirada/
-11/11/2015,L. Sorocabana,71,69,Vitória,3ª RODADA,1º TURNO,20:00,,,sem_quartos,21370,https://lnb.com.br/noticias/virada-heroica-2/
-12/11/2015,Minas,67,83,Bauru,4ª RODADA,1º TURNO,19:30,0,12-25 8-10 24-26 23-22,ok,21177,https://lnb.com.br/noticias/3-0/
-12/11/2015,Mogi,86,83,Pinheiros,4ª RODADA,1º TURNO,20:00,0,14-20 17-5 26-29 29-29,ok,21179,https://lnb.com.br/noticias/sequencia-estendida/
-12/11/2015,São José,71,76,Caxias do Sul,4ª RODADA,1º TURNO,20:00,,,sem_quartos,21180,https://lnb.com.br/noticias/mais-do-que-especial-2/
-13/11/2015,Paulistano,77,63,Vitória,4ª RODADA,1º TURNO,19:30,,,sem_quartos,21371,https://lnb.com.br/noticias/ninguem-para-4/
-13/11/2015,L. Sorocabana,70,78,Basq. Cearense,4ª RODADA,1º TURNO,20:00,0,19-25 13-10 18-22 20-21,ok,21181,https://lnb.com.br/noticias/voltou-a-vencer-3/
-13/11/2015,Flamengo,102,70,Rio Claro,4ª RODADA,1º TURNO,20:00,,,sem_quartos,21182,https://lnb.com.br/noticias/a-area-e-dele/
-17/11/2015,São José,88,82,Rio Claro,5ª RODADA,1º TURNO,20:00,,,sem_quartos,21186,https://lnb.com.br/noticias/agora-sim-5/
-17/11/2015,Basq. Cearense,81,85,Brasília,5ª RODADA,1º TURNO,20:30,,,sem_quartos,21184,https://lnb.com.br/noticias/imparavel-2/
-17/11/2015,Vitória,76,66,Minas,5ª RODADA,1º TURNO,21:00,0,13-17 15-7 23-14 25-28,ok,21372,https://lnb.com.br/noticias/pra-ficar-marcado-2/
-18/11/2015,Paulistano,84,82,Macaé,5ª RODADA,1º TURNO,19:30,0,15-22 26-25 23-15 20-20,ok,21189,https://lnb.com.br/noticias/invicto-sim-2/
-18/11/2015,Bauru,71,79,Pinheiros,5ª RODADA,1º TURNO,20:00,0,19-17 13-18 17-16 22-28,ok,21188,https://lnb.com.br/noticias/incontestavel-5/
-18/11/2015,L. Sorocabana,68,76,Flamengo,5ª RODADA,1º TURNO,20:00,,,sem_quartos,21190,https://lnb.com.br/noticias/boa-fase-mantida/
-19/11/2015,Basq. Cearense,64,69,Minas,6ª RODADA,1º TURNO,20:30,0,16-21 14-13 16-22 18-13,ok,21191,https://lnb.com.br/noticias/ninguem-tira-4/
-19/11/2015,Vitória,83,73,Brasília,6ª RODADA,1º TURNO,21:00,0,16-15 26-22 20-16 21-20,ok,21373,https://lnb.com.br/noticias/mare-alta-2/
-20/11/2015,Paulistano,67,60,Flamengo,6ª RODADA,1º TURNO,19:30,0,15-18 15-15 19-16 18-11,ok,21196,https://lnb.com.br/noticias/moral_la_em_cima_/
-20/11/2015,Bauru,78,51,Caxias do Sul,6ª RODADA,1º TURNO,20:00,0,12-12 21-10 24-18 21-11,ok,21195,https://lnb.com.br/noticias/recuperado-5/
-20/11/2015,L. Sorocabana,86,72,Macaé,6ª RODADA,1º TURNO,20:00,0,17-19 25-17 22-19 22-17,ok,21197,https://lnb.com.br/noticias/aqui-nao-macae/
-25/11/2015,Brasília,94,106,Franca,4ª RODADA,1º TURNO,20:00,0,28-35 20-22 23-28 23-21,ok,21178,https://lnb.com.br/noticias/sem_chance/
-27/11/2015,Brasília,111,114,Bauru,3ª RODADA,1º TURNO,20:00,0,19-30 27-22 31-31 34-31,ok,21171,https://lnb.com.br/noticias/que-vitoria_/
-27/11/2015,Mogi,68,63,Rio Claro,6ª RODADA,1º TURNO,20:00,,,sem_quartos,21192,https://lnb.com.br/noticias/engatou-a-4/
-28/11/2015,Franca,86,82,Caxias do Sul,5ª RODADA,1º TURNO,17:00,1,26-21 16-15 24-25 12-17 8-4,ok,21187,https://lnb.com.br/noticias/so_na_prorrogacao/
-30/11/2015,Franca,70,84,Pinheiros,6ª RODADA,1º TURNO,19:00,0,10-19 22-23 9-28 29-14,ok,21194,https://lnb.com.br/noticias/so-crescendo/
-01/12/2015,Rio Claro,63,72,Bauru,7ª RODADA,1º TURNO,20:00,0,15-23 19-13 10-24 19-12,ok,21199,https://lnb.com.br/noticias/prazer-wesley-sena/
-01/12/2015,Basq. Cearense,67,85,Flamengo,7ª RODADA,1º TURNO,20:30,,,sem_quartos,21200,https://lnb.com.br/noticias/logo-no-comeco/
-01/12/2015,Vitória,86,74,Macaé,7ª RODADA,1º TURNO,21:00,,,sem_quartos,21374,https://lnb.com.br/noticias/em-alta-4/
-02/12/2015,Pinheiros,73,59,L. Sorocabana,7ª RODADA,1º TURNO,19:30,,,sem_quartos,21201,https://lnb.com.br/noticias/construida-no-inicio-3/
-02/12/2015,Minas,74,71,Mogi,7ª RODADA,1º TURNO,19:30,0,18-11 23-26 10-19 23-15,ok,21204,https://lnb.com.br/noticias/e_minha/
-02/12/2015,Caxias do Sul,70,83,Paulistano,7ª RODADA,1º TURNO,20:05,,,sem_quartos,21202,https://lnb.com.br/noticias/invencibilidade-mantida-3/
-03/12/2015,Rio Claro,83,55,Franca,8ª RODADA,1º TURNO,20:00,0,23-9 22-14 18-11 20-21,ok,21206,https://lnb.com.br/noticias/deutudocerto_/
-03/12/2015,Basq. Cearense,88,64,Macaé,8ª RODADA,1º TURNO,20:30,0,21-16 17-21 20-17 30-10,ok,21207,https://lnb.com.br/noticias/de_volta_aos_trilhos/
-03/12/2015,Vitória,70,96,Flamengo,8ª RODADA,1º TURNO,22:00,0,13-24 14-20 21-26 22-26,ok,21375,https://lnb.com.br/noticias/deu-mengao-2/
-04/12/2015,Minas,91,84,São José,8ª RODADA,1º TURNO,19:30,1,12-27 23-17 21-16 20-16 15-8,ok,21211,https://lnb.com.br/noticias/que-jogo-2/
-04/12/2015,Caxias do Sul,78,69,L. Sorocabana,8ª RODADA,1º TURNO,20:05,0,24-14 16-21 17-18 21-16,ok,21209,https://lnb.com.br/noticias/a-primeira-no-vascao/
-05/12/2015,Paulistano,101,77,Pinheiros,8ª RODADA,1º TURNO,17:30,0,22-23 32-12 19-27 28-15,ok,21208,https://lnb.com.br/noticias/setima-na-conta/
-08/12/2015,Paulistano,82,50,Minas,9ª RODADA,1º TURNO,19:30,0,19-19 20-9 30-10 13-12,ok,21212,https://lnb.com.br/noticias/oito-e-contando/
-08/12/2015,Flamengo,93,51,Caxias do Sul,9ª RODADA,1º TURNO,20:00,0,19-13 28-7 14-20 32-11,ok,21214,https://lnb.com.br/noticias/dominante-6/
-08/12/2015,Macaé,101,97,Pinheiros,9ª RODADA,1º TURNO,20:00,0,28-20 16-20 32-19 25-38,ok,21215,https://lnb.com.br/noticias/demonstracao-de-forca-2/
-09/12/2015,Franca,91,79,São José,9ª RODADA,1º TURNO,20:00,,,sem_quartos,21216,https://lnb.com.br/noticias/que-virada-3/
-09/12/2015,Bauru,90,74,Mogi,9ª RODADA,1º TURNO,20:00,0,32-13 15-22 24-17 19-22,ok,21217,https://lnb.com.br/noticias/pra-ficar-na-cola/
-09/12/2015,Rio Claro,68,77,Basq. Cearense,9ª RODADA,1º TURNO,20:00,,,sem_quartos,21218,https://lnb.com.br/noticias/grande-vitoria-3/
-10/12/2015,L. Sorocabana,58,61,Minas,10ª RODADA,1º TURNO,20:00,,,sem_quartos,21220,https://lnb.com.br/noticias/e-no-fim-deu-minas/
-10/12/2015,Flamengo,79,83,Pinheiros,10ª RODADA,1º TURNO,20:00,0,20-16 16-24 19-20 24-23,ok,21221,https://lnb.com.br/noticias/ousadia-pinheirense/
-10/12/2015,Macaé,71,62,Caxias do Sul,10ª RODADA,1º TURNO,20:00,0,22-18 15-21 20-14 14-9,ok,21222,https://lnb.com.br/noticias/pegando_embalo_-2/
-11/12/2015,Bauru,104,74,São José,10ª RODADA,1º TURNO,20:00,0,23-29 26-15 36-7 19-23,ok,21224,https://lnb.com.br/noticias/atuacao_de_gala_/
-11/12/2015,Rio Claro,86,63,Vitória,10ª RODADA,1º TURNO,20:00,,,sem_quartos,21377,https://lnb.com.br/noticias/logo-no-inicio/
-12/12/2015,Franca,88,90,Mogi,10ª RODADA,1º TURNO,17:30,1,18-16 13-16 22-21 22-22 13-15,ok,21223,https://lnb.com.br/noticias/alienigena-voou/
-15/12/2015,Minas,74,81,Flamengo,11ª RODADA,1º TURNO,19:30,0,13-17 20-26 17-22 24-16,ok,21230,https://lnb.com.br/noticias/acabou-o-cao/
-15/12/2015,Franca,78,106,Basq. Cearense,11ª RODADA,1º TURNO,20:00,,,sem_quartos,21226,https://lnb.com.br/noticias/a-primeira-6/
-15/12/2015,Brasília,107,104,Macaé,11ª RODADA,1º TURNO,20:00,1,26-15 22-19 17-21 25-35 17-14,ok,21229,https://lnb.com.br/noticias/segurou-a-pressao/
-15/12/2015,Mogi,93,84,L. Sorocabana,11ª RODADA,1º TURNO,20:00,0,26-23 20-15 32-30 15-16,ok,21231,https://lnb.com.br/noticias/firme-no-g-4-2/
-15/12/2015,São José,83,77,Paulistano,11ª RODADA,1º TURNO,20:00,0,19-20 18-20 26-17 20-20,ok,21232,https://lnb.com.br/noticias/fim-da-invencibilidade/
-15/12/2015,Bauru,94,68,Vitória,11ª RODADA,1º TURNO,20:00,0,31-20 16-14 23-14 24-20,ok,21378,https://lnb.com.br/noticias/no-topo-2/
-15/12/2015,Caxias do Sul,67,65,Rio Claro,11ª RODADA,1º TURNO,20:05,0,11-17 24-18 18-13 14-17,ok,21228,https://lnb.com.br/noticias/nos-detalhes/
-17/12/2015,Paulistano,84,75,Mogi,12ª RODADA,1º TURNO,19:00,0,22-20 24-15 13-16 25-24,ok,21238,https://lnb.com.br/noticias/foco-mantido/
-17/12/2015,Pinheiros,90,96,Rio Claro,12ª RODADA,1º TURNO,19:30,1,19-20 23-20 18-27 22-15 8-14,ok,21234,https://lnb.com.br/noticias/ufaa/
-17/12/2015,Minas,90,81,Macaé,12ª RODADA,1º TURNO,19:30,0,21-26 19-19 21-13 29-23,ok,21237,https://lnb.com.br/noticias/uniao-mineira/
-17/12/2015,Bauru,82,66,Basq. Cearense,12ª RODADA,1º TURNO,20:00,0,17-20 16-15 23-19 26-12,ok,21233,https://lnb.com.br/noticias/dezena-bauruense/
-17/12/2015,São José,88,81,L. Sorocabana,12ª RODADA,1º TURNO,20:00,,,sem_quartos,21239,https://lnb.com.br/noticias/_aqui_nao_/
-17/12/2015,Franca,76,78,Vitória,12ª RODADA,1º TURNO,20:00,,,sem_quartos,21379,https://lnb.com.br/noticias/na-conta-do-espanhol/
-17/12/2015,Brasília,85,94,Flamengo,12ª RODADA,1º TURNO,21:00,,,sem_quartos,21236,https://lnb.com.br/noticias/tabu-ampliado/
-19/12/2015,Paulistano,80,77,Bauru,13ª RODADA,1º TURNO,17:20,,,sem_quartos,21241,https://lnb.com.br/noticias/de-volta-a-lideranca/
-20/12/2015,Rio Claro,67,77,Minas,13ª RODADA,1º TURNO,11:00,,,sem_quartos,21244,https://lnb.com.br/noticias/virada-a-mineira/
-20/12/2015,Vitória,74,65,Caxias do Sul,13ª RODADA,1º TURNO,11:00,0,9-7 22-21 14-21 29-16,ok,21380,https://lnb.com.br/noticias/de-novo-ele/
-20/12/2015,Flamengo,94,77,São José,13ª RODADA,1º TURNO,17:00,0,23-18 28-18 21-22 22-19,ok,21242,https://lnb.com.br/noticias/na-cola/
-20/12/2015,L. Sorocabana,0,20,Franca,13ª RODADA,1º TURNO,18:00,,,sem_quartos,21240,https://lnb.com.br/noticias/nota-oficial-9/
-20/12/2015,Macaé,70,82,Mogi,13ª RODADA,1º TURNO,19:00,,,sem_quartos,21243,https://lnb.com.br/noticias/_devirada_/
-20/12/2015,Basq. Cearense,68,63,Pinheiros,13ª RODADA,1º TURNO,19:00,0,20-11 16-14 16-16 16-22,ok,21246,https://lnb.com.br/noticias/de-volta-aos-trilhos-4/
-22/12/2015,Paulistano,79,84,Franca,14ª RODADA,1º TURNO,19:30,0,18-25 17-21 25-17 19-21,ok,21248,https://lnb.com.br/noticias/valentia-francana/
-22/12/2015,Macaé,79,63,São José,14ª RODADA,1º TURNO,19:30,0,18-16 17-14 25-16 19-17,ok,21250,https://lnb.com.br/noticias/fechou-com-vitoria-2/
-22/12/2015,L. Sorocabana,84,80,Bauru,14ª RODADA,1º TURNO,20:00,0,24-21 24-21 19-18 17-20,ok,21247,https://lnb.com.br/noticias/triunfo-maiusculo/
-22/12/2015,Flamengo,79,77,Mogi,14ª RODADA,1º TURNO,20:00,0,18-17 22-17 20-19 19-24,ok,21249,https://lnb.com.br/noticias/vitoria-que-vale-muito/
-22/12/2015,Rio Claro,84,69,Brasília,14ª RODADA,1º TURNO,20:00,0,27-17 21-16 25-20 11-16,ok,21251,https://lnb.com.br/noticias/nao-no-meu-habitat/
-22/12/2015,Basq. Cearense,66,50,Caxias do Sul,14ª RODADA,1º TURNO,20:30,0,10-13 9-10 31-10 16-17,ok,21253,https://lnb.com.br/noticias/defesa-defesa/
-22/12/2015,Vitória,78,98,Pinheiros,14ª RODADA,1º TURNO,21:00,0,18-20 21-25 19-22 20-31,ok,21381,https://lnb.com.br/noticias/oxente-lucas/
-08/01/2016,Pinheiros,74,89,Caxias do Sul,15ª RODADA,1º TURNO,19:30,0,18-14 20-23 14-26 22-26,ok,21255,https://lnb.com.br/noticias/grande-vitoria_/
-08/01/2016,Paulistano,84,51,L. Sorocabana,15ª RODADA,1º TURNO,19:30,0,18-13 24-8 21-10 21-20,ok,21258,https://lnb.com.br/noticias/artilharia-pesada/
-08/01/2016,Franca,68,90,Bauru,15ª RODADA,1º TURNO,20:00,0,16-26 13-25 23-27 16-12,ok,21254,https://lnb.com.br/noticias/so-deu-bauru/
-08/01/2016,Mogi,82,70,São José,15ª RODADA,1º TURNO,20:00,0,20-11 19-23 21-17 22-19,ok,21257,https://lnb.com.br/noticias/alma-lavada/
-08/01/2016,Flamengo,96,66,Macaé,15ª RODADA,1º TURNO,20:00,,,sem_quartos,21259,https://lnb.com.br/noticias/fla-x-mac/
-08/01/2016,Vitória,60,71,Basq. Cearense,15ª RODADA,1º TURNO,21:00,0,7-27 18-11 22-19 13-14,ok,21382,https://lnb.com.br/noticias/deu-ceara/
-09/01/2016,Brasília,72,59,Minas,15ª RODADA,1º TURNO,17:30,0,15-14 17-18 21-12 19-15,ok,21256,https://lnb.com.br/noticias/deu-tudo-certo-4/
-12/01/2016,Minas,70,83,Pinheiros,16ª RODADA,2º TURNO,19:30,,,sem_quartos,21262,https://lnb.com.br/noticias/so-nao-fez-chover/
-12/01/2016,Brasília,90,79,Caxias do Sul,16ª RODADA,2º TURNO,20:00,,,sem_quartos,21263,https://lnb.com.br/noticias/dupla-brilhante/
-12/01/2016,São José,87,81,Vitória,16ª RODADA,2º TURNO,20:00,1,16-16 14-11 16-20 23-22 18-12,ok,21383,https://lnb.com.br/noticias/foi-no-coracao/
-13/01/2016,Macaé,74,89,Franca,16ª RODADA,1º TURNO,19:30,,,sem_quartos,21264,https://lnb.com.br/noticias/de-volta-aos-trilhos-5/
-13/01/2016,L. Sorocabana,65,56,Rio Claro,16ª RODADA,2º TURNO,20:00,0,12-13 20-15 13-16 20-12,ok,21266,https://lnb.com.br/noticias/pra-ganhar-moral-2/
-13/01/2016,Flamengo,85,69,Bauru,16ª RODADA,2º TURNO,21:00,0,17-17 30-13 19-17 19-22,ok,21265,https://lnb.com.br/noticias/dominio-rubro-negro/
-14/01/2016,Minas,77,67,Caxias do Sul,17ª RODADA,2º TURNO,19:30,0,22-18 17-12 27-17 11-20,ok,21269,https://lnb.com.br/noticias/poder-defensivo/
-14/01/2016,São José,81,90,Basq. Cearense,17ª RODADA,2º TURNO,20:00,0,18-17 16-23 27-20 20-30,ok,21268,https://lnb.com.br/noticias/bola-no-toledo/
-14/01/2016,Brasília,90,70,Pinheiros,17ª RODADA,2º TURNO,20:00,,,sem_quartos,21271,https://lnb.com.br/noticias/sobrou-em-quadra/
-15/01/2016,Macaé,68,101,Bauru,17ª RODADA,2º TURNO,19:30,0,17-29 13-24 13-29 25-19,ok,21272,https://lnb.com.br/noticias/rumo-certo/
-15/01/2016,Paulistano,70,73,Rio Claro,17ª RODADA,2º TURNO,19:30,0,12-20 13-16 19-17 26-20,ok,21275,https://lnb.com.br/noticias/causou-2/
-16/01/2016,Flamengo,83,73,Franca,17ª RODADA,2º TURNO,17:30,0,24-20 19-14 21-19 19-20,ok,21273,https://lnb.com.br/noticias/festa_completa_/
-17/01/2016,L. Sorocabana,73,93,Brasília,9ª RODADA,1º TURNO,18:00,0,23-33 20-25 19-19 11-16,ok,21213,https://lnb.com.br/noticias/bem-vindo-ao-g-4/
-19/01/2016,Paulistano,75,81,Brasília,10ª RODADA,1º TURNO,19:30,0,13-24 16-12 20-29 26-16,ok,21219,https://lnb.com.br/noticias/ta-dificil-de-segurar/
-20/01/2016,Rio Claro,73,91,Flamengo,19ª RODADA,2º TURNO,20:00,0,23-20 11-27 15-23 24-21,ok,21285,https://lnb.com.br/noticias/maisliderdoquenunca/
-22/01/2016,Brasília,91,79,Mogi,8ª RODADA,1º TURNO,20:30,0,21-10 26-20 22-28 22-21,ok,21210,https://lnb.com.br/noticias/eles-nao-param/
-23/01/2016,Rio Claro,62,61,Macaé,18ª RODADA,2º TURNO,17:30,0,13-14 17-15 15-13 17-19,ok,21278,https://lnb.com.br/noticias/ufaaa/
-23/01/2016,Flamengo,69,54,L. Sorocabana,20ª RODADA,2º TURNO,18:00,0,13-9 12-12 23-18 21-15,ok,21293,https://lnb.com.br/noticias/nove-e-contando/
-24/01/2016,Brasília,83,73,São José,7ª RODADA,1º TURNO,17:00,0,23-10 17-17 22-20 21-26,ok,21203,https://lnb.com.br/noticias/showtime-2/
-26/01/2016,Basq. Cearense,72,69,Paulistano,18ª RODADA,2º TURNO,20:30,0,19-13 21-20 15-22 17-14,ok,21276,https://lnb.com.br/noticias/voando_baixo/
-26/01/2016,Vitória,73,74,L. Sorocabana,18ª RODADA,2º TURNO,21:00,0,18-25 15-14 22-17 18-18,ok,21385,https://lnb.com.br/noticias/no-sufoco-5/
-27/01/2016,Pinheiros,104,65,São José,18ª RODADA,2º TURNO,19:30,0,26-14 25-15 28-14 25-22,ok,21282,https://lnb.com.br/noticias/dominio-completo/
-27/01/2016,Franca,80,79,Minas,18ª RODADA,2º TURNO,20:00,,,sem_quartos,21279,https://lnb.com.br/noticias/no-detalhe-4/
-27/01/2016,Caxias do Sul,81,89,Mogi,18ª RODADA,2º TURNO,20:05,0,20-9 11-28 26-21 24-31,ok,21281,https://lnb.com.br/noticias/sprintfinal_/
-28/01/2016,Vitória,68,85,Paulistano,19ª RODADA,2º TURNO,21:00,0,22-20 13-21 25-17 8-27,ok,21386,https://lnb.com.br/noticias/cabeca_no_lugar_/
-29/01/2016,Pinheiros,79,81,Mogi,19ª RODADA,2º TURNO,19:30,0,22-17 16-22 21-18 20-24,ok,21289,https://lnb.com.br/noticias/no-caminho-certo-4/
-29/01/2016,Franca,71,79,Brasília,19ª RODADA,2º TURNO,20:00,,,sem_quartos,21286,https://lnb.com.br/noticias/sobrando-em-2016/
-29/01/2016,Bauru,94,81,Minas,19ª RODADA,2º TURNO,20:00,0,16-17 23-13 20-24 35-27,ok,21287,https://lnb.com.br/noticias/na-cola-do-lider-3/
-29/01/2016,Caxias do Sul,65,73,São José,19ª RODADA,2º TURNO,20:05,0,12-21 24-12 11-12 18-28,ok,21288,https://lnb.com.br/noticias/de-volta-aos-trilhos-6/
-30/01/2016,Basq. Cearense,88,65,L. Sorocabana,19ª RODADA,2º TURNO,17:30,0,17-16 24-18 23-13 24-18,ok,21283,https://lnb.com.br/noticias/momento-historico-3/
-31/01/2016,Bauru,94,92,Brasília,18ª RODADA,2º TURNO,18:00,0,31-29 16-14 23-26 24-23,ok,21280,https://lnb.com.br/noticias/sai-que-e-meu-2/
-02/02/2016,Macaé,75,84,Paulistano,20ª RODADA,2º TURNO,19:30,0,9-11 20-17 24-23 22-33,ok,21292,https://lnb.com.br/noticias/sonoultimoquarto/
-02/02/2016,Rio Claro,67,63,São José,20ª RODADA,2º TURNO,20:00,,,sem_quartos,21291,https://lnb.com.br/noticias/vitoria-que-vale-muito-2/
-03/02/2016,Minas,79,83,Vitória,20ª RODADA,2º TURNO,19:30,0,19-22 16-11 23-21 21-29,ok,21387,https://lnb.com.br/noticias/segura-o-trio/
-03/02/2016,Caxias do Sul,90,78,Franca,20ª RODADA,2º TURNO,20:05,0,23-18 21-24 25-17 21-19,ok,21294,https://lnb.com.br/noticias/virada-nao-no-vascao/
-03/02/2016,Pinheiros,88,100,Bauru,20ª RODADA,2º TURNO,20:30,0,23-32 19-19 13-23 33-26,ok,21295,https://lnb.com.br/noticias/noite-de-fischer/
-04/02/2016,Macaé,83,90,L. Sorocabana,21ª RODADA,2º TURNO,19:30,0,22-18 17-22 27-28 17-22,ok,21299,https://lnb.com.br/noticias/de-olho-no-g-12/
-04/02/2016,Rio Claro,98,84,Mogi,21ª RODADA,2º TURNO,20:00,0,24-16 15-15 33-25 26-28,ok,21298,https://lnb.com.br/noticias/estragou-a-festa/
-04/02/2016,Flamengo,75,65,Paulistano,21ª RODADA,2º TURNO,20:00,,,sem_quartos,21300,https://lnb.com.br/noticias/iluminado/
-05/02/2016,Pinheiros,87,91,Franca,21ª RODADA,2º TURNO,19:30,0,25-26 20-17 24-29 18-19,ok,21302,https://lnb.com.br/noticias/pediu-passagem/
-05/02/2016,Minas,61,75,Basq. Cearense,21ª RODADA,2º TURNO,19:30,0,13-31 15-15 12-13 21-16,ok,21303,https://lnb.com.br/noticias/nivel-g-4/
-06/02/2016,Caxias do Sul,83,84,Bauru,21ª RODADA,2º TURNO,17:30,0,23-25 6-11 26-24 28-24,ok,21301,https://lnb.com.br/noticias/alta-tensao/
-12/02/2016,Mogi,84,77,Vitória,17ª RODADA,2º TURNO,19:00,0,25-15 15-23 25-16 19-23,ok,21384,https://lnb.com.br/noticias/forca-do-hugao_/
-12/02/2016,Brasília,82,95,Basq. Cearense,20ª RODADA,2º TURNO,21:00,0,17-23 19-25 21-21 25-26,ok,21296,https://lnb.com.br/noticias/voa-carcara/
-13/02/2016,L. Sorocabana,63,80,Pinheiros,22ª RODADA,2º TURNO,17:30,0,17-26 12-15 19-14 15-25,ok,21306,https://lnb.com.br/noticias/rumo-retomado/
-14/02/2016,Mogi,78,73,Basq. Cearense,16ª RODADA,2º TURNO,17:00,0,19-21 14-17 25-15 20-20,ok,21261,https://lnb.com.br/noticias/nao-no-hugao/
-14/02/2016,Brasília,81,67,Vitória,21ª RODADA,2º TURNO,18:00,,,sem_quartos,21388,https://lnb.com.br/noticias/no-rumo-certo-2/
-16/02/2016,Paulistano,87,60,Caxias do Sul,22ª RODADA,2º TURNO,19:30,,,sem_quartos,21307,https://lnb.com.br/noticias/ritmo-acelerado/
-16/02/2016,Bauru,82,69,Rio Claro,22ª RODADA,2º TURNO,20:00,0,20-27 15-14 22-15 25-13,ok,21305,https://lnb.com.br/noticias/so-na-etapa-final/
-17/02/2016,Flamengo,66,67,Basq. Cearense,22ª RODADA,2º TURNO,19:30,0,14-21 18-10 17-20 17-16,ok,21308,https://lnb.com.br/noticias/vitoriahistorica/
-17/02/2016,Macaé,88,79,Vitória,22ª RODADA,2º TURNO,19:30,0,21-13 19-17 17-17 31-32,ok,21389,https://lnb.com.br/noticias/acabou-o-jejum/
-18/02/2016,São José,81,87,Brasília,22ª RODADA,2º TURNO,11:00,0,21-15 14-24 25-29 21-19,ok,21309,https://lnb.com.br/noticias/fulvio-neles/
-18/02/2016,Pinheiros,80,84,Paulistano,23ª RODADA,2º TURNO,18:00,0,19-20 26-23 17-22 18-19,ok,21314,https://lnb.com.br/noticias/isso-e-derby/
-18/02/2016,Franca,64,70,Rio Claro,23ª RODADA,2º TURNO,20:00,0,17-15 18-19 14-22 15-14,ok,21311,https://lnb.com.br/noticias/um-passo-de-cada-vez/
-18/02/2016,L. Sorocabana,61,74,Caxias do Sul,23ª RODADA,2º TURNO,20:00,0,14-21 13-23 17-19 17-11,ok,21313,https://lnb.com.br/noticias/pra-ganhar-moral-3/
-19/02/2016,Macaé,69,79,Basq. Cearense,23ª RODADA,2º TURNO,19:30,0,11-18 21-26 22-13 15-22,ok,21315,https://lnb.com.br/noticias/pegada-mantida/
-19/02/2016,São José,59,89,Minas,23ª RODADA,2º TURNO,20:00,0,8-24 16-19 19-26 16-20,ok,21316,https://lnb.com.br/noticias/devidamente-recuperado/
-20/02/2016,Flamengo,101,53,Vitória,23ª RODADA,2º TURNO,17:30,0,22-11 26-11 27-15 26-16,ok,21390,https://lnb.com.br/noticias/100-lider/
-21/02/2016,Brasília,94,73,L. Sorocabana,24ª RODADA,2º TURNO,11:00,0,20-10 22-22 14-21 38-20,ok,21323,https://lnb.com.br/noticias/fechou-com-propriedade/
-22/02/2016,Caxias do Sul,62,71,Basq. Cearense,29ª RODADA,2º TURNO,19:30,,,sem_quartos,21355,https://lnb.com.br/noticias/nem_ai_/
-23/02/2016,Pinheiros,92,87,Macaé,24ª RODADA,2º TURNO,19:30,2,17-18 14-11 18-18 20-22 11-11 12-7,ok,21321,https://lnb.com.br/noticias/verdadeira-batalha/
-23/02/2016,São José,70,82,Franca,24ª RODADA,2º TURNO,20:00,0,20-26 16-21 16-21 18-14,ok,21318,https://lnb.com.br/noticias/deitou-e-rolou/
-24/02/2016,Minas,76,82,Paulistano,24ª RODADA,2º TURNO,19:30,0,20-20 22-13 21-25 13-24,ok,21322,https://lnb.com.br/noticias/eletrizante-4/
-24/02/2016,Basq. Cearense,64,67,Rio Claro,24ª RODADA,2º TURNO,19:30,,,sem_quartos,21324,https://lnb.com.br/noticias/ruge-forte-leao/
-25/02/2016,São José,60,62,Bauru,25ª RODADA,2º TURNO,20:00,0,5-12 16-13 18-19 21-18,ok,21325,https://lnb.com.br/noticias/acima-das-nuvens/
-25/02/2016,Mogi,93,78,Franca,25ª RODADA,2º TURNO,20:00,,,sem_quartos,21326,https://lnb.com.br/noticias/noite-da-molecada/
-25/02/2016,Caxias do Sul,81,66,Macaé,25ª RODADA,2º TURNO,20:05,0,19-19 18-19 24-9 20-19,ok,21327,https://lnb.com.br/noticias/missao-g12/
-26/02/2016,Minas,57,70,L. Sorocabana,25ª RODADA,2º TURNO,19:30,,,sem_quartos,21329,https://lnb.com.br/noticias/de-volta-aos-trilhos-7/
-26/02/2016,Vitória,67,79,Rio Claro,25ª RODADA,2º TURNO,20:00,,,sem_quartos,21392,https://lnb.com.br/noticias/voo-rio-clarense/
-27/02/2016,Mogi,85,79,Bauru,24ª RODADA,2º TURNO,17:30,0,18-17 17-23 22-23 28-16,ok,21319,https://lnb.com.br/noticias/no-hugao-o-bicho-pega/
-03/03/2016,Mogi,71,64,Minas,22ª RODADA,2º TURNO,20:00,0,11-17 23-12 18-17 19-18,ok,21310,https://lnb.com.br/noticias/mais-uma-no-hugao/
-03/03/2016,Vitória,96,94,Bauru,26ª RODADA,2º TURNO,20:00,1,20-23 21-20 20-15 20-23 15-13,ok,21393,https://lnb.com.br/noticias/gigante-vitoria/
-04/03/2016,Pinheiros,75,81,Flamengo,25ª RODADA,2º TURNO,19:30,0,11-24 18-18 29-21 17-18,ok,21328,https://lnb.com.br/noticias/teve-que-suar/
-05/03/2016,Mogi,78,75,Brasília,23ª RODADA,2º TURNO,17:30,0,16-18 16-15 19-21 27-21,ok,21317,https://lnb.com.br/noticias/thats-my-house/
-06/03/2016,Caxias do Sul,80,97,Flamengo,24ª RODADA,2º TURNO,11:00,0,15-28 16-22 14-18 35-29,ok,21320,https://lnb.com.br/noticias/terceira-e-contando/
-09/03/2016,Basq. Cearense,99,71,Franca,26ª RODADA,2º TURNO,19:30,0,16-11 23-14 41-24 19-22,ok,21332,https://lnb.com.br/noticias/exibicao-de-gala/
-09/03/2016,Macaé,77,99,Brasília,26ª RODADA,2º TURNO,19:30,0,25-30 11-17 24-26 17-26,ok,21333,https://lnb.com.br/noticias/visitante-indigesto-2/
-09/03/2016,Rio Claro,74,75,Caxias do Sul,26ª RODADA,2º TURNO,20:00,0,21-13 10-23 26-18 17-21,ok,21336,https://lnb.com.br/noticias/quebrou-a-banca/
-09/03/2016,Paulistano,89,77,São José,26ª RODADA,2º TURNO,20:00,,,sem_quartos,21338,https://lnb.com.br/noticias/pensando-grande/
-11/03/2016,Macaé,60,74,Minas,27ª RODADA,2º TURNO,19:30,0,10-20 21-13 13-22 16-19,ok,21340,https://lnb.com.br/noticias/noite-dos-sonhos/
-11/03/2016,Vitória,72,78,Franca,27ª RODADA,2º TURNO,20:00,0,10-14 13-25 24-17 25-22,ok,21394,https://lnb.com.br/noticias/franca-nos-playoffs/
-11/03/2016,L. Sorocabana,78,66,São José,27ª RODADA,2º TURNO,20:15,,,sem_quartos,21344,https://lnb.com.br/noticias/triunfo-importantissimo/
-12/03/2016,Rio Claro,76,77,Pinheiros,27ª RODADA,2º TURNO,16:30,1,16-19 15-15 22-17 14-16 9-10,ok,21343,https://lnb.com.br/noticias/embolou-de-vez/
-13/03/2016,Brasília,81,69,Paulistano,25ª RODADA,2º TURNO,11:00,0,19-10 18-24 26-16 18-19,ok,21330,https://lnb.com.br/noticias/estana_briga_/
-16/03/2016,Flamengo,73,75,Brasília,27ª RODADA,2º TURNO,20:00,0,17-20 19-15 21-18 16-22,ok,21341,https://lnb.com.br/noticias/fim-do-tabu/
-17/03/2016,Basq. Cearense,90,86,Bauru,27ª RODADA,2º TURNO,19:30,0,20-31 22-23 24-12 24-20,ok,21339,https://lnb.com.br/noticias/segurem-eles/
-17/03/2016,Mogi,80,83,Paulistano,27ª RODADA,2º TURNO,20:00,0,16-30 24-12 19-19 21-22,ok,21345,https://lnb.com.br/noticias/vitoria-gigantesca/
-23/03/2016,Franca,79,88,Paulistano,29ª RODADA,2º TURNO,18:00,,,sem_quartos,21356,https://lnb.com.br/noticias/destruidor_/
-23/03/2016,Minas,77,72,Rio Claro,28ª RODADA,2º TURNO,20:00,0,22-18 21-15 18-20 16-19,ok,21346,https://lnb.com.br/noticias/bola-no-sosa/
-23/03/2016,Pinheiros,93,81,Basq. Cearense,28ª RODADA,2º TURNO,20:00,0,19-14 26-19 24-13 24-35,ok,21348,https://lnb.com.br/noticias/segura-a-dupla/
-23/03/2016,São José,80,88,Flamengo,28ª RODADA,2º TURNO,20:00,0,22-20 21-23 15-29 22-16,ok,21351,https://lnb.com.br/noticias/lideranca-mais-que-segura/
-23/03/2016,Mogi,88,79,Macaé,28ª RODADA,2º TURNO,20:00,,,sem_quartos,21352,https://lnb.com.br/noticias/chegandola_/
-23/03/2016,Caxias do Sul,72,76,Vitória,28ª RODADA,2º TURNO,20:05,0,26-15 7-22 20-15 19-24,ok,21395,https://lnb.com.br/noticias/fundamental-3/
-23/03/2016,Bauru,90,71,L. Sorocabana,29ª RODADA,2º TURNO,20:15,,,sem_quartos,21357,https://lnb.com.br/noticias/sem-crise-2/
-25/03/2016,Franca,95,89,L. Sorocabana,28ª RODADA,2º TURNO,11:00,0,30-19 18-14 23-27 24-29,ok,21349,https://lnb.com.br/noticias/mais-uma-na-conta-4/
-25/03/2016,Brasília,66,68,Rio Claro,29ª RODADA,2º TURNO,11:00,0,19-12 18-13 18-17 11-26,ok,21354,https://lnb.com.br/noticias/reacao-incrivel/
-25/03/2016,Mogi,85,88,Flamengo,29ª RODADA,2º TURNO,11:00,0,12-19 23-19 27-25 23-25,ok,21359,https://lnb.com.br/noticias/ritmo-de-playoff/
-25/03/2016,Pinheiros,75,60,Vitória,29ª RODADA,2º TURNO,11:00,0,26-11 12-15 20-11 17-23,ok,21396,https://lnb.com.br/noticias/despertou-cedo/
-25/03/2016,São José,70,71,Macaé,29ª RODADA,2º TURNO,18:00,0,17-18 17-11 15-20 21-22,ok,21358,https://lnb.com.br/noticias/travessura-macaense/
-26/03/2016,Bauru,78,63,Paulistano,28ª RODADA,2º TURNO,16:30,0,15-16 18-15 18-12 27-20,ok,21350,https://lnb.com.br/noticias/e-do-bauru/
-27/03/2016,Flamengo,76,65,Minas,26ª RODADA,2º TURNO,11:00,0,22-17 15-17 23-21 16-10,ok,21334,https://lnb.com.br/noticias/sem_essa_/
-27/03/2016,L. Sorocabana,82,91,Mogi,26ª RODADA,2º TURNO,18:00,0,19-19 16-29 16-14 31-29,ok,21337,https://lnb.com.br/noticias/ainda-na-briga-4/
-29/03/2016,Bauru,103,78,Franca,30ª RODADA,2º TURNO,20:00,0,27-12 24-20 24-27 28-19,ok,21360,https://lnb.com.br/noticias/com-chave-de-ouro-4/
-29/03/2016,Caxias do Sul,79,72,Pinheiros,30ª RODADA,2º TURNO,20:00,0,22-20 22-13 11-16 24-23,ok,21361,https://lnb.com.br/noticias/caxias-nos-playoffs/
-29/03/2016,Minas,107,95,Brasília,30ª RODADA,2º TURNO,20:00,0,22-20 34-22 24-28 27-25,ok,21362,https://lnb.com.br/noticias/com-tudo-para-os-playoffs/
-29/03/2016,São José,81,86,Mogi,30ª RODADA,2º TURNO,20:00,,,sem_quartos,21363,https://lnb.com.br/noticias/vamos-as-oitavas/
-29/03/2016,L. Sorocabana,65,81,Paulistano,30ª RODADA,2º TURNO,20:00,0,9-24 16-17 16-18 24-22,ok,21364,https://lnb.com.br/noticias/premio-merecido/
-29/03/2016,Basq. Cearense,90,65,Vitória,30ª RODADA,2º TURNO,20:00,0,20-13 15-12 28-19 27-21,ok,21397,https://lnb.com.br/noticias/viva-o-nordeste/
-29/03/2016,Macaé,62,92,Flamengo,30ª RODADA,2º TURNO,20:00,0,11-28 15-18 17-23 19-23,ok,21398,https://lnb.com.br/noticias/lider-dominante/
+data,mandante,pts_mandante,pts_visitante,visitante,rodada,etapa,hora,prorrogacoes,quartos,status_quartos,fonte_prorrogacao,id_lnb,link
+02/11/2015,Bauru,77,73,Flamengo,1ª RODADA,1º TURNO,19:00,0,19-21 17-13 26-17 15-22,ok,quartos LNB,21156,https://lnb.com.br/noticias/no-panela-e-diferente/
+03/11/2015,Franca,77,73,Macaé,1ª RODADA,1º TURNO,20:00,0,24-25 23-19 16-14 14-15,ok,quartos LNB,21157,https://lnb.com.br/noticias/tinha-que-ser-ele/
+03/11/2015,Rio Claro,82,67,L. Sorocabana,1ª RODADA,1º TURNO,20:00,0,16-14 22-13 23-19 21-21,ok,quartos LNB,21158,https://lnb.com.br/noticias/com_a_mao_direita/
+04/11/2015,Pinheiros,75,63,Minas,1ª RODADA,1º TURNO,19:30,0,27-15 16-16 21-15 11-17,ok,quartos LNB,21161,https://lnb.com.br/noticias/na-pegada-6/
+04/11/2015,Caxias do Sul,82,91,Brasília,1ª RODADA,1º TURNO,20:05,0,23-19 14-23 17-29 28-20,ok,quartos LNB,21162,https://lnb.com.br/noticias/noite-de-garcom/
+04/11/2015,Basq. Cearense,83,76,Mogi,1ª RODADA,1º TURNO,20:30,0,20-20 18-14 22-16 23-26,ok,quartos LNB,21160,https://lnb.com.br/noticias/saiunafrente/
+04/11/2015,Vitória,60,68,São José,1ª RODADA,1º TURNO,21:00,0,,sem_quartos,BetExplorer,21368,https://lnb.com.br/noticias/jogo-duro_/
+05/11/2015,Bauru,88,64,Macaé,2ª RODADA,1º TURNO,20:00,0,,sem_quartos,BetExplorer,21163,https://lnb.com.br/noticias/ampla-artilharia/
+05/11/2015,Franca,65,89,Flamengo,2ª RODADA,1º TURNO,20:00,0,,sem_quartos,BetExplorer,21164,https://lnb.com.br/noticias/a_primeira_/
+05/11/2015,Rio Claro,67,74,Paulistano,2ª RODADA,1º TURNO,20:00,0,11-13 16-21 17-23 23-17,ok,quartos LNB,21165,https://lnb.com.br/noticias/no-sufoco-4/
+06/11/2015,Pinheiros,68,93,Brasília,2ª RODADA,1º TURNO,19:30,0,16-29 13-21 20-12 19-31,ok,quartos LNB,21168,https://lnb.com.br/noticias/comeco-quente/
+06/11/2015,Caxias do Sul,48,75,Minas,2ª RODADA,1º TURNO,20:05,0,,sem_quartos,BetExplorer,21169,https://lnb.com.br/noticias/poe_na_conta/
+06/11/2015,Basq. Cearense,80,91,São José,2ª RODADA,1º TURNO,20:30,0,18-19 12-25 36-23 14-24,ok,quartos LNB,21167,https://lnb.com.br/noticias/suada-vitoria/
+06/11/2015,Vitória,64,83,Mogi,2ª RODADA,1º TURNO,21:00,0,17-23 16-24 19-13 12-23,ok,quartos LNB,21369,https://lnb.com.br/noticias/jogou-junto/
+10/11/2015,Minas,75,85,Franca,3ª RODADA,1º TURNO,19:30,0,18-23 17-22 24-19 16-21,ok,quartos LNB,21170,https://lnb.com.br/noticias/sai-que-e-minha_/
+10/11/2015,Mogi,83,52,Caxias do Sul,3ª RODADA,1º TURNO,20:00,0,22-14 25-13 12-9 24-16,ok,quartos LNB,21172,https://lnb.com.br/noticias/forca-do-hugao/
+10/11/2015,São José,74,95,Pinheiros,3ª RODADA,1º TURNO,20:00,0,,sem_quartos,BetExplorer,21173,https://lnb.com.br/noticias/com_personalidade_/
+11/11/2015,Paulistano,108,101,Basq. Cearense,3ª RODADA,1º TURNO,19:30,0,21-16 19-22 34-29 34-34,ok,quartos LNB,21174,https://lnb.com.br/noticias/na-hora-decisiva/
+11/11/2015,Macaé,84,80,Rio Claro,3ª RODADA,1º TURNO,20:00,0,10-26 25-16 25-20 24-18,ok,quartos LNB,21176,https://lnb.com.br/noticias/quevirada/
+11/11/2015,L. Sorocabana,71,69,Vitória,3ª RODADA,1º TURNO,20:00,0,,sem_quartos,BetExplorer,21370,https://lnb.com.br/noticias/virada-heroica-2/
+12/11/2015,Minas,67,83,Bauru,4ª RODADA,1º TURNO,19:30,0,12-25 8-10 24-26 23-22,ok,quartos LNB,21177,https://lnb.com.br/noticias/3-0/
+12/11/2015,Mogi,86,83,Pinheiros,4ª RODADA,1º TURNO,20:00,0,14-20 17-5 26-29 29-29,ok,quartos LNB,21179,https://lnb.com.br/noticias/sequencia-estendida/
+12/11/2015,São José,71,76,Caxias do Sul,4ª RODADA,1º TURNO,20:00,1+,,sem_quartos,BetExplorer,21180,https://lnb.com.br/noticias/mais-do-que-especial-2/
+13/11/2015,Paulistano,77,63,Vitória,4ª RODADA,1º TURNO,19:30,0,,sem_quartos,BetExplorer,21371,https://lnb.com.br/noticias/ninguem-para-4/
+13/11/2015,L. Sorocabana,70,78,Basq. Cearense,4ª RODADA,1º TURNO,20:00,0,19-25 13-10 18-22 20-21,ok,quartos LNB,21181,https://lnb.com.br/noticias/voltou-a-vencer-3/
+13/11/2015,Flamengo,102,70,Rio Claro,4ª RODADA,1º TURNO,20:00,0,,sem_quartos,BetExplorer,21182,https://lnb.com.br/noticias/a-area-e-dele/
+17/11/2015,São José,88,82,Rio Claro,5ª RODADA,1º TURNO,20:00,1+,,sem_quartos,BetExplorer,21186,https://lnb.com.br/noticias/agora-sim-5/
+17/11/2015,Basq. Cearense,81,85,Brasília,5ª RODADA,1º TURNO,20:30,0,,sem_quartos,BetExplorer,21184,https://lnb.com.br/noticias/imparavel-2/
+17/11/2015,Vitória,76,66,Minas,5ª RODADA,1º TURNO,21:00,0,13-17 15-7 23-14 25-28,ok,quartos LNB,21372,https://lnb.com.br/noticias/pra-ficar-marcado-2/
+18/11/2015,Paulistano,84,82,Macaé,5ª RODADA,1º TURNO,19:30,0,15-22 26-25 23-15 20-20,ok,quartos LNB,21189,https://lnb.com.br/noticias/invicto-sim-2/
+18/11/2015,Bauru,71,79,Pinheiros,5ª RODADA,1º TURNO,20:00,0,19-17 13-18 17-16 22-28,ok,quartos LNB,21188,https://lnb.com.br/noticias/incontestavel-5/
+18/11/2015,L. Sorocabana,68,76,Flamengo,5ª RODADA,1º TURNO,20:00,0,,sem_quartos,BetExplorer,21190,https://lnb.com.br/noticias/boa-fase-mantida/
+19/11/2015,Basq. Cearense,64,69,Minas,6ª RODADA,1º TURNO,20:30,0,16-21 14-13 16-22 18-13,ok,quartos LNB,21191,https://lnb.com.br/noticias/ninguem-tira-4/
+19/11/2015,Vitória,83,73,Brasília,6ª RODADA,1º TURNO,21:00,0,16-15 26-22 20-16 21-20,ok,quartos LNB,21373,https://lnb.com.br/noticias/mare-alta-2/
+20/11/2015,Paulistano,67,60,Flamengo,6ª RODADA,1º TURNO,19:30,0,15-18 15-15 19-16 18-11,ok,quartos LNB,21196,https://lnb.com.br/noticias/moral_la_em_cima_/
+20/11/2015,Bauru,78,51,Caxias do Sul,6ª RODADA,1º TURNO,20:00,0,12-12 21-10 24-18 21-11,ok,quartos LNB,21195,https://lnb.com.br/noticias/recuperado-5/
+20/11/2015,L. Sorocabana,86,72,Macaé,6ª RODADA,1º TURNO,20:00,0,17-19 25-17 22-19 22-17,ok,quartos LNB,21197,https://lnb.com.br/noticias/aqui-nao-macae/
+25/11/2015,Brasília,94,106,Franca,4ª RODADA,1º TURNO,20:00,0,28-35 20-22 23-28 23-21,ok,quartos LNB,21178,https://lnb.com.br/noticias/sem_chance/
+27/11/2015,Brasília,111,114,Bauru,3ª RODADA,1º TURNO,20:00,0,19-30 27-22 31-31 34-31,ok,quartos LNB,21171,https://lnb.com.br/noticias/que-vitoria_/
+27/11/2015,Mogi,68,63,Rio Claro,6ª RODADA,1º TURNO,20:00,0,,sem_quartos,BetExplorer,21192,https://lnb.com.br/noticias/engatou-a-4/
+28/11/2015,Franca,86,82,Caxias do Sul,5ª RODADA,1º TURNO,17:00,1,26-21 16-15 24-25 12-17 8-4,ok,quartos LNB,21187,https://lnb.com.br/noticias/so_na_prorrogacao/
+30/11/2015,Franca,70,84,Pinheiros,6ª RODADA,1º TURNO,19:00,0,10-19 22-23 9-28 29-14,ok,quartos LNB,21194,https://lnb.com.br/noticias/so-crescendo/
+01/12/2015,Rio Claro,63,72,Bauru,7ª RODADA,1º TURNO,20:00,0,15-23 19-13 10-24 19-12,ok,quartos LNB,21199,https://lnb.com.br/noticias/prazer-wesley-sena/
+01/12/2015,Basq. Cearense,67,85,Flamengo,7ª RODADA,1º TURNO,20:30,0,,sem_quartos,BetExplorer,21200,https://lnb.com.br/noticias/logo-no-comeco/
+01/12/2015,Vitória,86,74,Macaé,7ª RODADA,1º TURNO,21:00,0,,sem_quartos,BetExplorer,21374,https://lnb.com.br/noticias/em-alta-4/
+02/12/2015,Pinheiros,73,59,L. Sorocabana,7ª RODADA,1º TURNO,19:30,0,,sem_quartos,BetExplorer,21201,https://lnb.com.br/noticias/construida-no-inicio-3/
+02/12/2015,Minas,74,71,Mogi,7ª RODADA,1º TURNO,19:30,0,18-11 23-26 10-19 23-15,ok,quartos LNB,21204,https://lnb.com.br/noticias/e_minha/
+02/12/2015,Caxias do Sul,70,83,Paulistano,7ª RODADA,1º TURNO,20:05,0,,sem_quartos,BetExplorer,21202,https://lnb.com.br/noticias/invencibilidade-mantida-3/
+03/12/2015,Rio Claro,83,55,Franca,8ª RODADA,1º TURNO,20:00,0,23-9 22-14 18-11 20-21,ok,quartos LNB,21206,https://lnb.com.br/noticias/deutudocerto_/
+03/12/2015,Basq. Cearense,88,64,Macaé,8ª RODADA,1º TURNO,20:30,0,21-16 17-21 20-17 30-10,ok,quartos LNB,21207,https://lnb.com.br/noticias/de_volta_aos_trilhos/
+03/12/2015,Vitória,70,96,Flamengo,8ª RODADA,1º TURNO,22:00,0,13-24 14-20 21-26 22-26,ok,quartos LNB,21375,https://lnb.com.br/noticias/deu-mengao-2/
+04/12/2015,Minas,91,84,São José,8ª RODADA,1º TURNO,19:30,1,12-27 23-17 21-16 20-16 15-8,ok,quartos LNB,21211,https://lnb.com.br/noticias/que-jogo-2/
+04/12/2015,Caxias do Sul,78,69,L. Sorocabana,8ª RODADA,1º TURNO,20:05,0,24-14 16-21 17-18 21-16,ok,quartos LNB,21209,https://lnb.com.br/noticias/a-primeira-no-vascao/
+05/12/2015,Paulistano,101,77,Pinheiros,8ª RODADA,1º TURNO,17:30,0,22-23 32-12 19-27 28-15,ok,quartos LNB,21208,https://lnb.com.br/noticias/setima-na-conta/
+08/12/2015,Paulistano,82,50,Minas,9ª RODADA,1º TURNO,19:30,0,19-19 20-9 30-10 13-12,ok,quartos LNB,21212,https://lnb.com.br/noticias/oito-e-contando/
+08/12/2015,Flamengo,93,51,Caxias do Sul,9ª RODADA,1º TURNO,20:00,0,19-13 28-7 14-20 32-11,ok,quartos LNB,21214,https://lnb.com.br/noticias/dominante-6/
+08/12/2015,Macaé,101,97,Pinheiros,9ª RODADA,1º TURNO,20:00,0,28-20 16-20 32-19 25-38,ok,quartos LNB,21215,https://lnb.com.br/noticias/demonstracao-de-forca-2/
+09/12/2015,Franca,91,79,São José,9ª RODADA,1º TURNO,20:00,0,,sem_quartos,BetExplorer,21216,https://lnb.com.br/noticias/que-virada-3/
+09/12/2015,Bauru,90,74,Mogi,9ª RODADA,1º TURNO,20:00,0,32-13 15-22 24-17 19-22,ok,quartos LNB,21217,https://lnb.com.br/noticias/pra-ficar-na-cola/
+09/12/2015,Rio Claro,68,77,Basq. Cearense,9ª RODADA,1º TURNO,20:00,0,,sem_quartos,BetExplorer,21218,https://lnb.com.br/noticias/grande-vitoria-3/
+10/12/2015,L. Sorocabana,58,61,Minas,10ª RODADA,1º TURNO,20:00,0,,sem_quartos,BetExplorer,21220,https://lnb.com.br/noticias/e-no-fim-deu-minas/
+10/12/2015,Flamengo,79,83,Pinheiros,10ª RODADA,1º TURNO,20:00,0,20-16 16-24 19-20 24-23,ok,quartos LNB,21221,https://lnb.com.br/noticias/ousadia-pinheirense/
+10/12/2015,Macaé,71,62,Caxias do Sul,10ª RODADA,1º TURNO,20:00,0,22-18 15-21 20-14 14-9,ok,quartos LNB,21222,https://lnb.com.br/noticias/pegando_embalo_-2/
+11/12/2015,Bauru,104,74,São José,10ª RODADA,1º TURNO,20:00,0,23-29 26-15 36-7 19-23,ok,quartos LNB,21224,https://lnb.com.br/noticias/atuacao_de_gala_/
+11/12/2015,Rio Claro,86,63,Vitória,10ª RODADA,1º TURNO,20:00,0,,sem_quartos,BetExplorer,21377,https://lnb.com.br/noticias/logo-no-inicio/
+12/12/2015,Franca,88,90,Mogi,10ª RODADA,1º TURNO,17:30,1,18-16 13-16 22-21 22-22 13-15,ok,quartos LNB,21223,https://lnb.com.br/noticias/alienigena-voou/
+15/12/2015,Minas,74,81,Flamengo,11ª RODADA,1º TURNO,19:30,0,13-17 20-26 17-22 24-16,ok,quartos LNB,21230,https://lnb.com.br/noticias/acabou-o-cao/
+15/12/2015,Franca,78,106,Basq. Cearense,11ª RODADA,1º TURNO,20:00,0,,sem_quartos,BetExplorer,21226,https://lnb.com.br/noticias/a-primeira-6/
+15/12/2015,Brasília,107,104,Macaé,11ª RODADA,1º TURNO,20:00,1,26-15 22-19 17-21 25-35 17-14,ok,quartos LNB,21229,https://lnb.com.br/noticias/segurou-a-pressao/
+15/12/2015,Mogi,93,84,L. Sorocabana,11ª RODADA,1º TURNO,20:00,0,26-23 20-15 32-30 15-16,ok,quartos LNB,21231,https://lnb.com.br/noticias/firme-no-g-4-2/
+15/12/2015,São José,83,77,Paulistano,11ª RODADA,1º TURNO,20:00,0,19-20 18-20 26-17 20-20,ok,quartos LNB,21232,https://lnb.com.br/noticias/fim-da-invencibilidade/
+15/12/2015,Bauru,94,68,Vitória,11ª RODADA,1º TURNO,20:00,0,31-20 16-14 23-14 24-20,ok,quartos LNB,21378,https://lnb.com.br/noticias/no-topo-2/
+15/12/2015,Caxias do Sul,67,65,Rio Claro,11ª RODADA,1º TURNO,20:05,0,11-17 24-18 18-13 14-17,ok,quartos LNB,21228,https://lnb.com.br/noticias/nos-detalhes/
+17/12/2015,Paulistano,84,75,Mogi,12ª RODADA,1º TURNO,19:00,0,22-20 24-15 13-16 25-24,ok,quartos LNB,21238,https://lnb.com.br/noticias/foco-mantido/
+17/12/2015,Pinheiros,90,96,Rio Claro,12ª RODADA,1º TURNO,19:30,1,19-20 23-20 18-27 22-15 8-14,ok,quartos LNB,21234,https://lnb.com.br/noticias/ufaa/
+17/12/2015,Minas,90,81,Macaé,12ª RODADA,1º TURNO,19:30,0,21-26 19-19 21-13 29-23,ok,quartos LNB,21237,https://lnb.com.br/noticias/uniao-mineira/
+17/12/2015,Bauru,82,66,Basq. Cearense,12ª RODADA,1º TURNO,20:00,0,17-20 16-15 23-19 26-12,ok,quartos LNB,21233,https://lnb.com.br/noticias/dezena-bauruense/
+17/12/2015,São José,88,81,L. Sorocabana,12ª RODADA,1º TURNO,20:00,0,,sem_quartos,BetExplorer,21239,https://lnb.com.br/noticias/_aqui_nao_/
+17/12/2015,Franca,76,78,Vitória,12ª RODADA,1º TURNO,20:00,0,,sem_quartos,BetExplorer,21379,https://lnb.com.br/noticias/na-conta-do-espanhol/
+17/12/2015,Brasília,85,94,Flamengo,12ª RODADA,1º TURNO,21:00,0,,sem_quartos,BetExplorer,21236,https://lnb.com.br/noticias/tabu-ampliado/
+19/12/2015,Paulistano,80,77,Bauru,13ª RODADA,1º TURNO,17:20,0,,sem_quartos,BetExplorer,21241,https://lnb.com.br/noticias/de-volta-a-lideranca/
+20/12/2015,Rio Claro,67,77,Minas,13ª RODADA,1º TURNO,11:00,0,,sem_quartos,BetExplorer,21244,https://lnb.com.br/noticias/virada-a-mineira/
+20/12/2015,Vitória,74,65,Caxias do Sul,13ª RODADA,1º TURNO,11:00,0,9-7 22-21 14-21 29-16,ok,quartos LNB,21380,https://lnb.com.br/noticias/de-novo-ele/
+20/12/2015,Flamengo,94,77,São José,13ª RODADA,1º TURNO,17:00,0,23-18 28-18 21-22 22-19,ok,quartos LNB,21242,https://lnb.com.br/noticias/na-cola/
+20/12/2015,L. Sorocabana,0,20,Franca,13ª RODADA,1º TURNO,18:00,,,sem_quartos,,21240,https://lnb.com.br/noticias/nota-oficial-9/
+20/12/2015,Macaé,70,82,Mogi,13ª RODADA,1º TURNO,19:00,0,,sem_quartos,BetExplorer,21243,https://lnb.com.br/noticias/_devirada_/
+20/12/2015,Basq. Cearense,68,63,Pinheiros,13ª RODADA,1º TURNO,19:00,0,20-11 16-14 16-16 16-22,ok,quartos LNB,21246,https://lnb.com.br/noticias/de-volta-aos-trilhos-4/
+22/12/2015,Paulistano,79,84,Franca,14ª RODADA,1º TURNO,19:30,0,18-25 17-21 25-17 19-21,ok,quartos LNB,21248,https://lnb.com.br/noticias/valentia-francana/
+22/12/2015,Macaé,79,63,São José,14ª RODADA,1º TURNO,19:30,0,18-16 17-14 25-16 19-17,ok,quartos LNB,21250,https://lnb.com.br/noticias/fechou-com-vitoria-2/
+22/12/2015,L. Sorocabana,84,80,Bauru,14ª RODADA,1º TURNO,20:00,0,24-21 24-21 19-18 17-20,ok,quartos LNB,21247,https://lnb.com.br/noticias/triunfo-maiusculo/
+22/12/2015,Flamengo,79,77,Mogi,14ª RODADA,1º TURNO,20:00,0,18-17 22-17 20-19 19-24,ok,quartos LNB,21249,https://lnb.com.br/noticias/vitoria-que-vale-muito/
+22/12/2015,Rio Claro,84,69,Brasília,14ª RODADA,1º TURNO,20:00,0,27-17 21-16 25-20 11-16,ok,quartos LNB,21251,https://lnb.com.br/noticias/nao-no-meu-habitat/
+22/12/2015,Basq. Cearense,66,50,Caxias do Sul,14ª RODADA,1º TURNO,20:30,0,10-13 9-10 31-10 16-17,ok,quartos LNB,21253,https://lnb.com.br/noticias/defesa-defesa/
+22/12/2015,Vitória,78,98,Pinheiros,14ª RODADA,1º TURNO,21:00,0,18-20 21-25 19-22 20-31,ok,quartos LNB,21381,https://lnb.com.br/noticias/oxente-lucas/
+08/01/2016,Pinheiros,74,89,Caxias do Sul,15ª RODADA,1º TURNO,19:30,0,18-14 20-23 14-26 22-26,ok,quartos LNB,21255,https://lnb.com.br/noticias/grande-vitoria_/
+08/01/2016,Paulistano,84,51,L. Sorocabana,15ª RODADA,1º TURNO,19:30,0,18-13 24-8 21-10 21-20,ok,quartos LNB,21258,https://lnb.com.br/noticias/artilharia-pesada/
+08/01/2016,Franca,68,90,Bauru,15ª RODADA,1º TURNO,20:00,0,16-26 13-25 23-27 16-12,ok,quartos LNB,21254,https://lnb.com.br/noticias/so-deu-bauru/
+08/01/2016,Mogi,82,70,São José,15ª RODADA,1º TURNO,20:00,0,20-11 19-23 21-17 22-19,ok,quartos LNB,21257,https://lnb.com.br/noticias/alma-lavada/
+08/01/2016,Flamengo,96,66,Macaé,15ª RODADA,1º TURNO,20:00,0,,sem_quartos,BetExplorer,21259,https://lnb.com.br/noticias/fla-x-mac/
+08/01/2016,Vitória,60,71,Basq. Cearense,15ª RODADA,1º TURNO,21:00,0,7-27 18-11 22-19 13-14,ok,quartos LNB,21382,https://lnb.com.br/noticias/deu-ceara/
+09/01/2016,Brasília,72,59,Minas,15ª RODADA,1º TURNO,17:30,0,15-14 17-18 21-12 19-15,ok,quartos LNB,21256,https://lnb.com.br/noticias/deu-tudo-certo-4/
+12/01/2016,Minas,70,83,Pinheiros,16ª RODADA,2º TURNO,19:30,0,,sem_quartos,BetExplorer,21262,https://lnb.com.br/noticias/so-nao-fez-chover/
+12/01/2016,Brasília,90,79,Caxias do Sul,16ª RODADA,2º TURNO,20:00,0,,sem_quartos,BetExplorer,21263,https://lnb.com.br/noticias/dupla-brilhante/
+12/01/2016,São José,87,81,Vitória,16ª RODADA,2º TURNO,20:00,1,16-16 14-11 16-20 23-22 18-12,ok,quartos LNB,21383,https://lnb.com.br/noticias/foi-no-coracao/
+13/01/2016,Macaé,74,89,Franca,16ª RODADA,1º TURNO,19:30,0,,sem_quartos,BetExplorer,21264,https://lnb.com.br/noticias/de-volta-aos-trilhos-5/
+13/01/2016,L. Sorocabana,65,56,Rio Claro,16ª RODADA,2º TURNO,20:00,0,12-13 20-15 13-16 20-12,ok,quartos LNB,21266,https://lnb.com.br/noticias/pra-ganhar-moral-2/
+13/01/2016,Flamengo,85,69,Bauru,16ª RODADA,2º TURNO,21:00,0,17-17 30-13 19-17 19-22,ok,quartos LNB,21265,https://lnb.com.br/noticias/dominio-rubro-negro/
+14/01/2016,Minas,77,67,Caxias do Sul,17ª RODADA,2º TURNO,19:30,0,22-18 17-12 27-17 11-20,ok,quartos LNB,21269,https://lnb.com.br/noticias/poder-defensivo/
+14/01/2016,São José,81,90,Basq. Cearense,17ª RODADA,2º TURNO,20:00,0,18-17 16-23 27-20 20-30,ok,quartos LNB,21268,https://lnb.com.br/noticias/bola-no-toledo/
+14/01/2016,Brasília,90,70,Pinheiros,17ª RODADA,2º TURNO,20:00,0,,sem_quartos,BetExplorer,21271,https://lnb.com.br/noticias/sobrou-em-quadra/
+15/01/2016,Macaé,68,101,Bauru,17ª RODADA,2º TURNO,19:30,0,17-29 13-24 13-29 25-19,ok,quartos LNB,21272,https://lnb.com.br/noticias/rumo-certo/
+15/01/2016,Paulistano,70,73,Rio Claro,17ª RODADA,2º TURNO,19:30,0,12-20 13-16 19-17 26-20,ok,quartos LNB,21275,https://lnb.com.br/noticias/causou-2/
+16/01/2016,Flamengo,83,73,Franca,17ª RODADA,2º TURNO,17:30,0,24-20 19-14 21-19 19-20,ok,quartos LNB,21273,https://lnb.com.br/noticias/festa_completa_/
+17/01/2016,L. Sorocabana,73,93,Brasília,9ª RODADA,1º TURNO,18:00,0,23-33 20-25 19-19 11-16,ok,quartos LNB,21213,https://lnb.com.br/noticias/bem-vindo-ao-g-4/
+19/01/2016,Paulistano,75,81,Brasília,10ª RODADA,1º TURNO,19:30,0,13-24 16-12 20-29 26-16,ok,quartos LNB,21219,https://lnb.com.br/noticias/ta-dificil-de-segurar/
+20/01/2016,Rio Claro,73,91,Flamengo,19ª RODADA,2º TURNO,20:00,0,23-20 11-27 15-23 24-21,ok,quartos LNB,21285,https://lnb.com.br/noticias/maisliderdoquenunca/
+22/01/2016,Brasília,91,79,Mogi,8ª RODADA,1º TURNO,20:30,0,21-10 26-20 22-28 22-21,ok,quartos LNB,21210,https://lnb.com.br/noticias/eles-nao-param/
+23/01/2016,Rio Claro,62,61,Macaé,18ª RODADA,2º TURNO,17:30,0,13-14 17-15 15-13 17-19,ok,quartos LNB,21278,https://lnb.com.br/noticias/ufaaa/
+23/01/2016,Flamengo,69,54,L. Sorocabana,20ª RODADA,2º TURNO,18:00,0,13-9 12-12 23-18 21-15,ok,quartos LNB,21293,https://lnb.com.br/noticias/nove-e-contando/
+24/01/2016,Brasília,83,73,São José,7ª RODADA,1º TURNO,17:00,0,23-10 17-17 22-20 21-26,ok,quartos LNB,21203,https://lnb.com.br/noticias/showtime-2/
+26/01/2016,Basq. Cearense,72,69,Paulistano,18ª RODADA,2º TURNO,20:30,0,19-13 21-20 15-22 17-14,ok,quartos LNB,21276,https://lnb.com.br/noticias/voando_baixo/
+26/01/2016,Vitória,73,74,L. Sorocabana,18ª RODADA,2º TURNO,21:00,0,18-25 15-14 22-17 18-18,ok,quartos LNB,21385,https://lnb.com.br/noticias/no-sufoco-5/
+27/01/2016,Pinheiros,104,65,São José,18ª RODADA,2º TURNO,19:30,0,26-14 25-15 28-14 25-22,ok,quartos LNB,21282,https://lnb.com.br/noticias/dominio-completo/
+27/01/2016,Franca,80,79,Minas,18ª RODADA,2º TURNO,20:00,0,,sem_quartos,BetExplorer,21279,https://lnb.com.br/noticias/no-detalhe-4/
+27/01/2016,Caxias do Sul,81,89,Mogi,18ª RODADA,2º TURNO,20:05,0,20-9 11-28 26-21 24-31,ok,quartos LNB,21281,https://lnb.com.br/noticias/sprintfinal_/
+28/01/2016,Vitória,68,85,Paulistano,19ª RODADA,2º TURNO,21:00,0,22-20 13-21 25-17 8-27,ok,quartos LNB,21386,https://lnb.com.br/noticias/cabeca_no_lugar_/
+29/01/2016,Pinheiros,79,81,Mogi,19ª RODADA,2º TURNO,19:30,0,22-17 16-22 21-18 20-24,ok,quartos LNB,21289,https://lnb.com.br/noticias/no-caminho-certo-4/
+29/01/2016,Franca,71,79,Brasília,19ª RODADA,2º TURNO,20:00,0,,sem_quartos,BetExplorer,21286,https://lnb.com.br/noticias/sobrando-em-2016/
+29/01/2016,Bauru,94,81,Minas,19ª RODADA,2º TURNO,20:00,0,16-17 23-13 20-24 35-27,ok,quartos LNB,21287,https://lnb.com.br/noticias/na-cola-do-lider-3/
+29/01/2016,Caxias do Sul,65,73,São José,19ª RODADA,2º TURNO,20:05,0,12-21 24-12 11-12 18-28,ok,quartos LNB,21288,https://lnb.com.br/noticias/de-volta-aos-trilhos-6/
+30/01/2016,Basq. Cearense,88,65,L. Sorocabana,19ª RODADA,2º TURNO,17:30,0,17-16 24-18 23-13 24-18,ok,quartos LNB,21283,https://lnb.com.br/noticias/momento-historico-3/
+31/01/2016,Bauru,94,92,Brasília,18ª RODADA,2º TURNO,18:00,0,31-29 16-14 23-26 24-23,ok,quartos LNB,21280,https://lnb.com.br/noticias/sai-que-e-meu-2/
+02/02/2016,Macaé,75,84,Paulistano,20ª RODADA,2º TURNO,19:30,0,9-11 20-17 24-23 22-33,ok,quartos LNB,21292,https://lnb.com.br/noticias/sonoultimoquarto/
+02/02/2016,Rio Claro,67,63,São José,20ª RODADA,2º TURNO,20:00,0,,sem_quartos,BetExplorer,21291,https://lnb.com.br/noticias/vitoria-que-vale-muito-2/
+03/02/2016,Minas,79,83,Vitória,20ª RODADA,2º TURNO,19:30,0,19-22 16-11 23-21 21-29,ok,quartos LNB,21387,https://lnb.com.br/noticias/segura-o-trio/
+03/02/2016,Caxias do Sul,90,78,Franca,20ª RODADA,2º TURNO,20:05,0,23-18 21-24 25-17 21-19,ok,quartos LNB,21294,https://lnb.com.br/noticias/virada-nao-no-vascao/
+03/02/2016,Pinheiros,88,100,Bauru,20ª RODADA,2º TURNO,20:30,0,23-32 19-19 13-23 33-26,ok,quartos LNB,21295,https://lnb.com.br/noticias/noite-de-fischer/
+04/02/2016,Macaé,83,90,L. Sorocabana,21ª RODADA,2º TURNO,19:30,0,22-18 17-22 27-28 17-22,ok,quartos LNB,21299,https://lnb.com.br/noticias/de-olho-no-g-12/
+04/02/2016,Rio Claro,98,84,Mogi,21ª RODADA,2º TURNO,20:00,0,24-16 15-15 33-25 26-28,ok,quartos LNB,21298,https://lnb.com.br/noticias/estragou-a-festa/
+04/02/2016,Flamengo,75,65,Paulistano,21ª RODADA,2º TURNO,20:00,0,,sem_quartos,BetExplorer,21300,https://lnb.com.br/noticias/iluminado/
+05/02/2016,Pinheiros,87,91,Franca,21ª RODADA,2º TURNO,19:30,0,25-26 20-17 24-29 18-19,ok,quartos LNB,21302,https://lnb.com.br/noticias/pediu-passagem/
+05/02/2016,Minas,61,75,Basq. Cearense,21ª RODADA,2º TURNO,19:30,0,13-31 15-15 12-13 21-16,ok,quartos LNB,21303,https://lnb.com.br/noticias/nivel-g-4/
+06/02/2016,Caxias do Sul,83,84,Bauru,21ª RODADA,2º TURNO,17:30,0,23-25 6-11 26-24 28-24,ok,quartos LNB,21301,https://lnb.com.br/noticias/alta-tensao/
+12/02/2016,Mogi,84,77,Vitória,17ª RODADA,2º TURNO,19:00,0,25-15 15-23 25-16 19-23,ok,quartos LNB,21384,https://lnb.com.br/noticias/forca-do-hugao_/
+12/02/2016,Brasília,82,95,Basq. Cearense,20ª RODADA,2º TURNO,21:00,0,17-23 19-25 21-21 25-26,ok,quartos LNB,21296,https://lnb.com.br/noticias/voa-carcara/
+13/02/2016,L. Sorocabana,63,80,Pinheiros,22ª RODADA,2º TURNO,17:30,0,17-26 12-15 19-14 15-25,ok,quartos LNB,21306,https://lnb.com.br/noticias/rumo-retomado/
+14/02/2016,Mogi,78,73,Basq. Cearense,16ª RODADA,2º TURNO,17:00,0,19-21 14-17 25-15 20-20,ok,quartos LNB,21261,https://lnb.com.br/noticias/nao-no-hugao/
+14/02/2016,Brasília,81,67,Vitória,21ª RODADA,2º TURNO,18:00,0,,sem_quartos,BetExplorer,21388,https://lnb.com.br/noticias/no-rumo-certo-2/
+16/02/2016,Paulistano,87,60,Caxias do Sul,22ª RODADA,2º TURNO,19:30,0,,sem_quartos,BetExplorer,21307,https://lnb.com.br/noticias/ritmo-acelerado/
+16/02/2016,Bauru,82,69,Rio Claro,22ª RODADA,2º TURNO,20:00,0,20-27 15-14 22-15 25-13,ok,quartos LNB,21305,https://lnb.com.br/noticias/so-na-etapa-final/
+17/02/2016,Flamengo,66,67,Basq. Cearense,22ª RODADA,2º TURNO,19:30,0,14-21 18-10 17-20 17-16,ok,quartos LNB,21308,https://lnb.com.br/noticias/vitoriahistorica/
+17/02/2016,Macaé,88,79,Vitória,22ª RODADA,2º TURNO,19:30,0,21-13 19-17 17-17 31-32,ok,quartos LNB,21389,https://lnb.com.br/noticias/acabou-o-jejum/
+18/02/2016,São José,81,87,Brasília,22ª RODADA,2º TURNO,11:00,0,21-15 14-24 25-29 21-19,ok,quartos LNB,21309,https://lnb.com.br/noticias/fulvio-neles/
+18/02/2016,Pinheiros,80,84,Paulistano,23ª RODADA,2º TURNO,18:00,0,19-20 26-23 17-22 18-19,ok,quartos LNB,21314,https://lnb.com.br/noticias/isso-e-derby/
+18/02/2016,Franca,64,70,Rio Claro,23ª RODADA,2º TURNO,20:00,0,17-15 18-19 14-22 15-14,ok,quartos LNB,21311,https://lnb.com.br/noticias/um-passo-de-cada-vez/
+18/02/2016,L. Sorocabana,61,74,Caxias do Sul,23ª RODADA,2º TURNO,20:00,0,14-21 13-23 17-19 17-11,ok,quartos LNB,21313,https://lnb.com.br/noticias/pra-ganhar-moral-3/
+19/02/2016,Macaé,69,79,Basq. Cearense,23ª RODADA,2º TURNO,19:30,0,11-18 21-26 22-13 15-22,ok,quartos LNB,21315,https://lnb.com.br/noticias/pegada-mantida/
+19/02/2016,São José,59,89,Minas,23ª RODADA,2º TURNO,20:00,0,8-24 16-19 19-26 16-20,ok,quartos LNB,21316,https://lnb.com.br/noticias/devidamente-recuperado/
+20/02/2016,Flamengo,101,53,Vitória,23ª RODADA,2º TURNO,17:30,0,22-11 26-11 27-15 26-16,ok,quartos LNB,21390,https://lnb.com.br/noticias/100-lider/
+21/02/2016,Brasília,94,73,L. Sorocabana,24ª RODADA,2º TURNO,11:00,0,20-10 22-22 14-21 38-20,ok,quartos LNB,21323,https://lnb.com.br/noticias/fechou-com-propriedade/
+22/02/2016,Caxias do Sul,62,71,Basq. Cearense,29ª RODADA,2º TURNO,19:30,0,,sem_quartos,BetExplorer,21355,https://lnb.com.br/noticias/nem_ai_/
+23/02/2016,Pinheiros,92,87,Macaé,24ª RODADA,2º TURNO,19:30,2,17-18 14-11 18-18 20-22 11-11 12-7,ok,quartos LNB,21321,https://lnb.com.br/noticias/verdadeira-batalha/
+23/02/2016,São José,70,82,Franca,24ª RODADA,2º TURNO,20:00,0,20-26 16-21 16-21 18-14,ok,quartos LNB,21318,https://lnb.com.br/noticias/deitou-e-rolou/
+24/02/2016,Minas,76,82,Paulistano,24ª RODADA,2º TURNO,19:30,0,20-20 22-13 21-25 13-24,ok,quartos LNB,21322,https://lnb.com.br/noticias/eletrizante-4/
+24/02/2016,Basq. Cearense,64,67,Rio Claro,24ª RODADA,2º TURNO,19:30,0,,sem_quartos,BetExplorer,21324,https://lnb.com.br/noticias/ruge-forte-leao/
+25/02/2016,São José,60,62,Bauru,25ª RODADA,2º TURNO,20:00,0,5-12 16-13 18-19 21-18,ok,quartos LNB,21325,https://lnb.com.br/noticias/acima-das-nuvens/
+25/02/2016,Mogi,93,78,Franca,25ª RODADA,2º TURNO,20:00,0,,sem_quartos,BetExplorer,21326,https://lnb.com.br/noticias/noite-da-molecada/
+25/02/2016,Caxias do Sul,81,66,Macaé,25ª RODADA,2º TURNO,20:05,0,19-19 18-19 24-9 20-19,ok,quartos LNB,21327,https://lnb.com.br/noticias/missao-g12/
+26/02/2016,Minas,57,70,L. Sorocabana,25ª RODADA,2º TURNO,19:30,0,,sem_quartos,BetExplorer,21329,https://lnb.com.br/noticias/de-volta-aos-trilhos-7/
+26/02/2016,Vitória,67,79,Rio Claro,25ª RODADA,2º TURNO,20:00,0,,sem_quartos,BetExplorer,21392,https://lnb.com.br/noticias/voo-rio-clarense/
+27/02/2016,Mogi,85,79,Bauru,24ª RODADA,2º TURNO,17:30,0,18-17 17-23 22-23 28-16,ok,quartos LNB,21319,https://lnb.com.br/noticias/no-hugao-o-bicho-pega/
+03/03/2016,Mogi,71,64,Minas,22ª RODADA,2º TURNO,20:00,0,11-17 23-12 18-17 19-18,ok,quartos LNB,21310,https://lnb.com.br/noticias/mais-uma-no-hugao/
+03/03/2016,Vitória,96,94,Bauru,26ª RODADA,2º TURNO,20:00,1,20-23 21-20 20-15 20-23 15-13,ok,quartos LNB,21393,https://lnb.com.br/noticias/gigante-vitoria/
+04/03/2016,Pinheiros,75,81,Flamengo,25ª RODADA,2º TURNO,19:30,0,11-24 18-18 29-21 17-18,ok,quartos LNB,21328,https://lnb.com.br/noticias/teve-que-suar/
+05/03/2016,Mogi,78,75,Brasília,23ª RODADA,2º TURNO,17:30,0,16-18 16-15 19-21 27-21,ok,quartos LNB,21317,https://lnb.com.br/noticias/thats-my-house/
+06/03/2016,Caxias do Sul,80,97,Flamengo,24ª RODADA,2º TURNO,11:00,0,15-28 16-22 14-18 35-29,ok,quartos LNB,21320,https://lnb.com.br/noticias/terceira-e-contando/
+09/03/2016,Basq. Cearense,99,71,Franca,26ª RODADA,2º TURNO,19:30,0,16-11 23-14 41-24 19-22,ok,quartos LNB,21332,https://lnb.com.br/noticias/exibicao-de-gala/
+09/03/2016,Macaé,77,99,Brasília,26ª RODADA,2º TURNO,19:30,0,25-30 11-17 24-26 17-26,ok,quartos LNB,21333,https://lnb.com.br/noticias/visitante-indigesto-2/
+09/03/2016,Rio Claro,74,75,Caxias do Sul,26ª RODADA,2º TURNO,20:00,0,21-13 10-23 26-18 17-21,ok,quartos LNB,21336,https://lnb.com.br/noticias/quebrou-a-banca/
+09/03/2016,Paulistano,89,77,São José,26ª RODADA,2º TURNO,20:00,0,,sem_quartos,BetExplorer,21338,https://lnb.com.br/noticias/pensando-grande/
+11/03/2016,Macaé,60,74,Minas,27ª RODADA,2º TURNO,19:30,0,10-20 21-13 13-22 16-19,ok,quartos LNB,21340,https://lnb.com.br/noticias/noite-dos-sonhos/
+11/03/2016,Vitória,72,78,Franca,27ª RODADA,2º TURNO,20:00,0,10-14 13-25 24-17 25-22,ok,quartos LNB,21394,https://lnb.com.br/noticias/franca-nos-playoffs/
+11/03/2016,L. Sorocabana,78,66,São José,27ª RODADA,2º TURNO,20:15,0,,sem_quartos,BetExplorer,21344,https://lnb.com.br/noticias/triunfo-importantissimo/
+12/03/2016,Rio Claro,76,77,Pinheiros,27ª RODADA,2º TURNO,16:30,1,16-19 15-15 22-17 14-16 9-10,ok,quartos LNB,21343,https://lnb.com.br/noticias/embolou-de-vez/
+13/03/2016,Brasília,81,69,Paulistano,25ª RODADA,2º TURNO,11:00,0,19-10 18-24 26-16 18-19,ok,quartos LNB,21330,https://lnb.com.br/noticias/estana_briga_/
+16/03/2016,Flamengo,73,75,Brasília,27ª RODADA,2º TURNO,20:00,0,17-20 19-15 21-18 16-22,ok,quartos LNB,21341,https://lnb.com.br/noticias/fim-do-tabu/
+17/03/2016,Basq. Cearense,90,86,Bauru,27ª RODADA,2º TURNO,19:30,0,20-31 22-23 24-12 24-20,ok,quartos LNB,21339,https://lnb.com.br/noticias/segurem-eles/
+17/03/2016,Mogi,80,83,Paulistano,27ª RODADA,2º TURNO,20:00,0,16-30 24-12 19-19 21-22,ok,quartos LNB,21345,https://lnb.com.br/noticias/vitoria-gigantesca/
+23/03/2016,Franca,79,88,Paulistano,29ª RODADA,2º TURNO,18:00,0,,sem_quartos,BetExplorer,21356,https://lnb.com.br/noticias/destruidor_/
+23/03/2016,Minas,77,72,Rio Claro,28ª RODADA,2º TURNO,20:00,0,22-18 21-15 18-20 16-19,ok,quartos LNB,21346,https://lnb.com.br/noticias/bola-no-sosa/
+23/03/2016,Pinheiros,93,81,Basq. Cearense,28ª RODADA,2º TURNO,20:00,0,19-14 26-19 24-13 24-35,ok,quartos LNB,21348,https://lnb.com.br/noticias/segura-a-dupla/
+23/03/2016,São José,80,88,Flamengo,28ª RODADA,2º TURNO,20:00,0,22-20 21-23 15-29 22-16,ok,quartos LNB,21351,https://lnb.com.br/noticias/lideranca-mais-que-segura/
+23/03/2016,Mogi,88,79,Macaé,28ª RODADA,2º TURNO,20:00,0,,sem_quartos,BetExplorer,21352,https://lnb.com.br/noticias/chegandola_/
+23/03/2016,Caxias do Sul,72,76,Vitória,28ª RODADA,2º TURNO,20:05,0,26-15 7-22 20-15 19-24,ok,quartos LNB,21395,https://lnb.com.br/noticias/fundamental-3/
+23/03/2016,Bauru,90,71,L. Sorocabana,29ª RODADA,2º TURNO,20:15,0,,sem_quartos,BetExplorer,21357,https://lnb.com.br/noticias/sem-crise-2/
+25/03/2016,Franca,95,89,L. Sorocabana,28ª RODADA,2º TURNO,11:00,0,30-19 18-14 23-27 24-29,ok,quartos LNB,21349,https://lnb.com.br/noticias/mais-uma-na-conta-4/
+25/03/2016,Brasília,66,68,Rio Claro,29ª RODADA,2º TURNO,11:00,0,19-12 18-13 18-17 11-26,ok,quartos LNB,21354,https://lnb.com.br/noticias/reacao-incrivel/
+25/03/2016,Mogi,85,88,Flamengo,29ª RODADA,2º TURNO,11:00,0,12-19 23-19 27-25 23-25,ok,quartos LNB,21359,https://lnb.com.br/noticias/ritmo-de-playoff/
+25/03/2016,Pinheiros,75,60,Vitória,29ª RODADA,2º TURNO,11:00,0,26-11 12-15 20-11 17-23,ok,quartos LNB,21396,https://lnb.com.br/noticias/despertou-cedo/
+25/03/2016,São José,70,71,Macaé,29ª RODADA,2º TURNO,18:00,0,17-18 17-11 15-20 21-22,ok,quartos LNB,21358,https://lnb.com.br/noticias/travessura-macaense/
+26/03/2016,Bauru,78,63,Paulistano,28ª RODADA,2º TURNO,16:30,0,15-16 18-15 18-12 27-20,ok,quartos LNB,21350,https://lnb.com.br/noticias/e-do-bauru/
+27/03/2016,Flamengo,76,65,Minas,26ª RODADA,2º TURNO,11:00,0,22-17 15-17 23-21 16-10,ok,quartos LNB,21334,https://lnb.com.br/noticias/sem_essa_/
+27/03/2016,L. Sorocabana,82,91,Mogi,26ª RODADA,2º TURNO,18:00,0,19-19 16-29 16-14 31-29,ok,quartos LNB,21337,https://lnb.com.br/noticias/ainda-na-briga-4/
+29/03/2016,Bauru,103,78,Franca,30ª RODADA,2º TURNO,20:00,0,27-12 24-20 24-27 28-19,ok,quartos LNB,21360,https://lnb.com.br/noticias/com-chave-de-ouro-4/
+29/03/2016,Caxias do Sul,79,72,Pinheiros,30ª RODADA,2º TURNO,20:00,0,22-20 22-13 11-16 24-23,ok,quartos LNB,21361,https://lnb.com.br/noticias/caxias-nos-playoffs/
+29/03/2016,Minas,107,95,Brasília,30ª RODADA,2º TURNO,20:00,0,22-20 34-22 24-28 27-25,ok,quartos LNB,21362,https://lnb.com.br/noticias/com-tudo-para-os-playoffs/
+29/03/2016,São José,81,86,Mogi,30ª RODADA,2º TURNO,20:00,0,,sem_quartos,BetExplorer,21363,https://lnb.com.br/noticias/vamos-as-oitavas/
+29/03/2016,L. Sorocabana,65,81,Paulistano,30ª RODADA,2º TURNO,20:00,0,9-24 16-17 16-18 24-22,ok,quartos LNB,21364,https://lnb.com.br/noticias/premio-merecido/
+29/03/2016,Basq. Cearense,90,65,Vitória,30ª RODADA,2º TURNO,20:00,0,20-13 15-12 28-19 27-21,ok,quartos LNB,21397,https://lnb.com.br/noticias/viva-o-nordeste/
+29/03/2016,Macaé,62,92,Flamengo,30ª RODADA,2º TURNO,20:00,0,11-28 15-18 17-23 19-23,ok,quartos LNB,21398,https://lnb.com.br/noticias/lider-dominante/

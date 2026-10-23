@@ -1,45 +1,45 @@
-data,mandante,pts_mandante,pts_visitante,visitante,rodada,etapa,hora,prorrogacoes,quartos,status_quartos,id_lnb,link
-16/04/2013,Paulistano,95,74,Basq. Cearense,1ª RODADA,OITAVAS,19:00,0,16-17 35-7 23-30 21-20,ok,2670,https://lnb.com.br/noticias/em-grande-estilo-4/
-16/04/2013,L. Sorocabana,69,72,Franca,1ª RODADA,OITAVAS,20:00,0,16-16 13-15 18-22 22-19,ok,2655,https://lnb.com.br/noticias/passo-gigante/
-16/04/2013,Minas,70,68,São José,1ª RODADA,OITAVAS,20:00,0,10-14 26-23 16-14 18-17,ok,2665,https://lnb.com.br/noticias/minas-na-frente/
-18/04/2013,Limeira,88,74,Pinheiros,1ª RODADA,OITAVAS,20:00,0,24-16 15-16 34-15 15-27,ok,2660,https://lnb.com.br/noticias/faixa-carimbada-2/
-19/04/2013,São José,61,60,Minas,2ª RODADA,OITAVAS,19:00,0,21-20 16-14 12-17 12-9,ok,2664,https://lnb.com.br/noticias/eletrizante-2/
-19/04/2013,Franca,74,55,L. Sorocabana,2ª RODADA,OITAVAS,20:00,0,12-9 14-17 23-10 25-19,ok,2654,https://lnb.com.br/noticias/muito-perto/
-19/04/2013,Basq. Cearense,79,66,Paulistano,2ª RODADA,OITAVAS,21:30,0,22-15 20-23 21-16 16-12,ok,2669,https://lnb.com.br/noticias/tudo-igual-3/
-20/04/2013,São José,67,64,Minas,3ª RODADA,OITAVAS,18:00,0,13-23 21-11 15-15 18-15,ok,2666,https://lnb.com.br/noticias/que-virada/
-20/04/2013,Franca,72,70,L. Sorocabana,3ª RODADA,OITAVAS,19:00,0,18-17 1-18 30-10 23-25,ok,2656,https://lnb.com.br/noticias/quartas-de-final-ai-vou-eu/
-20/04/2013,Basq. Cearense,87,71,Paulistano,3ª RODADA,OITAVAS,19:00,0,15-17 33-16 12-16 27-22,ok,2671,https://lnb.com.br/noticias/em-vantagem-2/
-21/04/2013,Pinheiros,82,95,Limeira,2ª RODADA,OITAVAS,13:30,0,11-26 27-17 14-22 30-30,ok,2659,https://lnb.com.br/noticias/imponente-4/
-22/04/2013,Pinheiros,93,82,Limeira,3ª RODADA,OITAVAS,19:00,0,23-21 21-29 25-18 24-14,ok,2661,https://lnb.com.br/noticias/o-primeiro-degrau/
-22/04/2013,Minas,59,75,São José,4ª RODADA,OITAVAS,20:00,0,9-20 19-14 17-24 14-17,ok,2667,https://lnb.com.br/noticias/que-venham-as-quartas/
-23/04/2013,Paulistano,89,85,Basq. Cearense,4ª RODADA,OITAVAS,19:00,0,25-26 22-16 26-24 16-19,ok,2672,https://lnb.com.br/noticias/fatorcasa/
-24/04/2013,Limeira,85,86,Pinheiros,4ª RODADA,OITAVAS,20:00,0,20-15 23-13 20-26 22-32,ok,2662,https://lnb.com.br/noticias/e-vamos-para-o-jogo-5/
-26/04/2013,Basq. Cearense,68,69,Paulistano,5ª RODADA,OITAVAS,19:00,,,sem_quartos,2673,https://lnb.com.br/noticias/virou-e-levou/
-26/04/2013,Pinheiros,97,77,Limeira,5ª RODADA,OITAVAS,19:15,0,27-18 29-18 22-25 19-16,ok,2663,https://lnb.com.br/noticias/facanha-repetida/
-28/04/2013,Franca,72,69,Bauru,1ª RODADA,QUARTAS,13:00,0,22-21 13-16 21-16 16-16,ok,2685,https://lnb.com.br/noticias/dever-de-casa-2/
-29/04/2013,Pinheiros,67,86,Uberlândia,1ª RODADA,QUARTAS,19:00,0,27-24 7-24 11-21 22-17,ok,2680,https://lnb.com.br/noticias/quanta-autoridade/
-29/04/2013,Paulistano,91,100,Flamengo,1ª RODADA,QUARTAS,20:00,0,15-27 13-25 40-23 23-25,ok,2689,https://lnb.com.br/noticias/sem-dar-mole/
-29/04/2013,São José,90,76,Brasília,1ª RODADA,QUARTAS,21:00,0,17-24 19-19 22-18 32-15,ok,2675,https://lnb.com.br/noticias/esquentou-o-caldeirao/
-01/05/2013,Brasília,100,79,São José,2ª RODADA,QUARTAS,17:00,0,25-12 28-18 24-25 23-24,ok,2674,https://lnb.com.br/noticias/outra-historia/
-01/05/2013,Bauru,86,79,Franca,2ª RODADA,QUARTAS,19:30,0,19-21 22-18 21-21 24-19,ok,2684,https://lnb.com.br/noticias/empatou/
-02/05/2013,Uberlândia,97,103,Pinheiros,2ª RODADA,QUARTAS,20:00,2,16-28 20-18 12-15 28-15 11-11 10-16,ok,2679,https://lnb.com.br/noticias/ate-o-final-2/
-02/05/2013,Flamengo,80,76,Paulistano,2ª RODADA,QUARTAS,20:30,0,13-21 9-17 34-15 24-23,ok,2690,https://lnb.com.br/noticias/acao-e-reacao/
-03/05/2013,Bauru,87,78,Franca,3ª RODADA,QUARTAS,20:00,0,17-19 25-17 20-23 25-19,ok,2686,https://lnb.com.br/noticias/festa-em-dobro/
-03/05/2013,Brasília,91,76,São José,3ª RODADA,QUARTAS,21:00,0,30-21 16-20 27-18 18-17,ok,2676,https://lnb.com.br/noticias/bola-na-mao-dele/
-04/05/2013,Uberlândia,70,91,Pinheiros,3ª RODADA,QUARTAS,19:30,0,21-18 18-20 12-24 19-29,ok,2681,https://lnb.com.br/noticias/magic-smith/
-04/05/2013,Flamengo,84,64,Paulistano,3ª RODADA,QUARTAS,21:30,0,25-18 16-16 27-15 16-15,ok,2691,https://lnb.com.br/noticias/de-ponta-a-ponta/
-06/05/2013,Franca,70,62,Bauru,4ª RODADA,QUARTAS,19:00,0,23-2 15-23 12-24 20-13,ok,2687,https://lnb.com.br/noticias/so-na-sexta-feira/
-06/05/2013,São José,84,70,Brasília,4ª RODADA,QUARTAS,20:00,0,30-14 15-16 21-17 18-23,ok,2677,https://lnb.com.br/noticias/ferveu/
-07/05/2013,Pinheiros,76,89,Uberlândia,4ª RODADA,QUARTAS,19:30,0,23-24 15-20 18-17 20-28,ok,2682,https://lnb.com.br/noticias/serie-dos-visitantes/
-09/05/2013,Brasília,81,98,São José,5ª RODADA,QUARTAS,19:00,0,17-18 17-18 27-33 20-29,ok,2678,https://lnb.com.br/noticias/acabou-2/
-09/05/2013,Uberlândia,92,85,Pinheiros,5ª RODADA,QUARTAS,20:00,0,23-14 23-22 24-23 22-26,ok,2683,https://lnb.com.br/noticias/primeira-vez/
-10/05/2013,Bauru,78,71,Franca,5ª RODADA,QUARTAS,21:00,0,27-14 21-18 19-20 11-19,ok,2688,https://lnb.com.br/noticias/de-outro-mundo/
-13/05/2013,Bauru,75,89,Uberlândia,1ª RODADA,SEMI,19:00,0,13-19 22-23 23-26 17-21,ok,2700,https://lnb.com.br/noticias/na-experiencia/
-14/05/2013,São José,80,72,Flamengo,1ª RODADA,SEMI,19:00,0,17-20 17-13 18-22 28-17,ok,2695,https://lnb.com.br/noticias/nota-1000/
-16/05/2013,Uberlândia,93,65,Bauru,2ª RODADA,SEMI,19:30,0,23-17 22-16 31-18 17-14,ok,2699,https://lnb.com.br/noticias/a-final-e-logo-ali/
-17/05/2013,Flamengo,100,84,São José,2ª RODADA,SEMI,21:00,0,27-23 27-19 24-20 22-22,ok,2694,https://lnb.com.br/noticias/tudoigual/
-18/05/2013,Uberlândia,80,77,Bauru,3ª RODADA,SEMI,21:45,0,26-25 15-23 25-16 14-13,ok,2701,https://lnb.com.br/noticias/enfim-na-final/
-19/05/2013,Flamengo,106,86,São José,3ª RODADA,SEMI,20:00,0,26-22 22-20 31-28 27-16,ok,2696,https://lnb.com.br/noticias/no-embalo-da-torcida/
-23/05/2013,São José,96,88,Flamengo,4ª RODADA,SEMI,19:00,0,30-19 21-21 24-32 21-16,ok,2697,https://lnb.com.br/noticias/so-no-jogo-5/
-25/05/2013,Flamengo,88,76,São José,5ª RODADA,SEMI,21:45,0,23-22 16-20 30-16 19-18,ok,2698,https://lnb.com.br/noticias/38414/
-01/06/2013,Flamengo,77,70,Uberlândia,1ª RODADA,FINAL,10:00,0,21-15 12-19 25-15 19-21,ok,2707,https://lnb.com.br/noticias/flamengo-bicampeao/
+data,mandante,pts_mandante,pts_visitante,visitante,rodada,etapa,hora,prorrogacoes,quartos,status_quartos,fonte_prorrogacao,id_lnb,link
+16/04/2013,Paulistano,95,74,Basq. Cearense,1ª RODADA,OITAVAS,19:00,0,16-17 35-7 23-30 21-20,ok,quartos LNB,2670,https://lnb.com.br/noticias/em-grande-estilo-4/
+16/04/2013,L. Sorocabana,69,72,Franca,1ª RODADA,OITAVAS,20:00,0,16-16 13-15 18-22 22-19,ok,quartos LNB,2655,https://lnb.com.br/noticias/passo-gigante/
+16/04/2013,Minas,70,68,São José,1ª RODADA,OITAVAS,20:00,0,10-14 26-23 16-14 18-17,ok,quartos LNB,2665,https://lnb.com.br/noticias/minas-na-frente/
+18/04/2013,Limeira,88,74,Pinheiros,1ª RODADA,OITAVAS,20:00,0,24-16 15-16 34-15 15-27,ok,quartos LNB,2660,https://lnb.com.br/noticias/faixa-carimbada-2/
+19/04/2013,São José,61,60,Minas,2ª RODADA,OITAVAS,19:00,0,21-20 16-14 12-17 12-9,ok,quartos LNB,2664,https://lnb.com.br/noticias/eletrizante-2/
+19/04/2013,Franca,74,55,L. Sorocabana,2ª RODADA,OITAVAS,20:00,0,12-9 14-17 23-10 25-19,ok,quartos LNB,2654,https://lnb.com.br/noticias/muito-perto/
+19/04/2013,Basq. Cearense,79,66,Paulistano,2ª RODADA,OITAVAS,21:30,0,22-15 20-23 21-16 16-12,ok,quartos LNB,2669,https://lnb.com.br/noticias/tudo-igual-3/
+20/04/2013,São José,67,64,Minas,3ª RODADA,OITAVAS,18:00,0,13-23 21-11 15-15 18-15,ok,quartos LNB,2666,https://lnb.com.br/noticias/que-virada/
+20/04/2013,Franca,72,70,L. Sorocabana,3ª RODADA,OITAVAS,19:00,0,18-17 1-18 30-10 23-25,ok,quartos LNB,2656,https://lnb.com.br/noticias/quartas-de-final-ai-vou-eu/
+20/04/2013,Basq. Cearense,87,71,Paulistano,3ª RODADA,OITAVAS,19:00,0,15-17 33-16 12-16 27-22,ok,quartos LNB,2671,https://lnb.com.br/noticias/em-vantagem-2/
+21/04/2013,Pinheiros,82,95,Limeira,2ª RODADA,OITAVAS,13:30,0,11-26 27-17 14-22 30-30,ok,quartos LNB,2659,https://lnb.com.br/noticias/imponente-4/
+22/04/2013,Pinheiros,93,82,Limeira,3ª RODADA,OITAVAS,19:00,0,23-21 21-29 25-18 24-14,ok,quartos LNB,2661,https://lnb.com.br/noticias/o-primeiro-degrau/
+22/04/2013,Minas,59,75,São José,4ª RODADA,OITAVAS,20:00,0,9-20 19-14 17-24 14-17,ok,quartos LNB,2667,https://lnb.com.br/noticias/que-venham-as-quartas/
+23/04/2013,Paulistano,89,85,Basq. Cearense,4ª RODADA,OITAVAS,19:00,0,25-26 22-16 26-24 16-19,ok,quartos LNB,2672,https://lnb.com.br/noticias/fatorcasa/
+24/04/2013,Limeira,85,86,Pinheiros,4ª RODADA,OITAVAS,20:00,0,20-15 23-13 20-26 22-32,ok,quartos LNB,2662,https://lnb.com.br/noticias/e-vamos-para-o-jogo-5/
+26/04/2013,Basq. Cearense,68,69,Paulistano,5ª RODADA,OITAVAS,19:00,0,,sem_quartos,BetExplorer,2673,https://lnb.com.br/noticias/virou-e-levou/
+26/04/2013,Pinheiros,97,77,Limeira,5ª RODADA,OITAVAS,19:15,0,27-18 29-18 22-25 19-16,ok,quartos LNB,2663,https://lnb.com.br/noticias/facanha-repetida/
+28/04/2013,Franca,72,69,Bauru,1ª RODADA,QUARTAS,13:00,0,22-21 13-16 21-16 16-16,ok,quartos LNB,2685,https://lnb.com.br/noticias/dever-de-casa-2/
+29/04/2013,Pinheiros,67,86,Uberlândia,1ª RODADA,QUARTAS,19:00,0,27-24 7-24 11-21 22-17,ok,quartos LNB,2680,https://lnb.com.br/noticias/quanta-autoridade/
+29/04/2013,Paulistano,91,100,Flamengo,1ª RODADA,QUARTAS,20:00,0,15-27 13-25 40-23 23-25,ok,quartos LNB,2689,https://lnb.com.br/noticias/sem-dar-mole/
+29/04/2013,São José,90,76,Brasília,1ª RODADA,QUARTAS,21:00,0,17-24 19-19 22-18 32-15,ok,quartos LNB,2675,https://lnb.com.br/noticias/esquentou-o-caldeirao/
+01/05/2013,Brasília,100,79,São José,2ª RODADA,QUARTAS,17:00,0,25-12 28-18 24-25 23-24,ok,quartos LNB,2674,https://lnb.com.br/noticias/outra-historia/
+01/05/2013,Bauru,86,79,Franca,2ª RODADA,QUARTAS,19:30,0,19-21 22-18 21-21 24-19,ok,quartos LNB,2684,https://lnb.com.br/noticias/empatou/
+02/05/2013,Uberlândia,97,103,Pinheiros,2ª RODADA,QUARTAS,20:00,2,16-28 20-18 12-15 28-15 11-11 10-16,ok,quartos LNB,2679,https://lnb.com.br/noticias/ate-o-final-2/
+02/05/2013,Flamengo,80,76,Paulistano,2ª RODADA,QUARTAS,20:30,0,13-21 9-17 34-15 24-23,ok,quartos LNB,2690,https://lnb.com.br/noticias/acao-e-reacao/
+03/05/2013,Bauru,87,78,Franca,3ª RODADA,QUARTAS,20:00,0,17-19 25-17 20-23 25-19,ok,quartos LNB,2686,https://lnb.com.br/noticias/festa-em-dobro/
+03/05/2013,Brasília,91,76,São José,3ª RODADA,QUARTAS,21:00,0,30-21 16-20 27-18 18-17,ok,quartos LNB,2676,https://lnb.com.br/noticias/bola-na-mao-dele/
+04/05/2013,Uberlândia,70,91,Pinheiros,3ª RODADA,QUARTAS,19:30,0,21-18 18-20 12-24 19-29,ok,quartos LNB,2681,https://lnb.com.br/noticias/magic-smith/
+04/05/2013,Flamengo,84,64,Paulistano,3ª RODADA,QUARTAS,21:30,0,25-18 16-16 27-15 16-15,ok,quartos LNB,2691,https://lnb.com.br/noticias/de-ponta-a-ponta/
+06/05/2013,Franca,70,62,Bauru,4ª RODADA,QUARTAS,19:00,0,23-2 15-23 12-24 20-13,ok,quartos LNB,2687,https://lnb.com.br/noticias/so-na-sexta-feira/
+06/05/2013,São José,84,70,Brasília,4ª RODADA,QUARTAS,20:00,0,30-14 15-16 21-17 18-23,ok,quartos LNB,2677,https://lnb.com.br/noticias/ferveu/
+07/05/2013,Pinheiros,76,89,Uberlândia,4ª RODADA,QUARTAS,19:30,0,23-24 15-20 18-17 20-28,ok,quartos LNB,2682,https://lnb.com.br/noticias/serie-dos-visitantes/
+09/05/2013,Brasília,81,98,São José,5ª RODADA,QUARTAS,19:00,0,17-18 17-18 27-33 20-29,ok,quartos LNB,2678,https://lnb.com.br/noticias/acabou-2/
+09/05/2013,Uberlândia,92,85,Pinheiros,5ª RODADA,QUARTAS,20:00,0,23-14 23-22 24-23 22-26,ok,quartos LNB,2683,https://lnb.com.br/noticias/primeira-vez/
+10/05/2013,Bauru,78,71,Franca,5ª RODADA,QUARTAS,21:00,0,27-14 21-18 19-20 11-19,ok,quartos LNB,2688,https://lnb.com.br/noticias/de-outro-mundo/
+13/05/2013,Bauru,75,89,Uberlândia,1ª RODADA,SEMI,19:00,0,13-19 22-23 23-26 17-21,ok,quartos LNB,2700,https://lnb.com.br/noticias/na-experiencia/
+14/05/2013,São José,80,72,Flamengo,1ª RODADA,SEMI,19:00,0,17-20 17-13 18-22 28-17,ok,quartos LNB,2695,https://lnb.com.br/noticias/nota-1000/
+16/05/2013,Uberlândia,93,65,Bauru,2ª RODADA,SEMI,19:30,0,23-17 22-16 31-18 17-14,ok,quartos LNB,2699,https://lnb.com.br/noticias/a-final-e-logo-ali/
+17/05/2013,Flamengo,100,84,São José,2ª RODADA,SEMI,21:00,0,27-23 27-19 24-20 22-22,ok,quartos LNB,2694,https://lnb.com.br/noticias/tudoigual/
+18/05/2013,Uberlândia,80,77,Bauru,3ª RODADA,SEMI,21:45,0,26-25 15-23 25-16 14-13,ok,quartos LNB,2701,https://lnb.com.br/noticias/enfim-na-final/
+19/05/2013,Flamengo,106,86,São José,3ª RODADA,SEMI,20:00,0,26-22 22-20 31-28 27-16,ok,quartos LNB,2696,https://lnb.com.br/noticias/no-embalo-da-torcida/
+23/05/2013,São José,96,88,Flamengo,4ª RODADA,SEMI,19:00,0,30-19 21-21 24-32 21-16,ok,quartos LNB,2697,https://lnb.com.br/noticias/so-no-jogo-5/
+25/05/2013,Flamengo,88,76,São José,5ª RODADA,SEMI,21:45,0,23-22 16-20 30-16 19-18,ok,quartos LNB,2698,https://lnb.com.br/noticias/38414/
+01/06/2013,Flamengo,77,70,Uberlândia,1ª RODADA,FINAL,10:00,0,21-15 12-19 25-15 19-21,ok,quartos LNB,2707,https://lnb.com.br/noticias/flamengo-bicampeao/

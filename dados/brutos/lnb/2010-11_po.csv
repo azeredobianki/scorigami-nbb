@@ -1,45 +1,45 @@
-data,mandante,pts_mandante,pts_visitante,visitante,rodada,etapa,hora,prorrogacoes,quartos,status_quartos,id_lnb,link
-07/04/2011,Limeira,90,76,São José,1ª RODADA,OITAVAS,20:00,,,sem_quartos,459,https://lnb.com.br/noticias/limeira-x-sao-jose-07042011/
-08/04/2011,Paulistano,62,86,Bauru,1ª RODADA,OITAVAS,20:00,,,sem_quartos,304,https://lnb.com.br/noticias/paulistano-x-bauru-08042011/
-09/04/2011,Minas,83,81,Joinville,1ª RODADA,OITAVAS,12:00,,,sem_quartos,399,https://lnb.com.br/noticias/minas-x-joinville-09042011/
-10/04/2011,Araraquara,63,90,Uberlândia,1ª RODADA,OITAVAS,11:00,,,sem_quartos,447,https://lnb.com.br/noticias/araraquara-x-uberlandia-10042011/
-10/04/2011,São José,92,77,Limeira,2ª RODADA,OITAVAS,12:00,,,sem_quartos,366,https://lnb.com.br/noticias/sao-jose-x-limeira-10042011/
-11/04/2011,Bauru,90,69,Paulistano,2ª RODADA,OITAVAS,19:00,,,sem_quartos,321,https://lnb.com.br/noticias/bauru-x-paulistano-11042011/
-12/04/2011,Uberlândia,89,61,Araraquara,2ª RODADA,OITAVAS,19:00,,,sem_quartos,488,https://lnb.com.br/noticias/uberlandia-x-araraquara-12042011/
-12/04/2011,Joinville,84,77,Minas,2ª RODADA,OITAVAS,20:00,,,sem_quartos,343,https://lnb.com.br/noticias/joinville-x-minas-12042011/
-12/04/2011,São José,72,60,Limeira,3ª RODADA,OITAVAS,20:00,,,sem_quartos,365,https://lnb.com.br/noticias/sao-jose-x-limeira-12042011/
-13/04/2011,Bauru,92,66,Paulistano,3ª RODADA,OITAVAS,20:00,,,sem_quartos,322,https://lnb.com.br/noticias/bauru-x-paulistano-13042011/
-14/04/2011,Joinville,78,80,Minas,3ª RODADA,OITAVAS,20:00,,,sem_quartos,344,https://lnb.com.br/noticias/joinville-x-minas-14042011/
-14/04/2011,Uberlândia,74,65,Araraquara,3ª RODADA,OITAVAS,20:00,,,sem_quartos,489,https://lnb.com.br/noticias/uberlandia-x-araraquara-14042011/
-17/04/2011,Minas,74,85,Joinville,4ª RODADA,OITAVAS,11:00,,,sem_quartos,400,https://lnb.com.br/noticias/minas-x-joinville-17042011/
-17/04/2011,Limeira,95,84,São José,4ª RODADA,OITAVAS,12:00,,,sem_quartos,460,https://lnb.com.br/noticias/limeira-x-sao-jose-17042011/
-20/04/2011,Joinville,71,66,Minas,5ª RODADA,OITAVAS,20:00,,,sem_quartos,345,https://lnb.com.br/noticias/joinville-x-minas-20042011/
-20/04/2011,São José,81,76,Limeira,5ª RODADA,OITAVAS,20:00,,,sem_quartos,367,https://lnb.com.br/noticias/sao-jose-x-limeira-20042011/
-23/04/2011,Uberlândia,96,91,Brasília,1ª RODADA,QUARTAS,18:30,,,sem_quartos,503,https://lnb.com.br/noticias/uberlandia-x-brasilia-23042011/
-23/04/2011,Joinville,66,72,Pinheiros,1ª RODADA,QUARTAS,20:30,,,sem_quartos,311,https://lnb.com.br/noticias/joinville-x-pinheiros-23042011/
-24/04/2011,São José,79,86,Franca,1ª RODADA,QUARTAS,11:00,,,sem_quartos,296,https://lnb.com.br/noticias/sao-jose-x-franca-24042011/
-24/04/2011,Bauru,87,85,Flamengo,1ª RODADA,QUARTAS,11:00,,,sem_quartos,388,https://lnb.com.br/noticias/bauru-x-flamengo-24042011/
-26/04/2011,Franca,79,78,São José,2ª RODADA,QUARTAS,19:00,,,sem_quartos,279,https://lnb.com.br/noticias/franca-x-sao-jose-26042011/
-26/04/2011,Pinheiros,84,70,Joinville,2ª RODADA,QUARTAS,20:00,,,sem_quartos,270,https://lnb.com.br/noticias/pinheiros-x-joinville-26042011/
-26/04/2011,Flamengo,79,71,Bauru,2ª RODADA,QUARTAS,20:00,,,sem_quartos,475,https://lnb.com.br/noticias/flamengo-x-bauru-26042011/
-26/04/2011,Brasília,109,73,Uberlândia,2ª RODADA,QUARTAS,20:00,,,sem_quartos,507,https://lnb.com.br/noticias/brasilia-x-uberlandia-26042011/
-27/04/2011,Pinheiros,103,105,Joinville,3ª RODADA,QUARTAS,20:00,,,sem_quartos,271,https://lnb.com.br/noticias/pinheiros-x-joinville-27042011/
-27/04/2011,Franca,83,62,São José,3ª RODADA,QUARTAS,20:00,,,sem_quartos,280,https://lnb.com.br/noticias/franca-x-sao-jose-27042011/
-27/04/2011,Flamengo,79,73,Bauru,3ª RODADA,QUARTAS,20:00,,,sem_quartos,476,https://lnb.com.br/noticias/flamengo-x-bauru-27042011/
-27/04/2011,Brasília,84,72,Uberlândia,3ª RODADA,QUARTAS,20:00,,,sem_quartos,508,https://lnb.com.br/noticias/brasilia-x-uberlandia-27042011/
-29/04/2011,Joinville,76,71,Pinheiros,4ª RODADA,QUARTAS,20:00,,,sem_quartos,312,https://lnb.com.br/noticias/joinville-x-pinheiros-29042011/
-29/04/2011,Uberlândia,80,68,Brasília,4ª RODADA,QUARTAS,20:00,,,sem_quartos,504,https://lnb.com.br/noticias/uberlandia-x-brasilia-29042011/
-29/04/2011,Bauru,79,82,Flamengo,4ª RODADA,QUARTAS,20:30,,,sem_quartos,389,https://lnb.com.br/noticias/bauru-x-flamengo-29042011/
-01/05/2011,Pinheiros,93,82,Joinville,5ª RODADA,QUARTAS,11:00,,,sem_quartos,272,https://lnb.com.br/noticias/pinheiros-x-joinville-01052011/
-02/05/2011,Brasília,91,74,Uberlândia,5ª RODADA,QUARTAS,20:00,,,sem_quartos,509,https://lnb.com.br/noticias/brasilia-x-uberlandia-02052011/
-06/05/2011,Brasília,84,80,Pinheiros,1ª RODADA,SEMI,19:00,,,sem_quartos,480,https://lnb.com.br/noticias/brasilia-x-pinheiros-06052011/
-06/05/2011,Flamengo,69,73,Franca,1ª RODADA,SEMI,21:00,,,sem_quartos,469,https://lnb.com.br/noticias/flamengo-x-franca-06052011/
-08/05/2011,Franca,94,86,Flamengo,2ª RODADA,SEMI,18:00,,,sem_quartos,390,https://lnb.com.br/noticias/franca-x-flamengo-08052011/
-08/05/2011,Pinheiros,89,90,Brasília,2ª RODADA,SEMI,20:00,,,sem_quartos,378,https://lnb.com.br/noticias/pinheiros-x-brasilia-08052011/
-10/05/2011,Pinheiros,99,92,Brasília,3ª RODADA,SEMI,19:00,,,sem_quartos,379,https://lnb.com.br/noticias/pinheiros-x-brasilia-10052011/
-10/05/2011,Franca,91,78,Flamengo,3ª RODADA,SEMI,21:00,,,sem_quartos,391,https://lnb.com.br/noticias/franca-x-flamengo-10052011/
-13/05/2011,Brasília,99,93,Pinheiros,4ª RODADA,SEMI,21:00,,,sem_quartos,481,https://lnb.com.br/noticias/brasilia-x-pinheiros-13052011/
-19/05/2011,Brasília,92,72,Franca,1ª RODADA,FINAL,21:00,,,sem_quartos,470,https://lnb.com.br/noticias/brasilia-x-franca-19052011/
-21/05/2011,Franca,75,80,Brasília,2ª RODADA,FINAL,21:30,,,sem_quartos,380,https://lnb.com.br/noticias/franca-x-brasilia-21052011/
-22/05/2011,Franca,93,92,Brasília,3ª RODADA,FINAL,21:30,,,sem_quartos,381,https://lnb.com.br/noticias/franca-x-brasilia-22052011/
-24/05/2011,Brasília,77,68,Franca,4ª RODADA,FINAL,21:00,,,sem_quartos,471,https://lnb.com.br/noticias/brasilia-x-franca-24052011/
+data,mandante,pts_mandante,pts_visitante,visitante,rodada,etapa,hora,prorrogacoes,quartos,status_quartos,fonte_prorrogacao,id_lnb,link
+07/04/2011,Limeira,90,76,São José,1ª RODADA,OITAVAS,20:00,,,sem_quartos,,459,https://lnb.com.br/noticias/limeira-x-sao-jose-07042011/
+08/04/2011,Paulistano,62,86,Bauru,1ª RODADA,OITAVAS,20:00,0,,sem_quartos,minutos LNB,304,https://lnb.com.br/noticias/paulistano-x-bauru-08042011/
+09/04/2011,Minas,83,81,Joinville,1ª RODADA,OITAVAS,12:00,,,sem_quartos,,399,https://lnb.com.br/noticias/minas-x-joinville-09042011/
+10/04/2011,Araraquara,63,90,Uberlândia,1ª RODADA,OITAVAS,11:00,0,,sem_quartos,minutos LNB,447,https://lnb.com.br/noticias/araraquara-x-uberlandia-10042011/
+10/04/2011,São José,92,77,Limeira,2ª RODADA,OITAVAS,12:00,,,sem_quartos,,366,https://lnb.com.br/noticias/sao-jose-x-limeira-10042011/
+11/04/2011,Bauru,90,69,Paulistano,2ª RODADA,OITAVAS,19:00,0,,sem_quartos,minutos LNB,321,https://lnb.com.br/noticias/bauru-x-paulistano-11042011/
+12/04/2011,Uberlândia,89,61,Araraquara,2ª RODADA,OITAVAS,19:00,0,,sem_quartos,minutos LNB,488,https://lnb.com.br/noticias/uberlandia-x-araraquara-12042011/
+12/04/2011,Joinville,84,77,Minas,2ª RODADA,OITAVAS,20:00,0,,sem_quartos,minutos LNB,343,https://lnb.com.br/noticias/joinville-x-minas-12042011/
+12/04/2011,São José,72,60,Limeira,3ª RODADA,OITAVAS,20:00,0,,sem_quartos,minutos LNB,365,https://lnb.com.br/noticias/sao-jose-x-limeira-12042011/
+13/04/2011,Bauru,92,66,Paulistano,3ª RODADA,OITAVAS,20:00,,,sem_quartos,,322,https://lnb.com.br/noticias/bauru-x-paulistano-13042011/
+14/04/2011,Joinville,78,80,Minas,3ª RODADA,OITAVAS,20:00,0,,sem_quartos,minutos LNB,344,https://lnb.com.br/noticias/joinville-x-minas-14042011/
+14/04/2011,Uberlândia,74,65,Araraquara,3ª RODADA,OITAVAS,20:00,,,sem_quartos,,489,https://lnb.com.br/noticias/uberlandia-x-araraquara-14042011/
+17/04/2011,Minas,74,85,Joinville,4ª RODADA,OITAVAS,11:00,0,,sem_quartos,minutos LNB,400,https://lnb.com.br/noticias/minas-x-joinville-17042011/
+17/04/2011,Limeira,95,84,São José,4ª RODADA,OITAVAS,12:00,0,,sem_quartos,minutos LNB,460,https://lnb.com.br/noticias/limeira-x-sao-jose-17042011/
+20/04/2011,Joinville,71,66,Minas,5ª RODADA,OITAVAS,20:00,0,,sem_quartos,minutos LNB,345,https://lnb.com.br/noticias/joinville-x-minas-20042011/
+20/04/2011,São José,81,76,Limeira,5ª RODADA,OITAVAS,20:00,0,,sem_quartos,minutos LNB,367,https://lnb.com.br/noticias/sao-jose-x-limeira-20042011/
+23/04/2011,Uberlândia,96,91,Brasília,1ª RODADA,QUARTAS,18:30,0,,sem_quartos,minutos LNB,503,https://lnb.com.br/noticias/uberlandia-x-brasilia-23042011/
+23/04/2011,Joinville,66,72,Pinheiros,1ª RODADA,QUARTAS,20:30,,,sem_quartos,,311,https://lnb.com.br/noticias/joinville-x-pinheiros-23042011/
+24/04/2011,São José,79,86,Franca,1ª RODADA,QUARTAS,11:00,0,,sem_quartos,minutos LNB,296,https://lnb.com.br/noticias/sao-jose-x-franca-24042011/
+24/04/2011,Bauru,87,85,Flamengo,1ª RODADA,QUARTAS,11:00,0,,sem_quartos,minutos LNB,388,https://lnb.com.br/noticias/bauru-x-flamengo-24042011/
+26/04/2011,Franca,79,78,São José,2ª RODADA,QUARTAS,19:00,0,,sem_quartos,minutos LNB,279,https://lnb.com.br/noticias/franca-x-sao-jose-26042011/
+26/04/2011,Pinheiros,84,70,Joinville,2ª RODADA,QUARTAS,20:00,0,,sem_quartos,BetExplorer,270,https://lnb.com.br/noticias/pinheiros-x-joinville-26042011/
+26/04/2011,Flamengo,79,71,Bauru,2ª RODADA,QUARTAS,20:00,0,,sem_quartos,minutos LNB,475,https://lnb.com.br/noticias/flamengo-x-bauru-26042011/
+26/04/2011,Brasília,109,73,Uberlândia,2ª RODADA,QUARTAS,20:00,0,,sem_quartos,minutos LNB,507,https://lnb.com.br/noticias/brasilia-x-uberlandia-26042011/
+27/04/2011,Pinheiros,103,105,Joinville,3ª RODADA,QUARTAS,20:00,1+,,sem_quartos,BetExplorer,271,https://lnb.com.br/noticias/pinheiros-x-joinville-27042011/
+27/04/2011,Franca,83,62,São José,3ª RODADA,QUARTAS,20:00,,,sem_quartos,,280,https://lnb.com.br/noticias/franca-x-sao-jose-27042011/
+27/04/2011,Flamengo,79,73,Bauru,3ª RODADA,QUARTAS,20:00,,,sem_quartos,,476,https://lnb.com.br/noticias/flamengo-x-bauru-27042011/
+27/04/2011,Brasília,84,72,Uberlândia,3ª RODADA,QUARTAS,20:00,,,sem_quartos,,508,https://lnb.com.br/noticias/brasilia-x-uberlandia-27042011/
+29/04/2011,Joinville,76,71,Pinheiros,4ª RODADA,QUARTAS,20:00,,,sem_quartos,,312,https://lnb.com.br/noticias/joinville-x-pinheiros-29042011/
+29/04/2011,Uberlândia,80,68,Brasília,4ª RODADA,QUARTAS,20:00,0,,sem_quartos,minutos LNB,504,https://lnb.com.br/noticias/uberlandia-x-brasilia-29042011/
+29/04/2011,Bauru,79,82,Flamengo,4ª RODADA,QUARTAS,20:30,0,,sem_quartos,minutos LNB,389,https://lnb.com.br/noticias/bauru-x-flamengo-29042011/
+01/05/2011,Pinheiros,93,82,Joinville,5ª RODADA,QUARTAS,11:00,0,,sem_quartos,minutos LNB,272,https://lnb.com.br/noticias/pinheiros-x-joinville-01052011/
+02/05/2011,Brasília,91,74,Uberlândia,5ª RODADA,QUARTAS,20:00,0,,sem_quartos,minutos LNB,509,https://lnb.com.br/noticias/brasilia-x-uberlandia-02052011/
+06/05/2011,Brasília,84,80,Pinheiros,1ª RODADA,SEMI,19:00,,,sem_quartos,,480,https://lnb.com.br/noticias/brasilia-x-pinheiros-06052011/
+06/05/2011,Flamengo,69,73,Franca,1ª RODADA,SEMI,21:00,0,,sem_quartos,minutos LNB,469,https://lnb.com.br/noticias/flamengo-x-franca-06052011/
+08/05/2011,Franca,94,86,Flamengo,2ª RODADA,SEMI,18:00,0,,sem_quartos,minutos LNB,390,https://lnb.com.br/noticias/franca-x-flamengo-08052011/
+08/05/2011,Pinheiros,89,90,Brasília,2ª RODADA,SEMI,20:00,0,,sem_quartos,minutos LNB,378,https://lnb.com.br/noticias/pinheiros-x-brasilia-08052011/
+10/05/2011,Pinheiros,99,92,Brasília,3ª RODADA,SEMI,19:00,1+,,sem_quartos,BetExplorer,379,https://lnb.com.br/noticias/pinheiros-x-brasilia-10052011/
+10/05/2011,Franca,91,78,Flamengo,3ª RODADA,SEMI,21:00,0,,sem_quartos,minutos LNB,391,https://lnb.com.br/noticias/franca-x-flamengo-10052011/
+13/05/2011,Brasília,99,93,Pinheiros,4ª RODADA,SEMI,21:00,1,,sem_quartos,minutos LNB,481,https://lnb.com.br/noticias/brasilia-x-pinheiros-13052011/
+19/05/2011,Brasília,92,72,Franca,1ª RODADA,FINAL,21:00,0,,sem_quartos,minutos LNB,470,https://lnb.com.br/noticias/brasilia-x-franca-19052011/
+21/05/2011,Franca,75,80,Brasília,2ª RODADA,FINAL,21:30,,,sem_quartos,,380,https://lnb.com.br/noticias/franca-x-brasilia-21052011/
+22/05/2011,Franca,93,92,Brasília,3ª RODADA,FINAL,21:30,1+,,sem_quartos,BetExplorer,381,https://lnb.com.br/noticias/franca-x-brasilia-22052011/
+24/05/2011,Brasília,77,68,Franca,4ª RODADA,FINAL,21:00,,,sem_quartos,,471,https://lnb.com.br/noticias/brasilia-x-franca-24052011/

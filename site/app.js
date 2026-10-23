@@ -3,7 +3,7 @@ const DATA = window.__DATA;
 /* ---------- textos ---------- */
 const T = {
 pt:{nav:{home:"Grid",scorigamis:"Scorigamis",times:"Times",temporadas:"Temporadas",timelapse:"Time-lapse",confrontos:"Confrontos",sobre:"Sobre",ajuste:"Solicitar ajuste"},
- notice:"Prévia com a base completa: {n} jogos em {s} temporadas, da LNB, conferidos com o BetExplorer. A prorrogação só é conhecida a partir de 2012-13, porque a LNB não publica placar por quarto antes disso (— = sem dado).",
+ notice:"Prévia com a base completa: {n} jogos em {s} temporadas, da LNB, conferidos com o BetExplorer. A prorrogação vem dos quartos e do box score da LNB e do BetExplorer; — indica jogo sem essa informação.",
  theme:{light:"Tema: claro",dark:"Tema: escuro"},
  f:{fase:"Fase",times:"Times",eras:"Eras",temps:"Temporadas",cor:"Cor das casas",modo:"Eixos",all:"Todas",allm:"Todos",search:"Buscar",clear:"Limpar",sel:"{n} selecionados",reset:"Limpar filtros"},
  phase:["Temporada regular","Playoffs"], phaseShort:["Regular","Playoffs"],
@@ -24,7 +24,7 @@ pt:{nav:{home:"Grid",scorigamis:"Scorigamis",times:"Times",temporadas:"Temporada
  foot:["Scorigami NBB · prévia","Dados: LNB (lnb.com.br) · conferência: BetExplorer"],
  none:"Nenhum jogo com esses filtros.",yes:"sim",ot:"prorr."},
 en:{nav:{home:"Grid",scorigamis:"Scorigamis",times:"Teams",temporadas:"Seasons",timelapse:"Time-lapse",confrontos:"Head-to-head",sobre:"About",ajuste:"Report an error"},
- notice:"Preview with the full dataset: {n} games over {s} seasons from the LNB, checked against BetExplorer. Overtime is known only from 2012-13 on, since the LNB has no quarter scores before that (— = no data).",
+ notice:"Preview with the full dataset: {n} games over {s} seasons from the LNB, checked against BetExplorer. Overtime comes from LNB quarter scores and box scores and from BetExplorer; — marks games without that information.",
  theme:{light:"Theme: light",dark:"Theme: dark"},
  f:{fase:"Phase",times:"Teams",eras:"Eras",temps:"Seasons",cor:"Cell color",modo:"Axes",all:"All",allm:"All",search:"Search",clear:"Clear",sel:"{n} selected",reset:"Clear filters"},
  phase:["Regular season","Playoffs"], phaseShort:["Regular","Playoffs"],
@@ -45,7 +45,7 @@ en:{nav:{home:"Grid",scorigamis:"Scorigamis",times:"Teams",temporadas:"Seasons",
  foot:["Scorigami NBB · preview","Data: LNB (lnb.com.br) · check: BetExplorer"],
  none:"No games with these filters.",yes:"yes",ot:"OT"},
 es:{nav:{home:"Grid",scorigamis:"Scorigamis",times:"Equipos",temporadas:"Temporadas",timelapse:"Time-lapse",confrontos:"Enfrentamientos",sobre:"Acerca de",ajuste:"Reportar error"},
- notice:"Vista previa con la base completa: {n} partidos en {s} temporadas, de la LNB, cotejados con BetExplorer. La prórroga solo se conoce desde 2012-13, porque la LNB no publica marcadores por cuarto antes (— = sin dato).",
+ notice:"Vista previa con la base completa: {n} partidos en {s} temporadas, de la LNB, cotejados con BetExplorer. La prórroga viene de los cuartos y el box score de la LNB y de BetExplorer; — indica partido sin esa información.",
  theme:{light:"Tema: claro",dark:"Tema: oscuro"},
  f:{fase:"Fase",times:"Equipos",eras:"Eras",temps:"Temporadas",cor:"Color de las casillas",modo:"Ejes",all:"Todas",allm:"Todos",search:"Buscar",clear:"Limpiar",sel:"{n} seleccionados",reset:"Limpiar filtros"},
  phase:["Temporada regular","Playoffs"], phaseShort:["Regular","Playoffs"],
@@ -77,7 +77,7 @@ pt:`<p><b>Scorigami</b> é um placar final que nunca tinha acontecido antes. A i
 <li>Eras: 2008-09 a 2012-13, 2013-14 a 2017-18, 2018-19 a 2022-23, e 2023-24 em diante.</li></ul>
 <h2>Fontes</h2><ul>
 <li>Fonte principal: tabela de jogos da <a href="https://lnb.com.br/nbb/tabela-de-jogos/" target="_blank" rel="noopener">LNB</a>.</li>
-<li>Segunda fonte para conferência: BetExplorer. Nas divergências, as páginas das temporadas na Wikipédia em português serviram de desempate. Um relatório por temporada lista as diferenças.</li><li>Prorrogação: lida do placar por quarto de cada partida na LNB, disponível a partir de 2012-13.</li>
+<li>Segunda fonte para conferência: BetExplorer. Nas divergências, as páginas das temporadas na Wikipédia em português serviram de desempate. Um relatório por temporada lista as diferenças.</li><li>Prorrogação: lida do placar por quarto da LNB, dos minutos do box score ou da página da partida no BetExplorer. Menos de 100 jogos, quase todos de 2008-09 e 2010-11, ficam sem essa informação.</li>
 <li>Achou um erro? Use <a href="#ajuste">Solicitar ajuste</a>.</li></ul>`,
 en:`<p>A <b>scorigami</b> is a final score that had never happened before. The idea came from American football and became <a href="https://www.scorigaminba.com/" target="_blank" rel="noopener">NBA Scorigami</a>. This site does the same for the NBB, Brazil's top basketball league.</p>
 <h2>Rules</h2><ul>
@@ -89,7 +89,7 @@ en:`<p>A <b>scorigami</b> is a final score that had never happened before. The i
 <li>Eras: 2008-09 to 2012-13, 2013-14 to 2017-18, 2018-19 to 2022-23, and 2023-24 onward.</li></ul>
 <h2>Sources</h2><ul>
 <li>Main source: the <a href="https://lnb.com.br/nbb/tabela-de-jogos/" target="_blank" rel="noopener">LNB</a> schedule.</li>
-<li>Second source for checking: BetExplorer, with Portuguese Wikipedia season pages as a tiebreaker. A per-season report lists the differences.</li><li>Overtime: read from the LNB quarter scores of each game, available from 2012-13 on.</li>
+<li>Second source for checking: BetExplorer, with Portuguese Wikipedia season pages as a tiebreaker. A per-season report lists the differences.</li><li>Overtime: read from LNB quarter scores, box score minutes or the BetExplorer match page. Fewer than 100 games, mostly from 2008-09 and 2010-11, lack it.</li>
 <li>Found an error? Use <a href="#ajuste">Report an error</a>.</li></ul>`,
 es:`<p>Un <b>scorigami</b> es un marcador final que nunca había ocurrido. La idea nació en el fútbol americano y se convirtió en <a href="https://www.scorigaminba.com/" target="_blank" rel="noopener">NBA Scorigami</a>. Este sitio hace lo mismo con el NBB, la liga brasileña.</p>
 <h2>Reglas</h2><ul>
@@ -101,7 +101,7 @@ es:`<p>Un <b>scorigami</b> es un marcador final que nunca había ocurrido. La id
 <li>Eras: 2008-09 a 2012-13, 2013-14 a 2017-18, 2018-19 a 2022-23, y 2023-24 en adelante.</li></ul>
 <h2>Fuentes</h2><ul>
 <li>Fuente principal: la tabla de partidos de la <a href="https://lnb.com.br/nbb/tabela-de-jogos/" target="_blank" rel="noopener">LNB</a>.</li>
-<li>Segunda fuente de cotejo: BetExplorer, con la Wikipedia en portugués como desempate.</li><li>Prórroga: leída de los marcadores por cuarto de la LNB, disponible desde 2012-13.</li>
+<li>Segunda fuente de cotejo: BetExplorer, con la Wikipedia en portugués como desempate.</li><li>Prórroga: leída de los cuartos de la LNB, de los minutos del box score o de la página del partido en BetExplorer. Menos de 100 partidos, casi todos de 2008-09 y 2010-11, no la tienen.</li>
 <li>¿Encontraste un error? Usa <a href="#ajuste">Reportar error</a>.</li></ul>`};
 
 /* ---------- dados ---------- */
