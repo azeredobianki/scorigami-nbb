@@ -26,8 +26,7 @@ Ver o site localmente: `cd site && python3 -m http.server`, depois abrir http://
 
 ## Publicação
 
-O workflow `.github/workflows/pages.yml` publica `site/` no GitHub Pages a cada push na `main`.
-Para ativar, vá em Settings → Pages → Source e escolha "GitHub Actions".
+O site fica na Cloudflare, em [scorigaminbb.azeredo.app](https://scorigaminbb.azeredo.app), e é publicado a cada push na `main`.
 
 ## Regras
 
