@@ -161,7 +161,7 @@ const DATA = /*__DATA__*/null;
 const T = {
 pt:{nav:{home:"Grid",scorigamis:"Scorigamis",times:"Times",temporadas:"Temporadas",timelapse:"Time-lapse",confrontos:"Confrontos",sobre:"Sobre",ajuste:"Solicitar ajuste"},
  notice:"Prévia com a base completa: {n} jogos em {s} temporadas, da LNB, conferidos com o BetExplorer. A prorrogação só é conhecida a partir de 2012-13, porque a LNB não publica placar por quarto antes disso (— = sem dado).",
- theme:{auto:"Tema: auto",light:"Tema: claro",dark:"Tema: escuro"},
+ theme:{light:"Tema: claro",dark:"Tema: escuro"},
  f:{fase:"Fase",times:"Times",eras:"Eras",temps:"Temporadas",cor:"Cor das casas",modo:"Eixos",all:"Todas",allm:"Todos",search:"Buscar",clear:"Limpar",sel:"{n} selecionados",reset:"Limpar filtros"},
  phase:["Temporada regular","Playoffs"], phaseShort:["Regular","Playoffs"],
  cor:{freq:"Frequência",first:"Primeira vez"}, modo:{wl:"Vencedor × perdedor",ha:"Mandante × visitante"},
@@ -182,7 +182,7 @@ pt:{nav:{home:"Grid",scorigamis:"Scorigamis",times:"Times",temporadas:"Temporada
  none:"Nenhum jogo com esses filtros.",yes:"sim",ot:"prorr."},
 en:{nav:{home:"Grid",scorigamis:"Scorigamis",times:"Teams",temporadas:"Seasons",timelapse:"Time-lapse",confrontos:"Head-to-head",sobre:"About",ajuste:"Report an error"},
  notice:"Preview with the full dataset: {n} games over {s} seasons from the LNB, checked against BetExplorer. Overtime is known only from 2012-13 on, since the LNB has no quarter scores before that (— = no data).",
- theme:{auto:"Theme: auto",light:"Theme: light",dark:"Theme: dark"},
+ theme:{light:"Theme: light",dark:"Theme: dark"},
  f:{fase:"Phase",times:"Teams",eras:"Eras",temps:"Seasons",cor:"Cell color",modo:"Axes",all:"All",allm:"All",search:"Search",clear:"Clear",sel:"{n} selected",reset:"Clear filters"},
  phase:["Regular season","Playoffs"], phaseShort:["Regular","Playoffs"],
  cor:{freq:"Frequency",first:"First time"}, modo:{wl:"Winner × loser",ha:"Home × away"},
@@ -203,7 +203,7 @@ en:{nav:{home:"Grid",scorigamis:"Scorigamis",times:"Teams",temporadas:"Seasons",
  none:"No games with these filters.",yes:"yes",ot:"OT"},
 es:{nav:{home:"Grid",scorigamis:"Scorigamis",times:"Equipos",temporadas:"Temporadas",timelapse:"Time-lapse",confrontos:"Enfrentamientos",sobre:"Acerca de",ajuste:"Reportar error"},
  notice:"Vista previa con la base completa: {n} partidos en {s} temporadas, de la LNB, cotejados con BetExplorer. La prórroga solo se conoce desde 2012-13, porque la LNB no publica marcadores por cuarto antes (— = sin dato).",
- theme:{auto:"Tema: auto",light:"Tema: claro",dark:"Tema: oscuro"},
+ theme:{light:"Tema: claro",dark:"Tema: oscuro"},
  f:{fase:"Fase",times:"Equipos",eras:"Eras",temps:"Temporadas",cor:"Color de las casillas",modo:"Ejes",all:"Todas",allm:"Todos",search:"Buscar",clear:"Limpiar",sel:"{n} seleccionados",reset:"Limpiar filtros"},
  phase:["Temporada regular","Playoffs"], phaseShort:["Regular","Playoffs"],
  cor:{freq:"Frecuencia",first:"Primera vez"}, modo:{wl:"Ganador × perdedor",ha:"Local × visitante"},
@@ -277,6 +277,7 @@ const eraLabel = e => e.to>2090 ? `${e.from}-${String(e.from+1).slice(2)} →` :
 /* ---------- estado ---------- */
 const S = {route:"home",args:[],f:{fase:[],times:[],eras:[],temps:[]},cor:"freq",modo:"wl",mando:"any",lang:"pt",theme:"auto"};
 try{ S.lang = localStorage.getItem("sgnbb-lang") || S.lang; S.theme = localStorage.getItem("sgnbb-theme") || S.theme; }catch(e){}
+if(S.theme!=="light"&&S.theme!=="dark") S.theme = matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light";
 const t = (path, vars={}) => { let v = path.split(".").reduce((o,k)=>o?.[k], T[S.lang]); if(typeof v!=="string") return v; return v.replace(/\{(\w+)\}/g,(_,k)=>vars[k]??""); };
 const LOC = () => S.lang==="pt"?"pt-BR":S.lang==="es"?"es-ES":"en-US";
 const fmtDate = d => new Date(d+"T12:00:00").toLocaleDateString(S.lang==="pt"?"pt-BR":S.lang==="es"?"es-ES":"en-US",{day:"2-digit",month:"short",year:"numeric"});
@@ -469,7 +470,7 @@ V.placar = () => {
 function teamStats(gs,ti){ let w=0,l=0; const mine=gs.filter(g=>g.h===ti||g.a===ti); mine.forEach(g=>g.w===ti?w++:l++); return {mine,w,l}; }
 V.times = () => {
   const gs=filtered({ignoreTeams:true}); const sg=scorigamis(gs);
-  const rows=TEAMS.map((n,i)=>({i,n,...teamStats(gs,i),sg:sg.filter(g=>g.h===i||g.a===i).length})).filter(r=>r.mine.length).sort((a,b)=>b.mine.length-a.mine.length||a.n.localeCompare(b.n));
+  const rows=TEAMS.map((n,i)=>({i,n,...teamStats(gs,i),sg:sg.filter(g=>g.h===i||g.a===i).length})).filter(r=>r.mine.length&&(!S.f.times.length||S.f.times.includes(r.i))).sort((a,b)=>b.mine.length-a.mine.length||a.n.localeCompare(b.n));
   return {html:`<div class="head"><div><h1>${t("teams.h")}</h1><p class="sub">${t("teams.sub")}</p></div></div><div class="cards">${rows.map(r=>`<a class="card" href="${href("time",[TSLUG[r.i]])}"><span class="t">${esc(r.n)}</span><span class="meta">${t("teams.games",{n:r.mine.length})} · ${t("teams.rec",{w:r.w,l:r.l})}</span><span class="meta">${t("sg.count",{n:r.sg})}</span></a>`).join("")||`<p class="empty">${t("none")}</p>`}</div>`};
 };
 V.time = () => {
@@ -567,10 +568,10 @@ function renderShell(){
   document.getElementById("notice").textContent=t("notice",{n:G.length.toLocaleString(LOC()),s:DATA_SEASONS.size});
   const ft=T[S.lang].foot; document.getElementById("foot1").textContent=ft[0]; document.getElementById("foot2").textContent=ft[1];
 }
-function applyTheme(){ if(S.theme==="auto") document.documentElement.removeAttribute("data-theme"); else document.documentElement.setAttribute("data-theme",S.theme); readColors(); }
+function applyTheme(){ document.documentElement.setAttribute("data-theme",S.theme); readColors(); }
 function route(){ stopTL(); readHash(); renderShell(); renderNav(); renderFilters(); renderView(); window.scrollTo(0,0); }
 document.getElementById("lang").addEventListener("change",e=>{ S.lang=e.target.value; try{localStorage.setItem("sgnbb-lang",S.lang);}catch(_){} setHash(); renderShell(); renderNav(); renderFilters(); renderView(); });
-document.getElementById("theme").addEventListener("click",()=>{ S.theme={auto:"light",light:"dark",dark:"auto"}[S.theme]; try{localStorage.setItem("sgnbb-theme",S.theme);}catch(_){} applyTheme(); renderShell(); renderView(); });
+document.getElementById("theme").addEventListener("click",()=>{ S.theme=S.theme==="dark"?"light":"dark"; try{localStorage.setItem("sgnbb-theme",S.theme);}catch(_){} applyTheme(); renderShell(); renderView(); });
 matchMedia("(prefers-color-scheme: dark)").addEventListener("change",()=>{ readColors(); renderView(); });
 window.addEventListener("hashchange",route);
 let RW=innerWidth, RT; window.addEventListener("resize",()=>{ clearTimeout(RT); RT=setTimeout(()=>{ if(Math.abs(innerWidth-RW)>40 && S.route!=="timelapse"){ RW=innerWidth; renderView(); } },200); });
